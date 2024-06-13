@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="./sigidoc-chained.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="./sigidoc-chained.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <seg xml:lang="en" part="N">Seal of Marinos or Marianos, count of the Private Largesses</seg>
+               <seg xml:lang="fr" part="N">Sceau de Marinos ou Marianos, comte des Largesses Privées</seg>
+            </title>
+            <editor role="seal-editor" xml:id="JC">Jean-Claude
+                        Cheynet</editor>
+            <editor role="seal-editor" xml:id="CM">Cécile
+                        Morrisson</editor>
+            <editor role="seal-editor" xml:id="WS">Werner
+                        Seibt</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <seg xml:lang="en" part="N">Digital conversion</seg>
+            </edition>
+            <editor role="digital-editor" xml:id="NB">Numa
+                        Buchs</editor>
+         </editionStmt>
+         <publicationStmt>
+            <authority/>
+            <idno type="filename">Seyrig_90</idno>
+            <idno type="SigiDocID">s-sSOTHY</idno>
+            <idno type="sequence"/>
+            <date instant="false"/>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <listPerson type="issuer" default="false">
+               <person role="civil" gender="" instant="false">
+                  <persName xml:lang="grc" instant="false" full="yes">
+                     <forename full="yes">Μαρίνος/</forename>
+                  </persName>
+                  <persName xml:lang="grc" instant="false" full="yes">
+                     <forename full="yes">Μαριανός</forename>
+                  </persName>
+                  <persName xml:lang="en" instant="false" full="yes">
+                     <forename full="yes">Marinos/</forename>
+                  </persName>
+                  <persName xml:lang="en" instant="false" full="yes">
+                     <forename full="yes">Marianos</forename>
+                  </persName>
+                  <persName xml:lang="fr" instant="false" full="yes">
+                     <forename full="yes">Marinos/</forename>
+                  </persName>
+                  <persName xml:lang="fr" instant="false" full="yes">
+                     <forename full="yes">Marianos</forename>
+                  </persName>
+               </person>
+            </listPerson>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <country>
+                     <seg xml:lang="en" part="N">France</seg>
+                     <seg xml:lang="fr" part="N">France</seg>
+                  </country>
+                  <settlement>
+                     <seg xml:lang="en" part="N">Paris</seg>
+                     <seg xml:lang="fr" part="N">Paris</seg>
+                  </settlement>
+                  <institution>Bibliothèque Nationale de France</institution>
+                  <repository>Département des Monnaies, médailles et antiques</repository>
+                  <collection type="private">
+                     <rs xml:lang="en">Henri Seyrig Collection</rs>
+                     <rs xml:lang="fr">Collection Henri Seyrig</rs>
+                  </collection>
+                  <idno type="inv-nr-current">951</idno>
+                  <altIdentifier xml:lang="en">
+                     <repository/>
+                     <idno type="inv-nr-former"/>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary n="whole">
+                     <seg xml:lang="en" part="N">Central administration</seg>
+                     <seg xml:lang="fr" part="N">Administration centrale</seg>
+                  </summary>
+                  <textLang n="" mainLang="grc-Latn">
+                     <seg xml:lang="en" part="N">Byzantine Greek in Latin script</seg>
+                     <seg xml:lang="fr" part="N">Grec byzantin en alphabet latin</seg>
+                  </textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>
+                              <term>
+                                 <seg xml:lang="en" part="N">Seal</seg>
+                                 <seg xml:lang="fr" part="N">Sceau</seg>
+                              </term>
+                              <interp type="workType" xml:lang="en">Original impression</interp>
+                              <interp type="workType" xml:lang="fr">Empreinte originale</interp>
+                           </objectType>
+                           <material>
+                              <seg xml:lang="en" part="N">Lead</seg>
+                              <seg xml:lang="fr" part="N">Plomb</seg>
+                           </material>
+                           <dimensions type="support" unit="mm">
+                              <dim type="diameter">25</dim>
+                           </dimensions>
+                           <measure type="weight" unit="g"/>
+                           <measure type="axis" unit="clock"/>
+                           <measure type="overstrikeOrient" unit="clock"/>
+                           <measure type="channelOrient" unit="clock"/>
+                        </support>
+                        <condition rend="notCentered">
+                           <p part="N">Décentré vers la gauche ; échancré aux orifices du canal ; en voie d’oxydation au revers ; lettres nettement gravées.</p>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout n="whole">
+                           <rs type="execution">
+                              <seg xml:lang="en" part="N">Struck</seg>
+                              <seg xml:lang="fr" part="N">Frappé</seg>
+                           </rs>
+                           <rs type="shape">
+                              <seg xml:lang="en" part="N">Round</seg>
+                              <seg xml:lang="fr" part="N">Ronde</seg>
+                           </rs>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <decoNote>
+                        <figure>
+                                </figure>
+                     </decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <origin instant="false">
+                     <origPlace instant="false">
+                        <seg xml:lang="en" part="N">
+                           <placeName instant="false" full="yes">Byzantine Empire</placeName>
+                        </seg>
+                        <seg xml:lang="fr" part="N">
+                           <placeName instant="false" full="yes">Empire byzantin</placeName>
+                        </seg>
+                     </origPlace>
+                     <origDate type="analysis"
+                               notBefore="0501"
+                               notAfter="0600"
+                               evidence="lettering titulature iconography"
+                               cert="high"
+                               instant="false">
+                        <seg xml:lang="en" part="N">6th C.</seg>
+                        <seg xml:lang="fr" part="N">VIe s.</seg>
+                     </origDate>
+                  </origin>
+                  <acquisition>
+                     <p xml:lang="en" part="N"/>
+                     <p xml:lang="fr" part="N"/>
+                  </acquisition>
+               </history>
+               <msPart n="r">
+                  <msIdentifier>
+                        </msIdentifier>
+                  <msContents>
+                     <summary n="r">
+                        <seg xml:lang="en" part="N">Obverse</seg>
+                     </summary>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <layoutDesc>
+                           <layout n="r">
+                              <dimensions type="written" unit="mm">
+                                 <dim type="diameter">20</dim>
+                              </dimensions>
+                              <rs type="matrix" subtype="not-surviving">m-Vujb1Y-r</rs>
+                              <p xml:lang="en" part="N">Monogram built around an<!-- M-->.</p>
+                              <p xml:lang="fr" part="N">Monogramme construit autour d'un <!--M-->.</p>
+                           </layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote n="r">
+                                </handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>
+                           <figure>
+                              <figDesc ana="" n="r"/>
+                              <figDesc ana="" n="decoR">Cercle de grènetis.</figDesc>
+                           </figure>
+                        </decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin instant="false">
+                        <date instant="false"/>
+                     </origin>
+                  </history>
+               </msPart>
+               <msPart n="v">
+                  <msIdentifier>
+                        </msIdentifier>
+                  <msContents>
+                     <summary n="v">
+                        <seg xml:lang="en" part="N">Reverse</seg>
+                     </summary>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <layoutDesc>
+                           <layout n="v">
+                              <dimensions type="written" unit="mm">
+                                 <dim type="diameter">20</dim>
+                              </dimensions>
+                              <rs type="matrix" subtype="not-surviving">m-Vujb1Y-v</rs>
+                              <p xml:lang="en" part="N">Legend of 3 lines. </p>
+                              <p xml:lang="fr" part="N">Légende sur3 lignes.</p>
+                           </layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote n="v">
+                                </handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>
+                           <figure>
+                              <figDesc ana="" n="v"/>
+                              <figDesc ana="" n="decoV">Cercle de grènetis.</figDesc>
+                           </figure>
+                        </decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin instant="false">
+                        <date instant="false"/>
+                     </origin>
+                  </history>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl default="false">
+            <p part="N"/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <change when="2023-02-14" who="#AS" status="draft">Revision of edition and translation.</change>
+         <change when="2022-12-06" who="#NB" status="draft">Bibliography added</change>
+         <change when="2022-07-20" who="#NB" status="draft">Creation of the XML record; metadata and leidenisation</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <surface n="v">
+         <desc>Obverse</desc>
+         <graphic url="">
+            <desc xml:lang="en"/>
+            <desc xml:lang="fr"/>
+         </graphic>
+      </surface>
+      <surface n="r">
+         <desc>Reverse</desc>
+         <graphic url="">
+            <desc xml:lang="en">/desc&gt;
+                      <desc xml:lang="fr"/>
+            </desc>
+         </graphic>
+      </surface>
+   </facsimile>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc-Latn" part="N" org="uniform" sample="complete">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N" org="uniform" sample="complete" xml:lang="">
+                      
+                      <ab part="N"> 
+                          <lb n="1"/> <app type="alternative">
+                                                  <lem><expan instant="false"><ex instant="false">Marianou</ex></expan></lem>
+                                                  <rdg><expan instant="false"><ex instant="false">Marinou</ex></expan></rdg>
+                                              </app> 
+                      </ab>
+                      
+                  </div>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                      <ab part="N">
+                                  <lb n="2"/><expan instant="false"><abbr>com
+                          <lb n="3" break="no"/>ito</abbr><ex instant="false">s</ex></expan> <expan instant="false"><abbr>th</abbr><ex instant="false">eion</ex></expan>
+                          <lb n="4"/><expan instant="false"><abbr>prib</abbr><ex instant="false">aton</ex></expan>
+                       
+      
+                          
+
+                               </ab>
+                  </div>
+                  </div>
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N" org="uniform" sample="complete" xml:lang="">
+                      <ab part="N">
+                      </ab>
+                  </div>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                      <ab part="N">
+                      </ab>
+                  </div>
+              </div>
+         <div type="apparatus" part="N" org="uniform" sample="complete">
+            <listApp default="false">
+               <app>
+                  <note xml:lang="en" anchored="true">None.</note>
+                  <note xml:lang="fr" anchored="true">Aucun.</note>
+               </app>
+            </listApp>
+         </div>
+         <div type="translation" part="N" org="uniform" sample="complete">
+            <p part="N">Marianos <hi rend="italic">vel</hi> Marinos / comitos theion pribaton.</p>
+            <p xml:lang="en" part="N">Marianos <hi rend="italic">or</hi> Marinos, count of the Private Largesses.</p>
+            <p xml:lang="fr" part="N">Marianos <hi rend="italic">ou</hi> Marino, comte des Largesses Privées.</p>
+         </div>
+         <div type="commentary"
+              subtype="text"
+              part="N"
+              org="uniform"
+              sample="complete">
+            <p part="N"><!--Un monogramme semblable à celui du droit de notre pièce figure au revers
+                      du sceau bilingue de Jean et Marianus [1]. Un monogramme très proche
+                      se trouve sur un autre type de l’ancienne collection Schlumberger (photo à Vienne), avec au
+                      revers: <!-\-€ - PAR - V -\->(<hi rend="italic">eparchu</hi>?), suivi d’un ornement en forme d’ oe renversé.
+                      Le Comte des Largesses Privées (CRP) et le Comte des Largesses Sacrées (CSL) étaient,
+                      à l’époque protobyzantine, les principaux responsables des finances impériales [2]. Sur Marinus (ou Marianus) [3]. L’activité d’un CSL du même nom est attestée sous le règne de
+                      Maurice en raison de la présence de son monogramme - de type cruciforme - sur deux pièces
+                      d’argenterie avec l’estampille de cet empereur [4]. Les deux personnages sont à distinguer,
+                      puisque le passage de la charge de CRP à celle de CSL n’est plus pratiqué à cette date.--></p>
+         </div>
+         <div type="commentary"
+              subtype="footnotes"
+              part="N"
+              org="uniform"
+              sample="complete">
+            <p xml:id="footnote-1" part="N">
+                   <!--   [1]. ZACOS - VEGLERY, 2801.-->
+                  </p>
+            <p xml:id="footnote-2" part="N">
+                    <!--  [2]. Voir en dernier
+                      lieu, DELMAIRE, <hi rend="italic">Largesses Sacrées</hi>.-->
+                  </p>
+            <p xml:id="footnote-3" part="N">
+                    <!--  [3]. IDEM, Les responsables
+                      des finances impériales au Bas-Empire romain (IVe-VIe s.), <hi rend="italic">Études prosopographiques</hi>, Bruxelles,
+                      1989, p. 287, notice 192.-->
+                  </p>
+            <p xml:id="footnote-4" part="N">
+                    <!--  [4]. Erica CRUIKSHANK DODD, Byzantine Silver
+                      Stamps: Supplément II, <hi rend="italic">DOP</hi> 22, 1968, p. 145-146.-->
+                  </p>
+         </div>
+         <div type="bibliography"
+              subtype="edition"
+              part="N"
+              org="uniform"
+              sample="complete">
+            <p part="N">
+                      Bibliothèque Nationale de France, Paris,
+                      <bibl default="false" status="draft">
+                  <ptr target="Seyrig"/>, <citedRange>90</citedRange>
+               </bibl>.
+                  </p>
+         </div>
+         <div type="bibliography"
+              subtype="discussionParallels"
+              part="N"
+              org="uniform"
+              sample="complete">
+            <p part="N">
+               <bibl default="false" status="draft">
+                  <ptr target=""/>, <citedRange unit="page">p. 434, n° 48</citedRange>
+               </bibl>,</p>
+            <!--Morrisson Seyrig-->
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="./sigidoc-chained.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="./sigidoc-chained.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="en">Seal of an undetermined emperor</title>
+            <title xml:lang="fr">Sceau d'un empereur non identifié</title>
+            <editor role="seal-editor" xml:id="JC">Jean-Claude
+                        Cheynet</editor>
+            <editor role="seal-editor" xml:id="CM">Cécile
+                        Morrisson</editor>
+            <editor role="seal-editor" xml:id="WS">Werner
+                        Seibt</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <seg xml:lang="en" part="N">Digital enhancement</seg>
+               <seg xml:lang="fr" part="N">Amélioration digitale</seg>
+            </edition>
+            <editor role="digital-editor" xml:id="NB">Numa
+                        Buchs</editor>
+         </editionStmt>
+         <publicationStmt><!--<idno type="SigiDocID">39</idno>--><!--<idno type="sequence">0014</idno>-->
+            <authority/>
+            <idno type="filename">Seyrig_1</idno>
+            <!--<idno type="SigiDocID">39</idno>-->
+            <!--<idno type="sequence">0014</idno>-->
+            <date when="2022-06-07" instant="false"/>
+            <availability default="false">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                        Commons Attributions-NonCommercial-ShareAlike 4.0 International
+                        License.</licence>
+            </availability>
+            <idno type="SigiDocID">s-2pJdfn</idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <listPerson type="issuer" default="false">
+               <person role="imperial" gender="" instant="false">
+                  <persName xml:lang="grc" instant="false" full="yes">
+                     <forename full="yes"/>
+                  </persName>
+                  <persName xml:lang="en" instant="false" full="yes">
+                     <forename full="yes"/>
+                  </persName>
+                  <persName xml:lang="fr" instant="false" full="yes">
+                     <forename full="yes"/>
+                  </persName>
+               </person>
+            </listPerson>
+            <msDesc status="draft">
+               <msIdentifier>
+                  <country>
+                     <seg xml:lang="en" part="N">France</seg>
+                     <seg xml:lang="fr" part="N">France</seg>
+                  </country>
+                  <settlement>
+                     <seg xml:lang="en" part="N">Paris</seg>
+                     <seg xml:lang="fr" part="N">Paris</seg>
+                  </settlement>
+                  <institution>Bibliothèque Nationale de France</institution>
+                  <repository>Département des Monnaies, médailles et antiques</repository>
+                  <collection type="private">
+                     <rs xml:lang="en">Henri Seyrig Collection</rs>
+                     <rs xml:lang="fr">Collection Henri Seyrig</rs>
+                  </collection>
+                  <idno type="inv-nr-current">808</idno>
+                  <altIdentifier xml:lang="en">
+                     <repository/>
+                     <idno type="inv-nr-former"/>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary n="whole">
+                     <seg xml:lang="en" part="N">Imperial seals</seg>
+                     <seg xml:lang="fr" part="N">Sceaux impériaux</seg>
+                  </summary>
+                  <textLang n="" mainLang=""/>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>
+                              <term/>
+                              <interp type="workType">Original impression</interp>
+                           </objectType>
+                           <material/>
+                           <dimensions type="support" unit="mm">
+                              <dim type="diameter">22-16</dim>
+                           </dimensions>
+                           <measure type="weight" unit="g"/>
+                           <measure type="axis" unit="clock"/>
+                           <measure type="overstrikeOrient" unit="clock"/>
+                           <measure type="channelOrient" unit="clock"/>
+                        </support>
+                        <condition rend="clipped"><!-- clipped????? -->
+                           <p xml:lang="en" part="N">Uniface. Cloth impression on reverse; indented at top and bottom at channel openings.</p>
+                           <p xml:lang="fr" part="N">Uniface. Empreinte de tissu au revers; échancré en haut et en bas aux orifices du canal.</p>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout n="whole">
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <decoNote>
+                        <figure>
+                                    <!-- to be done -->
+                                </figure>
+                     </decoNote>
+                  </decoDesc>
+               </physDesc>
+               <history>
+                  <origin instant="false">
+                     <origPlace instant="false"/>
+                     <origDate type="analysis"
+                               notBefore="0470"
+                               notAfter="0540"
+                               evidence=" iconography"
+                               cert="medium"
+                               instant="false">
+                        <seg xml:lang="en" part="N">From 470 to 540</seg>
+                        <seg xml:lang="fr" part="N">De 470 à 540</seg>
+                     </origDate>
+                  </origin>
+                  <provenance type="found" subtype="discovered" xml:lang="fr">
+                     <placeName type="ancientFindspot"
+                                ref="https://pleiades.stoa.org/places/678437"
+                                instant="false"
+                                full="yes">Tyr</placeName>
+                     <placeName type="modernFindspot"
+                                ref="https://www.geonames.org/267008/tyre.html"
+                                instant="false"
+                                full="yes">Ṣūr</placeName>
+                     <!-- vérifier graphie -->
+                  </provenance>
+                  <provenance type="found" subtype="discovered" xml:lang="en">
+                     <placeName type="ancientFindspot"
+                                ref="https://pleiades.stoa.org/places/678437"
+                                instant="false"
+                                full="yes">Tyre</placeName>
+                     <placeName type="modernFindspot"
+                                ref="https://www.geonames.org/267008/tyre.html"
+                                instant="false"
+                                full="yes">Ṣūr</placeName>
+                     <!-- vérifier graphie -->
+                  </provenance>
+                  <acquisition>
+                     <p xml:lang="en" part="N">donation by Henri Seyrig</p>
+                     <p xml:lang="fr" part="N">don d'Henri Seyrig</p>
+                  </acquisition>
+               </history>
+               <msPart n="r"> <!--here begins the observe-->
+                  <msIdentifier>
+                        </msIdentifier>
+                  <msContents>
+                     <summary n="r">
+                        <seg xml:lang="en" part="N">Obverse</seg>
+                     </summary>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <layoutDesc>
+                           <layout n="r">
+                              <dimensions type="written" unit="mm">
+                                 <dim type="diameter"/>
+                              </dimensions>
+                              <rs type="matrix" subtype="not-surviving">m-Ay7okH-r</rs>
+                              <p xml:lang="en" part="N"/>
+                              <p xml:lang="fr" part="N"/>
+                           </layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote n="r">
+                                </handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>
+                           <figure>
+                              <figDesc ana="" n="r" xml:lang="en">The emperor, wearing a cuirass, a short tunic and the paludamentum, holding in his right hand a haste (perhaps the labarum?) 
+                                            and in his left hand a cruciger globe, standing face.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="fr">L’empereur, portant la cuirasse, une courte tunique et le paludamentum, tenant en main
+                                            droite une haste (peut-être le labarum ?) et en main gauche un globe crucigère, debout de
+                                            face.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="en"/>
+                              <figDesc ana="" n="decoR" xml:lang="fr"/>
+                           </figure>
+                        </decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history> <!--only for assembled boulloteria-->
+                     <origin instant="false">
+                        <date instant="false"/>
+                     </origin>
+                  </history>
+               </msPart>
+               <msPart n="v">
+                  <msIdentifier>
+                        </msIdentifier>
+                  <msContents>
+                     <summary n="v">
+                        <seg xml:lang="en" part="N">Reverse</seg>
+                     </summary>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <layoutDesc>
+                           <layout n="v">
+                              <dimensions type="written" unit="mm">
+                                 <dim type="diameter"/>
+                              </dimensions>
+                              <rs type="matrix" subtype="not-surviving">m-Ay7okH-v</rs>
+                              <p xml:lang="en" part="N"/>
+                              <p xml:lang="fr" part="N"/>
+                           </layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote n="v">  
+                                </handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote>
+                           <figure>
+                              <figDesc ana="" n="v"/>
+                              <figDesc ana="" n="decoV" xml:lang="en"/>
+                              <figDesc ana="" n="decoV" xml:lang="fr"/>
+                           </figure>
+                        </decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history> <!--only for assembled boulloteria-->
+                     <origin instant="false">
+                        <date instant="false"/>
+                     </origin>
+                  </history>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl default="false">
+            <p part="N"/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <change when="2022-06-13" who="#AS" status="draft">First revision of the XML record.</change>
+         <change when="2022-06-07" who="#NB" status="draft">Creation of the XML record. </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <surface n="v">
+         <desc>Obverse</desc>
+         <graphic url="XXX" scale="1.5">
+            <desc xml:lang="en"/>
+            <desc xml:lang="de"/>
+         </graphic>
+      </surface>
+      <surface n="r">
+         <desc>Reverse</desc>
+         <graphic url="XXX" scale="1.5">
+            <desc xml:lang="en"/>
+            <desc xml:lang="de"/>
+         </graphic>
+      </surface>
+   </facsimile>
+   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <body>
+         <div type="edition" part="N" org="uniform" sample="complete"/>
+         <div type="apparatus" part="N" org="uniform" sample="complete">
+            <listApp default="false">
+               <app>
+                  <note xml:lang="en" anchored="true">
+                     <hi rend="italic">None.</hi>
+                  </note>
+                  <note xml:lang="fr" anchored="true">
+                     <hi rend="italic">Aucun.</hi>
+                  </note>
+               </app>
+            </listApp>
+         </div>
+         <div type="translation" part="N" org="uniform" sample="complete"/>
+         <div type="commentary"
+              subtype="text"
+              part="N"
+              org="uniform"
+              sample="complete">
+            <p part="N">On peut faire remarquer
+                        l’analogie de cette effigie avec le type des AE 2 de Léon (<hi rend="italic">LRBC</hi> 2251). Un type voisin est
+                        encore employé sur certains bronzes (<hi rend="italic">dêkanoummia</hi>) de Justin Ier {<hi rend="italic">BNC</hi>, pl. VI, 21 ; avec la
+                        lance) et sur le multiple d’or de Justinien Ier {<hi rend="italic">ibidem</hi>, pl. VIII, 2 avec le globe nicéphore).
+                        La comparaison avec la numismatique nous amène à proposer ainsi une datation de 470 à
+                        540 environ. Ce type de sceau peut avoir rempli les mêmes fonctions que le sceau que nous
+                        éditons plus loin (n° 152)<!-- INTERNAL LINK HERE -->. Ils sont en effet tous deux, ovales et unifaces, portent l’effigie
+                        impériale et ont la même provenance (rivage de Tyr).</p>
+            <!--vous avez eu raison de mettre le commentaire aussi: on peut continuer de cette manière; il faut penser à créer une liste bibliographique avec les références données dans les commentaires; après, je penserai à les ajouter à la liste bibliographique de EFES-->
+         </div>
+         <div type="bibliography"
+              subtype="edition"
+              part="N"
+              org="uniform"
+              sample="complete"/>
+         <div type="bibliography"
+              subtype="parallels"
+              part="N"
+              org="uniform"
+              sample="complete"/>
+      </body>
+   </text>
+</TEI>
