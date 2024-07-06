@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="./sigidoc-chained.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="./sigidoc-chained.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- the reading of the second name should be added everywhere: title, roleName, etc..., adding cert=low where possible or (?) -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
