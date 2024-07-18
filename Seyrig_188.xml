@@ -6,8 +6,8 @@
       <fileDesc>
          <titleStmt>
             <title>
-               <seg xml:lang="en" part="N">Seal of Kosmas, patrikios and count of the Opsikion</seg>
-               <seg xml:lang="fr" part="N">Sceau de Kosmas, patrice et comte de l’Opsikion</seg>
+               <seg xml:lang="en">Seal of Kosmas, patrikios and count of the Opsikion</seg>
+               <seg xml:lang="fr">Sceau de Kosmas, patrice et comte de l’Opsikion</seg>
             </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
@@ -18,7 +18,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en" part="N">Digital conversion</seg>
+               <seg xml:lang="en">Digital conversion</seg>
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
@@ -28,34 +28,34 @@
             <idno type="filename">Seyrig_188</idno>
             <idno type="SigiDocID">s-iG3ut7</idno>
             <idno type="sequence"/>
-            <date instant="false"/>
-            <availability default="false">
+            <date />
+            <availability >
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License.</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc default="false">
-            <listPerson type="issuer" default="false">
-               <person role="military" gender="" instant="false">
-                  <persName xml:lang="grc" instant="false" full="yes">
-                     <forename full="yes">Κοσμάς</forename>
+         <sourceDesc >
+            <listPerson type="issuer" >
+               <person role="military" gender="" >
+                  <persName xml:lang="grc"  >
+                     <forename >Κοσμάς</forename>
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes">Kosmas</forename>
+                  <persName xml:lang="en"  >
+                     <forename >Kosmas</forename>
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes">Kosmas</forename>
+                  <persName xml:lang="fr"  >
+                     <forename >Kosmas</forename>
                   </persName>
                </person>
             </listPerson>
-            <msDesc status="draft">
+            <msDesc >
                <msIdentifier>
                   <country>
-                     <seg xml:lang="en" part="N">France</seg>
-                     <seg xml:lang="fr" part="N">France</seg>
+                     <seg xml:lang="en">France</seg>
+                     <seg xml:lang="fr">France</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en" part="N">Paris</seg>
-                     <seg xml:lang="fr" part="N">Paris</seg>
+                     <seg xml:lang="en">Paris</seg>
+                     <seg xml:lang="fr">Paris</seg>
                   </settlement>
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
@@ -71,12 +71,12 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en" part="N">Provincial administration</seg>
-                     <seg xml:lang="fr" part="N">Administration provinciale</seg>
+                     <seg xml:lang="en">Provincial administration</seg>
+                     <seg xml:lang="fr">Administration provinciale</seg>
                   </summary>
                   <textLang n="" mainLang="grc">
-                     <seg xml:lang="en" part="N">Byzantine greek</seg>
-                     <seg xml:lang="fr" part="N">Grec byzantin</seg>
+                     <seg xml:lang="en">Byzantine greek</seg>
+                     <seg xml:lang="fr">Grec byzantin</seg>
                   </textLang>
                </msContents>
                <physDesc>
@@ -85,15 +85,15 @@
                         <support>
                            <objectType>
                               <term>
-                                 <seg xml:lang="en" part="N">Seal</seg>
-                                 <seg xml:lang="fr" part="N">Sceau</seg>
+                                 <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="fr">Sceau</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="fr">Empreinte originale</interp>
                            </objectType>
                            <material>
-                              <seg xml:lang="en" part="N">Lead</seg>
-                              <seg xml:lang="fr" part="N">Plomb</seg>
+                              <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="fr">Plomb</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">34</dim>
@@ -111,12 +111,12 @@
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en" part="N">Struck</seg>
-                              <seg xml:lang="fr" part="N">Frappé</seg>
+                              <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="fr">Frappé</seg>
                            </rs>
                            <rs type="shape">
-                              <seg xml:lang="en" part="N">Round</seg>
-                              <seg xml:lang="fr" part="N">Ronde</seg>
+                              <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="fr">Ronde</seg>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -129,13 +129,13 @@
                   </decoDesc>
                </physDesc>
                <history>
-                  <origin instant="false">
-                     <origPlace instant="false">
-                        <seg xml:lang="en" part="N">
-                           <placeName instant="false" full="yes">Byzantine Empire</placeName>
+                  <origin >
+                     <origPlace >
+                        <seg xml:lang="en">
+                           <placeName  >Byzantine Empire</placeName>
                         </seg>
-                        <seg xml:lang="fr" part="N">
-                           <placeName instant="false" full="yes">Empire byzantin</placeName>
+                        <seg xml:lang="fr">
+                           <placeName  >Empire byzantin</placeName>
                         </seg>
                      </origPlace>
                      <origDate type="analysis"
@@ -143,9 +143,9 @@
                                notAfter="0750"
                                evidence="lettering titulature"
                                cert="high"
-                               instant="false">
-                        <seg xml:lang="en" part="N">8th century C., first half</seg>
-                        <seg xml:lang="fr" part="N">VIIIe s., première moitié</seg>
+                               >
+                        <seg xml:lang="en">8th century C., first half</seg>
+                        <seg xml:lang="fr">VIIIe s., première moitié</seg>
                      </origDate>
                   </origin>
                   <acquisition>
@@ -158,7 +158,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="r">
-                        <seg xml:lang="en" part="N">Obverse</seg>
+                        <seg xml:lang="en">Obverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -188,8 +188,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -198,7 +198,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="v">
-                        <seg xml:lang="en" part="N">Reverse</seg>
+                        <seg xml:lang="en">Reverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -228,8 +228,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -237,16 +237,16 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl default="false">
+         <editorialDecl >
             <p part="N"/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc status="draft">
-         <change when="2022-12-12" who="#NB" status="draft">Bibliography added</change>
-         <change when="2022-08-04" who="#NB" status="draft">Creation of the XML record; metadata and leidenisation</change>
+      <revisionDesc >
+         <change when="2022-12-12" who="#NB" >Bibliography added</change>
+         <change when="2022-08-04" who="#NB" >Creation of the XML record; metadata and leidenisation</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic url="">
@@ -263,35 +263,35 @@
          </graphic>
       </surface>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
                       
                       <ab part="N">
                     
-                          <lb n="1"/><expan instant="false"><ex instant="false">Κοσμᾷ</ex></expan>
+                          <lb n="1"/><expan ><ex >Κοσμᾷ</ex></expan>
 
                       </ab>
                       </div>
-                   <div type="textpart" subtype="face" n="obv" rend="circular" part="N" org="uniform" sample="complete" xml:lang="">
+                   <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
                        <ab part="N">
                              <lb n="2"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2">Θεοτόκε βοήθει</rs> <!--Comment indiquer l'invocation avec deux "div"?-->
                        </ab>
                        </div>
-                  <div type="textpart" subtype="face" n="obv" rend="columns" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="obv" rend="columns" part="N"   xml:lang="">
                       <ab part="N">
                           <cb n="a"/>τῷ δού
                         <cb n="b" break="no"/>λῳ σου
                       </ab>
                          </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
                                   <lb n="3"/>+ <rs type="dignity" ref="dignities.xml#πατρίκιος">πατρ
                           
-                                  <lb n="4" break="no"/>ικίῳ</rs> <expan instant="false"><abbr><am instant="false"><g type="kai1"/></am></abbr><ex instant="false">καὶ</ex></expan> <expan instant="false"><abbr>κόμ</abbr>
+                                  <lb n="4" break="no"/>ικίῳ</rs> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>κόμ</abbr>
   
-                                  <lb n="5" break="no"/><ex instant="false">η</ex><ex instant="false">τι</ex></expan> τοῦ θεοφ
+                                  <lb n="5" break="no"/><ex >η</ex><ex >τι</ex></expan> τοῦ θεοφ
                           
                                    <lb n="6" break="no"/>λάκτου βα
                           
@@ -303,25 +303,25 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N" org="uniform" sample="complete">
-            <listApp default="false">
+         <div type="apparatus" part="N"  >
+            <listApp >
                <app>
-                  <note xml:lang="en" anchored="true">None.</note>
-                  <note xml:lang="fr" anchored="true">Aucun.</note>
+                  <note xml:lang="en" >None.</note>
+                  <note xml:lang="fr" >Aucun.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N" org="uniform" sample="complete">
+         <div type="translation" part="N"  >
             <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ Κοσμᾷ /  + πατρικίῳ καὶ κόμητι τοῦ θεοφλάκτου βασιλικοῦ Ὀψικίου +.</p>
             <p xml:lang="en" part="N">Mother of God help your servant Kosmas, patrikios and komes of the imperial Opsikion guarded by God.</p>
             <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Kosmas, patrice et comte de l'Opsikion impérial protégé par Dieu.</p>
@@ -329,16 +329,16 @@
          <div type="commentary"
               subtype="text"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"><!--Kosmas n’est pas attesté dans les sources contemporaines[1].
                       Il pourrait être identique à Kosmas, patrice et stratège, connu par un sceau à peu près contemporain[2].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p xml:id="footnote-1" part="N">
                      <!-- [1]. Cf. HALDON, <hi rend="italic">Praetorians</hi>, p. 626, n. 1104.-->
                   </p>
@@ -349,11 +349,11 @@
          <div type="bibliography"
               subtype="edition"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                       Bibliothèque Nationale de France, Paris,
-                      <bibl default="false" status="draft">
+                      <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>188</citedRange>
                </bibl>.
                   </p>
@@ -361,16 +361,16 @@
          <div type="bibliography"
               subtype="parallels"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                       Dumbarton Oaks, Washington D.C.,
-                      <bibl default="false" status="draft">
+                      <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>406</citedRange>
                </bibl>;</p>
             <p part="N">
                       Dumbarton Oaks, Washington D.C.,
-                      <bibl default="false" status="draft">
+                      <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.5609">BZS.1958.106.5609</ref>
                   </citedRange>
@@ -379,11 +379,11 @@
          <div type="bibliography"
               subtype="discussionParallels"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
                   <!-- <bibl><ptr target=""/>, <citedRange unit="page">p. 150, n° 3</citedRange></bibl>,</p>--><!--N D CHABIARIAS,-->
             <p part="N">
-               <bibl default="false" status="draft">
+               <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p4704">Kosmas 43</ref>
                   </citedRange>

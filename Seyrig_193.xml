@@ -6,8 +6,8 @@
       <fileDesc>
          <titleStmt>
             <title>
-               <seg xml:lang="en" part="N">Seal of Christophoros Mitylenaios, protospatharios, epi tou Chrysotriklinou, judge of the Velum and of Paphlagonia</seg>
-               <seg xml:lang="fr" part="N">Sceau de Christophore Mitylènaios, protospathaire <hi rend="italic">épi tou Chrysotriklinou</hi>, juge du Vélum et
+               <seg xml:lang="en">Seal of Christophoros Mitylenaios, protospatharios, epi tou Chrysotriklinou, judge of the Velum and of Paphlagonia</seg>
+               <seg xml:lang="fr">Sceau de Christophore Mitylènaios, protospathaire <hi rend="italic">épi tou Chrysotriklinou</hi>, juge du Vélum et
                         de Paphlagonie</seg>
             </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
@@ -19,7 +19,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en" part="N">Digital conversion</seg>
+               <seg xml:lang="en">Digital conversion</seg>
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
@@ -29,37 +29,37 @@
             <idno type="filename">Seyrig_193</idno>
             <idno type="SigiDocID">s-kgGMss</idno>
             <idno type="sequence"/>
-            <date instant="false"/>
-            <availability default="false">
+            <date />
+            <availability >
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License.</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc default="false">
-            <listPerson type="issuer" default="false">
-               <person role="civil" gender="" instant="false">
-                  <persName xml:lang="grc" instant="false" full="yes">
-                     <forename full="yes">Χριστόφορος</forename>
-                     <surname full="yes">Μιτυληναίος</surname>
+         <sourceDesc >
+            <listPerson type="issuer" >
+               <person role="civil" gender="" >
+                  <persName xml:lang="grc"  >
+                     <forename >Χριστόφορος</forename>
+                     <surname >Μιτυληναίος</surname>
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes">Christophoros</forename>
-                     <surname full="yes">Mitylenaios</surname>
+                  <persName xml:lang="en"  >
+                     <forename >Christophoros</forename>
+                     <surname >Mitylenaios</surname>
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes">Christophore</forename>
-                     <surname full="yes">Mitylènaios</surname>
+                  <persName xml:lang="fr"  >
+                     <forename >Christophore</forename>
+                     <surname >Mitylènaios</surname>
                   </persName>
                </person>
             </listPerson>
-            <msDesc status="draft">
+            <msDesc >
                <msIdentifier>
                   <country>
-                     <seg xml:lang="en" part="N">France</seg>
-                     <seg xml:lang="fr" part="N">France</seg>
+                     <seg xml:lang="en">France</seg>
+                     <seg xml:lang="fr">France</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en" part="N">Paris</seg>
-                     <seg xml:lang="fr" part="N">Paris</seg>
+                     <seg xml:lang="en">Paris</seg>
+                     <seg xml:lang="fr">Paris</seg>
                   </settlement>
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
@@ -75,12 +75,12 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en" part="N">Provincial administration</seg>
-                     <seg xml:lang="fr" part="N">Administration provinciale</seg>
+                     <seg xml:lang="en">Provincial administration</seg>
+                     <seg xml:lang="fr">Administration provinciale</seg>
                   </summary>
                   <textLang n="" mainLang="grc">
-                     <seg xml:lang="en" part="N">Byzantine greek</seg>
-                     <seg xml:lang="fr" part="N">Grec byzantin</seg>
+                     <seg xml:lang="en">Byzantine greek</seg>
+                     <seg xml:lang="fr">Grec byzantin</seg>
                   </textLang>
                </msContents>
                <physDesc>
@@ -89,15 +89,15 @@
                         <support>
                            <objectType>
                               <term>
-                                 <seg xml:lang="en" part="N">Seal</seg>
-                                 <seg xml:lang="fr" part="N">Sceau</seg>
+                                 <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="fr">Sceau</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="fr">Empreinte originale</interp>
                            </objectType>
                            <material>
-                              <seg xml:lang="en" part="N">Lead</seg>
-                              <seg xml:lang="fr" part="N">Plomb</seg>
+                              <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="fr">Plomb</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">26</dim>
@@ -115,12 +115,12 @@
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en" part="N">Struck</seg>
-                              <seg xml:lang="fr" part="N">Frappé</seg>
+                              <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="fr">Frappé</seg>
                            </rs>
                            <rs type="shape">
-                              <seg xml:lang="en" part="N">Round</seg>
-                              <seg xml:lang="fr" part="N">Ronde</seg>
+                              <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="fr">Ronde</seg>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -133,13 +133,13 @@
                   </decoDesc>
                </physDesc>
                <history>
-                  <origin instant="false">
-                     <origPlace instant="false">
-                        <seg xml:lang="en" part="N">
-                           <placeName instant="false" full="yes">Byzantine Empire</placeName>
+                  <origin >
+                     <origPlace >
+                        <seg xml:lang="en">
+                           <placeName  >Byzantine Empire</placeName>
                         </seg>
-                        <seg xml:lang="fr" part="N">
-                           <placeName instant="false" full="yes">Empire byzantin</placeName>
+                        <seg xml:lang="fr">
+                           <placeName  >Empire byzantin</placeName>
                         </seg>
                      </origPlace>
                      <origDate type="analysis"
@@ -147,9 +147,9 @@
                                notAfter="1050"
                                evidence="prosopography lettering titulature"
                                cert="high"
-                               instant="false">
-                        <seg xml:lang="en" part="N">11th C., first half</seg>
-                        <seg xml:lang="fr" part="N">XIe s., première moitié</seg>
+                               >
+                        <seg xml:lang="en">11th C., first half</seg>
+                        <seg xml:lang="fr">XIe s., première moitié</seg>
                      </origDate>
                   </origin>
                   <acquisition>
@@ -162,7 +162,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="r">
-                        <seg xml:lang="en" part="N">Obverse</seg>
+                        <seg xml:lang="en">Obverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -193,8 +193,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -203,7 +203,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="v">
-                        <seg xml:lang="en" part="N">Reverse</seg>
+                        <seg xml:lang="en">Reverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -233,8 +233,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -242,16 +242,16 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl default="false">
+         <editorialDecl >
             <p part="N"/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc status="draft">
-         <change when="2022-12-12" who="#NB" status="draft">Commentary set aside</change>
-         <change when="2022-08-04" who="#NB" status="draft">Creation of the XML record; metadata and leidenisation</change>
+      <revisionDesc >
+         <change when="2022-12-12" who="#NB" >Commentary set aside</change>
+         <change when="2022-08-04" who="#NB" >Creation of the XML record; metadata and leidenisation</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic url="">
@@ -268,52 +268,52 @@
          </graphic>
       </surface>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
-                        <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan instant="false"><abbr>Κ</abbr><ex instant="false">ύρι</ex><abbr>ε</abbr></expan><expan instant="false"> <abbr>β</abbr><ex instant="false">οή</ex><abbr>θ</abbr><ex instant="false">ει</ex></expan></rs>
-                          <lb n="2"/><expan instant="false"><abbr><supplied reason="lost" instant="false">Χ</supplied>ριστοφ</abbr><ex instant="false">όρῳ</ex></expan>
-                          <lb n="3"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan instant="false"><supplied reason="omitted" instant="false"><abbr><am instant="false">α</am></abbr><ex instant="false">πρωτο</ex></supplied><abbr><supplied reason="lost" instant="false">σπ</supplied>αθαρ</abbr><ex instant="false">ίῳ</ex></expan></rs>
-                          <lb n="4"/><rs type="officeCivil" ref="officeCivil.xml#ἐπὶ_τοῦ_Χρυσοτρικλίνου"><supplied reason="omitted" instant="false">ἐ</supplied><supplied reason="lost" instant="false">πὶ τ</supplied>οῦ <expan instant="false"><abbr>Χρ</abbr><ex instant="false">υσο</ex><abbr><am instant="false">γ</am></abbr>
-                           <lb n="5" break="no"/><supplied reason="omitted" instant="false"><ex instant="false">τρι</ex></supplied><abbr><supplied reason="lost" instant="false">κ</supplied>λ</abbr><ex instant="false">ί</ex><abbr>ν</abbr><ex instant="false">ου</ex></expan></rs>
+                        <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan><expan > <abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></rs>
+                          <lb n="2"/><expan ><abbr><supplied reason="lost" >Χ</supplied>ριστοφ</abbr><ex >όρῳ</ex></expan>
+                          <lb n="3"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><supplied reason="omitted" ><abbr><am >α</am></abbr><ex >πρωτο</ex></supplied><abbr><supplied reason="lost" >σπ</supplied>αθαρ</abbr><ex >ίῳ</ex></expan></rs>
+                          <lb n="4"/><rs type="officeCivil" ref="officeCivil.xml#ἐπὶ_τοῦ_Χρυσοτρικλίνου"><supplied reason="omitted" >ἐ</supplied><supplied reason="lost" >πὶ τ</supplied>οῦ <expan ><abbr>Χρ</abbr><ex >υσο</ex><abbr><am >γ</am></abbr>
+                           <lb n="5" break="no"/><supplied reason="omitted" ><ex >τρι</ex></supplied><abbr><supplied reason="lost" >κ</supplied>λ</abbr><ex >ί</ex><abbr>ν</abbr><ex >ου</ex></expan></rs>
                         
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
-                           <lb n="6"/>κριτ<supplied reason="lost" instant="false">ῇ</supplied>
-                          <lb n="7"/>τοῦ <expan instant="false"><abbr>βή<supplied reason="lost" instant="false">λ</supplied></abbr><supplied reason="lost" instant="false"><ex instant="false">ου</ex></supplied></expan>
-                          <lb n="8"/><expan instant="false"><abbr><am instant="false"><g type="kai1"/></am></abbr><ex instant="false">καὶ</ex></expan> τῆς <expan instant="false"><abbr>Π<supplied reason="omitted" instant="false">α</supplied>
-                             <lb n="9" break="no"/>φλ</abbr><ex instant="false">α</ex><abbr>γο<supplied reason="lost" instant="false">ν</supplied></abbr><supplied reason="lost" instant="false"><ex instant="false">ίας</ex></supplied></expan> <supplied reason="lost" instant="false"><expan instant="false"><abbr>τ</abbr><ex instant="false">ῷ</ex></expan></supplied>
-                            <lb n="10"/><expan instant="false"><abbr>Μιτ<supplied reason="lost" instant="false">υλη</supplied>
-                            <lb n="11" break="no"/>ν</abbr><ex instant="false">αίῳ</ex></expan>
+                           <lb n="6"/>κριτ<supplied reason="lost" >ῇ</supplied>
+                          <lb n="7"/>τοῦ <expan ><abbr>βή<supplied reason="lost" >λ</supplied></abbr><supplied reason="lost" ><ex >ου</ex></supplied></expan>
+                          <lb n="8"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> τῆς <expan ><abbr>Π<supplied reason="omitted" >α</supplied>
+                             <lb n="9" break="no"/>φλ</abbr><ex >α</ex><abbr>γο<supplied reason="lost" >ν</supplied></abbr><supplied reason="lost" ><ex >ίας</ex></supplied></expan> <supplied reason="lost" ><expan ><abbr>τ</abbr><ex >ῷ</ex></expan></supplied>
+                            <lb n="10"/><expan ><abbr>Μιτ<supplied reason="lost" >υλη</supplied>
+                            <lb n="11" break="no"/>ν</abbr><ex >αίῳ</ex></expan>
 
 
 
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N" org="uniform" sample="complete">
-            <listApp default="false">
+         <div type="apparatus" part="N"  >
+            <listApp >
                <app>
-                  <note xml:lang="en" anchored="true">None.</note>
-                  <note xml:lang="fr" anchored="true">Aucun.</note>
+                  <note xml:lang="en" >None.</note>
+                  <note xml:lang="fr" >Aucun.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N" org="uniform" sample="complete">
+         <div type="translation" part="N"  >
             <p part="N">Κύριε βοήθει  Χριστοφόρῳ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου / κριτῇ τοῦ βήλου καὶ τῆς Παφλαγονίας τῷ Μιτυληναίῳ.</p>
             <p xml:lang="en" part="N">Lord help Christophoros Mitylenaios, protospatharios, epi tou Chrysotriklinou, judge of the Velum and of Paphlagonia.</p>
             <p xml:lang="fr" part="N">Seigneur aide Christophore Mitylènaios, protospathaire <hi rend="italic">épi tou Chrysotriklinou</hi>, juge du Vélum et
@@ -322,8 +322,8 @@
          <div type="commentary"
               subtype="text"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"><!--Les Mitylènaioi, qu’on supposera originaires de l’île de
                       Mitylène, sont attestés dès le Xe siècle. Ils fournirent de hauts fonctionnaires civils et
                       ecclésiastiques. Jean fut protospathaire impérial, juge des Optimates [1], encore protospathaire et juge de Paphlagonie, comme Christophore  [2] 
@@ -336,8 +336,8 @@
          <div type="commentary"
               subtype="footnotes"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p xml:id="footnote-1" part="N">
                          <!-- [1].  Shaw 1202, cat. Laurent
                           n° 723.-->
@@ -364,11 +364,11 @@
          <div type="bibliography"
               subtype="edition"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                       Bibliothèque Nationale de France, Paris,
-                      <bibl default="false" status="draft">
+                      <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>193</citedRange>
                </bibl>.
                   </p>

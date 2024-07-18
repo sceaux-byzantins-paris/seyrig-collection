@@ -16,8 +16,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en" part="N">Digital enhancement</seg>
-               <seg xml:lang="fr" part="N">Amélioration digitale</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
@@ -27,38 +27,38 @@
             <idno type="filename">Seyrig_3</idno>
             <!--<idno type="SigiDocID">39</idno>-->
             <idno type="sequence"/>
-            <date when="2022-06-07" instant="false"/>
-            <availability default="false">
+            <date when="2022-06-07" />
+            <availability >
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
                         Commons Attributions-NonCommercial-ShareAlike 4.0 International
                         License.</licence>
             </availability>
             <idno type="SigiDocID">s-QBYgob</idno>
          </publicationStmt>
-         <sourceDesc default="false">
-            <listPerson type="issuer" default="false">
-               <person role="imperial" gender="" instant="false">
-                  <persName xml:lang="la" instant="false" full="yes">
-                     <forename full="yes">Tiberius</forename>
-                     <surname full="yes">Mauricius</surname>
+         <sourceDesc >
+            <listPerson type="issuer" >
+               <person role="imperial" gender="" >
+                  <persName xml:lang="la"  >
+                     <forename >Tiberius</forename>
+                     <surname >Mauricius</surname>
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes">Maurice</forename>
+                  <persName xml:lang="en"  >
+                     <forename >Maurice</forename>
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes">Maurice</forename>
+                  <persName xml:lang="fr"  >
+                     <forename >Maurice</forename>
                   </persName>
                </person>
             </listPerson>
-            <msDesc status="draft">
+            <msDesc >
                <msIdentifier>
                   <country>
-                     <seg xml:lang="en" part="N">France</seg>
-                     <seg xml:lang="fr" part="N">France</seg>
+                     <seg xml:lang="en">France</seg>
+                     <seg xml:lang="fr">France</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en" part="N">Paris</seg>
-                     <seg xml:lang="fr" part="N">Paris</seg>
+                     <seg xml:lang="en">Paris</seg>
+                     <seg xml:lang="fr">Paris</seg>
                   </settlement>
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
@@ -74,12 +74,12 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en" part="N">Imperial seals</seg>
-                     <seg xml:lang="fr" part="N">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial seals</seg>
+                     <seg xml:lang="fr">Sceaux impériaux</seg>
                   </summary>
                   <textLang n="" mainLang="la">
-                     <seg xml:lang="en" part="N">Latin</seg>
-                     <seg xml:lang="fr" part="N">Latin</seg>
+                     <seg xml:lang="en">Latin</seg>
+                     <seg xml:lang="fr">Latin</seg>
                   </textLang>
                </msContents>
                <physDesc>
@@ -88,8 +88,8 @@
                         <support>
                            <objectType>
                               <term>
-                                 <seg xml:lang="en" part="N">Seal</seg>
-                                 <seg xml:lang="fr" part="N">Sceau</seg>
+                                 <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="fr">Sceau</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
@@ -97,8 +97,8 @@
                                             originale</interp>
                            </objectType>
                            <material>
-                              <seg xml:lang="en" part="N">Lead</seg>
-                              <seg xml:lang="fr" part="N">Plomb</seg>
+                              <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="fr">Plomb</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">20</dim>
@@ -116,8 +116,8 @@
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en" part="N">Struck</seg>
-                              <seg xml:lang="fr" part="N">Frappé</seg>
+                              <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="fr">Frappé</seg>
                            </rs>
                            <rs type="shape"/>
                         </layout>
@@ -131,37 +131,37 @@
                   </decoDesc>
                </physDesc>
                <history>
-                  <origin instant="false">
-                     <origPlace instant="false"/>
+                  <origin >
+                     <origPlace />
                      <origDate type="analysis"
                                notBefore="0582"
                                notAfter="0583"
                                evidence=" iconography lettering prosopography parallel"
                                cert="high"
-                               instant="false">
-                        <seg xml:lang="en" part="N">582-583</seg>
+                               >
+                        <seg xml:lang="en">582-583</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered" xml:lang="fr">
                      <placeName type="ancientFindspot"
                                 ref="https://pleiades.stoa.org/places/678437"
-                                instant="false"
-                                full="yes">Tyre</placeName>
+                                
+                                >Tyre</placeName>
                      <placeName type="modernFindspot"
                                 ref="https://www.geonames.org/267008/tyre.html"
-                                instant="false"
-                                full="yes">Ṣūr</placeName>
+                                
+                                >Ṣūr</placeName>
                      <!-- vérifier graphie -->
                   </provenance>
                   <provenance type="found" subtype="discovered" xml:lang="en">
                      <placeName type="ancientFindspot"
                                 ref="https://pleiades.stoa.org/places/678437"
-                                instant="false"
-                                full="yes">Tyre</placeName>
+                                
+                                >Tyre</placeName>
                      <placeName type="modernFindspot"
                                 ref="https://www.geonames.org/267008/tyre.html"
-                                instant="false"
-                                full="yes">Ṣūr</placeName>
+                                
+                                >Ṣūr</placeName>
                      <!-- vérifier graphie -->
                   </provenance>
                   <acquisition>
@@ -174,7 +174,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="r">
-                        <seg xml:lang="en" part="N">Obverse</seg>
+                        <seg xml:lang="en">Obverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -208,8 +208,8 @@
                      </decoDesc>
                   </physDesc>
                   <history> <!--only for assembled boulloteria-->
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -218,7 +218,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="v">
-                        <seg xml:lang="en" part="N">Reverse</seg>
+                        <seg xml:lang="en">Reverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -250,8 +250,8 @@
                      </decoDesc>
                   </physDesc>
                   <history> <!--only for assembled boulloteria-->
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -259,17 +259,17 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl default="false">
+         <editorialDecl >
             <p part="N"/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc status="draft">
-         <change when="2022-10-18" who="#NB" status="draft">Bibliography added</change>
-         <change when="2022-06-13" who="#AS" status="draft">First revision of the XML record.</change>
-         <change when="2022-06-07" who="#NB" status="draft">Creation of the XML record</change>
+      <revisionDesc >
+         <change when="2022-10-18" who="#NB" >Bibliography added</change>
+         <change when="2022-06-13" who="#AS" >First revision of the XML record.</change>
+         <change when="2022-06-07" who="#NB" >Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic url="">
@@ -284,36 +284,36 @@
          </graphic>
       </surface>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">  
-                          <lb n="1"/> <expan instant="false"><abbr>D</abbr><ex instant="false">ominus</ex></expan> <expan instant="false"><abbr>n</abbr><ex instant="false">oster</ex></expan> <expan instant="false"><abbr>Tiber</abbr><ex instant="false">ius</ex></expan> <expan instant="false"><abbr>M<supplied reason="lost" instant="false">aur</supplied></abbr><supplied reason="lost" instant="false"><ex instant="false">icius</ex></supplied></expan> <supplied reason="lost" instant="false"><expan instant="false"><abbr>p</abbr><ex instant="false">er</ex><abbr>p</abbr><ex instant="false">etuus</ex></expan></supplied> <supplied reason="lost" instant="false"><expan instant="false"><abbr>Aug</abbr><ex instant="false">ustus</ex></expan></supplied>
+                          <lb n="1"/> <expan ><abbr>D</abbr><ex >ominus</ex></expan> <expan ><abbr>n</abbr><ex >oster</ex></expan> <expan ><abbr>Tiber</abbr><ex >ius</ex></expan> <expan ><abbr>M<supplied reason="lost" >aur</supplied></abbr><supplied reason="lost" ><ex >icius</ex></supplied></expan> <supplied reason="lost" ><expan ><abbr>p</abbr><ex >er</ex><abbr>p</abbr><ex >etuus</ex></expan></supplied> <supplied reason="lost" ><expan ><abbr>Aug</abbr><ex >ustus</ex></expan></supplied>
                       </ab><!-- attention à éliminer les symboles d'édition, comme les crochets, une fois écrit le code xml qui les concerne  -->
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la" part="N"  >
+                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
                       <ab part="N"/>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N"/>
                   </div>
               </div>
-         <div type="apparatus" part="N" org="uniform" sample="complete">
-            <listApp default="false">
+         <div type="apparatus" part="N"  >
+            <listApp >
                <app>
-                  <note xml:lang="en" anchored="true">
+                  <note xml:lang="en" >
                      <hi rend="italic">None.</hi>
                   </note>
-                  <note xml:lang="fr" anchored="true">
+                  <note xml:lang="fr" >
                      <hi rend="italic">Aucun.</hi>
                   </note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N" org="uniform" sample="complete">
+         <div type="translation" part="N"  >
             <p part="N">Dominus noster Tiberius Mauricius, perpetuus Augustus.</p>
             <p xml:lang="en" part="N">Our lord Tiberius Maurice, eternal Augustus.</p>
             <p xml:lang="fr" part="N">Notre Seigneur Tibère Maurice, Auguste perpétuel</p>
@@ -321,8 +321,8 @@
          <div type="commentary"
               subtype="text"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"><!--C’est du règne de Maurice que date le remplacement de la victoire par la Vierge
 sur les sceaux impériaux. La légende du revers avec le nom de Tibère placé en premier date
 ce sceau, par analogie avec les émissions de bronze de la première année du règne [1]. Il ne semble pas en revanche qu’il faille reconnaître la distinction
@@ -333,10 +333,10 @@ en effet déjà le  oncial des autres sceaux du règne.--></p>
          <div type="commentary"
               subtype="footnotes"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p xml:id="footnote-1" part="N">
-                    [1]. <bibl default="false" status="draft">
+                    [1]. <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange unit="page">p. 62-63</citedRange>
                </bibl>.
                 </p>
@@ -344,11 +344,11 @@ en effet déjà le  oncial des autres sceaux du règne.--></p>
          <div type="bibliography"
               subtype="edition"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                     Biliothèque Nationale de France, Paris,
-                    <bibl default="false" status="draft">
+                    <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>3</citedRange>
                </bibl>.
                 </p>
@@ -356,17 +356,17 @@ en effet déjà le  oncial des autres sceaux du règne.--></p>
          <div type="bibliography"
               subtype="parallels"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                     Dumbarton Oaks, Washington D.C.,
-                    <bibl default="false" status="draft">
+                    <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>7a et b</citedRange>
                </bibl>; 
                 </p>
             <p part="N">
                     Münzkabinett des Kunsthistorischen Museums, Vienne,
-                    <bibl default="false" status="draft">
+                    <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange>9a</citedRange>
                </bibl>.
                 </p>
@@ -374,8 +374,8 @@ en effet déjà le  oncial des autres sceaux du règne.--></p>
          <div type="bibliography"
               subtype="discussionParallels"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
                
             </div>
       </body>

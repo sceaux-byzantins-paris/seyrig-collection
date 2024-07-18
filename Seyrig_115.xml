@@ -6,8 +6,8 @@
       <fileDesc>
          <titleStmt>
             <title>
-               <seg xml:lang="en" part="N">Seal of John, consul (?),  praetorian prefect (?)</seg>
-               <seg xml:lang="fr" part="N">Sceau de Jean, consul (?), préfet du Prétoire (?)</seg>
+               <seg xml:lang="en">Seal of John, consul (?),  praetorian prefect (?)</seg>
+               <seg xml:lang="fr">Sceau de Jean, consul (?), préfet du Prétoire (?)</seg>
             </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
@@ -18,7 +18,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en" part="N">Digital conversion</seg>
+               <seg xml:lang="en">Digital conversion</seg>
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
@@ -28,34 +28,34 @@
             <idno type="filename">Seyrig_115</idno>
             <idno type="SigiDocID">s-wHiKHk</idno>
             <idno type="sequence"/>
-            <date instant="false"/>
-            <availability default="false">
+            <date />
+            <availability >
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License.</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc default="false">
-            <listPerson type="issuer" default="false">
-               <person role="civil" gender="" instant="false">
-                  <persName xml:lang="grc" instant="false" full="yes">
-                     <forename full="yes">Ἰωάννης</forename>
+         <sourceDesc >
+            <listPerson type="issuer" >
+               <person role="civil" gender="" >
+                  <persName xml:lang="grc"  >
+                     <forename >Ἰωάννης</forename>
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes">John</forename>
+                  <persName xml:lang="en"  >
+                     <forename >John</forename>
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes">Jean</forename>
+                  <persName xml:lang="fr"  >
+                     <forename >Jean</forename>
                   </persName>
                </person>
             </listPerson>
-            <msDesc status="draft">
+            <msDesc >
                <msIdentifier>
                   <country>
-                     <seg xml:lang="en" part="N">France</seg>
-                     <seg xml:lang="fr" part="N">France</seg>
+                     <seg xml:lang="en">France</seg>
+                     <seg xml:lang="fr">France</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en" part="N">Paris</seg>
-                     <seg xml:lang="fr" part="N">Paris</seg>
+                     <seg xml:lang="en">Paris</seg>
+                     <seg xml:lang="fr">Paris</seg>
                   </settlement>
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
@@ -71,13 +71,13 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en" part="N">Central administration</seg>
-                     <seg xml:lang="fr" part="N">Administration centrale</seg>
+                     <seg xml:lang="en">Central administration</seg>
+                     <seg xml:lang="fr">Administration centrale</seg>
                   </summary>
                   <textLang n="" mainLang="grc-Latn">
-                     <seg xml:lang="en" part="N">Byzantine Greek in Latin script</seg>
+                     <seg xml:lang="en">Byzantine Greek in Latin script</seg>
                      <!--il y a une légende en grec et une autre en latin-->
-                     <seg xml:lang="fr" part="N">Grec byzantin en alphabet latin</seg>
+                     <seg xml:lang="fr">Grec byzantin en alphabet latin</seg>
                   </textLang>
                </msContents>
                <physDesc>
@@ -86,15 +86,15 @@
                         <support>
                            <objectType>
                               <term>
-                                 <seg xml:lang="en" part="N">Seal</seg>
-                                 <seg xml:lang="fr" part="N">Sceau</seg>
+                                 <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="fr">Sceau</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="fr">Empreinte originale</interp>
                            </objectType>
                            <material>
-                              <seg xml:lang="en" part="N">Lead</seg>
-                              <seg xml:lang="fr" part="N">Plomb</seg>
+                              <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="fr">Plomb</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">18</dim>
@@ -111,12 +111,12 @@
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en" part="N">Struck</seg>
-                              <seg xml:lang="fr" part="N">Frappé</seg>
+                              <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="fr">Frappé</seg>
                            </rs>
                            <rs type="shape">
-                              <seg xml:lang="en" part="N">Round</seg>
-                              <seg xml:lang="fr" part="N">Ronde</seg>
+                              <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="fr">Ronde</seg>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -129,13 +129,13 @@
                   </decoDesc>
                </physDesc>
                <history>
-                  <origin instant="false">
-                     <origPlace instant="false">
-                        <seg xml:lang="en" part="N">
-                           <placeName instant="false" full="yes">Byzantine Empire</placeName>
+                  <origin >
+                     <origPlace >
+                        <seg xml:lang="en">
+                           <placeName  >Byzantine Empire</placeName>
                         </seg>
-                        <seg xml:lang="fr" part="N">
-                           <placeName instant="false" full="yes">Empire byzantin</placeName>
+                        <seg xml:lang="fr">
+                           <placeName  >Empire byzantin</placeName>
                         </seg>
                      </origPlace>
                      <origDate type="analysis"
@@ -143,33 +143,33 @@
                                notAfter="0650"
                                evidence="titulature lettering"
                                cert="high"
-                               instant="false">
-                        <seg xml:lang="en" part="N">6th C., end-7th C., first half</seg>
-                        <seg xml:lang="fr" part="N">VIe s., fin- VIIe s., première moitié</seg>
+                               >
+                        <seg xml:lang="en">6th C., end-7th C., first half</seg>
+                        <seg xml:lang="fr">VIe s., fin- VIIe s., première moitié</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered" xml:lang="fr">
                      <placeName type="ancientFindspot"
                                 ref="https://pleiades.stoa.org/places/658381"
-                                instant="false"
-                                full="yes">Antioch</placeName>
+                                
+                                >Antioch</placeName>
                      <!--????-->
                      <placeName type="modernFindspot"
                                 ref="http://www.geonames.org/323779/antakya.html"
-                                instant="false"
-                                full="yes">Antakya</placeName>
+                                
+                                >Antakya</placeName>
                      <!--????-->
                   </provenance>
                   <provenance type="found" subtype="discovered" xml:lang="en">
                      <placeName type="ancientFindspot"
                                 ref="https://pleiades.stoa.org/places/658381"
-                                instant="false"
-                                full="yes">Antioche</placeName>
+                                
+                                >Antioche</placeName>
                      <!--????-->
                      <placeName type="modernFindspot"
                                 ref="http://www.geonames.org/323779/antakya.html"
-                                instant="false"
-                                full="yes">Antakya</placeName>
+                                
+                                >Antakya</placeName>
                      <!--????-->
                   </provenance>
                   <acquisition>
@@ -182,7 +182,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="r">
-                        <seg xml:lang="en" part="N">Obverse</seg>
+                        <seg xml:lang="en">Obverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -213,8 +213,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -223,7 +223,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="v">
-                        <seg xml:lang="en" part="N">Reverse</seg>
+                        <seg xml:lang="en">Reverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -253,8 +253,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -262,16 +262,16 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl default="false">
+         <editorialDecl >
             <p part="N"/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc status="draft">
-         <change when="2022-12-08" who="#NB" status="draft">Commentary set aside</change>
-         <change when="2022-07-25" who="#NB" status="draft">Creation of the XML record; metadata and leidenisation</change>
+      <revisionDesc >
+         <change when="2022-12-08" who="#NB" >Commentary set aside</change>
+         <change when="2022-07-25" who="#NB" >Creation of the XML record; metadata and leidenisation</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic url="">
@@ -288,47 +288,47 @@
          </graphic>
       </surface>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
                       
                       <ab part="N">
-                                  <lb n="1"/><expan instant="false"><ex instant="false">Ἰωάννου</ex></expan>
+                                  <lb n="1"/><expan ><ex >Ἰωάννου</ex></expan>
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
 
                                   <lb n="2"/><app type="alternative">
-                                                  <lem><expan instant="false"><abbr>Co</abbr><ex instant="false">n</ex><abbr>s</abbr><ex instant="false">ulis</ex></expan></lem>
-                                                  <rdg><expan instant="false"><abbr>Co</abbr><ex instant="false">n</ex><abbr>s</abbr><ex instant="false">ularis</ex></expan></rdg>
-                                              </app>  <expan instant="false"><abbr>Pr</abbr><ex instant="false">aefecti</ex></expan> <expan instant="false"><abbr>Pr</abbr><ex instant="false">aetorio</ex></expan> <expan instant="false"><abbr>A</abbr><ex instant="false">fricae</ex></expan>
+                                                  <lem><expan ><abbr>Co</abbr><ex >n</ex><abbr>s</abbr><ex >ulis</ex></expan></lem>
+                                                  <rdg><expan ><abbr>Co</abbr><ex >n</ex><abbr>s</abbr><ex >ularis</ex></expan></rdg>
+                                              </app>  <expan ><abbr>Pr</abbr><ex >aefecti</ex></expan> <expan ><abbr>Pr</abbr><ex >aetorio</ex></expan> <expan ><abbr>A</abbr><ex >fricae</ex></expan>
                                
                                  
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N" org="uniform" sample="complete">
-            <listApp default="false">
+         <div type="apparatus" part="N"  >
+            <listApp >
                <app>
-                  <note xml:lang="en" anchored="true">None.</note>
-                  <note xml:lang="fr" anchored="true">Aucun.</note>
+                  <note xml:lang="en" >None.</note>
+                  <note xml:lang="fr" >Aucun.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N" org="uniform" sample="complete">
+         <div type="translation" part="N"  >
             <p part="N">Ἰωάννου / Consulis <hi rend="italic">vel</hi> Consularis Praefecti Praetorio Africae.</p>
             <p xml:lang="en" part="N">(Seal of) John, consul (?), praetorian prefect of Africa (?).</p>
             <p xml:lang="fr" part="N">(Sceau de) Jean, consul (?), préfet du Prétoire (?).</p>
@@ -336,16 +336,16 @@
          <div type="commentary"
               subtype="text"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"><!--Lecture incertaine. On connaît également
                       le sceau d’un Jean, préfet d’Italie, qui porte au droit un monogramme latin [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p xml:id="footnote-1" part="N">
                    <!--   [1]. ZACOS - VEGLERY
                       354.-->
@@ -354,11 +354,11 @@
          <div type="bibliography"
               subtype="edition"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                       Bibliothèque Nationale de France, Paris
-                      <bibl default="false" status="draft">
+                      <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>115</citedRange>
                </bibl>.
                   </p>

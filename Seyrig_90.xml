@@ -6,8 +6,8 @@
       <fileDesc>
          <titleStmt>
             <title>
-               <seg xml:lang="en" part="N">Seal of Marinos or Marianos, count of the Private Largesses</seg>
-               <seg xml:lang="fr" part="N">Sceau de Marinos ou Marianos, comte des Largesses Privées</seg>
+               <seg xml:lang="en">Seal of Marinos or Marianos, count of the Private Largesses</seg>
+               <seg xml:lang="fr">Sceau de Marinos ou Marianos, comte des Largesses Privées</seg>
             </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
@@ -18,7 +18,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en" part="N">Digital conversion</seg>
+               <seg xml:lang="en">Digital conversion</seg>
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
@@ -28,43 +28,43 @@
             <idno type="filename">Seyrig_90</idno>
             <idno type="SigiDocID">s-sSOTHY</idno>
             <idno type="sequence"/>
-            <date instant="false"/>
-            <availability default="false">
+            <date />
+            <availability >
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License.</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc default="false">
-            <listPerson type="issuer" default="false">
-               <person role="civil" gender="" instant="false">
-                  <persName xml:lang="grc" instant="false" full="yes">
-                     <forename full="yes">Μαρίνος/</forename>
+         <sourceDesc >
+            <listPerson type="issuer" >
+               <person role="civil" gender="" >
+                  <persName xml:lang="grc"  >
+                     <forename >Μαρίνος/</forename>
                   </persName>
-                  <persName xml:lang="grc" instant="false" full="yes">
-                     <forename full="yes">Μαριανός</forename>
+                  <persName xml:lang="grc"  >
+                     <forename >Μαριανός</forename>
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes">Marinos/</forename>
+                  <persName xml:lang="en"  >
+                     <forename >Marinos/</forename>
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes">Marianos</forename>
+                  <persName xml:lang="en"  >
+                     <forename >Marianos</forename>
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes">Marinos/</forename>
+                  <persName xml:lang="fr"  >
+                     <forename >Marinos/</forename>
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes">Marianos</forename>
+                  <persName xml:lang="fr"  >
+                     <forename >Marianos</forename>
                   </persName>
                </person>
             </listPerson>
-            <msDesc status="draft">
+            <msDesc >
                <msIdentifier>
                   <country>
-                     <seg xml:lang="en" part="N">France</seg>
-                     <seg xml:lang="fr" part="N">France</seg>
+                     <seg xml:lang="en">France</seg>
+                     <seg xml:lang="fr">France</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en" part="N">Paris</seg>
-                     <seg xml:lang="fr" part="N">Paris</seg>
+                     <seg xml:lang="en">Paris</seg>
+                     <seg xml:lang="fr">Paris</seg>
                   </settlement>
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
@@ -80,12 +80,12 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en" part="N">Central administration</seg>
-                     <seg xml:lang="fr" part="N">Administration centrale</seg>
+                     <seg xml:lang="en">Central administration</seg>
+                     <seg xml:lang="fr">Administration centrale</seg>
                   </summary>
                   <textLang n="" mainLang="grc-Latn">
-                     <seg xml:lang="en" part="N">Byzantine Greek in Latin script</seg>
-                     <seg xml:lang="fr" part="N">Grec byzantin en alphabet latin</seg>
+                     <seg xml:lang="en">Byzantine Greek in Latin script</seg>
+                     <seg xml:lang="fr">Grec byzantin en alphabet latin</seg>
                   </textLang>
                </msContents>
                <physDesc>
@@ -94,15 +94,15 @@
                         <support>
                            <objectType>
                               <term>
-                                 <seg xml:lang="en" part="N">Seal</seg>
-                                 <seg xml:lang="fr" part="N">Sceau</seg>
+                                 <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="fr">Sceau</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="fr">Empreinte originale</interp>
                            </objectType>
                            <material>
-                              <seg xml:lang="en" part="N">Lead</seg>
-                              <seg xml:lang="fr" part="N">Plomb</seg>
+                              <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="fr">Plomb</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">25</dim>
@@ -119,12 +119,12 @@
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en" part="N">Struck</seg>
-                              <seg xml:lang="fr" part="N">Frappé</seg>
+                              <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="fr">Frappé</seg>
                            </rs>
                            <rs type="shape">
-                              <seg xml:lang="en" part="N">Round</seg>
-                              <seg xml:lang="fr" part="N">Ronde</seg>
+                              <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="fr">Ronde</seg>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -137,13 +137,13 @@
                   </decoDesc>
                </physDesc>
                <history>
-                  <origin instant="false">
-                     <origPlace instant="false">
-                        <seg xml:lang="en" part="N">
-                           <placeName instant="false" full="yes">Byzantine Empire</placeName>
+                  <origin >
+                     <origPlace >
+                        <seg xml:lang="en">
+                           <placeName  >Byzantine Empire</placeName>
                         </seg>
-                        <seg xml:lang="fr" part="N">
-                           <placeName instant="false" full="yes">Empire byzantin</placeName>
+                        <seg xml:lang="fr">
+                           <placeName  >Empire byzantin</placeName>
                         </seg>
                      </origPlace>
                      <origDate type="analysis"
@@ -151,9 +151,9 @@
                                notAfter="0600"
                                evidence="lettering titulature iconography"
                                cert="high"
-                               instant="false">
-                        <seg xml:lang="en" part="N">6th C.</seg>
-                        <seg xml:lang="fr" part="N">VIe s.</seg>
+                               >
+                        <seg xml:lang="en">6th C.</seg>
+                        <seg xml:lang="fr">VIe s.</seg>
                      </origDate>
                   </origin>
                   <acquisition>
@@ -166,7 +166,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="r">
-                        <seg xml:lang="en" part="N">Obverse</seg>
+                        <seg xml:lang="en">Obverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -196,8 +196,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -206,7 +206,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="v">
-                        <seg xml:lang="en" part="N">Reverse</seg>
+                        <seg xml:lang="en">Reverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -236,8 +236,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -245,17 +245,17 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl default="false">
+         <editorialDecl >
             <p part="N"/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc status="draft">
-         <change when="2023-02-14" who="#AS" status="draft">Revision of edition and translation.</change>
-         <change when="2022-12-06" who="#NB" status="draft">Bibliography added</change>
-         <change when="2022-07-20" who="#NB" status="draft">Creation of the XML record; metadata and leidenisation</change>
+      <revisionDesc >
+         <change when="2023-02-14" who="#AS" >Revision of edition and translation.</change>
+         <change when="2022-12-06" who="#NB" >Bibliography added</change>
+         <change when="2022-07-20" who="#NB" >Creation of the XML record; metadata and leidenisation</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic url="">
@@ -272,24 +272,24 @@
          </graphic>
       </surface>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc-Latn" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc-Latn" part="N"  >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
                       
                       <ab part="N"> 
                           <lb n="1"/> <app type="alternative">
-                                                  <lem><expan instant="false"><ex instant="false">Marianou</ex></expan></lem>
-                                                  <rdg><expan instant="false"><ex instant="false">Marinou</ex></expan></rdg>
+                                                  <lem><expan ><ex >Marianou</ex></expan></lem>
+                                                  <rdg><expan ><ex >Marinou</ex></expan></rdg>
                                               </app> 
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
-                                  <lb n="2"/><expan instant="false"><abbr>com
-                          <lb n="3" break="no"/>ito</abbr><ex instant="false">s</ex></expan> <expan instant="false"><abbr>th</abbr><ex instant="false">eion</ex></expan>
-                          <lb n="4"/><expan instant="false"><abbr>prib</abbr><ex instant="false">aton</ex></expan>
+                                  <lb n="2"/><expan ><abbr>com
+                          <lb n="3" break="no"/>ito</abbr><ex >s</ex></expan> <expan ><abbr>th</abbr><ex >eion</ex></expan>
+                          <lb n="4"/><expan ><abbr>prib</abbr><ex >aton</ex></expan>
                        
       
                           
@@ -297,25 +297,25 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N" org="uniform" sample="complete">
-            <listApp default="false">
+         <div type="apparatus" part="N"  >
+            <listApp >
                <app>
-                  <note xml:lang="en" anchored="true">None.</note>
-                  <note xml:lang="fr" anchored="true">Aucun.</note>
+                  <note xml:lang="en" >None.</note>
+                  <note xml:lang="fr" >Aucun.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N" org="uniform" sample="complete">
+         <div type="translation" part="N"  >
             <p part="N">Marianos <hi rend="italic">vel</hi> Marinos / comitos theion pribaton.</p>
             <p xml:lang="en" part="N">Marianos <hi rend="italic">or</hi> Marinos, count of the Private Largesses.</p>
             <p xml:lang="fr" part="N">Marianos <hi rend="italic">ou</hi> Marino, comte des Largesses Privées.</p>
@@ -323,8 +323,8 @@
          <div type="commentary"
               subtype="text"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"><!--Un monogramme semblable à celui du droit de notre pièce figure au revers
                       du sceau bilingue de Jean et Marianus [1]. Un monogramme très proche
                       se trouve sur un autre type de l’ancienne collection Schlumberger (photo à Vienne), avec au
@@ -338,8 +338,8 @@
          <div type="commentary"
               subtype="footnotes"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p xml:id="footnote-1" part="N">
                    <!--   [1]. ZACOS - VEGLERY, 2801.-->
                   </p>
@@ -360,11 +360,11 @@
          <div type="bibliography"
               subtype="edition"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                       Bibliothèque Nationale de France, Paris,
-                      <bibl default="false" status="draft">
+                      <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>90</citedRange>
                </bibl>.
                   </p>
@@ -372,10 +372,10 @@
          <div type="bibliography"
               subtype="discussionParallels"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
-               <bibl default="false" status="draft">
+               <bibl  >
                   <ptr target=""/>, <citedRange unit="page">p. 434, n° 48</citedRange>
                </bibl>,</p>
             <!--Morrisson Seyrig-->

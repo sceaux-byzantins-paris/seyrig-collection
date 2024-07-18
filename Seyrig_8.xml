@@ -6,8 +6,8 @@
       <fileDesc>
          <titleStmt>
             <title>
-               <seg xml:lang="en" part="N">Seal of the emperor Manuel I Komnenos</seg>
-               <seg xml:lang="fr" part="N">Sceau de l'empereur Manuel Ier Comnène</seg>
+               <seg xml:lang="en">Seal of the emperor Manuel I Komnenos</seg>
+               <seg xml:lang="fr">Sceau de l'empereur Manuel Ier Comnène</seg>
             </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
@@ -18,7 +18,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en" part="N">Digital conversion</seg>
+               <seg xml:lang="en">Digital conversion</seg>
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
@@ -28,39 +28,39 @@
             <idno type="filename">Seyrig_8</idno>
             <idno type="SigiDocID">s-5YKsVP</idno>
             <idno type="sequence"/>
-            <date instant="false"/>
-            <availability default="false">
+            <date />
+            <availability >
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
                         Commons Attributions-NonCommercial-ShareAlike 4.0 International
                         License.</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc default="false">
-            <listPerson type="issuer" default="false">
-               <person role="imperial" gender="" instant="false">
-                  <persName xml:lang="grc" instant="false" full="yes">
-                     <forename full="yes">Μανουήλ</forename>
-                     <surname full="yes">Α΄</surname>
+         <sourceDesc >
+            <listPerson type="issuer" >
+               <person role="imperial" gender="" >
+                  <persName xml:lang="grc"  >
+                     <forename >Μανουήλ</forename>
+                     <surname >Α΄</surname>
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes">Manuel</forename>
-                     <surname full="yes">I</surname>
+                  <persName xml:lang="en"  >
+                     <forename >Manuel</forename>
+                     <surname >I</surname>
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes">Manuel</forename>
-                     <surname full="yes">Ier</surname>
+                  <persName xml:lang="fr"  >
+                     <forename >Manuel</forename>
+                     <surname >Ier</surname>
                   </persName>
                </person>
             </listPerson>
-            <msDesc status="draft">
+            <msDesc >
                <msIdentifier>
                   <country>
-                     <seg xml:lang="en" part="N">France</seg>
-                     <seg xml:lang="fr" part="N">France</seg>
+                     <seg xml:lang="en">France</seg>
+                     <seg xml:lang="fr">France</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en" part="N">Paris</seg>
-                     <seg xml:lang="fr" part="N">Paris</seg>
+                     <seg xml:lang="en">Paris</seg>
+                     <seg xml:lang="fr">Paris</seg>
                   </settlement>
                   <institution xml:lang="en">French National Library</institution>
                   <institution xml:lang="fr">Bibliothèque Nationale de France</institution>
@@ -78,12 +78,12 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en" part="N">Imperial seals</seg>
-                     <seg xml:lang="fr" part="N">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial seals</seg>
+                     <seg xml:lang="fr">Sceaux impériaux</seg>
                   </summary>
                   <textLang n="" mainLang="grc">
-                     <seg xml:lang="en" part="N">Byzantine Greek</seg>
-                     <seg xml:lang="fr" part="N">Grec byzantin</seg>
+                     <seg xml:lang="en">Byzantine Greek</seg>
+                     <seg xml:lang="fr">Grec byzantin</seg>
                   </textLang>
                </msContents>
                <physDesc>
@@ -92,8 +92,8 @@
                         <support>
                            <objectType>
                               <term>
-                                 <seg xml:lang="en" part="N">Seal</seg>
-                                 <seg xml:lang="fr" part="N">Sceau</seg>
+                                 <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="fr">Sceau</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
@@ -101,8 +101,8 @@
                                             originale</interp>
                            </objectType>
                            <material>
-                              <seg xml:lang="en" part="N">Lead</seg>
-                              <seg xml:lang="fr" part="N">Plomb</seg>
+                              <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="fr">Plomb</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">35</dim>
@@ -120,12 +120,12 @@
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en" part="N">Struck</seg>
-                              <seg xml:lang="fr" part="N">Frappé</seg>
+                              <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="fr">Frappé</seg>
                            </rs>
                            <rs type="shape">
-                              <seg xml:lang="en" part="N">Round</seg>
-                              <seg xml:lang="fr" part="N">Ronde</seg>
+                              <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="fr">Ronde</seg>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -139,13 +139,13 @@
                   </decoDesc>
                </physDesc>
                <history>
-                  <origin instant="false">
-                     <origPlace instant="false">
-                        <seg xml:lang="en" part="N">
-                           <placeName instant="false" full="yes">Byzantine Empire</placeName>
+                  <origin >
+                     <origPlace >
+                        <seg xml:lang="en">
+                           <placeName  >Byzantine Empire</placeName>
                         </seg>
-                        <seg xml:lang="fr" part="N">
-                           <placeName instant="false" full="yes">Empire byzantin</placeName>
+                        <seg xml:lang="fr">
+                           <placeName  >Empire byzantin</placeName>
                         </seg>
                      </origPlace>
                      <origDate type="analysis"
@@ -153,8 +153,8 @@
                                notAfter="1180"
                                evidence="prosopography iconography reign"
                                cert="high"
-                               instant="false"><!-- les critères doivent e^tre les me^mes que dans interp -->
-                        <seg xml:lang="en" part="N">1068-1071</seg>
+                               ><!-- les critères doivent e^tre les me^mes que dans interp -->
+                        <seg xml:lang="en">1068-1071</seg>
                      </origDate>
                   </origin>
                   <!-- Le Caire n'est pas le lieu où le sceau a été trouvé, mais où Seyrig l'a acheté; il faut utiliser provenance-transferred -->
@@ -168,7 +168,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="r">
-                        <seg xml:lang="en" part="N">Obverse</seg>
+                        <seg xml:lang="en">Obverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -199,8 +199,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -209,7 +209,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="v">
-                        <seg xml:lang="en" part="N">Reverse</seg>
+                        <seg xml:lang="en">Reverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -242,8 +242,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -251,17 +251,17 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl default="false">
+         <editorialDecl >
             <p part="N"/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc status="draft">
-         <change when="2022-06-24" who="#NB" status="draft">Corrections following the first revision of the XML record</change>
-         <change when="2022-06-24" who="#AS" status="draft">Firsr revision of the XML record</change>
-         <change when="2022-06-07" who="#NB" status="draft">Creation of the XML record</change>
+      <revisionDesc >
+         <change when="2022-06-24" who="#NB" >Corrections following the first revision of the XML record</change>
+         <change when="2022-06-24" who="#AS" >Firsr revision of the XML record</change>
+         <change when="2022-06-07" who="#NB" >Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic url="">
@@ -277,37 +277,37 @@
          </graphic>
       </surface>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+                <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
                 <ab part="N">  
-                    <lb n="1"/><expan instant="false"><supplied reason="omitted" instant="false"><abbr>Ἰ</abbr></supplied><ex instant="false">ησοῦ</ex><abbr>ς</abbr></expan> <expan instant="false"><abbr>Χ</abbr><ex instant="false">ριστό</ex><abbr>ς</abbr></expan>
+                    <lb n="1"/><expan ><supplied reason="omitted" ><abbr>Ἰ</abbr></supplied><ex >ησοῦ</ex><abbr>ς</abbr></expan> <expan ><abbr>Χ</abbr><ex >ριστό</ex><abbr>ς</abbr></expan>
                 </ab>
             </div>
-            <div type="textpart" subtype="face" n="obv" rend="columns" part="N" org="uniform" sample="complete" xml:lang="">
+            <div type="textpart" subtype="face" n="obv" rend="columns" part="N"   xml:lang="">
                 <ab part="N">  
-                    <lb n="1"/><expan instant="false"><supplied reason="omitted" instant="false">ὁ</supplied></expan><expan instant="false"><supplied reason="omitted" instant="false">Ἐ</supplied>μμανουήλ</expan>
+                    <lb n="1"/><expan ><supplied reason="omitted" >ὁ</supplied></expan><expan ><supplied reason="omitted" >Ἐ</supplied>μμανουήλ</expan>
                 </ab>
                 </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
                       <ab part="N">
-                                  <lb n="1"/> Μανουὴλ δεσπότης <expan instant="false"><supplied reason="lost" instant="false">ὁ πορφυρογέννητος</supplied></expan>
+                                  <lb n="1"/> Μανουὴλ δεσπότης <expan ><supplied reason="lost" >ὁ πορφυρογέννητος</supplied></expan>
                       </ab>
             
               </div>
                      </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
                       <ab part="N">
                         
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N" org="uniform" sample="complete">
+         <div type="apparatus" part="N"  >
             <p part="N"/>
          </div>
-         <div type="translation" part="N" org="uniform" sample="complete">
+         <div type="translation" part="N"  >
             <p part="N">Μανουὴλ δεσπότης ὁ πορφυρογέννητος.</p>
             <p xml:lang="en" part="N">Manuel despotes, the porphyrogennetos.</p>
             <p xml:lang="fr" part="N">Manuel despote, le porphyrogénète.</p>
@@ -315,23 +315,23 @@
          <div type="commentary"
               subtype="text"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"/>
          </div>
          <div type="commentary"
               subtype="footnotes"
               part="N"
-              org="uniform"
-              sample="complete"/>
+              
+              />
          <div type="bibliography"
               subtype="edition"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                     Biliothèque Nationale de France, Paris
-                    <bibl default="false" status="draft">
+                    <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>8</citedRange>
                </bibl>.
                 </p>
@@ -339,21 +339,21 @@
          <div type="bibliography"
               subtype="parallels"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
                     Médailler Pontifical, Vatican, Rome,
-                    <bibl default="false" status="draft">
+                    <bibl  >
                   <ptr target=""/>, <citedRange>13</citedRange>
                </bibl>; </p>
             <!--ajouter référence Laurent Vatican-->
             <p part="N">
                     Dumbarton Oaks, Washington D.C.,
-                    <bibl default="false" status="draft">
+                    <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>107a</citedRange>
                </bibl>; </p>
             <p part="N">    Münzkabinett des Kunsthistorischen Museums, Vienne,
-                    <bibl default="false" status="draft">
+                    <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange>29b</citedRange>
                </bibl>;
                 </p>
@@ -361,10 +361,10 @@
          <div type="bibliography"
               subtype="discussionParallels"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">
-               <bibl default="false" status="draft">
+               <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/111/">Manuel 1</ref>
                   </citedRange>

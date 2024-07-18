@@ -6,9 +6,9 @@
       <fileDesc>
          <titleStmt>
             <title>
-               <seg xml:lang="en" part="N">Seal of Constantine Skleropoulos</seg>
+               <seg xml:lang="en">Seal of Constantine Skleropoulos</seg>
                <!-- parallel Coll. Zacos. -->
-               <seg xml:lang="fr" part="N">Sceau de Constantin Sklèropoulos</seg>
+               <seg xml:lang="fr">Sceau de Constantin Sklèropoulos</seg>
             </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
@@ -19,7 +19,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en" part="N">Digital conversion</seg>
+               <seg xml:lang="en">Digital conversion</seg>
             </edition>
             <editor role="digital-editor" xml:id="SM">Sima 
                         Meziridou</editor>
@@ -29,37 +29,37 @@
             <idno type="filename">Seyrig_317</idno>
             <idno type="SigiDocID">s-nO5lGI</idno>
             <idno type="sequence"/>
-            <date instant="false"/>
-            <availability default="false">
+            <date />
+            <availability >
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License.</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc default="false">
-            <listPerson type="issuer" default="false">
-               <person role="private" gender="" instant="false">
-                  <persName xml:lang="grc" instant="false" full="yes">
-                     <forename full="yes">Κωνσταντῖνος</forename>
-                     <surname full="yes">Σκληρόπουλος</surname>
+         <sourceDesc >
+            <listPerson type="issuer" >
+               <person role="private" gender="" >
+                  <persName xml:lang="grc"  >
+                     <forename >Κωνσταντῖνος</forename>
+                     <surname >Σκληρόπουλος</surname>
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes">Constantine</forename>
-                     <surname full="yes">Skleropoulos</surname>
+                  <persName xml:lang="en"  >
+                     <forename >Constantine</forename>
+                     <surname >Skleropoulos</surname>
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes">Constantin</forename>
-                     <surname full="yes">Sklèropoulos</surname>
+                  <persName xml:lang="fr"  >
+                     <forename >Constantin</forename>
+                     <surname >Sklèropoulos</surname>
                   </persName>
                </person>
             </listPerson>
-            <msDesc status="draft">
+            <msDesc >
                <msIdentifier>
                   <country>
-                     <seg xml:lang="en" part="N">France</seg>
-                     <seg xml:lang="fr" part="N">France</seg>
+                     <seg xml:lang="en">France</seg>
+                     <seg xml:lang="fr">France</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en" part="N">Paris</seg>
-                     <seg xml:lang="fr" part="N">Paris</seg>
+                     <seg xml:lang="en">Paris</seg>
+                     <seg xml:lang="fr">Paris</seg>
                   </settlement>
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
@@ -75,12 +75,12 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en" part="N">Private patronymic seals</seg>
-                     <seg xml:lang="fr" part="N">Sceaux patronymiques privé</seg>
+                     <seg xml:lang="en">Private patronymic seals</seg>
+                     <seg xml:lang="fr">Sceaux patronymiques privé</seg>
                   </summary>
                   <textLang n="" mainLang="grc">
-                     <seg xml:lang="en" part="N">Byzantine greek</seg>
-                     <seg xml:lang="fr" part="N">Grec byzantin</seg>
+                     <seg xml:lang="en">Byzantine greek</seg>
+                     <seg xml:lang="fr">Grec byzantin</seg>
                   </textLang>
                </msContents>
                <physDesc>
@@ -89,15 +89,15 @@
                         <support>
                            <objectType>
                               <term>
-                                 <seg xml:lang="en" part="N">Seal</seg>
-                                 <seg xml:lang="fr" part="N">Sceau</seg>
+                                 <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="fr">Sceau</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="fr">Empreinte originale</interp>
                            </objectType>
                            <material>
-                              <seg xml:lang="en" part="N">Lead</seg>
-                              <seg xml:lang="fr" part="N">Plomb</seg>
+                              <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="fr">Plomb</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">16</dim>
@@ -115,12 +115,12 @@
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en" part="N">Struck</seg>
-                              <seg xml:lang="fr" part="N">Frappé</seg>
+                              <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="fr">Frappé</seg>
                            </rs>
                            <rs type="shape">
-                              <seg xml:lang="en" part="N">Round</seg>
-                              <seg xml:lang="fr" part="N">Ronde</seg>
+                              <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="fr">Ronde</seg>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -133,13 +133,13 @@
                   </decoDesc>
                </physDesc>
                <history>
-                  <origin instant="false">
-                     <origPlace instant="false">
-                        <seg xml:lang="en" part="N">
-                           <placeName instant="false" full="yes">Byzantine Empire</placeName>
+                  <origin >
+                     <origPlace >
+                        <seg xml:lang="en">
+                           <placeName  >Byzantine Empire</placeName>
                         </seg>
-                        <seg xml:lang="fr" part="N">
-                           <placeName instant="false" full="yes">Empire byzantin</placeName>
+                        <seg xml:lang="fr">
+                           <placeName  >Empire byzantin</placeName>
                         </seg>
                      </origPlace>
                      <origDate type="analysis"
@@ -147,9 +147,9 @@
                                notAfter="1150"
                                evidence="lettering"
                                cert="high"
-                               instant="false">
-                        <seg xml:lang="en" part="N">12th C., first half</seg>
-                        <seg xml:lang="fr" part="N">XIIe s., première moitié</seg>
+                               >
+                        <seg xml:lang="en">12th C., first half</seg>
+                        <seg xml:lang="fr">XIIe s., première moitié</seg>
                      </origDate>
                   </origin>
                   <acquisition>
@@ -162,7 +162,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="r">
-                        <seg xml:lang="en" part="N">Obverse</seg>
+                        <seg xml:lang="en">Obverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -192,8 +192,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -202,7 +202,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="v">
-                        <seg xml:lang="en" part="N">Reverse</seg>
+                        <seg xml:lang="en">Reverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -232,8 +232,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -241,17 +241,17 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl default="false">
+         <editorialDecl >
             <p part="N"/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc status="draft">
-         <change when="2022-12-07" who="#SM" status="draft">Bibliography added</change>
-         <change when="2022-09-27" who="AS" status="draft">First revision of the XML record</change>
-         <change when="2022-08-09" who="#SM" status="draft">Creation of the XML record; metadata and leidenisation</change>
+      <revisionDesc >
+         <change when="2022-12-07" who="#SM" >Bibliography added</change>
+         <change when="2022-09-27" who="AS" >First revision of the XML record</change>
+         <change when="2022-08-09" who="#SM" >Creation of the XML record; metadata and leidenisation</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic url="">
@@ -268,44 +268,44 @@
          </graphic>
       </surface>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N" org="uniform" sample="complete" xml:lang=""><!-- pay attention to these attributes, they must be changed according to each legend -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang=""><!-- pay attention to these attributes, they must be changed according to each legend -->
                       <ab part="N">
-                       <lb n="1"/><expan instant="false"><abbr>Κ</abbr><ex instant="false">ύρι</ex><abbr>ε</abbr></expan> 
-                          βοή<supplied reason="lost" instant="false">θ</supplied>
+                       <lb n="1"/><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> 
+                          βοή<supplied reason="lost" >θ</supplied>
                           <lb n="2" break="no"/>ει τῷ σῷ 
                           <lb n="3"/>δούλῳ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
-                          <lb n="1"/><expan instant="false"><supplied reason="lost" instant="false"><abbr>Κ</abbr></supplied><abbr>ων</abbr><ex instant="false">σταντίνῳ</ex></expan>
-                          <lb n="2"/><supplied reason="lost" instant="false">τ</supplied>ῷ <expan instant="false"><abbr>Σκλη</abbr>
-                          <lb n="3" break="no"/><supplied reason="lost" instant="false"><abbr>ρ</abbr></supplied><abbr>οπούλ</abbr><ex instant="false">ῳ</ex></expan>
+                          <lb n="1"/><expan ><supplied reason="lost" ><abbr>Κ</abbr></supplied><abbr>ων</abbr><ex >σταντίνῳ</ex></expan>
+                          <lb n="2"/><supplied reason="lost" >τ</supplied>ῷ <expan ><abbr>Σκλη</abbr>
+                          <lb n="3" break="no"/><supplied reason="lost" ><abbr>ρ</abbr></supplied><abbr>οπούλ</abbr><ex >ῳ</ex></expan>
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N" org="uniform" sample="complete">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N" org="uniform" sample="complete" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
+                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N" org="uniform" sample="complete" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
                       <ab part="N">
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N" org="uniform" sample="complete">
-            <listApp default="false">
+         <div type="apparatus" part="N"  >
+            <listApp >
                <app>
-                  <note xml:lang="en" anchored="true">None.</note>
-                  <note xml:lang="fr" anchored="true">Aucun.</note>
+                  <note xml:lang="en" >None.</note>
+                  <note xml:lang="fr" >Aucun.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N" org="uniform" sample="complete">
+         <div type="translation" part="N"  >
             <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ / Κωνσταντίνῳ τῷ Σκληροπούλῳ.</p>
             <!-- attention to accents and iota in the dative -->
             <p xml:lang="en" part="N">Lord help your servant Constantine Skleropoulos.</p>
@@ -315,8 +315,8 @@
          <div type="commentary"
               subtype="text"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"><!-- Peut-être ce personnage est-il identique au Constantin
                       Sklèros connu par un épigramme du Codex Marcianus 524 [1]. Un autre
                       Constantin Sklèros, prêtre, signe en 1176 le manuscrit Zaborda 58 [2]. On ne peut lui attribuer notre pièce pour des raisons
@@ -327,8 +327,8 @@
          <div type="commentary"
               subtype="footnotes"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"><!--   xml:id="footnote-1">
                       [1]. SEIBT, <hi rend="italic">Skleroi</hi>, p. 109.
                   </p>
@@ -340,10 +340,10 @@
          <div type="bibliography"
               subtype="edition"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"> Bibliothèque Nationale de France, Paris,
-                      <bibl default="false" status="draft">
+                      <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 317</citedRange>
                </bibl>.
                   </p>
@@ -351,13 +351,13 @@
          <div type="bibliography"
               subtype="parallels"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N"> Dumbarton Oaks, Washington D.C. (coll. Zacos),
-                      <bibl default="false" status="draft">
+                      <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.1046/view"/> BZS.1951.31.5.1046</citedRange>,</bibl>
-               <bibl default="false" status="draft">
+               <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/608/"> Konstantinos 20135</ref>
                   </citedRange>

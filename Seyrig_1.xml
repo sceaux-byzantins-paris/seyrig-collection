@@ -16,8 +16,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en" part="N">Digital enhancement</seg>
-               <seg xml:lang="fr" part="N">Amélioration digitale</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
@@ -27,42 +27,42 @@
             <idno type="filename">Seyrig_1</idno>
             <!--<idno type="SigiDocID">39</idno>-->
             <!--<idno type="sequence">0014</idno>-->
-            <date when="2022-06-07" instant="false"/>
-            <availability default="false">
+            <date when="2022-06-07" />
+            <availability >
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
                         Commons Attributions-NonCommercial-ShareAlike 4.0 International
                         License.</licence>
             </availability>
             <idno type="SigiDocID">s-2pJdfn</idno>
          </publicationStmt>
-         <sourceDesc default="false">
-            <listPerson type="issuer" default="false">
-               <person role="imperial" gender="" instant="false">
-                  <persName xml:lang="grc" instant="false" full="yes">
-                     <forename full="yes"/>
+         <sourceDesc >
+            <listPerson type="issuer" >
+               <person role="imperial" gender="" >
+                  <persName xml:lang="grc"  >
+                     <forename />
                   </persName>
-                  <persName xml:lang="en" instant="false" full="yes">
-                     <forename full="yes"/>
+                  <persName xml:lang="en"  >
+                     <forename />
                   </persName>
-                  <persName xml:lang="fr" instant="false" full="yes">
-                     <forename full="yes"/>
+                  <persName xml:lang="fr"  >
+                     <forename />
                   </persName>
                </person>
             </listPerson>
             <msDesc status="draft">
                <msIdentifier>
                   <country>
-                     <seg xml:lang="en" part="N">France</seg>
-                     <seg xml:lang="fr" part="N">France</seg>
+                     <seg xml:lang="en">France</seg>
+                     <seg xml:lang="fr">France</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en" part="N">Paris</seg>
-                     <seg xml:lang="fr" part="N">Paris</seg>
+                     <seg xml:lang="en">Paris</seg>
+                     <seg xml:lang="fr">Paris</seg>
                   </settlement>
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs xml:lang="en">Henri Seyrig Collection</rs>
+                     <rs xml:lang="en" >Henri Seyrig Collection</rs>
                      <rs xml:lang="fr">Collection Henri Seyrig</rs>
                   </collection>
                   <idno type="inv-nr-current">808</idno>
@@ -73,8 +73,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en" part="N">Imperial seals</seg>
-                     <seg xml:lang="fr" part="N">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial seals</seg>
+                     <seg xml:lang="fr">Sceaux impériaux</seg>
                   </summary>
                   <textLang n="" mainLang=""/>
                </msContents>
@@ -114,38 +114,38 @@
                   </decoDesc>
                </physDesc>
                <history>
-                  <origin instant="false">
-                     <origPlace instant="false"/>
+                  <origin >
+                     <origPlace />
                      <origDate type="analysis"
                                notBefore="0470"
                                notAfter="0540"
                                evidence=" iconography"
                                cert="medium"
-                               instant="false">
-                        <seg xml:lang="en" part="N">From 470 to 540</seg>
-                        <seg xml:lang="fr" part="N">De 470 à 540</seg>
+                               >
+                        <seg xml:lang="en">From 470 to 540</seg>
+                        <seg xml:lang="fr">De 470 à 540</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered" xml:lang="fr">
                      <placeName type="ancientFindspot"
                                 ref="https://pleiades.stoa.org/places/678437"
-                                instant="false"
-                                full="yes">Tyr</placeName>
+                                
+                                >Tyr</placeName>
                      <placeName type="modernFindspot"
                                 ref="https://www.geonames.org/267008/tyre.html"
-                                instant="false"
-                                full="yes">Ṣūr</placeName>
+                                
+                                >Ṣūr</placeName>
                      <!-- vérifier graphie -->
                   </provenance>
                   <provenance type="found" subtype="discovered" xml:lang="en">
                      <placeName type="ancientFindspot"
                                 ref="https://pleiades.stoa.org/places/678437"
-                                instant="false"
-                                full="yes">Tyre</placeName>
+                                
+                                >Tyre</placeName>
                      <placeName type="modernFindspot"
                                 ref="https://www.geonames.org/267008/tyre.html"
-                                instant="false"
-                                full="yes">Ṣūr</placeName>
+                                
+                                >Ṣūr</placeName>
                      <!-- vérifier graphie -->
                   </provenance>
                   <acquisition>
@@ -158,7 +158,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="r">
-                        <seg xml:lang="en" part="N">Obverse</seg>
+                        <seg xml:lang="en">Obverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -193,8 +193,8 @@
                      </decoDesc>
                   </physDesc>
                   <history> <!--only for assembled boulloteria-->
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -203,7 +203,7 @@
                         </msIdentifier>
                   <msContents>
                      <summary n="v">
-                        <seg xml:lang="en" part="N">Reverse</seg>
+                        <seg xml:lang="en">Reverse</seg>
                      </summary>
                   </msContents>
                   <physDesc>
@@ -234,8 +234,8 @@
                      </decoDesc>
                   </physDesc>
                   <history> <!--only for assembled boulloteria-->
-                     <origin instant="false">
-                        <date instant="false"/>
+                     <origin >
+                        <date />
                      </origin>
                   </history>
                </msPart>
@@ -243,16 +243,16 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl default="false">
+         <editorialDecl >
             <p part="N"/>
          </editorialDecl>
       </encodingDesc>
       <revisionDesc status="draft">
-         <change when="2022-06-13" who="#AS" status="draft">First revision of the XML record.</change>
-         <change when="2022-06-07" who="#NB" status="draft">Creation of the XML record. </change>
+         <change when="2022-06-13" who="#AS">First revision of the XML record.</change>
+         <change when="2022-06-07" who="#NB">Creation of the XML record. </change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic url="XXX" scale="1.5">
@@ -268,27 +268,27 @@
          </graphic>
       </surface>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
-         <div type="edition" part="N" org="uniform" sample="complete"/>
-         <div type="apparatus" part="N" org="uniform" sample="complete">
-            <listApp default="false">
+         <div type="edition" part="N"  />
+         <div type="apparatus" part="N"  >
+            <listApp >
                <app>
-                  <note xml:lang="en" anchored="true">
+                  <note xml:lang="en" >
                      <hi rend="italic">None.</hi>
                   </note>
-                  <note xml:lang="fr" anchored="true">
+                  <note xml:lang="fr" >
                      <hi rend="italic">Aucun.</hi>
                   </note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N" org="uniform" sample="complete"/>
+         <div type="translation" part="N"  />
          <div type="commentary"
               subtype="text"
               part="N"
-              org="uniform"
-              sample="complete">
+              
+              >
             <p part="N">On peut faire remarquer
                         l’analogie de cette effigie avec le type des AE 2 de Léon (<hi rend="italic">LRBC</hi> 2251). Un type voisin est
                         encore employé sur certains bronzes (<hi rend="italic">dêkanoummia</hi>) de Justin Ier {<hi rend="italic">BNC</hi>, pl. VI, 21 ; avec la
@@ -302,13 +302,13 @@
          <div type="bibliography"
               subtype="edition"
               part="N"
-              org="uniform"
-              sample="complete"/>
+              
+              />
          <div type="bibliography"
               subtype="parallels"
               part="N"
-              org="uniform"
-              sample="complete"/>
+              
+              />
       </body>
    </text>
 </TEI>
