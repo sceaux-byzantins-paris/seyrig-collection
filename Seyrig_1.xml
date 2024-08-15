@@ -126,15 +126,12 @@
                         <seg xml:lang="fr">De 470 à 540</seg>
                      </origDate>
                   </origin>
-                  <provenance type="found" subtype="discovered" xml:lang="fr">
-                     <placeName type="ancientFindspot"
-                                ref="https://pleiades.stoa.org/places/678437"
-                                
-                                >Tyr</placeName>
-                     <placeName type="modernFindspot"
-                                ref="https://www.geonames.org/267008/tyre.html"
-                                
-                                >Ṣūr</placeName>
+                  <provenance type="found" subtype="discovered">
+                     <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678437" xml:lang="fr">Tyr</placeName>
+                     <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678437" xml:lang="en">Tyre</placeName>
+                     <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html" xml:lang="fr">Tyr</placeName>
+                     <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html" xml:lang="en">Tyre</placeName>
+                     <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html" xml:lang="ara">صور (Ṣūr)</placeName>
                      <!-- vérifier graphie -->
                   </provenance>
                   <provenance type="found" subtype="discovered" xml:lang="en">
