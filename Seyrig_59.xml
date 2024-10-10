@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné dans la partie inférieure ; échancrure aux orifices du canal et entaillé sur tout le trajet de celui-ci ; double
+                           <p >Rogné dans la partie inférieure ; échancrure aux orifices du canal et entaillé sur tout le trajet de celui-ci ; double
                                         frappe au revers; sinon belle conservation.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-kp0pZm-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-kp0pZm-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,15 +267,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> Νικη
                         <cb n="b" break="no"/>φόρος
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                               
                           <lb n="2"/> τῷ σῷ <expan ><abbr>δούλ</abbr><ex >ῳ</ex></expan></rs>
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="a-b"><!-- l'apparat est plus pour la légende, mais pas ce n'est pas catégorique; toutefois, ces propos toruvent mieux place dans la description de l'iconographie -->
                   <note >Les représentations conservées de saint Nicéphore sur des sceaux sont rares
@@ -310,18 +310,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Νικηφόρος. / + Κύριε βοήθει τῷ σῷ δούλῳ Νικηφόρῳ πρωτοσπαθαρίῳ τῷ υἱῷ τοῦ N. πατρικίου.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Νικηφόρος. / + Κύριε βοήθει τῷ σῷ δούλῳ Νικηφόρῳ πρωτοσπαθαρίῳ τῷ υἱῷ τοῦ N. πατρικίου.</p>
             <!-- on verra ensuite si ce N est approprié -->
-            <p xml:lang="en" part="N">St. Nikephoros. Lord aid your servant Nikephoros, protospatharios, son of the patrikios N..</p>
-            <p xml:lang="fr" part="N">Saint Nicéphore. Seigneur aide ton serviteur Nicéphore, protospathaire, fils du patrice N..</p>
+            <p xml:lang="en" >St. Nikephoros. Lord aid your servant Nikephoros, protospatharios, son of the patrikios N..</p>
+            <p xml:lang="fr" >Saint Nicéphore. Seigneur aide ton serviteur Nicéphore, protospathaire, fils du patrice N..</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               ><!-- l'hypothèse de lecture du nom du père devrait trouver place dans l'apparat, simplement avec la mention Σπιχαμένης: voir guide, pour apparat et lecture alternatives; ensuitel a discussion sur cette hypothèse resterait ici -->
-            <p part="N"><!--Nicéphore était le fils d’un patrice dont le nom ne peut être restitué avec certitude, mais
+            <p ><!--Nicéphore était le fils d’un patrice dont le nom ne peut être restitué avec certitude, mais
                       laisse présumer une origine non byzantine. Si on restituait Σπιχαμένης, on aurait affaire à
                       un nom peut-être d’origine iranienne (cf. l’iranien Spihr ou sipâhî). Ou bien ce patrice seraitil
                       un des nombreux chefs Petchénègues ralliés à l'Empire sous Constantin IX et comblés de
@@ -329,19 +329,19 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. ATTALEIATÈS, p. 31.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>59</citedRange>

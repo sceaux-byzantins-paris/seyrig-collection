@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition><!-- @rend à ajouter -->
-                           <p xml:lang="en" part="N">Large indentation along the line of the canal that carried away the saint's head; notch on reverse left.</p>
-                           <p xml:lang="fr" part="N">Large échancrure le long de la ligne du canal qui a emporté la tête du saint; entaille au revers à gauche.</p>
+                           <p xml:lang="en" >Large indentation along the line of the canal that carried away the saint's head; notch on reverse left.</p>
+                           <p xml:lang="fr" >Large échancrure le long de la ligne du canal qui a emporté la tête du saint; entaille au revers à gauche.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,11 +150,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acquis à Lattakié en 1939, provenant d'Antioche</p>
+                     <p >Acquis à Lattakié en 1939, provenant d'Antioche</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JNhN6b-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,8 +215,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JNhN6b-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -247,7 +247,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -276,15 +276,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/>Ὁ <expan ><abbr>ἃγιο</abbr><ex >ς</ex></expan> 
                           <cb n="b"/><expan ><abbr>Βασ</abbr><supplied reason="lost" ><abbr>ίλ</abbr><ex >ειος</ex></supplied></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+<expan ><abbr>Κ</abbr><ex >ύρι</ex><supplied reason="lost" ><abbr>ε</abbr></supplied></expan> 
                           <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                            <lb n="2"/>τῷ σῷ <expan ><abbr>δ</abbr><ex >ούλῳ</ex></expan> 
@@ -292,17 +292,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,25 +310,25 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Βασίλειος. / +Κύριε βοήθει τῷ σῷ δούλῳ Ἰωσήφ.</p>
-            <p xml:lang="en" part="N">Saint Basil. / Lord help your servant Joseph.</p>
-            <p xml:lang="fr" part="N">Saint Basile. / Seigneur aide ton serviteur Joseph.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Βασίλειος. / +Κύριε βοήθει τῷ σῷ δούλῳ Ἰωσήφ.</p>
+            <p xml:lang="en" >Saint Basil. / Lord help your servant Joseph.</p>
+            <p xml:lang="fr" >Saint Basile. / Seigneur aide ton serviteur Joseph.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le sceau publié par G. Zacos [1] présente un revers
+            <p ><!--Le sceau publié par G. Zacos [1] présente un revers
                       presqu’identique, avec, au droit, le buste de la Vierge Hodègètria.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. II, 534.-->
                   </p>
          </div>

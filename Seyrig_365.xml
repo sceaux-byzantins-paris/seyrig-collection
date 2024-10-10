@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Heavily trimmed on the left side; indentations at the canal openings.</p>
-                           <p xml:lang="fr" part="N">Fortement rogné dans la partie gauche; échancrures aux orifices du canal.</p>
+                           <p xml:lang="en" >Heavily trimmed on the left side; indentations at the canal openings.</p>
+                           <p xml:lang="fr" >Fortement rogné dans la partie gauche; échancrures aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-LEYeS7-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme: T et OY au sommet,
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme cruciforme: T et OY au sommet,
                                             A à la base, M et E à gauche, A à droite</p>
                            </layout>
                         </layoutDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-LEYeS7-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme, avec un X au centre,
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme cruciforme, avec un X au centre,
                                             un A à la base, un P et un OY(?) au sommet, un C à droite; la lettre qui se trouvait sur la haste gauche est détruite</p>
                            </layout>
                         </layoutDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,29 +270,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Μεγάλου</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                         <lb n="2"/><expan cert="low" ><ex >σχολαρίου</ex></expan>
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -300,25 +300,25 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μεγάλου σχολαρίου (?).</p>
-            <p xml:lang="en" part="N">(Seal of) Megalos, scholarios (?).</p>
-            <p xml:lang="fr" part="N">(Sceau d') Mégalos, scholarios (?).</p>
+         <div type="translation"   >
+            <p >Μεγάλου σχολαρίου (?).</p>
+            <p xml:lang="en" >(Seal of) Megalos, scholarios (?).</p>
+            <p xml:lang="fr" >(Sceau d') Mégalos, scholarios (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Sur le nom Mégalos [1]. Si notre lecture du monogramme est
+            <p ><!--Sur le nom Mégalos [1]. Si notre lecture du monogramme est
                       exacte, ce serait ici la première attestation sur un sceau de la fonction de membre des scholes.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. Voir
                       P. M. FRASER - E. MATTHEWS,<hi rend="italic"> A Lexikon of Greek Personal Nâmes I. The Aegean Islands.
                       Cyprus. Cyrenaica</hi>, Oxford, 1987, p. 300. Pour d’autres attestations, voir entre autres, MANSI

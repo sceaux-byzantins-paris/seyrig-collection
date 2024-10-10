@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Échancré aux orifices du canal, surtout au sommet; droit, presque totalement oblitéré, le revers est oblitéré
+                           <p >Échancré aux orifices du canal, surtout au sommet; droit, presque totalement oblitéré, le revers est oblitéré
                                         sur la gauche.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-bekkYu-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-bekkYu-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,13 +268,13 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
                   <!--<div type="textpart" subtype="label" n="obv">
                       <ab>
                       </ab>
                   </div>--><!-- s'il n'y a pas de légende sur l'avers, par ex., comme ici, il faut mettre en vert tout le div, autrement sur la page web les mentions obv et rev dans l'édition seront superposées -->
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang=""><!-- pas de ponctuation ici, seulement dans div type=translation -->
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang=""><!-- pas de ponctuation ici, seulement dans div type=translation -->
+                      <ab >
                            <lb n="1"/><supplied reason="omitted" >+</supplied> Βασ<supplied reason="lost" >ι</supplied>
                           <lb n="2" break="no"/>λείου ὑπάτ
                           <lb n="3" break="no"/><supplied reason="lost" >ου</supplied> <supplied reason="lost" >ἄ</supplied>ρχοντ<supplied reason="omitted" >ο</supplied>
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Βασιλείου ὑπάτου,  ἄρχοντος τοῦ βλαττίου καὶ γενικοῦ κομμερκιαρίου.</p>
-            <p xml:lang="en" part="N">(Seal of) Basil, hypatos, archontes of the blattion and genikos kommerkiarios.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Basile, hypatos, archonte du <hi rend="italic">blattion</hi> et <hi rend="italic">génikos kommerkiarios</hi>.</p>
+         <div type="translation"   >
+            <p >+ Βασιλείου ὑπάτου,  ἄρχοντος τοῦ βλαττίου καὶ γενικοῦ κομμερκιαρίου.</p>
+            <p xml:lang="en" >(Seal of) Basil, hypatos, archontes of the blattion and genikos kommerkiarios.</p>
+            <p xml:lang="fr" >(Sceau de) Basile, hypatos, archonte du <hi rend="italic">blattion</hi> et <hi rend="italic">génikos kommerkiarios</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le sceau ne semble pas présenter d'indiction. L’archonte du Blattion était responsable des
+            <p ><!--Le sceau ne semble pas présenter d'indiction. L’archonte du Blattion était responsable des
                       ateliers où étaient fabriqués les tissus de soie réservés à l’empereur. Au droit, leurs sceaux
                       portent, comme ceux des commerciaires, les effigies impériales, en garantie de la qualité du
                       produit [1].-->
@@ -321,10 +321,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. Sur cette question, voir en dernier lieu, N. OIKONOMIDÈS, Silk Trade and Production
                           in Byzantium from the Sixth to the Ninth Century : The Seals of Kommerkiarioi, <hi rend="italic">DOP</hi> 40,
                           1986, p. 50-51.-->
@@ -332,10 +332,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>76</citedRange>

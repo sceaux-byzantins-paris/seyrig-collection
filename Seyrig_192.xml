@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Usé; rogné et fortement entaillé sur tout le bord gauche.</p>
+                           <p >Usé; rogné et fortement entaillé sur tout le bord gauche.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-XDowZT-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-XDowZT-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,21 +268,21 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" >Ὁ ἅγιος</supplied> <expan ><abbr>Θε</abbr><ex >ό</ex><abbr>δ</abbr><ex >ωρος</ex></expan>
                         
                            
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <lg type="metrical" met="dodecasyllabic" subtype="true" part="N"  >
-                           <l part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <lg type="metrical" met="dodecasyllabic" subtype="true"   >
+                           <l >
                                <lb n="1"/>Δομέσ
                           <lb n="2" break="no"/><supplied reason="lost" >τ</supplied>ικον Ἑῴα<supplied reason="omitted" >ς</supplied>
                           <lb n="3"/><expan ><abbr>ἀθλητ</abbr><ex >ὰ</ex></expan> σκέ<supplied reason="omitted" >π</supplied>
-                          <lb n="4" break="no"/>οις </l> <l part="N">πρῶτο<supplied reason="lost" >ν</supplied> <supplied reason="omitted" >σε</supplied>
+                          <lb n="4" break="no"/>οις </l> <l >πρῶτο<supplied reason="lost" >ν</supplied> <supplied reason="omitted" >σε</supplied>
                           <lb n="5" break="no"/>βαστῶν <supplied reason="lost" >Φι</supplied>
                            <lb n="6" break="no"/>λάρετ<supplied reason="lost" >ο</supplied><supplied reason="omitted" >ν</supplied>
                               <lb n="7"/><expan ><abbr><supplied reason="omitted" >Βρ</supplied><supplied reason="lost" >αχάμ</supplied></abbr><supplied reason="lost" ><ex >ην</ex></supplied></expan>
@@ -291,17 +291,17 @@
                               
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,17 +309,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Θεόδωρος. / Δομέστικον Ἑῴας ἀθλητὰ σκέποις | πρῶτον σεβαστῶν Φιλάρετον Βραχάμην.</p>
-            <p xml:lang="en" part="N">St. Theodoros. Martyr may you protect Philaretos Brachamios, protosebastos and domestikos of the East.</p>
-            <p xml:lang="fr" part="N">Saint Théodore. Martyr puisses-tu protéger Philarète Brachamios, protosébaste et domestique d’Orient.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Θεόδωρος. / Δομέστικον Ἑῴας ἀθλητὰ σκέποις | πρῶτον σεβαστῶν Φιλάρετον Βραχάμην.</p>
+            <p xml:lang="en" >St. Theodoros. Martyr may you protect Philaretos Brachamios, protosebastos and domestikos of the East.</p>
+            <p xml:lang="fr" >Saint Théodore. Martyr puisses-tu protéger Philarète Brachamios, protosébaste et domestique d’Orient.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Ce sceau, dont la lecture est assurée par des pièces parallèles inédites,
+            <p ><!--Ce sceau, dont la lecture est assurée par des pièces parallèles inédites,
                       témoigne de l’ultime étape de la carrière de Philarète. Après avoir été investi du commandement
                       officiel des Scholes d’Orient par l’empereur Nicéphore III Botaneiatès, Philarète Brachamios
                       fut promu à la dignité de sébaste [1]. Alexis Comnène qui
@@ -332,13 +332,13 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. MICHEL LE SYRIEN, III, p. 173.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                           <!--[2]. CHEYNET - VANNIER,
                           <hi rend="italic">Études</hi>, p. 72, qui donnent également les étapes antérieures de la carrière de Philarète, p. 66-
                           73.-->
@@ -346,10 +346,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>192</citedRange>
@@ -358,7 +358,7 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
                   <!--Je n'ai pas trouvé les parallèles de Zacos-->
@@ -366,10 +366,10 @@
               </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/536/">Philaretos 101</ref>

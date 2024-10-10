@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné dans sa partie supérieure, en voie d’oxydation, mais nettement gravé.</p>
+                           <p >Fortement rogné dans sa partie supérieure, en voie d’oxydation, mais nettement gravé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-k5hyEL-r</rs>
-                              <p xml:lang="en" part="N">Cruciform invocative monogram of the type Laurent V.</p>
-                              <p xml:lang="fr" part="N">Monogramme invocatif cruciforme de type Laurent V.</p>
+                              <p xml:lang="en" >Cruciform invocative monogram of the type Laurent V.</p>
+                              <p xml:lang="fr" >Monogramme invocatif cruciforme de type Laurent V.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-k5hyEL-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,18 +266,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan></rs> 
 
                       </ab>
                       </div>
               
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><supplied reason="omitted" >Λέοντι</supplied>
                           
                                   <lb n="3"/><supplied reason="omitted" ><expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan></supplied> στράτο
@@ -292,17 +292,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,27 +310,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / Λέοντι βασιλικῷ στράτορι καὶ ἐκ προσώπου.</p>
-            <p xml:lang="en" part="N">Theotokos help Leo, imperial strator and ek prosopou (?).</p>
-            <p xml:lang="fr" part="N">Théotokos aide Léon, <hi rend="italic">stratôr</hi> impérial et <hi rend="italic">ek prosôpou</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / Λέοντι βασιλικῷ στράτορι καὶ ἐκ προσώπου.</p>
+            <p xml:lang="en" >Theotokos help Leo, imperial strator and ek prosopou (?).</p>
+            <p xml:lang="fr" >Théotokos aide Léon, <hi rend="italic">stratôr</hi> impérial et <hi rend="italic">ek prosôpou</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>,<citedRange unit="part"> 212</citedRange>
                </bibl>.
@@ -338,10 +338,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C., (Coll. Zacos 2 ex.) 
+            <p > Dumbarton Oaks, Washington D.C., (Coll. Zacos 2 ex.) 
                   <bibl  >
                   <ptr target="Zacos1"/>,<citedRange unit="part"> 1537 a et b</citedRange>, </bibl>
                <bibl  >

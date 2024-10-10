@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Légèrement rogné au pourtour; échancré et fissuré le long de la ligne du canal au revers.</p>
+                           <p >Légèrement rogné au pourtour; échancré et fissuré le long de la ligne du canal au revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,9 +169,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-jStmx3-r</rs>
-                              <p xml:lang="en" part="N">Cruciform invocative monogram, probably of the Laurent V type, framed by the 
+                              <p xml:lang="en" >Cruciform invocative monogram, probably of the Laurent V type, framed by the 
                                             name of the owner.<!--pas de solution du monogramme ici--></p>
-                              <p xml:lang="fr" part="N">Monogramme invocatif cruciforme, probablement de type Laurent V cantonné par le 
+                              <p xml:lang="fr" >Monogramme invocatif cruciforme, probablement de type Laurent V cantonné par le 
                                             nom du propriétaire.<!--pas de solution du monogramme ici--></p>
                            </layout>
                         </layoutDesc>
@@ -211,10 +211,10 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-jStmx3-v</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram bearing at the top
+                              <p xml:lang="en" >Cruciform monogram bearing at the top
                                            <!-- S, at the base A, on the left B and on the right K--> (identical to that of the seal ZACOS - VEGLERY
                                             467), with the title in the quarters.</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme portant au sommet
+                              <p xml:lang="fr" >Monogramme cruciforme portant au sommet
                                             <!--S, à la base A, à gauche B et à droite K--> (identique à celui du sceau ZACOS - VEGLERY
                                             467), cantonné par la mention du titre.</p>
                            </layout>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,43 +272,43 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan> </rs>
                           </ab>
 </div>
-                    <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                        <ab part="N">
+                    <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                        <ab >
                           <lb n="2"/>Σεργίου
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                                   <lb n="3"/><expan ><ex >βικαρίου</ex></expan>
                           </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                                   <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                                   <ab >
                       <lb n="4"/>μαγιστριάνου
                           </ab>
                   </div>
                                
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -316,35 +316,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει Σεργίου /  βικαρίου μαγιστριάνου.</p>
-            <p xml:lang="en" part="N">Mother of God help Sergios vikarios and magistrianos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Serge vicaire et <hi rend="italic">magistrianos</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει Σεργίου /  βικαρίου μαγιστριάνου.</p>
+            <p xml:lang="en" >Mother of God help Sergios vikarios and magistrianos.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Serge vicaire et <hi rend="italic">magistrianos</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La disposition de ce sceau, avec le nom et le titre dans les cantons du
+            <p ><!--La disposition de ce sceau, avec le nom et le titre dans les cantons du
                               monogramme, est caractéristique du tournant du VIIe siècle. Le magistrianos était un
                       collaborateur du <hi rend="italic">magister officiorum</hi>.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               ><!-- attention: cette note n'appartient pas à ce sceau! -->
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>42</citedRange>

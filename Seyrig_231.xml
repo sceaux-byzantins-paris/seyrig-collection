@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Légèrement rogné, avec de légères échancrures aux orifices du canal; pressé et partiellement oblitéré sur les
+                           <p >Légèrement rogné, avec de légères échancrures aux orifices du canal; pressé et partiellement oblitéré sur les
                                         deux faces.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-UxELxa-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-UxELxa-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,15 +267,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><expan ><abbr>Σφραγ</abbr><ex >ὶς</ex></expan>
                           <lb n="2"/>πέφυκ<supplied reason="omitted" >α</supplied>
                           <lb n="3"/>εὐτελοῦ<supplied reason="omitted" >ς</supplied>
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,35 +306,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ / Σφραγὶς πέφυκα εὐτελοῦς Βασιλείου.</p>
-            <p xml:lang="en" part="N">Mother of God. I am the seal of humble Basileios.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Je suis le sceau de l'humble Basile.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ / Σφραγὶς πέφυκα εὐτελοῦς Βασιλείου.</p>
+            <p xml:lang="en" >Mother of God. I am the seal of humble Basileios.</p>
+            <p xml:lang="fr" >Mère de Dieu. Je suis le sceau de l'humble Basile.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  L’épithète d'<hi rend="italic">eutelès</hi> implique qu’il s’agit
+            <p ><!--  L’épithète d'<hi rend="italic">eutelès</hi> implique qu’il s’agit
                       d’un ecclésiastique[1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"> <!--  xml:id="footnote-1">
+            <p > <!--  xml:id="footnote-1">
                           [1]. Pour l’emploi de ce terme sur des sceaux de gens d’Église, voir LAURENT,
                           Corpus, V, 2, p. 528. -->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">Bibliothèque Nationale de France, Paris,
+            <p >Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 231</citedRange>
                </bibl>.
@@ -342,10 +342,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C. (Fogg 3108); 
+            <p > Dumbarton Oaks, Washington D.C. (Fogg 3108); 
                       IFEB 462. <!-- unpublished -->
                   </p>
          </div>

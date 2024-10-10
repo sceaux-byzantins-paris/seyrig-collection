@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné aux orifices du canal, décentré vers la droite au droit, au revers; largement fissuré le long
+                           <p >Fortement rogné aux orifices du canal, décentré vers la droite au droit, au revers; largement fissuré le long
                                         de la ligne du canal.</p>
                         </condition>
                      </supportDesc>
@@ -169,8 +169,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-f4p4L6-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-f4p4L6-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -258,7 +258,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,9 +285,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+ Λεον
                            <lb n="2" break="no"/>τίου ἐπ
                           <lb n="3" break="no"/>ισκό
@@ -295,8 +295,8 @@
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="5"/><expan ><abbr>Πόλε</abbr>
                           <lb n="6" break="no"/><ex >ω</ex><abbr>ς</abbr></expan> Κι
                           <lb n="7" break="no"/>τίου
@@ -304,17 +304,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -322,27 +322,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Λεοντίου ἐπισκόπου / Πόλεως Κιτίου.</p>
-            <p xml:lang="en" part="N">Leontios, bishop of the City of Kition.</p>
-            <p xml:lang="fr" part="N">Léonce, évêque de la ville de Kition.</p>
+         <div type="translation"   >
+            <p >Λεοντίου ἐπισκόπου / Πόλεως Κιτίου.</p>
+            <p xml:lang="en" >Leontios, bishop of the City of Kition.</p>
+            <p xml:lang="fr" >Léonce, évêque de la ville de Kition.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Kition, aujourd’hui Larnaca, dépendait de l’archevêché de Chypre. On connaît
+            <p ><!--Kition, aujourd’hui Larnaca, dépendait de l’archevêché de Chypre. On connaît
                       également au cours de ce siècle, deux autres évêques de Kition, Théodore et Tychôn, ce dernier
                       attesté en 680 [1]. L’évêque de Néapolis (Limassol),
                       Léonce, le célèbre hagiographe, était aussi un contemporain.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. cf. OBERHAMMER, <hi rend="italic">RE</hi> XI 1 (1921), p. 543.-->
                       </p>
          </div>

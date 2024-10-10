@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Brisé; le tiers supérieur gauche manque; plusieurs points d’oxydation sur les deux faces.</p>
+                           <p >Brisé; le tiers supérieur gauche manque; plusieurs points d’oxydation sur les deux faces.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,9 +188,9 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-jZEFuc-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram of the Laurent V type, framed
+                              <p xml:lang="en" >Cruciform monogram of the Laurent V type, framed
                                             by the usual tetrasyllable.</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme de type Laurent V cantonné par le tétrasyllabe habituel.</p>
+                              <p xml:lang="fr" >Monogramme cruciforme de type Laurent V cantonné par le tétrasyllabe habituel.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-jZEFuc-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -258,7 +258,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,18 +285,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
                     </rs>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Κ<supplied reason="omitted" >οσ</supplied>
                           
                                   <lb n="3" break="no"/>μᾷ <rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος_β"><expan ><abbr>ὑπ</abbr><ex >άτῳ</ex></expan></rs> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr><supplied reason="lost" >δι</supplied>
@@ -311,17 +311,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -329,35 +329,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ /  + Κοσμᾷ ὑπάτῳ καὶ διοικητῇ Ἑλλάδος.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant Kosmas, hypatos and dioiketes of Hellas.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Kosmas, <hi rend="italic">hypatos</hi> et dioecète de l’Hellade.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ /  + Κοσμᾷ ὑπάτῳ καὶ διοικητῇ Ἑλλάδος.</p>
+            <p xml:lang="en" >Mother of God help your servant Kosmas, hypatos and dioiketes of Hellas.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur Kosmas, <hi rend="italic">hypatos</hi> et dioecète de l’Hellade.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Il est possible que le sceau [1] de Kosmas, <hi rend="italic">hypatos</hi> et diocète de Sicile, qui est un peu
+            <p ><!--Il est possible que le sceau [1] de Kosmas, <hi rend="italic">hypatos</hi> et diocète de Sicile, qui est un peu
                       plus ancien que le nôtre, appartienne au même personnage.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     <!--  [1]. DO 61.59.8-
                       665, éd. ZACOS - VEGLERY, 2082.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>178</citedRange>
@@ -366,10 +366,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Dumbarton Oaks, Washington DC,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>2081</citedRange>
@@ -377,10 +377,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p4706">Kosmas 45</ref>

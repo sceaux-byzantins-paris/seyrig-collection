@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Flan rogné au sommet et à gauche; pressé et partiellement oblitéré sur les faces à la base.</p>
+                           <p >Flan rogné au sommet et à gauche; pressé et partiellement oblitéré sur les faces à la base.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-CLDNrZ-r</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-CLDNrZ-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,9 +266,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/><supplied reason="omitted" >+</supplied> <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                           <lb n="2"/><supplied reason="omitted" >τ</supplied>ῷ σῷ <expan ><abbr>δού</abbr><ex >λῳ</ex></expan></rs>
                           <lb n="3"/><supplied reason="omitted" >Θ</supplied>εοφυλάκ<supplied reason="omitted" >τ</supplied>
@@ -278,8 +278,8 @@
                            <lb n="6" break="no"/>ίῳ</supplied></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="7"/><rs type="dignity" ref="dignities.xml#βέστης"><expan ><abbr>βέσ<supplied reason="lost" >τ</supplied></abbr><supplied reason="lost" ><ex >ῃ</ex></supplied></expan></rs>
                           <lb n="8"/><supplied reason="lost" ><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan></supplied> δουκὶ Ἀ<supplied reason="omitted" >ν</supplied>
                           <lb n="9" break="no"/>τιοχεία<supplied reason="omitted" >ς</supplied>
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ Θεοφυλάκτῳ ἀνθυπάτῳ πατρικίῳ / βέστῃ καὶ δουκὶ Ἀντιοχείας τῷ Δαλασηνῷ.</p>
-            <p xml:lang="en" part="N">Lord help your servant Theophylaktes Dalassènos, anthypatos, patrikios, vestes and doux of Antioch.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur héophylacte Dalassènos, <hi rend="italic">anthypatos</hi>, patrice, vestès et duc d’Antioche.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ Θεοφυλάκτῳ ἀνθυπάτῳ πατρικίῳ / βέστῃ καὶ δουκὶ Ἀντιοχείας τῷ Δαλασηνῷ.</p>
+            <p xml:lang="en" >Lord help your servant Theophylaktes Dalassènos, anthypatos, patrikios, vestes and doux of Antioch.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur héophylacte Dalassènos, <hi rend="italic">anthypatos</hi>, patrice, vestès et duc d’Antioche.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Théophylacte Dalassènos acquit une grande réputation comme
+            <p ><!--Théophylacte Dalassènos acquit une grande réputation comme
                       général dans les années 1020-1030 au point de paraître un rival potentiel des empereurs de
                       la dynastie paphlagonienne. Il fut successivement protospathaire et catépan d’Ibérie, drongaire
                       de la Veille, stratège des Anatoliques, catépan du Vaspourakan et enfin, <hi rend="italic">anthypatos</hi>, patrice,
@@ -332,22 +332,22 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                        <!--   [1]. LAURENT, <hi rend="italic">Antioche</hi>, p. 238-239.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. CHEYNET - VANNIER, <hi rend="italic">Études</hi>, p. 84.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>156</citedRange>
@@ -356,7 +356,7 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
                   
@@ -364,15 +364,15 @@
               </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="Laurent1962"/>, <citedRange unit="page">p. 236</citedRange>
                </bibl>;</p>
             <!--  Felix, Cheynet-Vannier-->
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/512/">Theophylaktos 102</ref>

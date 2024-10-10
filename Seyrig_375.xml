@@ -113,8 +113,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Heavily trimmed at top left, off-centre at right to left; faintly engraved.</p>
-                           <p xml:lang="fr" part="N">Fortement rogné au sommet à gauche, décentré au droit vers la gauche ; faiblement gravé.</p>
+                           <p xml:lang="en" >Heavily trimmed at top left, off-centre at right to left; faintly engraved.</p>
+                           <p xml:lang="fr" >Fortement rogné au sommet à gauche, décentré au droit vers la gauche ; faiblement gravé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -158,8 +158,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -178,8 +178,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-BpyLlQ-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme de type Laurent I</p>
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme de type Laurent I</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -218,8 +218,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-BpyLlQ-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme, au sommet P surmonté de T et OY et Δ à la
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme cruciforme, au sommet P surmonté de T et OY et Δ à la
                                             base, K à gauche et C, O, Θ ou Ε à droite</p>
                            </layout>
                         </layoutDesc>
@@ -250,7 +250,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -279,14 +279,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Θεοτόκε βοήθει</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                         <lb n="2"/><app type="alternative">
                          <lem><expan cert="low" ><expan ><ex >Κοδράτου</ex></expan></expan></lem>
                          <rdg><expan cert="low" ><expan ><ex >Δεκοράτου</ex></expan></expan></rdg>
@@ -294,17 +294,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="2">
                   <note >La solution Δεκοράτου comporte la lecture d'un € dans le monogramme.</note>
@@ -312,19 +312,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / Κοδράτου <hi rend="italic">vel</hi> Δεκοράτου.</p>
-            <p xml:lang="en" part="N">Mother of God help Kodratos <hi rend="italic">or</hi> Dekoratos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Kodratos <hi rend="italic">or</hi> Dekoratos.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / Κοδράτου <hi rend="italic">vel</hi> Δεκοράτου.</p>
+            <p xml:lang="en" >Mother of God help Kodratos <hi rend="italic">or</hi> Dekoratos.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Kodratos <hi rend="italic">or</hi> Dekoratos.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

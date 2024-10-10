@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!-- @rend à ajouter -->
-                           <p xml:lang="en" part="N">Clearly engraved except for the last line of the legend which is partially obliterated.</p>
-                           <p xml:lang="fr" part="N">Nettement gravé à l’exception de la dernière ligne de la légende qui est partiellement oblitérée.</p>
+                           <p xml:lang="en" >Clearly engraved except for the last line of the legend which is partially obliterated.</p>
+                           <p xml:lang="fr" >Nettement gravé à l’exception de la dernière ligne de la légende qui est partiellement oblitérée.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,11 +149,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acquis à Beyrouth en provenance d'Antioche</p>
+                     <p >Acquis à Beyrouth en provenance d'Antioche</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">11</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Ybbjtu-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">11</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Ybbjtu-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 5 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,15 +273,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><ex >Ὁ ἃγιος</ex></expan> <expan ><abbr>Νι
                         <cb n="b" break="no"/>κόλ</abbr><ex >αος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+Νικό
                           <lb n="2" break="no"/>λαον σκέ
                           <lb n="3" break="no"/>ποις με μά
@@ -290,17 +290,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,26 +308,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Νικόλαος. / +Νικόλαον σκέποις με, μάκαρ, οἰκέτην.</p>
-            <p xml:lang="en" part="N">Saint Nicholas. / Shelter me, blessed, your servant Nicholas.</p>
-            <p xml:lang="fr" part="N">Saint Nicolas. / Protége moi, bienheureux, ton serviteur Nicolas.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Νικόλαος. / +Νικόλαον σκέποις με, μάκαρ, οἰκέτην.</p>
+            <p xml:lang="en" >Saint Nicholas. / Shelter me, blessed, your servant Nicholas.</p>
+            <p xml:lang="fr" >Saint Nicolas. / Protége moi, bienheureux, ton serviteur Nicolas.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Une pièce à l’effigie de saint Nicolas et avec la légende lue
+            <p ><!--Une pièce à l’effigie de saint Nicolas et avec la légende lue
                       ainsi par V. Laurent [1]: <supplied reason="lost">Νικόλα</supplied>ον σκεποις με σὸν δοῦλον, μάκαρ doit
                       être interprétée: <supplied reason="omitted">Ὁμώνυ</supplied>μον σκέποις ... [2].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. <hi rend="italic">Bulles métriques</hi>, 256.
                   </p>
                   <p xml:id="footnote-2">

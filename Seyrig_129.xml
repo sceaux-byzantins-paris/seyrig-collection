@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Entaille profonde à l’orifice supérieur du canal, et boursouflure le long de la ligne du canal, rendant le droit
+                           <p >Entaille profonde à l’orifice supérieur du canal, et boursouflure le long de la ligne du canal, rendant le droit
                                         presque totalement oblitéré; gravure des lettres moyenne.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-5mCJop-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns.</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns.</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-5mCJop-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,14 +266,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                          <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan> τῷ σῷ <expan ><abbr>δ</abbr><ex >ούλῳ</ex></expan>  </rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ Καλ<supplied reason="lost" >ο</supplied>
                             
                           <lb n="2" break="no"/>κύρο <expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan> <rs type="dignity" ref="dignities.xml#σπαθαροκανδιδᾶτος_β"><expan ><abbr>σ             <!--omicron avec iota souscrit-->
@@ -286,17 +286,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,18 +304,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ. / + Καλοκύρο βασιλικῷ σπαθαροκανδιδάτῳ και ἐπι τῆς μεγάλης ἑταιρείας .</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ. / + Καλοκύρο βασιλικῷ σπαθαροκανδιδάτῳ και ἐπι τῆς μεγάλης ἑταιρείας .</p>
             <!--omicron-->
-            <p xml:lang="en" part="N">Lord help your servant. Kalokyros imperial spatharokandidatos and epi tes megales hetaireias.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur. Kalokyros, spatharocandidat impérial et <hi rend="italic">épi tès mégalès hétaireias</hi>.</p>
+            <p xml:lang="en" >Lord help your servant. Kalokyros imperial spatharokandidatos and epi tes megales hetaireias.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur. Kalokyros, spatharocandidat impérial et <hi rend="italic">épi tès mégalès hétaireias</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La collection Fogg (106) renferme le sceau d’un Kalokyros
+            <p ><!--La collection Fogg (106) renferme le sceau d’un Kalokyros
                       qui pourrait être identique au titulaire de notre plomb. Au droit: buste semblable de saint
                       Nicolas avec l’invocation <!-\-Afl€ NIKOAA(Q ROHOI. Au revers, TQ CCd - AXAQ KA -
                       AO K VP Q - R,A,CnA. - .P-\->..: Ἅγιε Νικόλαε βοήθει τῷ σῷ δούλῳ Καλοκύρῳ βασιλικῷ πρωτοσπαθαρίῳ. 
@@ -328,29 +328,29 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. SKYLITZÈS, p. 186.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. IDEM, p. 277, 288, 295; LÉON DIACRE, p.
                           63, 77-79, 134.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                           <!--[3]. SKYLITZÈS, p. 336.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                         <!--  [4]. LAURENT, <hi rend="italic">Orghidan</hi>, 101.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>129</citedRange>

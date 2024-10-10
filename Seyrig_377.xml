@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Deep indentation on left edge; slight indentation at canal openings, well centred; letters clearly engraved.</p>
-                           <p xml:lang="fr" part="N">Profonde entaille sur le bord gauche; légère échancrure aux orifices du canal, bien centré; lettres nettement
+                           <p xml:lang="en" >Deep indentation on left edge; slight indentation at canal openings, well centred; letters clearly engraved.</p>
+                           <p xml:lang="fr" >Profonde entaille sur le bord gauche; légère échancrure aux orifices du canal, bien centré; lettres nettement
                                         gravées.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-7hkXiN-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-7hkXiN-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 5 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,15 +270,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><abbr>Μ</abbr><ex >ι</ex>
                           <cb n="b"/><abbr>χ</abbr><ex >αήλ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><abbr>Σφραγ</abbr><ex >ὶς</ex></expan> 
                           <lb n="2"/>τίνος πέ
                           <lb n="3" break="no"/>φυκα <expan ><abbr>σγρ</abbr><ex >α</ex>
@@ -287,34 +287,34 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="3-4">
                   <note >Ici σγραφὴ serait mis pour εἰσγραφὴ après disparition de la vocale initiale.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μιχαήλ. / Σφραγὶς τίνος πέφυκα σγραφὴ δικνύι.</p>
-            <p xml:lang="en" part="N">Michael. / The letter shows whose seal I am.</p>
-            <p xml:lang="fr" part="N">Michel. / La lettre indique à qui appartient le sceau.</p>
+         <div type="translation"   >
+            <p >Μιχαήλ. / Σφραγὶς τίνος πέφυκα σγραφὴ δικνύι.</p>
+            <p xml:lang="en" >Michael. / The letter shows whose seal I am.</p>
+            <p xml:lang="fr" >Michel. / La lettre indique à qui appartient le sceau.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Il existe une pièce comparable [1] avec la légende: - + - - + CΦΡΑΓ, - TINOCΠΕ - . VKAΓΡA
+            <p ><!--Il existe une pièce comparable [1] avec la légende: - + - - + CΦΡΑΓ, - TINOCΠΕ - . VKAΓΡA
                       - Φ,ΔΕΙΚΝV - -EI-, mais au droit la Vierge est représenté, orante, avec le médaillon du Christ.
                           Une autre [2] porte une légende similaire, mais fort abimée dans les dernières
                           lignes, avec au droit saint Jean le Théologien. Ici σγραφὴ serait mis pour εἰσγραφὴ après
@@ -323,10 +323,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. DO 58.106.2671; coll. Zacos.
                   </p>
                   <p xml:id="footnote-2">

@@ -107,10 +107,10 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!-- add Cracked as a tag-->
-                           <p xml:lang="en" part="N">
+                           <p xml:lang="en" >
                                         Deeply indented at the channel openings and cracked along the channel line; on the reverse stretched and partially obliterated
                                         on the right side of the field; otherwise clear engraving.</p>
-                           <p xml:lang="fr" part="N">Profondément échancré aux orifices du canal et fissuré le long de la ligne du canal; au revers étiré et partiellement
+                           <p xml:lang="fr" >Profondément échancré aux orifices du canal et fissuré le long de la ligne du canal; au revers étiré et partiellement
                                         oblitéré à droite du champ; sinon gravure nette.</p>
                         </condition>
                      </supportDesc>
@@ -156,8 +156,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -176,8 +176,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-MUFl6R-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -217,8 +217,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-MUFl6R-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -248,7 +248,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -276,15 +276,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang=""><!-- with the full name in clumns, it's label, not sigla -->
-                      <ab part="N"><!-- the encoding here wasn't complete! -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang=""><!-- with the full name in clumns, it's label, not sigla -->
+                      <ab ><!-- the encoding here wasn't complete! -->
                        <cb n="a"/><expan ><ex >Ὁ ἃγιος</ex></expan> <expan ><abbr><supplied reason="lost" >Θ</supplied>εό
                         <cb n="b" break="no"/>δωρο</abbr><ex >ς</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+<expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> 
                           <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                           <lb n="2"/>Θεοδώ
@@ -295,17 +295,17 @@
                       <!-- le iota souscrit à omicron manque -->
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app><!-- mentionner les changements de transcription par rapport à l'édition papier -->
                   <note xml:lang="en" >None.</note>
@@ -313,18 +313,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Θεόδωρος. / Κύριε βοήθει Θεοδώρο τῷ Κάσπακῃ.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Θεόδωρος. / Κύριε βοήθει Θεοδώρο τῷ Κάσπακῃ.</p>
             <!-- le iota souscrit à omicron manque -->
-            <p xml:lang="en" part="N"> Saint Theodore. / Lord help Theodoros Kaspax.</p>
-            <p xml:lang="fr" part="N">Saint Théodore. / Seigneur aide Théodoros Kaspax.</p>
+            <p xml:lang="en" > Saint Theodore. / Lord help Theodoros Kaspax.</p>
+            <p xml:lang="fr" >Saint Théodore. / Seigneur aide Théodoros Kaspax.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La famille Kaspax est bien représentée aux XIe et XIIe siècles.
+            <p ><!--La famille Kaspax est bien représentée aux XIe et XIIe siècles.
                       Théodore fut, avec Basile, <hi rend="italic">asèkrètis</hi>, [1] un de ses
                       premiers représentants connus, encore qu’un couvent de Kaspax soit cité parmi les monastères
                       de l’Athos dès 1012 [2]. Un autre sceau à légende métrique de l’ancienne collection
@@ -335,10 +335,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. LAURENT, <hi rend="italic">Corpus</hi>, II, 110 et peut être 176.
                   </p>
                   <p xml:id="footnote-2">

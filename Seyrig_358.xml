@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Lead trimmed on the edges, reverse off-centre to the left; clean strike.</p>
-                           <p xml:lang="fr" part="N">Plomb rogné sur les bords, revers décentré vers la gauche; frappe nette.</p>
+                           <p xml:lang="en" >Lead trimmed on the edges, reverse off-centre to the left; clean strike.</p>
+                           <p xml:lang="fr" >Plomb rogné sur les bords, revers décentré vers la gauche; frappe nette.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-to3QQn-r</rs>
-                              <p xml:lang="en" part="N">Iconography and monogram</p>
-                              <p xml:lang="fr" part="N">Iconographie et deux monogrammes invocatifs cruciformes portant chacun un terme de l'invocation</p>
+                              <p xml:lang="en" >Iconography and monogram</p>
+                              <p xml:lang="fr" >Iconographie et deux monogrammes invocatifs cruciformes portant chacun un terme de l'invocation</p>
                               <!-- description à compléter -->
                            </layout>
                         </layoutDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-to3QQn-v</rs>
-                              <p xml:lang="en" part="N">iconography, monogram</p>
-                              <p xml:lang="fr" part="N">Iconographie et monogramme cruciforme comportant un V et un P (comprenant un O) conjoints au sommet
+                              <p xml:lang="en" >iconography, monogram</p>
+                              <p xml:lang="fr" >Iconographie et monogramme cruciforme comportant un V et un P (comprenant un O) conjoints au sommet
                                             de la croix, un M à la base, un B et un A aux extrémités</p>
                            </layout>
                         </layoutDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,29 +273,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Θεοτόκε</ex></expan> <expan ><ex >βοήθει</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                         <lb n="2"/><expan ><ex >Ἀβραμίου</ex></expan>
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / Ἀβραμίου.</p>
-            <p xml:lang="en" part="N">Mother of God help Abramios.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Abramios.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / Ἀβραμίου.</p>
+            <p xml:lang="en" >Mother of God help Abramios.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Abramios.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Ce type de droit représentant la Vierge Hodègètria entre
+            <p ><!-- Ce type de droit représentant la Vierge Hodègètria entre
                       deux monogrammes invocatifs fut très apprécié lors de la réaction iconophile au tournant
                       du VIIIe siècle. En revanche le type de l’aigle au revers ne se rencontre pas habituellement
                       au delà du premier quart du VIIIe siècle. Le monogramme est détruit au sommet; ses éléments,
@@ -323,20 +323,20 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                       [1]. ZACOS
                       - VEGLERY 585 et 2766.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 358</citedRange>,</bibl>
                <bibl  >

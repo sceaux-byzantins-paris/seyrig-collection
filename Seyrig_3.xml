@@ -109,8 +109,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed, worn; strongly indented at the lower orifice of the canal.</p>
-                           <p xml:lang="fr" part="N">Rogné, usé; fortement échancré à l’orifice inferieur du canal.</p>
+                           <p xml:lang="en" >Trimmed, worn; strongly indented at the lower orifice of the canal.</p>
+                           <p xml:lang="fr" >Rogné, usé; fortement échancré à l’orifice inferieur du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -165,8 +165,8 @@
                      <!-- vérifier graphie -->
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">don d'Henri Seyrig</p>
+                     <p xml:lang="en" >donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -185,8 +185,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-LvoAau-r</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-LvoAau-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N">Buste de face de l’empereur diadémé, vêtu de la chlamyde.</p>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" >Buste de face de l’empereur diadémé, vêtu de la chlamyde.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -260,7 +260,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,22 +286,22 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">  
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >  
                           <lb n="1"/> <expan ><abbr>D</abbr><ex >ominus</ex></expan> <expan ><abbr>n</abbr><ex >oster</ex></expan> <expan ><abbr>Tiber</abbr><ex >ius</ex></expan> <expan ><abbr>M<supplied reason="lost" >aur</supplied></abbr><supplied reason="lost" ><ex >icius</ex></supplied></expan> <supplied reason="lost" ><expan ><abbr>p</abbr><ex >er</ex><abbr>p</abbr><ex >etuus</ex></expan></supplied> <supplied reason="lost" ><expan ><abbr>Aug</abbr><ex >ustus</ex></expan></supplied>
                       </ab><!-- attention à éliminer les symboles d'édition, comme les crochets, une fois écrit le code xml qui les concerne  -->
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N"/>
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab />
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N"/>
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab />
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >
@@ -313,17 +313,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Dominus noster Tiberius Mauricius, perpetuus Augustus.</p>
-            <p xml:lang="en" part="N">Our lord Tiberius Maurice, eternal Augustus.</p>
-            <p xml:lang="fr" part="N">Notre Seigneur Tibère Maurice, Auguste perpétuel</p>
+         <div type="translation"   >
+            <p >Dominus noster Tiberius Mauricius, perpetuus Augustus.</p>
+            <p xml:lang="en" >Our lord Tiberius Maurice, eternal Augustus.</p>
+            <p xml:lang="fr" >Notre Seigneur Tibère Maurice, Auguste perpétuel</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--C’est du règne de Maurice que date le remplacement de la victoire par la Vierge
+            <p ><!--C’est du règne de Maurice que date le remplacement de la victoire par la Vierge
 sur les sceaux impériaux. La légende du revers avec le nom de Tibère placé en premier date
 ce sceau, par analogie avec les émissions de bronze de la première année du règne [1]. Il ne semble pas en revanche qu’il faille reconnaître la distinction
 paléographique proposée par cet auteur entre le M de ce type et le  des types suivants
@@ -332,10 +332,10 @@ en effet déjà le  oncial des autres sceaux du règne.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     [1]. <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange unit="page">p. 62-63</citedRange>
                </bibl>.
@@ -343,10 +343,10 @@ en effet déjà le  oncial des autres sceaux du règne.--></p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Biliothèque Nationale de France, Paris,
                     <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>3</citedRange>
@@ -355,16 +355,16 @@ en effet déjà le  oncial des autres sceaux du règne.--></p>
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Dumbarton Oaks, Washington D.C.,
                     <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>7a et b</citedRange>
                </bibl>; 
                 </p>
-            <p part="N">
+            <p >
                     Münzkabinett des Kunsthistorischen Museums, Vienne,
                     <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange>9a</citedRange>
@@ -373,7 +373,7 @@ en effet déjà le  oncial des autres sceaux du règne.--></p>
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                

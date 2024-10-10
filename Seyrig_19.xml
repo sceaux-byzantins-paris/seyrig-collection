@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Fortement échancré aux orifices du canal; lettres nettement gravées.</p>
+                           <p >Fortement échancré aux orifices du canal; lettres nettement gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,9 +169,9 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tmLFIt-r</rs>
-                              <p xml:lang="en" part="N">Cruciform marial monogram  of type Laurent I</p>
+                              <p xml:lang="en" >Cruciform marial monogram  of type Laurent I</p>
                               <!-- à compléter -->
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme de type Laurent I</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme de type Laurent I</p>
                               <!-- ici il y avait la description du sceau 20: attention! -->
                            </layout>
                         </layoutDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tmLFIt-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,14 +270,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Θεοτόκε βοήθει</ex></expan><!-- il faut le tagger comme un monogramme -->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Ἀν
                                
                                   <lb n="3" break="no"/>θίμῳ ἀπ
@@ -289,31 +289,31 @@
                                </ab>
     </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / + Ἀνθίμῳ ἀπὸ ἐπάρχων.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / + Ἀνθίμῳ ἀπὸ ἐπάρχων.</p>
             <!-- prénom au datif -->
-            <p xml:lang="en" part="N">Mother of God help Anthimos apo éparchon.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Anthime <hi rend="italic">apo éparchôn</hi>.</p>
+            <p xml:lang="en" >Mother of God help Anthimos apo éparchon.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Anthime <hi rend="italic">apo éparchôn</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               ><!-- on pensera ensuite à redistribuer ce contenu, peut-e^tre vers épigraphie et autres -->
-            <p part="N"><!--La forme compacte du monogramme cruciforme
+            <p ><!--La forme compacte du monogramme cruciforme
 est encore proche de celle des sceaux de la fin du VIe et du VIIe siècle. On notera également
 les empattements bien marqués au droit comme au revers, caractéristique qui se maintient
 jusqu’à la fin du VIIIe siècle [1]. Le monogramme de type Laurent I est caractéristique de la seconde moitié du VIIe
@@ -322,22 +322,22 @@ du VIIe siècle.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
    <!--                   [1]. OIKONOMIDÈS, <hi rend="italic">Dated Seals</hi>, n° 22, 24, 25, 30....-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                 <!--      [2]. SEIBT, <hi rend="italic">Datierung</hi>, p. 19.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">   
+            <p >   
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>19</citedRange>

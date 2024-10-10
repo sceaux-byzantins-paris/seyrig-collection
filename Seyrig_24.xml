@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Usé; rogné à droite; légère échancrure aux orifices du canal.</p>
+                           <p >Usé; rogné à droite; légère échancrure aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wmeOgT-r</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wmeOgT-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,16 +270,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="column" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="column"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><!-- l'élément rs doit e^tre placé après lb autrement il y a un problème de visualisation des lignes, comme on voit avec EFES: vous trouverez plusieurs exemples dans les fichiers TM -->
                                <rs type="invocation" ref="invocation.xml#Θεοτόκε2">
                                    <expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan> 
@@ -298,17 +298,17 @@
                                </ab>
  </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -316,17 +316,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- il faut ajouter l'avers -->
-            <p part="N"> Μήτηρ Θεοῦ / Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰωάννῃ κουροπαλάτῃ τῷ Ῥαδομίρῳ.</p>
-            <p xml:lang="en" part="N">Mother of God / Théotokos help your servant John Radomir, kouropalates.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu / Théotokos aide ton serviteur Jean Radomir, curopalate.</p>
+         <div type="translation"   ><!-- il faut ajouter l'avers -->
+            <p > Μήτηρ Θεοῦ / Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰωάννῃ κουροπαλάτῃ τῷ Ῥαδομίρῳ.</p>
+            <p xml:lang="en" >Mother of God / Théotokos help your servant John Radomir, kouropalates.</p>
+            <p xml:lang="fr" >Mère de Dieu / Théotokos aide ton serviteur Jean Radomir, curopalate.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Après la disparition de l’État bulgare, les survivants de la famille
+            <p ><!--Après la disparition de l’État bulgare, les survivants de la famille
 régnante furent établis dans l’Empire par Basile II. Jean Vladislav, le dernier tsar avait six
 fils, Prousianos, Alousianos, Aaron, Troïanos, Radomir et peut-être Clément [1]. Les cinq fils d’un autre Radomir, dont le père était le tsar Samuel,
 furent aussi accueillis par l’empereur, mais aucun d’eux ne devait porter le prénom paternel,
@@ -348,21 +348,21 @@ Vladislav.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. SKYLITZÈS, p. 359; cf. aussi, V. LAURENT, Bulgarie et princes bulgares dans la sigillographie byzantine,
 <hi rend="italic">EO</hi> 33, 1932, p. 413-427.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                       <!--[2]. J-CL CHEYNET, Du prénom au
 patronyme : les étrangers à Byzance (Xe-XIIe siècles), <hi rend="italic">SBS</hi>, 1987, p. 57-66.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                       <!-- [3]. <hi rend="italic">Alexiade</hi> II, p. 138, III, p. 14, 16.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                        <!--[4]. SKOULATOS, <hi rend="italic">Alexiade</hi>, p. 274-275.-->
                       </p>
             <!--      //: Théodoridis 176
@@ -370,10 +370,10 @@ patronyme : les étrangers à Byzance (Xe-XIIe siècles), <hi rend="italic">SBS<
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>24</citedRange>

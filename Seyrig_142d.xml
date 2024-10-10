@@ -123,7 +123,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Uniface. Empreinte de tissu au revers.</p>
+                           <p >Uniface. Empreinte de tissu au revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -167,8 +167,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -187,8 +187,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-CcBxFD-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -228,8 +228,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-CcBxFD-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -257,7 +257,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -284,32 +284,32 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                          <lb n="1"/>Ἰουλιανοῦ
                            <lb n="2"/>Σεργίου
                           <lb n="3"/>Στεφάνου
                            <lb n="4"/><expan ><abbr>κομ</abbr><ex >μερκιαρίων</ex></expan> <expan ><abbr>Τύρ</abbr><ex >ου</ex></expan>
                         </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -317,41 +317,41 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἰουλιανοῦ Σεργίου Στεφάνου κομμερκιαρίων Τύρου</p>
-            <p xml:lang="en" part="N">(Seal of) Julian, Sergios and Stephen, kommerkiarios of Tyre.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Julien, Serge, Étienne, commerciaires de Tyr.</p>
+         <div type="translation"   >
+            <p >Ἰουλιανοῦ Σεργίου Στεφάνου κομμερκιαρίων Τύρου</p>
+            <p xml:lang="en" >(Seal of) Julian, Sergios and Stephen, kommerkiarios of Tyre.</p>
+            <p xml:lang="fr" >(Sceau de) Julien, Serge, Étienne, commerciaires de Tyr.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La présence des croisettes au-dessus d’étoiles dans le champ amène, par analogie
+            <p ><!--La présence des croisettes au-dessus d’étoiles dans le champ amène, par analogie
                       avec les monnaies de bronze d’Antioche des années I, II, V, X et XI de Justin II, à proposer
                       une attribution à ce régne. On remarquera le type de bordure qui n’est pas attesté par ailleurs.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>142d</citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Oikonomides1986"/>, <citedRange>4</citedRange>
@@ -359,13 +359,13 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
               </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                   <!--    <p><bibl><ptr target=""/>, <citedRange>5 et 6</citedRange></bibl>,</p>Morrisson, Sceaux inédits-->

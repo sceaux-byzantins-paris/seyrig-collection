@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Slightly indented at the canal openings; slightly oxidized.</p>
-                           <p xml:lang="fr" part="N">Légèrement échancré aux orifices du canal; légèrement oxydé.</p>
+                           <p xml:lang="en" >Slightly indented at the canal openings; slightly oxidized.</p>
+                           <p xml:lang="fr" >Légèrement échancré aux orifices du canal; légèrement oxydé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -173,8 +173,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -193,8 +193,8 @@
                                  <dim type="diameter">37</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-dlucUX-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -234,8 +234,8 @@
                                  <dim type="diameter">37</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-dlucUX-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -265,7 +265,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -293,29 +293,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                         <cb n="a"/>+<expan ><abbr>S</abbr><ex >igilum</ex></expan> Giroldi abbatis de Josaphat
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                           <cb n="b"/>+Sepulcrum <expan ><abbr>beat</abbr><ex >a</ex><abbr>e</abbr></expan> <expan ><abbr>Mari</abbr><ex >a</ex><abbr>e</abbr></expan>
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -323,26 +323,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+Sigilum Giroldi abbatis de Josaphat. / +Sepulcrum beatae Mariae.</p>
-            <p xml:lang="en" part="N">Seal of Giraud, abbot of Iosaphat. / Tomb of blessed Mary.</p>
-            <p xml:lang="fr" part="N">Sceau de Giraud, abbé d'Iosaphat. / Tombeau de la bienheureuse Marie.</p>
+         <div type="translation"   >
+            <p >+Sigilum Giroldi abbatis de Josaphat. / +Sepulcrum beatae Mariae.</p>
+            <p xml:lang="en" >Seal of Giraud, abbot of Iosaphat. / Tomb of blessed Mary.</p>
+            <p xml:lang="fr" >Sceau de Giraud, abbé d'Iosaphat. / Tombeau de la bienheureuse Marie.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Voir pour le type en général [1]. Mais Giroldus
+            <p ><!--Voir pour le type en général [1]. Mais Giroldus
                       ne figure pas parmi les abbés connus par les sceaux de ce recueil, ni dans la liste donnée [2]. Cependant un prieur de ce nom
                       est connu en 1138, ce pourrait être le futur abbé [3].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. <hi rend="italic">Sigillographie de l' Orient latin</hi>, p. 128-130.
                   </p>
                   <p xml:id="footnote-2">

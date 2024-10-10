@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers la gauche ; pressé et oblitéré sur les deux bords des deux faces ; les lettres restantes sont nettement
+                           <p >Décentré vers la gauche ; pressé et oblitéré sur les deux bords des deux faces ; les lettres restantes sont nettement
                                         gravées.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Ux4xaj-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Ux4xaj-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,15 +267,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" ><expan ><ex >ὁ ἂγιος</ex></expan></supplied> <expan ><abbr><supplied reason="lost" >Γε</supplied>
                         <cb n="b"/>ώγι</abbr><ex >ος</ex></expan>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><supplied reason="lost" ><abbr>θ</abbr><ex >ει</ex></supplied></expan></rs>
                            <lb n="2"/><expan ><abbr>Θεωφυ<supplied reason="lost" >λ</supplied></abbr><supplied reason="lost" ><ex >άκτῳ</ex></supplied></expan>
                           <lb n="3"/><expan ><abbr><supplied reason="lost" >λ</supplied>ογα<supplied reason="lost" >ρ</supplied>ι
@@ -283,18 +283,18 @@
 
                                </ab>
                   </div>
-              <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+              <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
                   </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="2">
                   <lem>Θεοφ(ί)λ(ῳ)</lem>
@@ -305,24 +305,24 @@ mais cette solution est moins vraisemblable.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἂγιος Γεώγιος / Κύριε βοήθει Θεωφυλάκτῳ λογαριαστῇ.</p>
-            <p xml:lang="en" part="N">St. George. Lord help Theophylaktes, logoriastes.</p>
-            <p xml:lang="fr" part="N">Saint Georges. Seigneur aide Théophylacte, <hi rend="italic">logoriastès</hi>.</p>
+         <div type="translation"   >
+            <p >Ὁ ἂγιος Γεώγιος / Κύριε βοήθει Θεωφυλάκτῳ λογαριαστῇ.</p>
+            <p xml:lang="en" >St. George. Lord help Theophylaktes, logoriastes.</p>
+            <p xml:lang="fr" >Saint Georges. Seigneur aide Théophylacte, <hi rend="italic">logoriastès</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le <hi rend="italic">logariastès</hi> était chargé notamment du paiement des fonctionnaires. Plusieurs bureaux disposaient d’un <hi rend="italic">logariastès</hi>[1].--></p>
+            <p ><!--Le <hi rend="italic">logariastès</hi> était chargé notamment du paiement des fonctionnaires. Plusieurs bureaux disposaient d’un <hi rend="italic">logariastès</hi>[1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1]. Sur cette fonction cf. R.
 GUILLAND, Études sur l’histoire administrative de l’Empire byzantin. Le logariaste, ὁ λογοριαστής ; le grand logariaste, ὁ μέγας λογαριαστής, <hi rend="italic">JÖB</hi> 18, 1969, p. 101-113, repris
 dans ID., <hi rend="italic">Titres et fonctions de l’Empire byzantin</hi>, Londres 1976, n° XVI.-->
@@ -330,10 +330,10 @@ dans ID., <hi rend="italic">Titres et fonctions de l’Empire byzantin</hi>, Lon
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>104</citedRange>

@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Largement échancré aux orifices et relevé au bord supérieur.</p>
+                           <p >Largement échancré aux orifices et relevé au bord supérieur.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tdrUNW-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tdrUNW-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,10 +266,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
                   
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ Ἠλία
                           <lb n="2"/>τον Λ<supplied reason="omitted" >ή</supplied> <!--omicron-->
                           <lb n="3" break="no"/>μνου
@@ -278,17 +278,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -296,18 +296,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἠλία τον Λήμνου.</p>
+         <div type="translation"   >
+            <p >Ἠλία τον Λήμνου.</p>
             <!--omicron-->
-            <p xml:lang="en" part="N">Elias of Lemnos (?).</p>
-            <p xml:lang="fr" part="N">Élie de Lemnos (?).</p>
+            <p xml:lang="en" >Elias of Lemnos (?).</p>
+            <p xml:lang="fr" >Élie de Lemnos (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La représentation de la Vierge entre deux longues croix
+            <p ><!--La représentation de la Vierge entre deux longues croix
                       est analogue à celles que l’on rencontre sur les sceaux impériaux de la fin du règne de Maurice
                       au début de celui d’Héraclius. Notre interprétation de ce sceau comme étant celui de l’évêque
                       de Lemnos n’est pas assurée, mais paraît la plus vraisemblable. Des formules semblables sont
@@ -317,10 +317,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. <hi rend="italic">Corpus</hi>, N, 1, 846-847, et 3, 1819-
                           1820. -->
                       </p>

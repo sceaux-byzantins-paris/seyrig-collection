@@ -119,7 +119,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné fortement au sommet ; pressé et oblitéré sur le revers à droite ; en voie d’oxydation.</p>
+                           <p >Rogné fortement au sommet ; pressé et oblitéré sur le revers à droite ; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -165,8 +165,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -185,8 +185,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-K5NB75-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne et races de légende invocative circulaire habituelle.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne et races de légende invocative circulaire habituelle.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-K5NB75-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -258,7 +258,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,16 +286,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Εὐ
                         <cb n="b" break="no"/>στ</abbr><supplied reason="lost" ><abbr>ράτ</abbr><ex >ιος</ex></supplied></expan>
                       </ab>
                   </div>
                   <!-- ici, dans un autre div, il faudrait ajouter la légende invocative circulaire mentionnée, mais pour l'instant on laisse tomber  -->
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><supplied reason="omitted" >+</supplied> <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>βο
                               
                           <lb n="2" break="no"/>ήθ</abbr><ex >ει</ex></expan> τῷ σῷ
@@ -315,17 +315,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="4">
                   <lem>(πρῶτο)σπαθαρίῳ</lem>
@@ -337,18 +337,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Εὐστράτιος. / + Κύριε βοήθει τῷ σῷ δούλῳ Φωτίῳ <hi rend="italic">vel</hi> Φωτεινῷ πρωτοσπαθαρίῳ τῷ Τζούλᾳ.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Εὐστράτιος. / + Κύριε βοήθει τῷ σῷ δούλῳ Φωτίῳ <hi rend="italic">vel</hi> Φωτεινῷ πρωτοσπαθαρίῳ τῷ Τζούλᾳ.</p>
             <!-- vel en italique -->
-            <p xml:lang="en" part="N">St. Eustratios. Lord aid your servant Photios or Photeinos Tzoulas, protospatharios.</p>
-            <p xml:lang="fr" part="N">Saint Eustratios. Seigneur aide ton serviteur Phôtios ou Phôtéinos Tzoulas, protospathaire.</p>
+            <p xml:lang="en" >St. Eustratios. Lord aid your servant Photios or Photeinos Tzoulas, protospatharios.</p>
+            <p xml:lang="fr" >Saint Eustratios. Seigneur aide ton serviteur Phôtios ou Phôtéinos Tzoulas, protospathaire.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Skylitzès [1]
+            <p ><!--Skylitzès [1]
                       mentionne, en 1016, un Γεώργιος ὁ Τζοῦλος ou plutôt Τζούλας, ἄρχων τῆς Χαζαρίας,
                       qui fut fait prisonnier par les Russes, agissant pour le compte des Byzantins, leurs alliés.
                       Georges Tzoulas est cité sur un sceau mal conservé, provenant de Cherson, comme
@@ -367,36 +367,36 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                        <!--   [1]. Skylitzès,  p. 354.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. SOKOLOVA, <hi rend="italic">Cherson</hi>, p. 164 et s., n“ 54-54a; EADEM,
                           <hi rend="italic">  Pecati Culy</hi>, <hi rend="italic">op.cit</hi>., p. 69; ŠANDROVSKAJA, <hi rend="italic">Sfragistika</hi>, 707.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                           <!--[3]. SCHLUMBERGER, <hi rend="italic">Sigillographie</hi>,
                           p. 238 ; cf. SOKOLOVA, <hi rend="italic">Cherson</hi>, p. 159, n° 42. -->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                        <!--   [4]. <hi rend="italic">Pecati Culy </hi>p. 70, n° 1. -->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                       <!--    [5]. <hi rend="italic">ibid</hi>. p. 70 et s., n° 2. -->
                       </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                       <!--    [6]. SOKOLOVA, <hi rend="italic">Cherson</hi>, p.154 et s., n° 26, 28s. -->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>58</citedRange>
@@ -405,25 +405,25 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                   Musée Historique de Moscou, Moscou, n°128.
                     
                   </p>
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target=""/>, <citedRange unit="page"> p. 72 n. 15</citedRange>
                </bibl>; <!--ajouter Sokolova-->
                   </p>
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/464/">Photeinos 20101</ref>

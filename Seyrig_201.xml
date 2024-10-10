@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Échancrures aux orifices du canal.</p>
+                           <p >Échancrures aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-aWnQ8t-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-aWnQ8t-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,14 +266,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                             <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>βοή<supplied reason="lost" >θ</supplied></abbr><supplied reason="lost" ><ex >ει</ex></supplied></expan> τῷ σῷ <expan ><abbr>δ</abbr><ex >ούλῳ</ex></expan></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <expan ><abbr>Βαάν</abbr><ex >ῃ</ex></expan>
                           <lb n="2"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος_β"><expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan> <expan ><abbr><am >α</am></abbr><ex >πρωτο</ex><abbr>σπαθ</abbr><ex >αρίῳ</ex></expan></rs> <expan ><abbr>κ</abbr><ex >αὶ</ex></expan>
                           <lb n="3"/><expan ><abbr>σταρτ</abbr><ex >ηγῷ</ex></expan> <expan ><abbr>τ</abbr><ex >ῆς</ex></expan> 
@@ -283,17 +283,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="4">
                   <lem>Θρᾴκης, Θρᾳκησίων</lem>
@@ -304,17 +304,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ / + Βαάνῃ βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατηγῷ τῆς Θρᾴκης.</p>
-            <p xml:lang="en" part="N">Lord help your servant Baanes, imperial protospatharios and strategos of Thrace (?).</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Baanès, protospathaire impérial et stratège de Thrace (?).</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ / + Βαάνῃ βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατηγῷ τῆς Θρᾴκης.</p>
+            <p xml:lang="en" >Lord help your servant Baanes, imperial protospatharios and strategos of Thrace (?).</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Baanès, protospathaire impérial et stratège de Thrace (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"> <!--Baanès, de
+            <p > <!--Baanès, de
                       souche évidemment arménienne, pourrait avoir exercé sa charge sous Basile Ier, qui, au début
                       de son règne, s’appuya sur un réseau de familiers, qui comprenait beaucoup d’Arméniens.
                       Pour le sceau, au nom de Basile, d’un autre stratège de Thrace, également protospathaire
@@ -324,10 +324,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"> <!--xml:id="footnote-1">
+            <p > <!--xml:id="footnote-1">
                           [1]. ZACOS II, 1089. -->
                       </p>
          </div>

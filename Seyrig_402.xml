@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Unifacial, bearing the imprint of a coarse cloth on the spine; heavily trimmed on the right and left; deep indentations at the channel openings. Modern copy?</p>
-                           <p xml:lang="fr" part="N">Uniface, portant au dos l’empreinte d’un tissu grossier; fortement rogné à droite et à gauche; profondes
+                           <p xml:lang="en" >Unifacial, bearing the imprint of a coarse cloth on the spine; heavily trimmed on the right and left; deep indentations at the channel openings. Modern copy?</p>
+                           <p xml:lang="fr" >Uniface, portant au dos l’empreinte d’un tissu grossier; fortement rogné à droite et à gauche; profondes
                                         échancrures aux orifices du canal. Copie moderne?</p>
                         </condition>
                      </supportDesc>
@@ -174,8 +174,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -194,8 +194,8 @@
                                  <dim type="diameter">39</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JSkUsQ-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -235,8 +235,8 @@
                                  <dim type="diameter">39</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JSkUsQ-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -264,7 +264,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -294,9 +294,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>Θεοδώρου <expan ><abbr>μεγα</abbr>
                         <lb n="2" break="no"/><supplied reason="lost" >λ</supplied><abbr>οπρ</abbr><supplied reason="lost" >ε</supplied><abbr>π</abbr><ex >εστάτου</ex></expan> <expan ><abbr>ἰλλουστ</abbr><supplied reason="lost" >ρ</supplied>
                         <lb n="3" break="no"/><abbr>ίου</abbr></expan> <expan ><abbr>διοικητ</abbr><ex >οῦ</ex></expan> τῶν <expan ><abbr>ἁ</abbr>
@@ -310,17 +310,17 @@
                                </ab>
                           </div> --> 
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -328,17 +328,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοδώρου μεγαλοπρεπεστάτου ἰλλουστρίου διοικητοῦ τῶν ἁπανταχοῦ Θίων λαργιτιόνων καὶ ἀποθήκης Τύρου.</p>
-            <p xml:lang="en" part="N">(Seal of) Theodore, magnificent illustris dioiketes of all Sacred Largesse and of the Apotheca of Tyre.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Théodore, magnifique illustris dioicète de toute la Largesses Sacrées et de l’apothèque de Tyr.</p>
+         <div type="translation"   >
+            <p >Θεοδώρου μεγαλοπρεπεστάτου ἰλλουστρίου διοικητοῦ τῶν ἁπανταχοῦ Θίων λαργιτιόνων καὶ ἀποθήκης Τύρου.</p>
+            <p xml:lang="en" >(Seal of) Theodore, magnificent illustris dioiketes of all Sacred Largesse and of the Apotheca of Tyre.</p>
+            <p xml:lang="fr" >(Sceau de) Théodore, magnifique illustris dioicète de toute la Largesses Sacrées et de l’apothèque de Tyr.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  G. Zacos et A. Veglery proposent
+            <p ><!--  G. Zacos et A. Veglery proposent
                       d’identifier le titulaire avec Théodore <hi rend="italic">endoxotatos kommerkiarios</hi>, l’un des cinq envoyés
                       d’Héraclius auprès du khagan avare en 626 [1]. Le même personnage, selon ces auteurs, serait le titulaire des sceaux suivants [2], datés de 629-631, sur lesquels il est qualifié
                       de <hi rend="italic">apo hypatôn</hi> et <hi rend="italic">genikos kommerkiarios</hi> de l’apothéque de Chypre, puis de <hi rend="italic">apo hypatôn</hi> et
@@ -350,10 +350,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!-- xml:id="footnote-1">
+            <p ><!-- xml:id="footnote-1">
                       [1]. <hi rend="italic">Chronicon Paschale</hi>, éd. DlNDORF, Bonn 1832,
                       I, p. 721.
                   </p>
@@ -367,10 +367,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 395</citedRange>,</bibl>
                <bibl  >

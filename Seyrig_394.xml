@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Note the absence of a channel. Is it a medal or a modern copy?</p>
-                           <p xml:lang="fr" part="N">Noter l’absence de canal. S’agit-il d’une médaille ou d’une copie moderne?</p>
+                           <p xml:lang="en" >Note the absence of a channel. Is it a medal or a modern copy?</p>
+                           <p xml:lang="fr" >Noter l’absence de canal. S’agit-il d’une médaille ou d’une copie moderne?</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,11 +152,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acquis à Beyrouth</p>
+                     <p >Acquis à Beyrouth</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -175,8 +175,8 @@
                                  <dim type="diameter">48</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ueoHSv-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -216,8 +216,8 @@
                                  <dim type="diameter">48</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ueoHSv-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -246,7 +246,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -275,29 +275,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan cert="low" ><abbr>S</abbr><ex >igillum</ex></expan> Jesus Christi
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <cb n="b"/>+Vos piscatores hominum
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,26 +305,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Sigillum Jesus Christi. / +Vos piscatores hominum.</p>
-            <p xml:lang="en" part="N">Seal of Jesus Christ./ You fishers of men.</p>
-            <p xml:lang="fr" part="N">Sceau de Jésus-Christ. / Vous, les pêcheurs d'hommes.</p>
+         <div type="translation"   >
+            <p >Sigillum Jesus Christi. / +Vos piscatores hominum.</p>
+            <p xml:lang="en" >Seal of Jesus Christ./ You fishers of men.</p>
+            <p xml:lang="fr" >Sceau de Jésus-Christ. / Vous, les pêcheurs d'hommes.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Les plus récentes fouilles attestent la présence à Tabgha-Bethsaïda d’une église
+            <p ><!--Les plus récentes fouilles attestent la présence à Tabgha-Bethsaïda d’une église
                       latine de Saint-Pierre, toute proche de la basilique byzantine de la Multiplication des Pains (le rectangle, au droit de la bulle, pourrait être une représentation de la Mensa Domini). Une
                       note plus développée de J. Richard [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                   [1]. Sur ce sceau sera publiée dans la <hi rend="italic">Revue numismatique</hi>
                   1992.-->
               </p>

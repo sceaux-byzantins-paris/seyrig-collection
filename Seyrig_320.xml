@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Very wide flan; off-centre towards the base; deep notch on the right side.</p>
-                           <p xml:lang="fr" part="N">Flan très large; décentré vers la base; profonde entaille sur le côté droit.</p>
+                           <p xml:lang="en" >Very wide flan; off-centre towards the base; deep notch on the right side.</p>
+                           <p xml:lang="fr" >Flan très large; décentré vers la base; profonde entaille sur le côté droit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-y0CsL0-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-y0CsL0-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,15 +271,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτηρ</ex></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εοῦ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N"><!-- errors in lines 3-4: expansion; lines3 with spirit and subscript iota in Ioannis -->
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab ><!-- errors in lines 3-4: expansion; lines3 with spirit and subscript iota in Ioannis -->
                           <lb n="1"/><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> 
                           <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan> 
                           <lb n="2"/>τῷ σῷ <expan ><abbr>δ</abbr><ex >ούλῳ</ex></expan>
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,18 +306,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰωάννῃ το Ταρονίτῃ.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰωάννῃ το Ταρονίτῃ.</p>
             <!-- the keyboard doesn't put ῀ above o -->
-            <p xml:lang="en" part="N">Mother of God. / Mother of God help your servant John Taronites.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Mère de Dieu aide ton serviteur Jean Tarônitès.</p>
+            <p xml:lang="en" >Mother of God. / Mother of God help your servant John Taronites.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Mère de Dieu aide ton serviteur Jean Tarônitès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Nous connaissons, à cette époque, deux homonymes [1]. Les types de sceaux qui doivent
+            <p ><!--  Nous connaissons, à cette époque, deux homonymes [1]. Les types de sceaux qui doivent
                       être attribués avec grande vraisemblance à Jean Tarônitès, sébaste, sont les suivants:
                       1) coll. Shaw 1307 [2]; coll. Zacos; coll. Thierry 155; coll. Reggiani
                       6 [3].
@@ -332,10 +332,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                       [1]. Sur ces deux
                       personnages, Alice LEROY-MOLINGHEN, Les deux Jean Taronite de l’Alexiade, <hi rend="italic">Byz</hi>, 14, 1939,
                       p. 147-153; GAUTIER, <hi rend="italic">Blachernes</hi>, p. 236-237 (le sébaste), p. 246-247 (le prôtocuropalate et
@@ -362,10 +362,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 320</citedRange>
                </bibl>.
@@ -373,10 +373,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Numismatic Museum of Athens, Athens,
+            <p > Numismatic Museum of Athens, Athens,
                       <bibl  >
                   <ptr target="Athens1917"/>,<citedRange unit="part"> 692β</citedRange>,</bibl>
                <bibl  >

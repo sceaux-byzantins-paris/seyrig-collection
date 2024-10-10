@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné fortement au sommet; détruit dans sa partie inférieure le long du canal.</p>
+                           <p >Rogné fortement au sommet; détruit dans sa partie inférieure le long du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">28</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tjmmM1-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">28</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tjmmM1-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,15 +269,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><supplied reason="omitted" >+ <rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></rs></supplied>
                           <lb n="2"/><expan ><abbr><supplied reason="lost" >Μ</supplied>ιχ</abbr><ex >α</ex><supplied reason="lost" ><abbr>ὴλ</abbr></supplied></expan> <rs type="dignity" ref="dignities.xml#πρόεδρος">π<supplied reason="lost" >ρ</supplied>ο
                           <lb n="3" break="no"/>έδρῳ</rs> <expan ><abbr>κ</abbr><ex >αὶ</ex></expan> <expan ><abbr>πρ</abbr><ex >αί</ex>
@@ -289,17 +289,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -307,17 +307,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ / Θεοτόκε βοήθει Μιχαὴλ προέδρῳ καὶ πραίτωρι τῶν Θρακησίων τῷ Ῥαδηνῷ.</p>
-            <p xml:lang="en" part="N">Mother of God / Theotokos help Michael Radenos, proedros and praitor of the Thracesians.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu / Théotokos aide Michel Radènos, proèdre et préteur des Thracésiens.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ / Θεοτόκε βοήθει Μιχαὴλ προέδρῳ καὶ πραίτωρι τῶν Θρακησίων τῷ Ῥαδηνῷ.</p>
+            <p xml:lang="en" >Mother of God / Theotokos help Michael Radenos, proedros and praitor of the Thracesians.</p>
+            <p xml:lang="fr" >Mère de Dieu / Théotokos aide Michel Radènos, proèdre et préteur des Thracésiens.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"> <!--Selon l’information fournie par Psellos, son maître et ami,
+            <p > <!--Selon l’information fournie par Psellos, son maître et ami,
                       dans l’oraison funèbre qu’il composa pour lui [1], le proèdre Michel Radènos mourut alors qu’il
                       exerçait une charge en Asie Mineure. Par conséquent, il est tentant de suggérer que notre
                       sceau pourrait marquer l’ultime étape de sa carrière et qu’il aurait donc été juge des Thracésiens
@@ -340,10 +340,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"> <!--> xml:id="footnote-1">
+            <p > <!--> xml:id="footnote-1">
                           [1]. P. GAUTIER, Monodies inédites de Michel
                           Psellos, <hi rend="italic">REB</hi> 36, 1978, p. 91-93, p. 112-126.
                       </p>

@@ -106,8 +106,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed; obliterated.</p>
-                           <p xml:lang="fr" part="N">Rogné; oblitéré.</p>
+                           <p xml:lang="en" >Trimmed; obliterated.</p>
+                           <p xml:lang="fr" >Rogné; oblitéré.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,11 +151,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Apporté de Damas</p>
+                     <p >Apporté de Damas</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -174,8 +174,8 @@
                                  <dim type="diameter">33</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Amer73-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">33</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Amer73-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,29 +272,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                         <cb n="a"/>+Ave Maria gracia plena
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                           <cb n="b"/>+Sigillum Annunciacionis
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,26 +302,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+Ave Maria gracia plena. / +Sigillum Annunciacionis.</p>
-            <p xml:lang="en" part="N">Hail Mary, full of grace. / Seal of Annunciation.</p>
-            <p xml:lang="fr" part="N">Je vous salue Marie, pleine de grâce. / Sceau de l'Annonciation.</p>
+         <div type="translation"   >
+            <p >+Ave Maria gracia plena. / +Sigillum Annunciacionis.</p>
+            <p xml:lang="en" >Hail Mary, full of grace. / Seal of Annunciation.</p>
+            <p xml:lang="fr" >Je vous salue Marie, pleine de grâce. / Sceau de l'Annonciation.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Cette bulle est sans doute celle des chanoines de Nazareth; le motif de la
+            <p ><!--Cette bulle est sans doute celle des chanoines de Nazareth; le motif de la
                       salutation angélique figure également au revers des sceaux des archevêques de Nazareth, mais
                       sous la forme d’une scène unique [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                   [1]. <hi rend="italic">Sigillographie de l’Orient latin</hi>, p. 96-98 et pl. III, 6.-->
               </p>
          </div>

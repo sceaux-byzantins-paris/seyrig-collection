@@ -109,9 +109,9 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Obverse off-center to the right; reverse off-center to the right; nice strike, but the letters at the end of the legend
+                           <p xml:lang="en" >Obverse off-center to the right; reverse off-center to the right; nice strike, but the letters at the end of the legend
                                         have been slightly pressed.</p>
-                           <p xml:lang="fr" part="N">Avers décentré vers la droite; revers décentré vers la droite; belle frappe, mais les lettres de la fin de la légende
+                           <p xml:lang="fr" >Avers décentré vers la droite; revers décentré vers la droite; belle frappe, mais les lettres de la fin de la légende
                                         ont été légèrement pressées.</p>
                         </condition>
                      </supportDesc>
@@ -157,11 +157,11 @@
                   </origin>
                   <!-- Acquis à Beyrouth: in transferred, not in discovered, which is for the findspot -->
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acquis à Beyrouth en provenance d'Antioche</p>
+                     <p >Acquis à Beyrouth en provenance d'Antioche</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -180,8 +180,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-s4xqDQ-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -221,8 +221,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-s4xqDQ-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -251,7 +251,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -280,15 +280,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang=""><!-- take a look at the expan lines 3, 4 and 5 -->
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang=""><!-- take a look at the expan lines 3, 4 and 5 -->
+                      <ab >
                           <lb n="1"/>+<expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> 
                           <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan> 
                           <lb n="2"/>τῇ σῇ <expan >δούλ<ex >ῃ</ex></expan> 
@@ -302,17 +302,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -320,17 +320,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N"> Μήτηρ Θεοῦ. / + Θεοτόκε βοήθει τῇ σῇ δούλῃ Καλῇ πρωτοσπαθαρέᾳ καὶ στρατηγίσσᾳ τῇ Βραχαμήνᾳ.</p>
-            <p xml:lang="en" part="N">Mother of God. / Mother of God help your servant Kale, Brachamena, protospatharissa and strategissa.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Mère de Dieu aide ta servante Kalè, Brachamina, prôtospatharissa et stratègissa.</p>
+         <div type="translation"   >
+            <p > Μήτηρ Θεοῦ. / + Θεοτόκε βοήθει τῇ σῇ δούλῃ Καλῇ πρωτοσπαθαρέᾳ καὶ στρατηγίσσᾳ τῇ Βραχαμήνᾳ.</p>
+            <p xml:lang="en" >Mother of God. / Mother of God help your servant Kale, Brachamena, protospatharissa and strategissa.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Mère de Dieu aide ta servante Kalè, Brachamina, prôtospatharissa et stratègissa.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Sur cette illustre famille, bien connue dans le duché
+            <p ><!-- Sur cette illustre famille, bien connue dans le duché
                       d’Antioche de la fin du Xe siècle à la fin du XIe siècle, voir en dernier lieu [1]. Kalè Brachamina était la femme d’un protospathaire et stratège dont nous
                       ne connaissons pas le nom et était peut-être apparentée à Isaac Brachamios, un des principaux
                       chefs militaires présents en 969 lors de la prise d’Antioche. Elle doit être distinguée d’une
@@ -338,10 +338,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                       [1].CHEYNET - VANNIER,
                       <hi rend="italic">Études</hi>, p. 57-74.
                   </p>
@@ -351,10 +351,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 296</citedRange>,</bibl>
                <bibl  >
@@ -366,7 +366,7 @@
          </div>
          <div type="bibliography"
               subtype="discussionCurrent"
-              part="N"
+              
               
               >
                   <!-- missing bibliography -->

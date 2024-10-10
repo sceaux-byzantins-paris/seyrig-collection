@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Usé; rogné à droite; légère échancrure aux orifices du canal.</p>
+                           <p >Usé; rogné à droite; légère échancrure aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-xWwQft-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes.</p>
+                              <p xml:lang="en" >Legend of 4 lines.</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-xWwQft-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,10 +266,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                       <lb n="1"/>+ Θεο
                                
                                   <lb n="2" break="no"/>δώρου
@@ -281,8 +281,8 @@
                                   <lb n="4" break="no"/>ου </rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="5"/>δού
                                
@@ -296,17 +296,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -314,38 +314,38 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Θεοδώρου ὑπάτου / δούλου τῆς Θεοτόκου.</p>
+         <div type="translation"   >
+            <p >+ Θεοδώρου ὑπάτου / δούλου τῆς Θεοτόκου.</p>
             <!-- attention: il ne faut jamais mettre le xml:lang ici, l'information doit e^tre visible dans toutes les langues -->
-            <p xml:lang="en" part="N">Theodore, hypatos, servant of the Theotokos.</p>
-            <p xml:lang="fr" part="N">Théodore, <hi rend="italic">hypatos</hi>, serviteur de la Théotokos.</p>
+            <p xml:lang="en" >Theodore, hypatos, servant of the Theotokos.</p>
+            <p xml:lang="fr" >Théodore, <hi rend="italic">hypatos</hi>, serviteur de la Théotokos.</p>
             <!--Mère de Dieu ou Théotokos pour assurer une cohérence ?-->
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La ligature<!-\- K -\->est remarquable à une date si haute. Notre plomb peut être <!-\-Athena Ruby; probablement à déplacer dans le champ "épigraphie"-\->
+            <p ><!--La ligature<!-\- K -\->est remarquable à une date si haute. Notre plomb peut être <!-\-Athena Ruby; probablement à déplacer dans le champ "épigraphie"-\->
                       rapproché du sceau DO 61.59.61-1694 publié par G. Zacos et A. Veglery [1]: le texte
                       et la datation proposée sont identiques, mais le texte est disposé un peu différemment. En
                       dépit de la fréquence du prénom et de la dignité, il s’agit probablement du même personnage.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. (1043).--><!-- référence biblio -->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>26</citedRange>

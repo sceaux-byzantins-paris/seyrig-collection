@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Slight indentation in the lower part of the channel; large letters well engraved.</p>
-                           <p xml:lang="fr" part="N">Légère échancrure dans la partie inferieure du canal; grosses lettres bien gravées.</p>
+                           <p xml:lang="en" >Slight indentation in the lower part of the channel; large letters well engraved.</p>
+                           <p xml:lang="fr" >Légère échancrure dans la partie inferieure du canal; grosses lettres bien gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -153,11 +153,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acheté au Caire chez Nahman</p>
+                     <p >Acheté au Caire chez Nahman</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -176,8 +176,8 @@
                                  <dim type="diameter">28</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-OdxWzD-r</rs>
-                              <p xml:lang="en" part="N">Metrical legend in columns</p>
-                              <p xml:lang="fr" part="N">Légende métrique en colonne</p>
+                              <p xml:lang="en" >Metrical legend in columns</p>
+                              <p xml:lang="fr" >Légende métrique en colonne</p>
                               <!-- métrique????????????????? -->
                            </layout>
                         </layoutDesc>
@@ -219,8 +219,8 @@
                                  <dim type="diameter">28</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-OdxWzD-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                               <!-- métrique????????????????? -->
                            </layout>
                         </layoutDesc>
@@ -250,7 +250,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -279,16 +279,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                        <lb n="1"/>Σφρά
                         <lb n="2" break="no"/>γισμα 
                         <lb n="3"/>γραφῶν
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Χριστο
                           <lb n="2" break="no"/>δούλου 
                           <lb n="3"/>τοῦ Ἱκα
@@ -296,17 +296,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -314,33 +314,33 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Σφράγισμα γραφῶν / Χριστοδούλου τοῦ Ἱκανάτου.</p>
-            <p xml:lang="en" part="N">Seal of the letters of Christodoulos Hikanatos writer of the seal.</p>
+         <div type="translation"   >
+            <p >Σφράγισμα γραφῶν / Χριστοδούλου τοῦ Ἱκανάτου.</p>
+            <p xml:lang="en" >Seal of the letters of Christodoulos Hikanatos writer of the seal.</p>
             <!-- ????????????????? -->
-            <p xml:lang="fr" part="N">Sceau des lettres (ou écrits) de Christodule Hikanatos.</p>
+            <p xml:lang="fr" >Sceau des lettres (ou écrits) de Christodule Hikanatos.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Personnage inconnu par ailleurs. Christodule, dont le prénom
+            <p ><!-- Personnage inconnu par ailleurs. Christodule, dont le prénom
                       n’est pas attesté par ailleurs dans la famille, appartient à la génération la plus récente que
                       nous connaissions. L’unique type de plomb qui nous en soit parvenu a fait l’objet de plusieurs
                       copies. Seul le plomb conservé à Dumbarton Oaks est authentique. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 301</citedRange>
                </bibl>.
@@ -348,10 +348,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C.,
+            <p > Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.4229"/> BZS.1955.1.4229</citedRange>,</bibl>

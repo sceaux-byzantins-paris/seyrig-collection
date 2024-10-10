@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné fortement sur tout le sommet du champ ; entaillé à l’orifice inferieur du canal ; lettres nettement gravées.</p>
+                           <p >Rogné fortement sur tout le sommet du champ ; entaillé à l’orifice inferieur du canal ; lettres nettement gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DIWCZJ-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DIWCZJ-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,15 +266,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" ><expan ><ex >Ὁ ἅγιος</ex></expan></supplied> <expan ><abbr>Γε</abbr><ex >ώ</ex><abbr>ρ
                         <cb n="b" break="no"/><supplied reason="omitted" >γ</supplied>ιο<supplied reason="lost" >ς</supplied></abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><supplied reason="lost" >+</supplied> <expan ><abbr><supplied reason="lost" >Θεο</supplied>
                           <lb n="2" break="no"/>δότ</abbr><ex >ῳ</ex></expan> <rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><abbr><am >α</am></abbr><ex >πρωτο</ex><abbr>σπ<supplied reason="omitted" >α</supplied>
                           <lb n="3" break="no"/><supplied reason="lost" >θ</supplied>αρ</abbr><ex >ίῳ</ex></expan></rs> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>στρα
@@ -284,17 +284,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,17 +302,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Γεώργιος. / + Θεοδότῳ πρωτοσπαθαρίῳ καὶ στρατηγῷ Μελιτηνῆς.</p>
-            <p xml:lang="en" part="N">St. George. Theodotos, protospatharios and strategos of Melitene.</p>
-            <p xml:lang="fr" part="N">Saint Georges. Théodote, protospathaire et stratège de Mélitène.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Γεώργιος. / + Θεοδότῳ πρωτοσπαθαρίῳ καὶ στρατηγῷ Μελιτηνῆς.</p>
+            <p xml:lang="en" >St. George. Theodotos, protospatharios and strategos of Melitene.</p>
+            <p xml:lang="fr" >Saint Georges. Théodote, protospathaire et stratège de Mélitène.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Mélitène, conquise en 954, fut d’abord une curatorie impériale,
+            <p ><!--Mélitène, conquise en 954, fut d’abord une curatorie impériale,
                       puis la capitale d’un thème où résidait un stratège [1]. Au cours
                       du XIe siècle, un stratège est encore attesté en 1043 avec Léon Lampros [2];
                       puis les sceaux nous font connaître des catépans : Pierre Gymnos, vestès[3].
@@ -323,41 +323,41 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1]. OIKONOMIDÈS, <hi rend="italic">Listes</hi>, p. 356.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. SKYLITZÈS, p. 430.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                         <!--  [3]. Fogg 238.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                          <!-- [4]. ZACOS II, 438.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                          <!-- [5]. LAURENT, Vatican, 129.-->
                       </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                           <!--[6]. MICHEL LE SYRIEN III, p. 164.-->
                       </p>
-            <p xml:id="footnote-7" part="N">
+            <p xml:id="footnote-7" >
                           <!--[7]. ARISTAKÈS
                           DE LASTIVERT, p. 105.-->
                       </p>
-            <p xml:id="footnote-8" part="N">
+            <p xml:id="footnote-8" >
                          <!-- [8]. MICHEL LE SYRIEN III, p. 165.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>184</citedRange>

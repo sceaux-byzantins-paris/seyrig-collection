@@ -111,8 +111,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p xml:lang="en" part="N">Uniface. Swelling around the rim; broken on the right; indented at the channel openings; very fine strike.</p>
-                           <p xml:lang="fr" part="N">Uniface. Renflé au pourtour; brisé à droite; échancré aux orifices du canal; très belle frappe.</p>
+                           <p xml:lang="en" >Uniface. Swelling around the rim; broken on the right; indented at the channel openings; very fine strike.</p>
+                           <p xml:lang="fr" >Uniface. Renflé au pourtour; brisé à droite; échancré aux orifices du canal; très belle frappe.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">don d'Henri Seyrig</p>
+                     <p xml:lang="en" >donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -172,8 +172,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-h3WTb4-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -218,8 +218,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-h3WTb4-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -248,7 +248,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -274,17 +274,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">  
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >  
                           <lb n="1"/>Constantinos <expan ><abbr>bas</abbr><ex >ileus</ex></expan> θ<!-- attention aux espaces blancs car ils seront conservés dans l'édition sur la page web; pas de point à la fin de la légende ici -->
                       </ab>
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la" part="N"  >
-                      <ab part="N"/>
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la"   >
+                      <ab />
                   </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >
@@ -296,27 +296,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Constantinos basileus.</p>
-            <p xml:lang="en" part="N">Constantine, emperor.</p>
-            <p xml:lang="fr" part="N">Constantin, empereur.</p>
+         <div type="translation"   >
+            <p >Constantinos basileus.</p>
+            <p xml:lang="en" >Constantine, emperor.</p>
+            <p xml:lang="fr" >Constantin, empereur.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Comme l’ont fait remarquer G. Zacos et A. Veglery, la présence du Θ<!-\- à mettre en Athena Ruby -\-> à la
+            <p ><!--Comme l’ont fait remarquer G. Zacos et A. Veglery, la présence du Θ<!-\- à mettre en Athena Ruby -\-> à la
                           fin de la légende s’explique par une copie du sceau sur le modèle du solidus. Le Θ<!-\- à mettre en Athena Ruby -\-> est la
 marque d’une des deux officines responsables de la frappe d’or à cette époque,sur ces marques
 de contrôle[1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     [1]. <bibl  >
                   <ptr target="Grierson1993b"/>, <citedRange unit="page">1, p. 78-80</citedRange>
                </bibl>.
@@ -324,10 +324,10 @@ de contrôle[1].--></p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Biliothèque Nationale de France, Paris,
                     <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>5</citedRange>
@@ -336,10 +336,10 @@ de contrôle[1].--></p>
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Dumbarton Oaks, Washington D.C.,
                     <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>38</citedRange>

@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné sur la moitié droite; échancrures aux orifices du canal.</p>
+                           <p >Fortement rogné sur la moitié droite; échancrures aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,9 +150,9 @@
                   </origin>
                   <!-- comme sur un sceau préc., ceci est le lieu d'achat, pas de découverte: c'est pour provenance type=transferred -->
                   <acquisition><!-- voir remarque préc. -->
-                     <p xml:lang="en" part="N">Purchased in Beirut.</p>
+                     <p xml:lang="en" >Purchased in Beirut.</p>
                      <!--choix du terme à voir-->
-                     <p xml:lang="fr" part="N">Acquis à Beyrouth.</p>
+                     <p xml:lang="fr" >Acquis à Beyrouth.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <!-- il n'y a pas cette info dans l'édition -->
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Ptb740-r</rs>
-                              <p xml:lang="en" part="N">Legend of 2 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 2 lignes</p>
+                              <p xml:lang="en" >Legend of 2 lines</p>
+                              <p xml:lang="fr" >Légende sur 2 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,10 +212,10 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Ptb740-v</rs>
-                              <p xml:lang="en" part="N">Monogram formed by a <!--TI and a T
+                              <p xml:lang="en" >Monogram formed by a <!--TI and a T
                                             topped by a V on the left and a P on the right. In the centre of the n an A, on the right hand side,
                                             K-->. </p>
-                              <p xml:lang="fr" part="N">Monogramme formé d’un <!--TI et d’un T
+                              <p xml:lang="fr" >Monogramme formé d’un <!--TI et d’un T
                                             surmontés d’un V à gauche et d’un P à droite. Au centre du n un A, sur la haste droite,
                                             K.--></p>
                            </layout>
@@ -245,7 +245,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,17 +273,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N"> 
+                      <ab > 
                           <lb n="1"/>Ser
                           <lb n="2" break="no"/>giu
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                                   <lb n="3"/> <rs type="dignity" ref="dignities.xml#πατρίκιος">
                         <expan ><ex >πατρικίου</ex></expan>
                           </rs>
@@ -292,17 +292,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,33 +310,33 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Sergiu / πατρικίου.</p>
-            <p xml:lang="en" part="N">(Seal of) Sergios, / patrikios.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Serge, / patrice.</p>
+         <div type="translation"   >
+            <p >Sergiu / πατρικίου.</p>
+            <p xml:lang="en" >(Seal of) Sergios, / patrikios.</p>
+            <p xml:lang="fr" >(Sceau de) Serge, / patrice.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>44</citedRange>

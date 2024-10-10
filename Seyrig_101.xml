@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné fortement sur la partie gauche; bord droit très relevé; en voie d’oxydation complète.</p>
+                           <p >Rogné fortement sur la partie gauche; bord droit très relevé; en voie d’oxydation complète.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-0MLEd3-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-0MLEd3-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,15 +265,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><abbr/>
                         <cb n="b"/><abbr/>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+ <expan ><abbr>Βασι<supplied reason="lost" >λ</supplied></abbr><supplied reason="lost" ><ex >είῳ</ex></supplied></expan>
                            <lb n="2"/><expan ><abbr><supplied reason="lost" >σ</supplied>παθ</abbr><ex >αρο</ex><abbr>κ<supplied reason="lost" >αν
                           <lb n="3" break="no"/>δ</supplied></abbr><supplied reason="lost" ><ex >ι</ex><abbr>δ</abbr><ex >άτῳ</ex></supplied></expan> <rs type="officeCivil" ref="officeCivil.xml#ἀσηκρῆτις"><expan ><abbr>ἀσηκ<supplied reason="lost" >ρῆ
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,38 +303,38 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">
+         <div type="translation"   >
+            <p >
                <abbr/> / + Βασιλείῳ σπαθαροκανδιδάτῳ ἀσηκρῆτις και κρητῇ.</p>
-            <p xml:lang="en" part="N">
+            <p xml:lang="en" >
                <abbr/>. Basil, spatharokandidatos, asekretis and judge.</p>
-            <p xml:lang="fr" part="N">
+            <p xml:lang="fr" >
                <abbr/>. Basile, spatharocandidat, <hi rend="italic">asèkrètis</hi> et juge.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le personnage est ignoré des sources; toutefois, Basile,
+            <p ><!--Le personnage est ignoré des sources; toutefois, Basile,
                       spatharocandidat, <hi rend="italic">asèkrètis</hi>, juge d’Ibérie, est mentionné par un sceau [1]. Il s’agit
                       peut être du même Basile que celui de notre sceau à une étape ultérieure de sa carrière.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1]. Fogg 577.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>101</citedRange>

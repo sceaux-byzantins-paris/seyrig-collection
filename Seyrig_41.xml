@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné ; oblitéré à droite, boursouflé au revers sur le tracé du canal ; échancré aux orifices du canal.</p>
+                           <p >Rogné ; oblitéré à droite, boursouflé au revers sur le tracé du canal ; échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TLpTGq-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TLpTGq-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,15 +272,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N"><!-- il faut regarder l'édition diplomatique pour savoir combien de lettres sont visibles, et donc dans abbr!!! Et c'est sigla, pas label -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab ><!-- il faut regarder l'édition diplomatique pour savoir combien de lettres sont visibles, et donc dans abbr!!! Et c'est sigla, pas label -->
                          <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτηρ</ex></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εοῦ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><abbr>Θ</abbr><supplied reason="lost" ><ex >εοτό</ex><abbr>κε</abbr></supplied></expan> <expan ><supplied reason="lost" ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></supplied></expan></rs> 
                           <lb n="2"/><supplied reason="lost" >Νι</supplied>κήτᾳ
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#μάγιστρος">μα<supplied reason="lost" >γ</supplied>ίστρῳ
@@ -292,17 +292,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp ><!-- comme dans le fichier préc., ce n'est pas la fonction d'un apparat critique tout ceci; il faut simplement indiquer les lectures diffèrentes (dans ce cas); le discours se développe dans le commentaire -->
                <app loc="4">
                   <lem>Μο[σ]χιανός, Μο[νο]χιανός</lem>
@@ -312,17 +312,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ / + Θεοτόκε βοήθει Νικήτᾳ μαγίστρῳ τῷ Μοσχιανῷ (?).</p>
-            <p xml:lang="en" part="N">Mother of God / + Mother of God help Niketas Moschianos (?), magistros.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu / + Mère de Dieu aide Nicétas Moschianos (?), magistre.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ / + Θεοτόκε βοήθει Νικήτᾳ μαγίστρῳ τῷ Μοσχιανῷ (?).</p>
+            <p xml:lang="en" >Mother of God / + Mother of God help Niketas Moschianos (?), magistros.</p>
+            <p xml:lang="fr" >Mère de Dieu / + Mère de Dieu aide Nicétas Moschianos (?), magistre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--On peut hésiter sur la lecture du patronyme. Si la dernière lettre lisible
+            <p ><!--On peut hésiter sur la lecture du patronyme. Si la dernière lettre lisible
                               de la quatrième ligne était un<!-\- N, on lirait Monochianos, patronyme qui n’est pas attesté par ailleurs. Si au lieu d un N, il s’agit d’un C-\->, nous serions en présence d’un membre de la famille
                               des Moschianoi. La famille
                       des Moschianoi est attestée sous les Paléologues [1] et connue antérieurement
@@ -332,19 +332,19 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     <!--  [1]. <hi rend="italic">PLP</hi> 19353-55.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>41</citedRange>

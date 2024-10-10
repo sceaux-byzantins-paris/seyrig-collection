@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Offset to the left on the right and to the right on the reverse; left edge of reverse raised; slight nicks; oxidising.</p>
-                           <p xml:lang="fr" part="N">Décentré vers la gauche au droit et vers la droite au revers; bord gauche du revers relevé; entailles légères;en voie d’oxydation.</p>
+                           <p xml:lang="en" >Offset to the left on the right and to the right on the reverse; left edge of reverse raised; slight nicks; oxidising.</p>
+                           <p xml:lang="fr" >Décentré vers la gauche au droit et vers la droite au revers; bord gauche du revers relevé; entailles légères;en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-sUUgwG-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                               <!-- et l'hypothèse sur le légende circulaire????? -->
                            </layout>
                         </layoutDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-sUUgwG-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,15 +269,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/><expan ><abbr>Νικόλ</abbr><ex >αος</ex></expan>
                         <cb n="b"/><expan ><abbr>Ἄνθημ</abbr><ex >ος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+<expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> βο
                           <lb n="2" break="no"/>ήθει τῷ 
                           <lb n="3"/>σῷ <expan ><abbr>δού</abbr><ex >λῳ</ex></expan> Ἀν
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,19 +303,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Νικόλαος - Ἄνθημος. / +Κύριε βοήθει τῷ σῷ δούλῳ Ἀνθήμῳ.</p>
-            <p xml:lang="en" part="N">Nicholas - Anthimos. / Lord, help your servant Anthimos.</p>
-            <p xml:lang="fr" part="N">Nicolas - Anthime. / Seigneur, aide ton serviteur Anthime.</p>
+         <div type="translation"   >
+            <p >Νικόλαος - Ἄνθημος. / +Κύριε βοήθει τῷ σῷ δούλῳ Ἀνθήμῳ.</p>
+            <p xml:lang="en" >Nicholas - Anthimos. / Lord, help your servant Anthimos.</p>
+            <p xml:lang="fr" >Nicolas - Anthime. / Seigneur, aide ton serviteur Anthime.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

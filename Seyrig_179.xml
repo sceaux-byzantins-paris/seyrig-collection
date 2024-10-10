@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Fissure tout le long du canal qui menace de briser le sceau en deux parties; pressé et en partie oblitéré en
+                           <p >Fissure tout le long du canal qui menace de briser le sceau en deux parties; pressé et en partie oblitéré en
                                         son centre.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VIVZHn-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VIVZHn-v</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,15 +267,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> Μάρ
                         <cb n="b" break="no"/>κος 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><supplied reason="lost" >+</supplied> <expan ><abbr><supplied reason="lost" >Β</supplied>ασιλ</abbr><ex >είῳ</ex></expan>
                               
                           <lb n="2"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><abbr><am >α</am></abbr><ex >πρωτο</ex><abbr>σπαθ</abbr><ex >αρίῳ</ex></expan></rs> <expan ><ex >ἐπὶ</ex></expan> <expan ><ex >τοῦ</ex></expan> 
@@ -291,17 +291,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,18 +309,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Μάρκος  / + Βασιλείῳ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου μεγάλῳ χαρτουλαρίῳ τοῦ γενικοῦ κριτῇ ἐπὶ τοῦ Ἱπποδρόμου Πελοποννήσου καὶ Ἑλλάδος.</p>
-            <p xml:lang="en" part="N">St. Mark. Basil, protospatharios, epi tou Chrysotriklinou, grand chartoularios of the genikon, judge of the Hippodromos, of the Hellas and of the Peloponnese.</p>
-            <p xml:lang="fr" part="N">Saint Marc. Basile, protospathaire <hi rend="italic">épi tou chrysotriklinou</hi>, grand chartulaire du <hi rend="italic">génikon</hi>,
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Μάρκος  / + Βασιλείῳ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου μεγάλῳ χαρτουλαρίῳ τοῦ γενικοῦ κριτῇ ἐπὶ τοῦ Ἱπποδρόμου Πελοποννήσου καὶ Ἑλλάδος.</p>
+            <p xml:lang="en" >St. Mark. Basil, protospatharios, epi tou Chrysotriklinou, grand chartoularios of the genikon, judge of the Hippodromos, of the Hellas and of the Peloponnese.</p>
+            <p xml:lang="fr" >Saint Marc. Basile, protospathaire <hi rend="italic">épi tou chrysotriklinou</hi>, grand chartulaire du <hi rend="italic">génikon</hi>,
                       juge de l’Hippodrome, de l’Hellade et du Péloponnèse.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Basile a laissé de nombreux sceaux au droit desquels
+            <p ><!--Basile a laissé de nombreux sceaux au droit desquels
                       figure saint Marc. Les premiers le qualifient de protospathaire, <hi rend="italic">épi tou Chrysotriclinou</hi>, grand
                       chartulaire et kritès des Bucellaires [1]. Puis Basile, avec la même dignité, devint
                       grand chartulaire du génikon et protonotaire [2]. Enfin les sceaux les plus récents
@@ -331,28 +331,28 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. ZACOS II, 388, repris sans illustration sous le numéro
                           389 - autre ex. au Musée Archéologique d’Istanbul.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                        <!--   [2]. Cf. supra n° 87, OIKONOMIDÈS, <hi rend="italic">Usual Seal</hi>,
                           p. 153-155 citant les éditions précédentes; ZACOS II, 390.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                         <!--  [3]. Cf. OIKONOMIDÈS, <hi rend="italic">Usual Seal</hi>,
                           p. 155-156.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>179</citedRange>
@@ -361,17 +361,17 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.2240">BZS 1951.31.5.49 (DO 55.1. 2240)</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -381,10 +381,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/526/">Basileios 20120</ref>

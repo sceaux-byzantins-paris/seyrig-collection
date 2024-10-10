@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné au pourtour; échancré aux orifices du canal.</p>
+                           <p >Rogné au pourtour; échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -173,8 +173,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -193,8 +193,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Wm4xbB-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -234,8 +234,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Wm4xbB-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -264,7 +264,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -291,26 +291,26 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                   <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                       <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                   <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                       <ab >
                             <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>βοήθ</abbr><ex >ει</ex></expan></rs> Νικολάῳ
                        </ab>
                          </div>
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                        <div type="textpart" subtype="label" n="rev" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                        <div type="textpart" subtype="label" n="rev" rend="columns"    xml:lang="">
+                      <ab >
                        
                         <cb n="b"/><!--?????-->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                            <lb n="2"/>+ <expan ><abbr>ταγματ</abbr><ex >ο</ex><abbr>φύλ</abbr><ex >ακι</ex></expan> τῷ <expan ><abbr>Σ</abbr><ex >ι</ex><abbr>κουνδ</abbr><ex >ηνῷ</ex></expan>
                          
                       
@@ -318,17 +318,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -336,17 +336,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. Θεοτόκε βοήθει Νικολάῳ / ταγματοφύλακι τῷ Σικουνδηνῷ.</p>
-            <p xml:lang="en" part="N">Mother of God. Theotokos help Nikolaos Sikoundites tagmatophylax.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Théotokos aide Nicolas Sikounditès <hi rend="italic">tagmatophylax</hi>.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. Θεοτόκε βοήθει Νικολάῳ / ταγματοφύλακι τῷ Σικουνδηνῷ.</p>
+            <p xml:lang="en" >Mother of God. Theotokos help Nikolaos Sikoundites tagmatophylax.</p>
+            <p xml:lang="fr" >Mère de Dieu. Théotokos aide Nicolas Sikounditès <hi rend="italic">tagmatophylax</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Nicolas, commandant un tagma, est inconnu
+            <p ><!--Nicolas, commandant un tagma, est inconnu
                       des autres sources. Il est le premier membre attesté d’une famille que nous savons bien établie
                       à Thessalonique au XIIe siècle[1]. Plus tard, on trouve le nom
                       occidental Secondo/Secundus traduit par Σιγοῦντο(ς)[2] ou encore Niccolo
@@ -354,10 +354,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. cf. CHEYNET, <hi rend="italic">Pouvoir</hi>, p. 244. 
                       </p>
                       <p xml:id="footnote-2">

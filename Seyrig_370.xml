@@ -113,8 +113,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Strongly indented at the canal openings, oxidising.</p>
-                           <p xml:lang="fr" part="N">Échancré fortement aux orifices du canal, en voie d’oxydation.</p>
+                           <p xml:lang="en" >Strongly indented at the canal openings, oxidising.</p>
+                           <p xml:lang="fr" >Échancré fortement aux orifices du canal, en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -158,8 +158,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -178,8 +178,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-COGjCl-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme de type Zacos-Veglery 179: Θ et Ε aux extrémités
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme cruciforme de type Zacos-Veglery 179: Θ et Ε aux extrémités
                                             de la barre horizontale, à la base Δ et Ω liés et au sommet P et V liés</p>
                            </layout>
                         </layoutDesc>
@@ -219,8 +219,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-COGjCl-v</rs>
-                              <p xml:lang="en" part="N">Legend of 2 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 2 lignes</p>
+                              <p xml:lang="en" >Legend of 2 lines</p>
+                              <p xml:lang="fr" >Légende sur 2 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -249,7 +249,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -278,30 +278,30 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Θεοδώρου</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="2"/>Elpi
                         <lb n="3" break="no"/>diu
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,19 +309,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοδώρου. / Elpidiu.</p>
-            <p xml:lang="en" part="N">(Seal of) Theodore. / (Seal of) Elpidios.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Théodore. / (Sceau d') Elpidios.</p>
+         <div type="translation"   >
+            <p >Θεοδώρου. / Elpidiu.</p>
+            <p xml:lang="en" >(Seal of) Theodore. / (Seal of) Elpidios.</p>
+            <p xml:lang="fr" >(Sceau de) Théodore. / (Sceau d') Elpidios.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

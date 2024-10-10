@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Profondément échancré et entaillé le long du canal orienté ouest-est.</p>
+                           <p >Profondément échancré et entaillé le long du canal orienté ouest-est.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mh1VFo-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes.</p>
+                              <p xml:lang="en" >Legend of 3 lines.</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mh1VFo-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,10 +268,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/>Τοῦ
                                
                                   <lb n="2"/>Σινω
@@ -281,8 +281,8 @@
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="4"/>μυ
                                   <lb n="5" break="no"/>στικοῦ
@@ -293,17 +293,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -311,17 +311,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Τοῦ Σινωπείτου / μυστικοῦ Εὐσταθιου.</p>
-            <p xml:lang="en" part="N">Of Eustathios Sinopites, mystikos (metrical).</p>
-            <p xml:lang="fr" part="N">D'Eustathe Sinôpitès, <hi rend="italic">mystikos</hi> (métrique).</p>
+         <div type="translation"   >
+            <p >Τοῦ Σινωπείτου / μυστικοῦ Εὐσταθιου.</p>
+            <p xml:lang="en" >Of Eustathios Sinopites, mystikos (metrical).</p>
+            <p xml:lang="fr" >D'Eustathe Sinôpitès, <hi rend="italic">mystikos</hi> (métrique).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le personnage est inconnu par ailleurs. La famille apparaît
+            <p ><!--Le personnage est inconnu par ailleurs. La famille apparaît
                       dans les sources avec un stratège qui participa à la campagne de Manuel Comnène contre
                       Iconium en 1146 [1]. La fonction de <hi rend="italic">mystikos</hi> prit de l’importance au cours
                       du XIIe siècle, précisément à partir du règne de Manuel Ier, lorsque le titulaire de la charge
@@ -331,23 +331,23 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    <!--   [1]. KINNAMOS, p. 56.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                       <!--[2]. Sur la fonction, voir en dernier lieu, P. MAGDALINO, The
                       Not-so-secret Function of the Mystikos, <hi rend="italic">REB</hi> 42, 1984, p. 229-240.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>109</citedRange>
@@ -356,15 +356,15 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>125</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -374,10 +374,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/490/">Eustathios 20105</ref>

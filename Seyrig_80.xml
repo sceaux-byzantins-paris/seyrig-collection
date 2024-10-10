@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers la gauche ; échancrure légère aux orifices du canal ; le revers est pressé et oblitéré dans la partie
+                           <p >Décentré vers la gauche ; échancrure légère aux orifices du canal ; le revers est pressé et oblitéré dans la partie
                                         inférieure gauche avec des traces d’oxydation.</p>
                         </condition>
                      </supportDesc>
@@ -172,8 +172,8 @@
                                 >Antakya</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -192,8 +192,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-3QgNPk-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -234,8 +234,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-3QgNPk-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -263,7 +263,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -290,15 +290,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> 
                                <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                               </rs>
@@ -314,17 +314,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -332,17 +332,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Θεοτόκε βοήθει Ἰωάννῃ σπαθαροκανδιδάτῳ και ἀσηκρῖτις τῷ Λιβελλισίῳ.</p>
-            <p xml:lang="en" part="N">Mother of God. Mother of God aid John Libellisios, spatharokandidatos and asekretis.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Mère de Dieu aide Jean Libellisios, spatharocandidat et <hi rend="italic">asèkrètis</hi>.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Θεοτόκε βοήθει Ἰωάννῃ σπαθαροκανδιδάτῳ και ἀσηκρῖτις τῷ Λιβελλισίῳ.</p>
+            <p xml:lang="en" >Mother of God. Mother of God aid John Libellisios, spatharokandidatos and asekretis.</p>
+            <p xml:lang="fr" >Mère de Dieu. Mère de Dieu aide Jean Libellisios, spatharocandidat et <hi rend="italic">asèkrètis</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le propriétaire du sceau appartenait à la famille des Libellisioi
+            <p ><!--Le propriétaire du sceau appartenait à la famille des Libellisioi
                       dont le membre le plus connu fut Pierre, duc d’Antioche en 1068, sous le règne de Romain
                       Diogène [1]. On peut supposer, d’après le lieu où ce sceau a été acquis, qu'il provient d'Antioche ou des environs. Il a été probablement émis à 1'époque où
                       le duc d’Antioche, Pierre, était en activité: Jean pourrait avoir exercé une fonction en Syrie
@@ -357,33 +357,33 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. LAURENT, <hi rend="italic">Antioche</hi>, p. 246.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                       <!--[2]. LAURENT, <hi rend="italic">Corpus</hi>, II, 221.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                  <!--     [3]. ZACOS II, 517.-->
                   </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                     <!--  [4]. voir aussi STAVRAKOS, 147.-->
                   </p>
             <div type="bibliography"
                  subtype="edition"
-                 part="N"
+                 
                  
                  >
-               <p part="N">
+               <p >
                           Bibliothèque Nationale de France, Paris,
                           <bibl  >
                      <ptr target="Seyrig"/>, <citedRange>80</citedRange>
                   </bibl>;
                       </p>
-               <p part="N">    Bibliothèque Nationale de France, Paris,
+               <p >    Bibliothèque Nationale de France, Paris,
                           
                           <bibl  >
                      <ptr target="LaurentCorpus2"/>, <citedRange>83</citedRange>

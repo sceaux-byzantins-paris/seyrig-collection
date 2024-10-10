@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Profondes entailles aux orifices du canal, qui ont détruit le tiers de la légende; pressé au sommet à gauche
+                           <p >Profondes entailles aux orifices du canal, qui ont détruit le tiers de la légende; pressé au sommet à gauche
                                         du revers.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-hodjkO-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-hodjkO-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,10 +265,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                   <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                   <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/><supplied reason="omitted" >+</supplied> <rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><supplied reason="omitted" ><abbr>Θ</abbr><ex >εοτό</ex></supplied><abbr><supplied reason="omitted" >κ</supplied>ε</abbr></expan>
                                
                                   <lb n="2"/><supplied reason="omitted" >β</supplied>οήθει
@@ -279,8 +279,8 @@
 
                       </ab>
                          </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><rs type="dignity" ref="dignities.xml#βεστάρχης">βεστάρ
                           <lb n="2" break="no"/><supplied reason="omitted" >χ</supplied>ῃ</rs> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> δρουγ
                           <lb n="3" break="no"/><supplied reason="omitted" >γα</supplied>ρίῳ τῶν
@@ -289,17 +289,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -307,17 +307,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Θεοτόκε βοήθει τῷ σῷ δούλῳ Κωνσταντίνῳ / βεστάρχῃ καὶ δρουγγαρίῳ τῶν πλωίμων.</p>
-            <p xml:lang="en" part="N">Theotokos help your servant Constantine, vestarches and droungarios of the ploimoi.</p>
-            <p xml:lang="fr" part="N">Théotokos aide ton serviteur Constantin, vestarque et drongaire des <hi rend="italic">plôïmoi</hi>.</p>
+         <div type="translation"   >
+            <p >+ Θεοτόκε βοήθει τῷ σῷ δούλῳ Κωνσταντίνῳ / βεστάρχῃ καὶ δρουγγαρίῳ τῶν πλωίμων.</p>
+            <p xml:lang="en" >Theotokos help your servant Constantine, vestarches and droungarios of the ploimoi.</p>
+            <p xml:lang="fr" >Théotokos aide ton serviteur Constantin, vestarque et drongaire des <hi rend="italic">plôïmoi</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le personnage n’est pas connu par ailleurs. L’hypothèse de
+            <p ><!--Le personnage n’est pas connu par ailleurs. L’hypothèse de
                       R. Guilland [1], selon laquelle il s’agissait peut-être de Constantin,
                       grand drongaire, correspondant de Psellos, a déjà été rejetée à juste titre par V. Laurent
                       [2] car Constantin fut drongaire de la Veille [3]. On pourrait
@@ -329,28 +329,28 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. <hi rend="italic">Institutions</hi> I, p. 555, n. 104.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. <hi rend="italic">Corpus</hi>, II, 967.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                         <!--  [3]. Voir notre numéro 96.--> <!--créer lien-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                           <!--[4]. <hi rend="italic">Alexiade</hi> II, p. 164-165.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>127</citedRange>
@@ -359,29 +359,29 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris, <!--????-->
                       <bibl  >
                   <ptr target="Schlumberger1884"/>
                   <citedRange unit="page"> p. 339 n. 2</citedRange>
                </bibl>; </p>
-            <p part="N">
+            <p >
                       Musée de l'Ermitage, Saint-Pétersbourg,
                      <!-- <bibl><ptr target=""/>, <citedRange>750</citedRange></bibl>,-->;</p>
             <!--Sandrovskaja-->
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>967</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                      Musée de Choumen, Choumen,
                      <!-- <bibl><ptr target=""/>, <citedRange unit="page"> p. 96 n. 11</citedRange></bibl>,-->;</p>
             <!--Jordanov-->
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -391,10 +391,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/503/">Konstantinos 20129</ref>

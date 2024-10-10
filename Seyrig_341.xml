@@ -105,8 +105,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Straight pressed and partially obliterated; indented at the canal orifices.</p>
-                           <p xml:lang="fr" part="N">Droit pressé et partiellement oblitéré; échancré aux orifices du canal.</p>
+                           <p xml:lang="en" >Straight pressed and partially obliterated; indented at the canal orifices.</p>
+                           <p xml:lang="fr" >Droit pressé et partiellement oblitéré; échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-eyUzx3-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-eyUzx3-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,15 +270,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><ex >Ὁ ἃγιος</ex></expan> Νι<supplied reason="lost" >κό</supplied>
                           <cb n="b"/>λαο<supplied reason="lost" >ς</supplied>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+Ἃγιε 
                            <lb n="2"/><expan ><abbr>βοήθ</abbr><ex >ει</ex></expan> τῷ 
                            <lb n="3"/>σῷ δούλῳ 
@@ -286,17 +286,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,27 +304,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Νικόλαος. / +Ἃγιε βοήθει τῷ σῷ δούλῳ Μιχαήλ.</p>
-            <p xml:lang="en" part="N">Saint Nicholas. / Saint help your servant Michael.</p>
-            <p xml:lang="fr" part="N">Saint Nicolas. / Saint aide ton serviteur Michael.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Νικόλαος. / +Ἃγιε βοήθει τῷ σῷ δούλῳ Μιχαήλ.</p>
+            <p xml:lang="en" >Saint Nicholas. / Saint help your servant Michael.</p>
+            <p xml:lang="fr" >Saint Nicolas. / Saint aide ton serviteur Michael.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 341</citedRange>
                </bibl>.
@@ -332,10 +332,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C. (Shaw 1511).
+            <p > Dumbarton Oaks, Washington D.C. (Shaw 1511).
                   </p>
          </div>
       </body>

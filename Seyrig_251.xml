@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur le pourtour; échancré aux orifices du canal ; cassé dans la partie droite inférieure ; pressé et oblitéré en partie.</p>
+                           <p >Rogné sur le pourtour; échancré aux orifices du canal ; cassé dans la partie droite inférieure ; pressé et oblitéré en partie.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TQhbpu-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -233,8 +233,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TQhbpu-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -263,7 +263,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -291,16 +291,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><supplied reason="omitted" >Ἡ</supplied> <abbr>Ἀνά
                            <cb n="b"/>στα</abbr><ex >σις</ex></expan>.
                       </ab>
                   </div>
                   
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>Εὐθύμι
                           <lb n="2" break="no"/><supplied reason="lost" >ος</supplied> ἐλέῳ <expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                           <lb n="3"/><expan ><supplied reason="lost" ><abbr>π</abbr><ex >ατ</ex></supplied><abbr><supplied reason="lost" >ρ</supplied>ιάρχ</abbr><ex >ης</ex></expan> Ἱερο
@@ -310,17 +310,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -328,17 +328,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἡ Ἀνάστασις. / Εὐθύμιος ἐλέῳ Θεοῦ πατριάρχης Ἱεροσολίμων.</p>
-            <p xml:lang="en" part="N">The Resurrection.  Euthymios by the grace of God patriarch of Jerusalem.</p>
-            <p xml:lang="fr" part="N">La Résurrection. Euthyme, patriarche de Jérusalem par la grâce de Dieu.</p>
+         <div type="translation"   >
+            <p >Ἡ Ἀνάστασις. / Εὐθύμιος ἐλέῳ Θεοῦ πατριάρχης Ἱεροσολίμων.</p>
+            <p xml:lang="en" >The Resurrection.  Euthymios by the grace of God patriarch of Jerusalem.</p>
+            <p xml:lang="fr" >La Résurrection. Euthyme, patriarche de Jérusalem par la grâce de Dieu.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Sur le type de l’Anastasis, voir <hi rend="italic">Reallexikon der byzantinischen
+            <p ><!-- Sur le type de l’Anastasis, voir <hi rend="italic">Reallexikon der byzantinischen
                       Kunst</hi> I, s.v. Pour une représentation plus tardive du thème, légèrement différente, mais bien
                       conservée, voir P. A. UNDERWOOD, <hi rend="italic">The Kariye Djami</hi> I, 1965, p. 192-195, et pl. 201.
                       Les dates d’exercice du patriarche de Jérusalem, Euthyme Ier, sont incertaines: après 1064
@@ -347,10 +347,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                           [1]. GRUMEL,
                           <hi rend="italic">Chronologie</hi>, p. 452. 
                       </p>
@@ -361,10 +361,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 251</citedRange>,</bibl>
                <bibl  >

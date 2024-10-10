@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné sur tout le pourtour; grande entaille au centre du revers; en voie d’oxydation.</p>
+                           <p >Fortement rogné sur tout le pourtour; grande entaille au centre du revers; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">20,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VXV2Ik-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">20,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VXV2Ik-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,9 +265,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+ Ἀνδρέ
                           <lb n="2" break="no"/>ου βασ
                           <lb n="3" break="no"/>ιλικοῦ
@@ -275,8 +275,8 @@
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="4"/>βεστ<supplied reason="lost" >ίτ</supplied>
                           <lb n="5" break="no"/>ορο<supplied reason="lost" >ς</supplied> <expan ><abbr>κ</abbr><ex >αὶ</ex></expan> δ
                           <lb n="6" break="no"/>ουκός 
@@ -284,17 +284,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,26 +302,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Ἀνδρέου βασιλικοῦ / βεστίτορος καὶ δουκός   .</p>
-            <p xml:lang="en" part="N">(Seal of) Andreas, imperial vestitor and doux.</p>
-            <p xml:lang="fr" part="N">(Sceau d') André, vestitor impérial et duc.</p>
+         <div type="translation"   >
+            <p >+ Ἀνδρέου βασιλικοῦ / βεστίτορος καὶ δουκός   .</p>
+            <p xml:lang="en" >(Seal of) Andreas, imperial vestitor and doux.</p>
+            <p xml:lang="fr" >(Sceau d') André, vestitor impérial et duc.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le duc est ici un personnage subalterne, à la différence des ducs mentionnés
+            <p ><!--Le duc est ici un personnage subalterne, à la différence des ducs mentionnés
                       sur les sceaux suivants, 210 et 211 (créer liens). Il commande un ethnie ou une circonscription au statut
                       particulier[1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1].  OIKONOMIDÈS, <hi rend="italic">Listes</hi>, p. 342.
                       </p>
                       <p xml:id="footnote-2">

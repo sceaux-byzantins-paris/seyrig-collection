@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Renflé sur le pourtour gauche; oblitéré au droit à droite et au revers à gauche; échancrure à l’orifice inférieur
+                           <p >Renflé sur le pourtour gauche; oblitéré au droit à droite et au revers à gauche; échancrure à l’orifice inférieur
                                         du canal.</p>
                         </condition>
                      </supportDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Gy5xIv-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Gy5xIv-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -245,7 +245,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,15 +273,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N"><!-- le nombre de lettres dans abbr, donc visibles sur le sceau, dépend de combien de point se trouvent dans l'édition diplomatique; ici il n'y a que deux, donc les éditeurs ont considéré que sur le sceau il y avait MP, et non pas MHP, il faudrait donc changer -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab ><!-- le nombre de lettres dans abbr, donc visibles sur le sceau, dépend de combien de point se trouvent dans l'édition diplomatique; ici il n'y a que deux, donc les éditeurs ont considéré que sur le sceau il y avait MP, et non pas MHP, il faudrait donc changer -->
                          <cb n="a"/><supplied reason="lost" ><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan></supplied>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+
                                       <rs type="invocation" xml:id="Θεοτόκε2" rend="linear"/>
                                                         <expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
@@ -294,17 +294,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp ><!-- l'apparat n'est pas l'endroit pour une discussion historique ou prosopographique, donc seule la première partie est utile ici, et sans doute proposé de manière différente, en utilisant 
                       les éléments lem et rdg comme dans les Guidelines: http://sigidoc.huma-num.fr/Guidelines_XML/xml-html/SigiDoc_supp-apparatuscriticus.html (il faudra donc la version grecque de ce noms, pas la française)-->
                <app loc="6">
@@ -316,18 +316,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- il faut mettre aussi l'avers! -->
-            <p part="N">Μήτηρ Θεοῦ / + Θεοτόκε βοήθει τῷ σῷ δούλῳ / Νικηφόρῳ μαγίστρω καὶ βέστῃ τῷ Ἀντιόχῳ.</p>
+         <div type="translation"   ><!-- il faut mettre aussi l'avers! -->
+            <p >Μήτηρ Θεοῦ / + Θεοτόκε βοήθει τῷ σῷ δούλῳ / Νικηφόρῳ μαγίστρω καὶ βέστῃ τῷ Ἀντιόχῳ.</p>
             <!-- accent sur l'article -->
-            <p xml:lang="en" part="N">Mother of God / Theotokos aid your servant / Nikephoros Antiochos, magistros and vestes.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu / Théotokos aide ton serviteur / Nicéphore Antiochos, magistre et vestès.</p>
+            <p xml:lang="en" >Mother of God / Theotokos aid your servant / Nikephoros Antiochos, magistros and vestes.</p>
+            <p xml:lang="fr" >Mère de Dieu / Théotokos aide ton serviteur / Nicéphore Antiochos, magistre et vestès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               ><!-- à reprendre en fonction des changements dans l'apparat -->
-            <p part="N"><!--Si le patronyme Antiochos,
+            <p ><!--Si le patronyme Antiochos,
                       le plus vraisemblable, compte tenu de la lacune, devait être retenu, Nicéphore appartiendrait
                       à la famille des Antiochoi, qui comptait de nombreux représentants au XIe siècle, notamment
                       des militaires.Sur la lignée des Antiochoi voir [1] , et en dernier lieu [2].
@@ -341,28 +341,28 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. SEIBT, <hi rend="italic">Bleisiegel</hi>, 105 et 117.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                      <!-- [2]. Marina LOUKAKI, Contribution à l’étude de la famille Antiochos, à paraître dans la <hi rend="italic">REB</hi> 50, 1992.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                     <!--  [3]. <hi rend="italic">Kleinchroniken</hi>, I 4/3, et II, 154.-->
                   </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                      <!-- [4]. DO 59.109.7- 2360.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>38</citedRange>

@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur tout le pourtour; grosses lettres épaisses, assez bien frappées, mais partiellement oblitérées à droite
+                           <p >Rogné sur tout le pourtour; grosses lettres épaisses, assez bien frappées, mais partiellement oblitérées à droite
                                         du revers.</p>
                         </condition>
                      </supportDesc>
@@ -163,8 +163,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -183,8 +183,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-G5bFEs-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -225,8 +225,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-G5bFEs-v</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -255,7 +255,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -282,15 +282,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Θε
                         <cb n="b" break="no"/>ώδορ</abbr><ex >ος</ex></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>Λεον
                           <lb n="2" break="no"/>τάκις <expan ><abbr>σπα
                           <lb n="3" break="no"/>θ</abbr><ex >αρο</ex><abbr>κ</abbr><ex >αν</ex><abbr>δ</abbr><ex >ι</ex><abbr>δ</abbr><ex >ᾶτος</ex></expan> κὲ <expan ><abbr>το
@@ -302,17 +302,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="2">
                   <lem>Ἱκανάτων τῆς Ἀντ(ιοχείας), Ἀν(α)τ(ολῆς)</lem>
@@ -329,17 +329,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Θεώδορος. / Λεοντάκις σπαθαροκανδιδᾶτος κὲ τοποτηριτὴς τῶν Ἡκανάτων τῆς Ἀνατολῆς.</p>
-            <p xml:lang="en" part="N">St. Theodoros. Leontakis, spatharokandidatos and topoteretes of the Hikanatoi of Anatolia.</p>
-            <p xml:lang="fr" part="N">Saint Théodore. Léontakis, spatharocandidat et <hi rend="italic">topotèrètès</hi> des Hicanates d’Anatolie.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Θεώδορος. / Λεοντάκις σπαθαροκανδιδᾶτος κὲ τοποτηριτὴς τῶν Ἡκανάτων τῆς Ἀνατολῆς.</p>
+            <p xml:lang="en" >St. Theodoros. Leontakis, spatharokandidatos and topoteretes of the Hikanatoi of Anatolia.</p>
+            <p xml:lang="fr" >Saint Théodore. Léontakis, spatharocandidat et <hi rend="italic">topotèrètès</hi> des Hicanates d’Anatolie.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Ce sceau permet de comprendre le mécanisme de
+            <p ><!--Ce sceau permet de comprendre le mécanisme de
                       l’établissement des tagmata dans les garnisons. Une partie du tagma des Hicanates a pu résider
                       à Antioche pour assurer la défense de la ville. De la même manière une partie du tagma
                       des Excubites fut établie dans le thème de l’Hellade : Kékauménos nous apprend que son parent
@@ -351,29 +351,29 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. <hi rend="italic">Conseils et récits</hi>, p. 280.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. Cf.
                           W. PAPE - G. BENSELER, <hi rend="italic">Wörterbuch der griechischen Eigennamen</hi>, Graz 1959, II, p. 783.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                          <!-- [3]. Cf. SEIBT, <hi rend="italic">Damocranitès</hi>, p. 306 n.17.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                           <!--[4].  SKYLITZÈS, p. 471.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>154</citedRange>

@@ -114,7 +114,7 @@
                            <measure type="countermark" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné sur le côté droit.</p>
+                           <p >Fortement rogné sur le côté droit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -160,7 +160,7 @@
                   <!-- Le Caire n'est pas le lieu où le sceau a été trouvé, mais où Seyrig l'a acheté; il faut utiliser provenance-transferred -->
                   <!-- référence biblio à ajouter -->
                   <acquisition><!-- à compléter -->
-                     <p part="N"/>
+                     <p />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -179,8 +179,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-6nCu40-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns.</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns.</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -220,8 +220,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-6nCu40-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -252,7 +252,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -279,57 +279,57 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                <ab part="N">  
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                <ab >  
                     <lb n="1"/><expan ><supplied reason="omitted" ><abbr>Ἰ</abbr></supplied><ex >ησοῦ</ex><abbr>ς</abbr></expan> <expan ><abbr>Χ</abbr><ex >ριστό</ex><abbr>ς</abbr></expan>
                 </ab>
             </div>
-            <div type="textpart" subtype="face" n="obv" rend="columns" part="N"   xml:lang="">
-                <ab part="N">  
+            <div type="textpart" subtype="face" n="obv" rend="columns"    xml:lang="">
+                <ab >  
                     <lb n="1"/><expan ><supplied reason="omitted" >ὁ</supplied></expan><expan ><supplied reason="omitted" >Ἐ</supplied>μμανουήλ</expan>
                 </ab>
                 </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                                   <lb n="1"/> Μανουὴλ δεσπότης <expan ><supplied reason="lost" >ὁ πορφυρογέννητος</supplied></expan>
                       </ab>
             
               </div>
                      </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                         
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μανουὴλ δεσπότης ὁ πορφυρογέννητος.</p>
-            <p xml:lang="en" part="N">Manuel despotes, the porphyrogennetos.</p>
-            <p xml:lang="fr" part="N">Manuel despote, le porphyrogénète.</p>
+         <div type="translation"   >
+            <p >Μανουὴλ δεσπότης ὁ πορφυρογέννητος.</p>
+            <p xml:lang="en" >Manuel despotes, the porphyrogennetos.</p>
+            <p xml:lang="fr" >Manuel despote, le porphyrogénète.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Biliothèque Nationale de France, Paris
                     <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>8</citedRange>
@@ -338,21 +338,21 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Médailler Pontifical, Vatican, Rome,
                     <bibl  >
                   <ptr target=""/>, <citedRange>13</citedRange>
                </bibl>; </p>
             <!--ajouter référence Laurent Vatican-->
-            <p part="N">
+            <p >
                     Dumbarton Oaks, Washington D.C.,
                     <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>107a</citedRange>
                </bibl>; </p>
-            <p part="N">    Münzkabinett des Kunsthistorischen Museums, Vienne,
+            <p >    Münzkabinett des Kunsthistorischen Museums, Vienne,
                     <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange>29b</citedRange>
                </bibl>;
@@ -360,10 +360,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/111/">Manuel 1</ref>

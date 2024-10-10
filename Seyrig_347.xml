@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Heavily trimmed in its upper part, indented at the opening of the canal, blistered by oxidation spots.</p>
-                           <p xml:lang="fr" part="N">Fortement rogné dans sa partie supérieure, échancré à l’orifice du canal, boursouflé par des points d’oxydation.</p>
+                           <p xml:lang="en" >Heavily trimmed in its upper part, indented at the opening of the canal, blistered by oxidation spots.</p>
+                           <p xml:lang="fr" >Fortement rogné dans sa partie supérieure, échancré à l’orifice du canal, boursouflé par des points d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wSH4Hb-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme d’invocation cruciforme indistinct 
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme d’invocation cruciforme indistinct 
                                             comportant un B à la base, ΠE et H K ? aux extrémités de la branche latérale</p>
                               <!-- Greek letters to be added -->
                            </layout>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wSH4Hb-v</rs>
-                              <p xml:lang="en" part="N">Legend of 2 columns</p>
-                              <p xml:lang="fr" part="N">Légende sur 2 colonnes séparées par des croisettes</p>
+                              <p xml:lang="en" >Legend of 2 columns</p>
+                              <p xml:lang="fr" >Légende sur 2 colonnes séparées par des croisettes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,30 +271,30 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><orig><ex >β π ε η κ θ τ ο υ</ex></orig></expan><!-- temporary solution -->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/>Pau
                         <cb n="b"/>lus
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,19 +302,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Paulus.</p>
-            <p xml:lang="en" part="N">Paul.</p>
-            <p xml:lang="fr" part="N">Paul.</p>
+         <div type="translation"   >
+            <p >Paulus.</p>
+            <p xml:lang="en" >Paul.</p>
+            <p xml:lang="fr" >Paul.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Légèrement décentré sur la gauche au droit.</p>
+                           <p >Légèrement décentré sur la gauche au droit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -155,7 +155,7 @@
                      </origDate>
                   </origin>
                   <acquisition><!-- à compléter -->
-                     <p part="N"/>
+                     <p />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -174,9 +174,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mbuEdS-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns.
+                              <p xml:lang="en" >Iconography with legend in columns.
                                         </p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes.
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes.
                                         </p>
                            </layout>
                         </layoutDesc>
@@ -218,8 +218,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mbuEdS-v</rs>
-                              <p xml:lang="en" part="N">Legend of 8 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 8 lignes</p>
+                              <p xml:lang="en" >Legend of 8 lines</p>
+                              <p xml:lang="fr" >Légende sur 8 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -248,7 +248,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -275,17 +275,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
                         
-                    <ab part="N">  <cb n="a"/>Ὁ ἅγιος 
+                    <ab >  <cb n="a"/>Ὁ ἅγιος 
                               <cb n="b"/>Ἐλευθέριος
                     </ab>
                   </div>
-                   <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                     <lg type="metrical" ana="unidentified" part="N"  ><!-- il faut ajouter l'encodage pour une légende métrique: http://sigidoc.huma-num.fr/Guidelines_XML/xml-html/SigiDoc_indexing-metrical.html -->
+                   <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                     <lg type="metrical" ana="unidentified"   ><!-- il faut ajouter l'encodage pour une légende métrique: http://sigidoc.huma-num.fr/Guidelines_XML/xml-html/SigiDoc_indexing-metrical.html -->
                          <!--j'ai préparé l'encodage pour la légende métrique mais j'ai un doute si je l'ai bien réalisée, Oxygen l'a accepté et EFES ne semble pas m'indiquer de problèmes / il faudra aussi ajouter l'élément lié à la liste d'autorité-->
-                        <l part="N">
+                        <l >
                                   <lb n="1"/>+ <expan ><abbr>Δα</abbr><ex >βὶ</ex><abbr>δ</abbr></expan>  
                                   <lb n="2"/>Κομνηνοῦ
                                   <lb n="3"/>Πορφυρο
@@ -298,30 +298,30 @@
                   </lg>
                   </div>
               </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
                       
               </div>
-         <div type="translation" part="N"  >
-            <p part="N">Δαβὶδ Κομνηνοῦ πορφυροβλάστου λόγους Ἐλευθέριος προσκυροῖ, Θεοῦ θύτης.</p>
-            <p xml:lang="en" part="N">May Eleutherios, the priest of God, confirm the words of David Komnenos, born in the purple.</p>
-            <p xml:lang="fr" part="N">Puisse Eleuthérios, le prêtre de Dieu, confirmer les paroles de David Comnène, né dans la pourpre.</p>
+         <div type="translation"   >
+            <p >Δαβὶδ Κομνηνοῦ πορφυροβλάστου λόγους Ἐλευθέριος προσκυροῖ, Θεοῦ θύτης.</p>
+            <p xml:lang="en" >May Eleutherios, the priest of God, confirm the words of David Komnenos, born in the purple.</p>
+            <p xml:lang="fr" >Puisse Eleuthérios, le prêtre de Dieu, confirmer les paroles de David Comnène, né dans la pourpre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--David Comnène a été identifié par V. Laurent avec le personnage
+            <p ><!--David Comnène a été identifié par V. Laurent avec le personnage
                       qui disputa en Asie Mineure à Théodore Lascaris le contrôle des territoires restés byzantins
                       après la Quatrième Croisade. David Comnène, petit-fils du basileus Andronic Ier, par son père
                       Manuel, mit à profit les difficultés croissantes d’Alexis Ange aux prises avec les croisés à partir
@@ -333,22 +333,22 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     <!--  [1]. Pour une biographie plus détaillée, voir LAURENT, Vatican, 178. Pour un type de sceau différent du même personnage, voir ZACOS-VEGLERY 2754.-->
                   </p>
-            <p part="N">
+            <p >
                <bibl  />.
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>11</citedRange>
@@ -357,22 +357,22 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Médailler Pontifical, Vatican, Rome,
                       <bibl  >
                   <ptr target=""/>, <citedRange>13</citedRange>
                </bibl>; </p>
             <!--ajouter référence Laurent Vatican-->
-            <p part="N">
+            <p >
                   Musée de l'Ermitage, Saint-Péterbourg,
                       <bibl  >
                   <ptr target=""/>, <citedRange>1042</citedRange>
                </bibl>; </p>
             <!--ajouter référence Sandrovskaja Sfragistika-->
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -382,16 +382,16 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://db.pbw.kcl.ac.uk/jsp/boulloterion.jsp?bKey=442">David 20103</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target=""/>
                   <citedRange unit="page"> p. 151-160</citedRange>

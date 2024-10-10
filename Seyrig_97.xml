@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers le sommet et rogné dans sa partie supérieure ; lettres pressées et partiellement oblitérées ; en voie
+                           <p >Décentré vers le sommet et rogné dans sa partie supérieure ; lettres pressées et partiellement oblitérées ; en voie
                                         d’oxydation.</p>
                         </condition>
                      </supportDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pV3pHo-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -208,8 +208,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pV3pHo-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -237,7 +237,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,20 +265,20 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                          <lb n="1"/><gap reason="illegible" extent="unknown" unit="character" />
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang=""><!-- omicron avec iota souscrit à ajouter -->
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang=""><!-- omicron avec iota souscrit à ajouter -->
+                      <ab >
                            <lb n="2"/>Θεωχ<supplied reason="lost" >α</supplied>
                           <lb n="3" break="no"/>ρήστο <rs type="dignity" ref="dignities.xml#πατρίκιος">π<supplied reason="lost" >α</supplied>
                           <lb n="4" break="no"/>τρικίῳ</rs> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> ὐ
@@ -289,17 +289,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -307,17 +307,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- omicron avec iota souscrit à ajouter -->
-            <p part="N">Μήτηρ Θεοῦ. ...?... / Θεωχαρήστο πατρικίῳ καὶ ὐκονόμῳ.</p>
-            <p xml:lang="en" part="N">Mother of God. Theocharistos, patrikios and oikonomos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Théochariste, patrice et économe.</p>
+         <div type="translation"   ><!-- omicron avec iota souscrit à ajouter -->
+            <p >Μήτηρ Θεοῦ. ...?... / Θεωχαρήστο πατρικίῳ καὶ ὐκονόμῳ.</p>
+            <p xml:lang="en" >Mother of God. Theocharistos, patrikios and oikonomos.</p>
+            <p xml:lang="fr" >Mère de Dieu. Théochariste, patrice et économe.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Théochariste est un prénom rarement porté par des
+            <p ><!--Théochariste est un prénom rarement porté par des
                       fonctionnaires civils; toutefois notons l’existence du sceau [1] d’un Théochariste
                       hypatos avec au droit saint Michel debout. On pourrait penser à un économe de la Grande
                       Eglise dont on sait qu’à l’époque de la frappe, jusque sous Isaac Comnène, il était souvent
@@ -327,26 +327,26 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. Fogg 1866.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                           <!--[2]. Cf. J. DARROUZÈS, <hi rend="italic">Recherches sur les ΟΦΦΙΚΙΑ de l’Église byzantine</hi>, Paris 1970,
                           p. 37-39.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                           <!--[3].  Sur le (μέγασ) οἰκονόμος τῶν εὐαγῶν (οἰκῶν), OIKONOMIDÈS, <hi rend="italic">Organisation</hi>, p. 138-140.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>97</citedRange>

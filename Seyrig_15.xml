@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="overstruck">
-                           <p part="N">Boursouflure le long de la ligne du canal, ayant partiellement oblitéré la légende au centre du revers. Le flan
+                           <p >Boursouflure le long de la ligne du canal, ayant partiellement oblitéré la légende au centre du revers. Le flan
                                         avait précédemment servi, car on distingue des lettres en dehors du champ du sceau.</p>
                         </condition>
                      </supportDesc>
@@ -143,8 +143,8 @@
                      </origDate>
                   </origin>
                   <acquisition><!-- à compléter -->
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -163,8 +163,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-3lxw2K-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -203,8 +203,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-3lxw2K-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,7 +232,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -260,15 +260,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                     <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                     <ab >
                          <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="1"/>+ <expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>βο</abbr><ex >ή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                                   
                                
@@ -282,17 +282,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="2-3">
                   <note >τῷ σῷ δούλῳ est gravé avec des omicrons sur le sceau.</note>
@@ -300,35 +300,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- avers à ajouter -->
-            <p part="N">Μήτηρ Θεοῦ / + Κύριε βοήθει τῷ σῷ δούλῳ Θεοδώρῳ πανθεώτῃ.</p>
-            <p xml:lang="en" part="N">Mother of God / Lord help your servant Theodoros, pantheotes.</p>
+         <div type="translation"   ><!-- avers à ajouter -->
+            <p >Μήτηρ Θεοῦ / + Κύριε βοήθει τῷ σῷ δούλῳ Θεοδώρῳ πανθεώτῃ.</p>
+            <p xml:lang="en" >Mother of God / Lord help your servant Theodoros, pantheotes.</p>
             <!-- à compléter -->
-            <p xml:lang="fr" part="N">Mère de Dieu / Seigneur aide ton serviteur Théodore, <hi rend="italic">panthéôtès.</hi>
+            <p xml:lang="fr" >Mère de Dieu / Seigneur aide ton serviteur Théodore, <hi rend="italic">panthéôtès.</hi>
             </p>
             <!-- à compléter -->
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Sur le <hi rend="italic">panthéôtès</hi>, voir ci-dessus<!-\- lien interne à ajouter -\->. Théodore est le <hi rend="italic">panthéôtès</hi> le
+            <p ><!--Sur le <hi rend="italic">panthéôtès</hi>, voir ci-dessus<!-\- lien interne à ajouter -\->. Théodore est le <hi rend="italic">panthéôtès</hi> le
 plus tardif que connaissent nos sources et probablement un des derniers, car les <hi rend="italic">panthéôtai</hi>
 ne paraissent pas avoir survécu aux réformes d’Alexis Comnéne.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
                         </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">   
+            <p >   
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>15</citedRange>

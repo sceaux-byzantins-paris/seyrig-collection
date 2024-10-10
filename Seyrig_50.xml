@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!--Il est en bon état, on laisse en attendant l'ajout de nouveaux types d'états ? / OUI-->
-                           <p part="N">Légèrement échancré aux orifices du canal, le bord gauche de l’avers est relevé; bien centré sur un large flan.</p>
+                           <p >Légèrement échancré aux orifices du canal, le bord gauche de l’avers est relevé; bien centré sur un large flan.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-uyKOfY-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes.</p>
+                              <p xml:lang="en" >Legend of 4 lines.</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-uyKOfY-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,10 +269,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/>Σφρα
                                
                                   <lb n="2" break="no"/>γὶς <expan >Κα
@@ -282,8 +282,8 @@
                                   <lb n="4" break="no"/><abbr>λ</abbr><supplied reason="lost" ><abbr>ώ</abbr><ex >ν</ex></supplied></expan><!-- l'élément expan doit inglobe l'ensemble du mot/nom/... qui ocntient une abréviation -->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="5"/><rs type="dignity" ref="dignities.xml#πατρίκιος">
                                <expan ><abbr>π</abbr><ex >ατ</ex><abbr>ρι</abbr><ex >κίου</ex></expan></rs>
@@ -295,17 +295,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -313,17 +313,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Σφραγὶς Κατακαλών / πατρικίου Σαρωνίτου.</p>
-            <p xml:lang="en" part="N">Seal of Katakalon Saronites, patrikios.</p>
-            <p xml:lang="fr" part="N">Sceau de Katakalôn Sarônitès, patrice.</p>
+         <div type="translation"   >
+            <p >Σφραγὶς Κατακαλών / πατρικίου Σαρωνίτου.</p>
+            <p xml:lang="en" >Seal of Katakalon Saronites, patrikios.</p>
+            <p xml:lang="fr" >Sceau de Katakalôn Sarônitès, patrice.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Les Sarônitai comptaient parmi les plus importantes familles
+            <p ><!--Les Sarônitai comptaient parmi les plus importantes familles
                       de l’Empire depuis le Xe siècle, lorsque le magistre Romain Sarônitès entra dans la famille
                       impériale des Lakapénoi. Dans la seconde moitié du XIe siècle, Michel Sarônitès fut vestarque
                       et catépan de Bulgarie [1], puis magistre et duc de l’Occident  [2]. Il est peut-être identique au Sarônitès
@@ -335,26 +335,26 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. V. LAURENT, Deux nouveaux gouverneurs de la Bulgarie byzantine ;
                       le proèdre Nicéphore Batatzès et le protoproédre Grégoire, <hi rend="italic">RESEE</hi> 7, 1969, p. 146, note 11.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                     <!--  [2]. Sceau Fogg 498.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                       <!--[3]. SKYLITZÈS CONTINUÉ, p. 165.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>50</citedRange>

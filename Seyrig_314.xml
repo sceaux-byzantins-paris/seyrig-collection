@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed at the extremities and around the left edge; large letters in fine relief on both sides.</p>
-                           <p xml:lang="fr" part="N">Rogné aux extrémités et sur le pourtour de gauche; grandes lettres en beau relief sur les deux faces.</p>
+                           <p xml:lang="en" >Trimmed at the extremities and around the left edge; large letters in fine relief on both sides.</p>
+                           <p xml:lang="fr" >Rogné aux extrémités et sur le pourtour de gauche; grandes lettres en beau relief sur les deux faces.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -153,11 +153,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acquis au Caire</p>
+                     <p >Acquis au Caire</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -176,8 +176,8 @@
                                  <dim type="diameter">33</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VRmxGp-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -219,8 +219,8 @@
                                  <dim type="diameter">33</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VRmxGp-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 6 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -249,7 +249,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -278,15 +278,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/>Ὁ ἃγι<supplied reason="lost" >ος</supplied> 
                         <cb n="b"/>Γεώργιος
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Γενοῦ, ἀθλη
                           <lb n="2" break="no"/>τά, τῶν γραφῶ
                           <lb n="3" break="no"/>ν Γεωργίου τοῦ Πε
@@ -296,17 +296,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -314,17 +314,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Γεώργιος. / Γενοῦ, ἀθλητἀ, τῶν γραφῶν Γεωργίου | τοῦ Πενταρκλῆ στήρηγμα κε τῶν πρακτέων.</p>
-            <p xml:lang="en" part="N">Saint George. / Martyr, become the confirmation of the writings and acts of Georgios Pentarkles.</p>
-            <p xml:lang="fr" part="N">Saint Georges. / Martyr, soit la confirmation des écrits et des actes de Georges Pentarklès.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Γεώργιος. / Γενοῦ, ἀθλητἀ, τῶν γραφῶν Γεωργίου | τοῦ Πενταρκλῆ στήρηγμα κε τῶν πρακτέων.</p>
+            <p xml:lang="en" >Saint George. / Martyr, become the confirmation of the writings and acts of Georgios Pentarkles.</p>
+            <p xml:lang="fr" >Saint Georges. / Martyr, soit la confirmation des écrits et des actes de Georges Pentarklès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- La famille Pentarklès est attestée à partir du XIVe siècle: Georges, son
+            <p ><!-- La famille Pentarklès est attestée à partir du XIVe siècle: Georges, son
                       premier représentant, n’est pas connu par ailleurs. Le choix de son saint patron pour illustrer
                       le droit n’est pas, quoi qu’en pense V. Laurent [1], l’indice suffisant prouvant
                       que Georges ait été militaire. Plus tard, des Pentarklai sont mentionnés comme propriétaires
@@ -334,10 +334,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                       [1]. <hi rend="italic">Vatican</hi>, p. 203.
                   </p>
                   <p xml:id="footnote-2">
@@ -350,10 +350,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 314</citedRange>
                </bibl>.
@@ -361,10 +361,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C.,
+            <p > Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Laurent1932"/>,<citedRange unit="part"> 594</citedRange>,</bibl>
                <bibl  >

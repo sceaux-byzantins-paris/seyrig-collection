@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Échancré à l’orifice supérieur du canal; décentré vers le sommet et vers la gauche.</p>
+                           <p >Échancré à l’orifice supérieur du canal; décentré vers le sommet et vers la gauche.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -184,8 +184,8 @@
                                 >Beirut</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -204,8 +204,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mjxAdo-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -245,8 +245,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mjxAdo-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -274,7 +274,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -301,15 +301,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/>Ὁ ἅγιος
                         <cb n="b"/><expan ><abbr>Νικόλα</abbr><ex >ος</ex></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                           <lb n="2"/>Λέοντι
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#πρωτοπρόεδρος">βεστάρχῃ</rs>
@@ -320,17 +320,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -338,17 +338,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Νικόλαος / + Λέοντι βεστάρχῃ καὶ δουκὶ Ἐδέσσης τῷ Ἀρβεντηνῷ.</p>
-            <p xml:lang="en" part="N">St. Nikolaos. Leo Arbentenos, vestarches and doux of Edessa.</p>
-            <p xml:lang="fr" part="N">Saint Nicolas. Léon Arbentènos, vestarque et duc d’Édesse.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Νικόλαος / + Λέοντι βεστάρχῃ καὶ δουκὶ Ἐδέσσης τῷ Ἀρβεντηνῷ.</p>
+            <p xml:lang="en" >St. Nikolaos. Leo Arbentenos, vestarches and doux of Edessa.</p>
+            <p xml:lang="fr" >Saint Nicolas. Léon Arbentènos, vestarque et duc d’Édesse.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Selon Matthieu d’Édesse [1] Arouantas (Arbentinos), appelé à l’aide
+            <p ><!--Selon Matthieu d’Édesse [1] Arouantas (Arbentinos), appelé à l’aide
                       par l’émir de Nisibe, voulut surprendre un chef turc, Kumash Tekin, mais fut battu et fait
                       prisonnier. Racheté, il fut libéré, laissant son fils en otage. La liste la plus récente des
                       gouverneurs d’Édesse a été établie par V.A. ARUTJUNOVA, <hi rend="italic">Vizantijskie praviteli Edessi v XI
@@ -365,28 +365,28 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                        <!--   [1]. p. 158, 159.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. Ermitage M 5816.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>177</citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Oikonomides1986"/>, <citedRange>94</citedRange>
@@ -394,10 +394,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/57/">Leon 20102</ref>

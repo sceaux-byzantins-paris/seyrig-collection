@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné à droite; échancré à l’orifice inférieur du canal.</p>
+                           <p >Rogné à droite; échancré à l’orifice inférieur du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1evyJK-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1evyJK-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,20 +286,20 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>βοήθ</abbr><ex >ει</ex></expan> τῷ σῷ <expan ><abbr>δ</abbr><ex >ούλῳ</ex></expan></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/>+ Ἰωάν
                           <lb n="3" break="no"/>νι ἐπισκ
                           <lb n="4" break="no"/>όπῳ Στρα
@@ -309,17 +309,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -327,17 +327,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. Θεοτόκε βοήθει τῷ σῷ δούλῳ. / + Ἰωάννι ἐπισκόπῳ Στρατονικείας.</p>
-            <p xml:lang="en" part="N">Mother of God. Theotokos help your servant John, bishop of Stratonicea.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Théotokos aide ton serviteur Jean, évêque de Stratonicée.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. Θεοτόκε βοήθει τῷ σῷ δούλῳ. / + Ἰωάννι ἐπισκόπῳ Στρατονικείας.</p>
+            <p xml:lang="en" >Mother of God. Theotokos help your servant John, bishop of Stratonicea.</p>
+            <p xml:lang="fr" >Mère de Dieu. Théotokos aide ton serviteur Jean, évêque de Stratonicée.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--On ne peut décider s’il s’agit de Stratonicée de Carie ou
+            <p ><!--On ne peut décider s’il s’agit de Stratonicée de Carie ou
                       de Stratonicée de Lydie. V. Laurent a publié [1] les sceaux de deux
                       évêques de Stratonicée qu’il attribue à la ville lydienne en se fondant sur la représentation,
                       au droit, de saint Philippe. Nous ne disposons pas d’un tel indice.
@@ -348,10 +348,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. <hi rend="italic">Corpus</hi>, V, 1, 373 et 374. -->
                       </p>
          </div>

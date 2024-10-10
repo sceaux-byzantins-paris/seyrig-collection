@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Heavily trimmed at the top; notched at the upper opening of the channel; letters clearly engraved.</p>
-                           <p xml:lang="fr" part="N">Fortement rogné au sommet; entaillé à l’orifice supérieur du canal; lettres nettement gravées.</p>
+                           <p xml:lang="en" >Heavily trimmed at the top; notched at the upper opening of the channel; letters clearly engraved.</p>
+                           <p xml:lang="fr" >Fortement rogné au sommet; entaillé à l’orifice supérieur du canal; lettres nettement gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-RwbnxZ-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-RwbnxZ-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 5 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,15 +270,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/><supplied reason="lost" ><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan></supplied>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/><supplied reason="lost" >+</supplied>Νικ<supplied reason="omitted" >ό</supplied>
                           <lb n="2" break="no"/>λαον δέ<supplied reason="omitted" >σ</supplied>
                           <lb n="3" break="no"/>ποινα τὸ<supplied reason="omitted" >ν</supplied> 
@@ -287,17 +287,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,17 +305,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / +Νικόλαον δέσποινα τον Στύπην σκέποις.</p>
-            <p xml:lang="en" part="N">Mother of God. / Shelter, Lady, Nicholas Stypes.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Protège, Dame, Nicholas Stypes.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / +Νικόλαον δέσποινα τον Στύπην σκέποις.</p>
+            <p xml:lang="en" >Mother of God. / Shelter, Lady, Nicholas Stypes.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Protège, Dame, Nicholas Stypes.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Nicolas Stypès est inconnu des sources byzantines. Le nom
+            <p ><!--Nicolas Stypès est inconnu des sources byzantines. Le nom
                       de cette famille se trouve sous les deux formes Styp(p)ès ou Styp(pe)iôtès [1]. Selon ce dernier auteur [2], Styppeiotès
                       viendrait du grec στυππεῖον/στύππη = étoupe.
                       Les Stypiôtai sont célèbres depuis le IXe siècle lorsque l’un d’entre eux devint domestique
@@ -327,10 +327,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. P. WlRTH, Leon
                       Styppes oder Styppeiotes, <hi rend="italic">Byz. Forsch.</hi> 3, 1968, p. 254-255 et O. KRESTEN, Zum Sturz des
                       Theodoros Styppeiotes, <hi rend="italic">JÖB </hi>27, 1978, p. 49-103.

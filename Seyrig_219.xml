@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Renflé au pourtour; échancrure à l’orifice inférieur du canal.</p>
+                           <p >Renflé au pourtour; échancrure à l’orifice inférieur du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-KA1QdL-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-KA1QdL-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,15 +268,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                          <lb n="1"/><expan ><abbr>G</abbr><ex >iorg</ex><abbr>i</abbr></expan> patrjkj Katajsdze / Giorgi (Γεώργιος), patrice, fils de Kata.
                            
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/><expan ><abbr>Γεώρ</abbr><ex >γιος</ex></expan>
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><abbr>π</abbr><ex >ατ</ex><abbr>ρί</abbr><ex >κιος</ex></expan></rs> <expan ><abbr>κ</abbr><ex >αὶ</ex></expan> <expan ><abbr>στρα
                           <lb n="4" break="no"/>τ</abbr><ex >η</ex><abbr>γ</abbr><ex >ὸς</ex></expan> ὁ Κά
@@ -284,17 +284,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,17 +302,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Giorgi (Γεώργιος) patrjkj Katajsdze / Γεώργιος πατρίκιος καὶ στρατηγὸς ὁ Κάτας.</p>
-            <p xml:lang="en" part="N"> Giorgi , patrikios, son of Kata. George Katas, patrikios and strategos.</p>
-            <p xml:lang="fr" part="N">Giorgi, patrice, fils de Kata. Georges Katas, patrice et stratège.</p>
+         <div type="translation"   >
+            <p >Giorgi (Γεώργιος) patrjkj Katajsdze / Γεώργιος πατρίκιος καὶ στρατηγὸς ὁ Κάτας.</p>
+            <p xml:lang="en" > Giorgi , patrikios, son of Kata. George Katas, patrikios and strategos.</p>
+            <p xml:lang="fr" >Giorgi, patrice, fils de Kata. Georges Katas, patrice et stratège.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Ce sceau bilingue gréco-géorgien, de facture provinciale, est
+            <p ><!--Ce sceau bilingue gréco-géorgien, de facture provinciale, est
                       un exemple unique jusqu’ici. Il s’agit sans doute d’une copie moderne réalisée sur un original.
                       Son titulaire est connu par un autre plomb, authentiquement byzantino-géorgien, de la
                       collection Zacos à la légende suivante: + Κ(ύρι)ε β(οή)θει Γεωργίῳ π(ατ)ρι(κίῳ) κ(αὶ) στρατ(η)γ(ῷ) τῷ Κάτᾳ [1]. 
@@ -326,10 +326,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"> <!--   xml:id="footnote-1">
+            <p > <!--   xml:id="footnote-1">
                           [1]. W. SEIBT, <hi rend="italic">op. cit</hi>., p. 425.
                       </p>
                       <p xml:id="footnote-2">
@@ -342,10 +342,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 204</citedRange>,</bibl>
                <bibl  >
@@ -357,7 +357,7 @@
          </div>
          <div type="bibliography"
               subtype="discussionCurrent"
-              part="N"
+              
               
               />
          <!--    Éd. : W. SEIBT, Problemy vizantino-gruzinskoj sigillografii, IVe Symposium international sur l'art géorgien

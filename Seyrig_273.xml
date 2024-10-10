@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Légèrement rogné et entaillé particulièrement en haut à droite.</p>
+                           <p >Légèrement rogné et entaillé particulièrement en haut à droite.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-W4xRYW-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,8 +231,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-W4xRYW-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -261,7 +261,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -288,15 +288,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                        <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                        <ab >
                            <cb n="a"/>ὁ ἃγι<supplied reason="lost" >ος</supplied>
                         <cb n="b"/><expan ><abbr>Γεώ<supplied reason="lost" >ρ</supplied>γι</abbr><ex >ος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>Ἡ <supplied reason="omitted" >αὐτὴ</supplied>
                           <lb n="2"/>σφραγὶς
                           <lb n="3"/>Ἰωσὴφ Τρι
@@ -310,17 +310,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -328,17 +328,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Γεώργιος. /  Ἡ αὐτὴ σφραγὶς Ἰωσὴφ Τριπόλεως ποιμένος.</p>
-            <p xml:lang="en" part="N">St George. This is the seal of Joseph, bishop of Tripoli.</p>
-            <p xml:lang="fr" part="N">Saint Georges. Il s'agit du sceau de Joeph, évêque de Tripoli.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Γεώργιος. /  Ἡ αὐτὴ σφραγὶς Ἰωσὴφ Τριπόλεως ποιμένος.</p>
+            <p xml:lang="en" >St George. This is the seal of Joseph, bishop of Tripoli.</p>
+            <p xml:lang="fr" >Saint Georges. Il s'agit du sceau de Joeph, évêque de Tripoli.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La première ligne peut ne comporter
+            <p ><!--La première ligne peut ne comporter
                       que des éléments décoratifs ou bien être complétée selon notre hypothèse; dans un cas nous
                       aurions un vers de douze pieds, dans l’autre de quinze.
                       À l’époque de la frappe de ce sceau, l’Empire contrôlait plusieurs villes de ce nom, parmi
@@ -353,10 +353,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. YAHYIA D’ANTIOCHE, <hi rend="italic">PO</hi> 23, 1932 p.
                           459.
                       </p>

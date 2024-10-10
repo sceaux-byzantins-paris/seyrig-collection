@@ -113,8 +113,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed around the rim and particularly at the base; reverse side oxidising.</p>
-                           <p xml:lang="fr" part="N">Rogné au pourtour et particulièrement à la base; revers en voie d’oxydation.</p>
+                           <p xml:lang="en" >Trimmed around the rim and particularly at the base; reverse side oxidising.</p>
+                           <p xml:lang="fr" >Rogné au pourtour et particulièrement à la base; revers en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -158,11 +158,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Provenant d'Antioche</p>
+                     <p >Provenant d'Antioche</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -181,8 +181,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-XkLFTk-r</rs>
-                              <p xml:lang="en" part="N">Legend of 2 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 2 lignes</p>
+                              <p xml:lang="en" >Legend of 2 lines</p>
+                              <p xml:lang="fr" >Légende sur 2 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -223,8 +223,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-XkLFTk-v</rs>
-                              <p xml:lang="en" part="N">Legend of 2 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 2 lignes</p>
+                              <p xml:lang="en" >Legend of 2 lines</p>
+                              <p xml:lang="fr" >Légende sur 2 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -254,7 +254,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -283,57 +283,57 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>Βασι
                           <lb n="2" break="no"/>λείου
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="3"/>Γρηγ
                           <lb n="4" break="no"/><supplied reason="omitted" >ο</supplied>ρίου
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="1-4">
                   <note xml:lang="fr" >Vu l’identité des deux faces, il est impossible de décider quel est le droit et le revers.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Βασιλείου. / Γρηγορίου.</p>
-            <p xml:lang="en" part="N">(Seal of) Basil. / (Seal of) Gregory.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Basile. / (Sceau de) Grégoire.</p>
+         <div type="translation"   >
+            <p >Βασιλείου. / Γρηγορίου.</p>
+            <p xml:lang="en" >(Seal of) Basil. / (Seal of) Gregory.</p>
+            <p xml:lang="fr" >(Sceau de) Basile. / (Sceau de) Grégoire.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Il peut s’agir de deux personnages différents qui signent ensemble
+            <p ><!--Il peut s’agir de deux personnages différents qui signent ensemble
                           (comme le laisse penser la présence d’une croix surmontant la légende de chacune des faces)
                           et pas forcément d'un fils mentionnant le nom de son père [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. J. W. NESBITT, Double names
                           on early Byzantine lead seals, <hi rend="italic">DOP</hi> 31, 1977, p. 111-121.-->
                       </p>

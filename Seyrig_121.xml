@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Échancré aux orifices du canal et boursouflé sur le trajet de celui-ci, au revers; bord très relevé.</p>
+                           <p >Échancré aux orifices du canal et boursouflé sur le trajet de celui-ci, au revers; bord très relevé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-hATEUw-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-hATEUw-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,14 +267,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                          <lb n="1"/>+ <expan ><abbr>βουλ</abbr><ex >λ</ex><abbr>ωτήρ</abbr><ex >ιο</ex><abbr>ν</abbr></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="2"/>+ τοῦ βα
                            <lb n="3" break="no"/>σιλικοῦ <expan ><abbr>οϊ
                           <lb n="4" break="no"/>κ</abbr><ex >ου</ex></expan> τῶν Μαγ
@@ -284,17 +284,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,17 +302,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ βουλλωτήριον / + τοῦ βασιλικοῦ οϊκου τῶν Μαγγάνων.</p>
-            <p xml:lang="en" part="N">(Seal of the) Boulloterion of the oikos of the Mangana.</p>
-            <p xml:lang="fr" part="N">(Sceau du) <hi rend="italic">Boullôtèrion</hi> de l'<hi rend="italic">oikos</hi> des Manganes.</p>
+         <div type="translation"   >
+            <p >+ βουλλωτήριον / + τοῦ βασιλικοῦ οϊκου τῶν Μαγγάνων.</p>
+            <p xml:lang="en" >(Seal of the) Boulloterion of the oikos of the Mangana.</p>
+            <p xml:lang="fr" >(Sceau du) <hi rend="italic">Boullôtèrion</hi> de l'<hi rend="italic">oikos</hi> des Manganes.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La première mention d’un épitrope des
+            <p ><!--La première mention d’un épitrope des
                       Manganes remonte au régne de Léon l’Arménien [1]. Notre sceau a été frappé apres la nouvelle
                       fondation par Basile Ier et avant la réorganisation de l’institution par Constantin Monomaque.
                       Le type de croix ornementée qui figure au droit est en effet en faveur jusque sous le règne
@@ -320,20 +320,20 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1]. É. MALAMUT, Sur l’origine des Manganes,
                           <hi rend="italic">Mélanges Svoronos</hi>, Réthymno 1986, p. 128.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>121</citedRange>

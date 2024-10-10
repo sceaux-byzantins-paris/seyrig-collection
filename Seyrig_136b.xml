@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Uniface ; rogné et usé ; entaillé à l’orifice supérieur du canal ; empreinte d’un tissu fin au revers.</p>
+                           <p >Uniface ; rogné et usé ; entaillé à l’orifice supérieur du canal ; empreinte d’un tissu fin au revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Beirut</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,9 +188,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-SAfytK-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
                               <!--la légende est linéaire sur 4 lignes-->
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-SAfytK-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -258,7 +258,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,9 +285,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                          <lb n="1"/><supplied reason="lost" >Τ</supplied>οῦ Θείου <expan ><abbr>οἴκ</abbr><ex >ου</ex></expan> τοῦ
                            <lb n="2"/><supplied reason="lost" >ὑπο</supplied> Μάγνον ἐν<supplied reason="lost" >δ</supplied>
                           <lb n="3" break="no"/><supplied reason="lost" ><expan ><abbr>οξ</abbr><ex >ότατον</ex></expan></supplied> <expan ><abbr>κουράτ</abbr><ex >ορα</ex></expan> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>κο
@@ -295,23 +295,23 @@
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -319,19 +319,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Τοῦ Θείου οἴκου τοῦ ὑπο Μάγνον ἐνδοξότατον κουράτορα και κομμερκιάριον Θεουπόλεως.</p>
-            <p xml:lang="en" part="N">Of the divine house dependent on
+         <div type="translation"   >
+            <p >Τοῦ Θείου οἴκου τοῦ ὑπο Μάγνον ἐνδοξότατον κουράτορα και κομμερκιάριον Θεουπόλεως.</p>
+            <p xml:lang="en" >Of the divine house dependent on
                       Magnus, most glorious kourator, kommerkiarios of Theoupolis (Antioch).</p>
-            <p xml:lang="fr" part="N">De la maison divine dépendant de
+            <p xml:lang="fr" >De la maison divine dépendant de
                       Magnus, très glorieux curateur, commerciaire de Théoupolis (Antioche).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Sur la carrière de Magnus[1]. Comme l’a bien vu H. Seyrig et D. Feissel, il n’y a aucun
+            <p ><!--Sur la carrière de Magnus[1]. Comme l’a bien vu H. Seyrig et D. Feissel, il n’y a aucun
                       obstacle à identifier le Magnus des historiens et le Magnus des sceaux et des inscriptions.
                       Magnus est attesté comme curateur des domaines de Marina en Pamphylie, et de ceux
                       d’Hormisdas, en Antiochène. Selon Évagre, une curatelle lui avait été confiée par Justin IL
@@ -340,10 +340,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1].  D. FEISSEL,
                           Magnus, Mégas et les curateurs des "maisons divines’’, <hi rend="italic">TM</hi> 9, 1985, p. 465-476 et DELMAIRE,
                           <hi rend="italic">Largesses Sacrées</hi>, p. 229, n. 50.-->
@@ -351,16 +351,16 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>136b</citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>130</citedRange>
@@ -368,14 +368,14 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       
                       <!-- <bibl><ptr target=""/>, <citedRange unit="page"> p. 40</citedRange></bibl>,--></p>
             <!--Seyrig, Magnus-->
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Oikonomides1986"/>, <citedRange>5</citedRange>
@@ -383,7 +383,7 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                   <!--    <p><bibl><ptr target=""/>, <citedRange>9</citedRange></bibl>,</p>Morrisson, Sceaux inédits-->

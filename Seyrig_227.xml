@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Légère échancrure aux orifices du canal ; légèrement pressé et oblitéré sur les bords des deux faces et légèrement
+                           <p >Légère échancrure aux orifices du canal ; légèrement pressé et oblitéré sur les bords des deux faces et légèrement
                                         décentré vers la droite.</p>
                         </condition>
                      </supportDesc>
@@ -169,8 +169,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qYvQOh-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qYvQOh-v</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -287,21 +287,21 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><supplied reason="lost" ><abbr>ῦ</abbr></supplied></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>ἡ Μαχαι
                         <cb n="b" break="no"/>ρωθεῖσ</abbr><ex >α</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> βοήθ
                           <lb n="2" break="no"/>ει <expan ><abbr>Κων</abbr><ex >σταντίνῳ</ex></expan> δια
                           <lb n="3" break="no"/>κόνῳ καὶ
@@ -314,17 +314,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -332,27 +332,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ ἡ μαχαιρωθεῖσα. / Θεοτόκε βοήθει Κωνσταντίνῳ διακόνῳ καὶ χαρτοφύλακι τῆς Μεγάλης Ἐκκλησίας.</p>
-            <p xml:lang="en" part="N">The Mother of God stabbed with a knife. / Theotokos aid Constantine, deacon and chartophylax of the Great Church.</p>
-            <p xml:lang="fr" part="N">La Mère de Dieu poignardée. Théotokos aide Constantin, diacre et <hi rend="italic">chartophylax</hi> de la Grande Eglise.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ ἡ μαχαιρωθεῖσα. / Θεοτόκε βοήθει Κωνσταντίνῳ διακόνῳ καὶ χαρτοφύλακι τῆς Μεγάλης Ἐκκλησίας.</p>
+            <p xml:lang="en" >The Mother of God stabbed with a knife. / Theotokos aid Constantine, deacon and chartophylax of the Great Church.</p>
+            <p xml:lang="fr" >La Mère de Dieu poignardée. Théotokos aide Constantin, diacre et <hi rend="italic">chartophylax</hi> de la Grande Eglise.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Ce sceau est décrit, avec transcription de la légende, au bas d’un
+            <p ><!-- Ce sceau est décrit, avec transcription de la légende, au bas d’un
                       acte patriarcal du 19 novembre 1145 [1]. Voir le commentaire de
                       V. Laurent sur les prédécesseurs et les successeurs de Constantin au poste de chartophylax
                       de la ”Grande Église”. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                           [1]. GRUMEL, Régestes, n° 1019. 
                       </p>
                       <p xml:id="footnote-2">
@@ -361,10 +361,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 227</citedRange>
                </bibl>.
@@ -372,10 +372,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">Dumbarton Oaks, Washington D.C. (coll. Zacos (issu d’un boullôtèrion différent),
+            <p >Dumbarton Oaks, Washington D.C. (coll. Zacos (issu d’un boullôtèrion différent),
                       <bibl  >
                   <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part"> 99</citedRange>,</bibl>
                <bibl  >
@@ -394,10 +394,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="Galavaris1959"/>,<citedRange unit="page"> 229</citedRange>
                </bibl>.

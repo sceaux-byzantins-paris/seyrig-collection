@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné dans sa partie supérieure; de profondes entailles parcourent le revers.</p>
+                           <p >Fortement rogné dans sa partie supérieure; de profondes entailles parcourent le revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-KrbBxf-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns.</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns.</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-KrbBxf-v</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,15 +266,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" >Ὁ ἅ</supplied>γιος 
                         <cb n="b" break="no"/><expan ><abbr>Γεώργ</abbr><ex >ιος</ex></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><supplied reason="lost" ><ex >ύρι</ex><abbr>ε</abbr></supplied></expan> <expan ><abbr><supplied reason="lost" >β</supplied>ο<supplied reason="omitted" >ή</supplied>
                               
                           <lb n="2" break="no"/><supplied reason="lost" >θ</supplied></abbr><supplied reason="lost" ><ex >ει</ex></supplied></expan></rs> Μι<supplied reason="lost" >χα</supplied>ὴ<supplied reason="omitted" >λ</supplied>
@@ -287,17 +287,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,37 +305,37 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Γεώργιος. / + Κύριε βοήθει Μιχαὴλ βεστάρχῃ και μεγάλῳ οἰκονόμῳ τοῦ Τροπαιοφόρου.</p>
-            <p xml:lang="en" part="N">St. George. Lord help Michael, vestarches and grand oikonomos of the Tropaiophoros.</p>
-            <p xml:lang="fr" part="N">Saint Georges. Seigneur aide Michel, vestarque et grand économe du Tropaiophore.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Γεώργιος. / + Κύριε βοήθει Μιχαὴλ βεστάρχῃ και μεγάλῳ οἰκονόμῳ τοῦ Τροπαιοφόρου.</p>
+            <p xml:lang="en" >St. George. Lord help Michael, vestarches and grand oikonomos of the Tropaiophoros.</p>
+            <p xml:lang="fr" >Saint Georges. Seigneur aide Michel, vestarque et grand économe du Tropaiophore.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Il faut distinguer d’une part, l'<hi rend="italic">euagôn oikos</hi> du Tropaiophore, géré
+            <p ><!--Il faut distinguer d’une part, l'<hi rend="italic">euagôn oikos</hi> du Tropaiophore, géré
                       par un grand économe et consacré à des activités philanthropiques, et d’autre part, la curatorie
                       des Manganes qui gère des domaines de la Couronne[1]. Michel fut un des premiers économes de Saint-Georges
                       des Manganes.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                        <!--   [1]. LEMERLE, <hi rend="italic">Cinq études</hi>, p. 273-283
                           et OIKONOMIDÈS, <hi rend="italic">op. cit.</hi> p. 242-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>122</citedRange>
@@ -344,23 +344,23 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C., <!--????-->
                       <bibl  >
                   <ptr target="Schlumberger1884"/>
                   <citedRange unit="page"> p. 46</citedRange>
                </bibl>; </p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.22">BZS.1947.2.22 (Shaw 22)</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -370,13 +370,13 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                <!--     <p>  -->
                        <!-- <bibl><ptr target=""/>, <citedRange></citedRange></bibl>.</p>--><!--N. OlKONOMIDÈS, St. George of Mangana,
                   Maria Skleraina and the ”Malyj Sion” of Novgorod, DOP 34-35, 1980/1981, p. 242.-->
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="http://pbw2016.kdl.kcl.ac.uk/boulloterion/499/">Michael 20144</ref>

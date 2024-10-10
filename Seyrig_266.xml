@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné à droite; échancrure aux orifices du canal; en partie oblitéré.</p>
+                           <p >Rogné à droite; échancrure aux orifices du canal; en partie oblitéré.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-w5L2zQ-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-w5L2zQ-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,15 +266,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                        <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                        <ab >
                            <cb n="a"/><expan ><abbr>ὁ ἃγο</abbr><ex >ς</ex></expan>
                         <cb n="b"/><expan ><abbr>Γεώργι</abbr><ex >ος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>Γεώργιος
                           <lb n="2"/>ὁ <expan ><abbr>εύτελ</abbr><ex >ὴς</ex></expan> ἐπίσ
                           <lb n="3" break="no"/>κοπος <expan ><abbr>Πτο<supplied reason="lost" >λε</supplied>
@@ -286,17 +286,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,17 +304,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Γεώργιος. / Γεώργιος ὁ εύτελὴς ἐπίσκοπος Πτολεμαῖδος .</p>
-            <p xml:lang="en" part="N">St George. George the humble bishop of Ptolemais.</p>
-            <p xml:lang="fr" part="N">Saint Georges. Georges l'humble évêque de Ptolémaïs.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Γεώργιος. / Γεώργιος ὁ εύτελὴς ἐπίσκοπος Πτολεμαῖδος .</p>
+            <p xml:lang="en" >St George. George the humble bishop of Ptolemais.</p>
+            <p xml:lang="fr" >Saint Georges. Georges l'humble évêque de Ptolémaïs.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Gravure fruste; graphie provinciale. Le sceau de
+            <p ><!--Gravure fruste; graphie provinciale. Le sceau de
                       Jean, titulaire du même siège dépendant du patriarcat d’Antioche [1], daté par l’éditeur du XIe siècle, présente aussi des "lettres de grand module, de type
                       exotique”. Noter les lettres inscrites m pour n et T dans mOA€MAHAOC. Une lettre suscrite A apparaît au-dessus de €V€T - inversé pour €VT€ - et les lettres A€ se devinent au-dessus
                       du O de Ptolémaïs. Ptolémaïs, nom ancien du port d’Acre, dépendait de la métropole
@@ -322,10 +322,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. LAURENT, <hi rend="italic">Corpus</hi>, V, 2,
                           1534.-->
                       </p>

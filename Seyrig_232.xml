@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Flan très large ; décentré vers la gauche ; en voie de complète oxydation ; lettres bien gravées.</p>
+                           <p >Flan très large ; décentré vers la gauche ; en voie de complète oxydation ; lettres bien gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mrUmwS-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -208,8 +208,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mrUmwS-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,15 +266,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                    <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                        <ab part="N">
+                    <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                        <ab >
                             <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan> </rs> Θεοδώρ<supplied reason="lost" >ῳ</supplied> <rs type="dignity" ref="dignities.xml#πρόεδρος"><app type="alternative">
                                                   <lem>προέδρῳ</lem>
                                                   <rdg><expan ><am >α</am><ex >πρωτο</ex>προέδρῳ</expan></rdg>
@@ -282,30 +282,30 @@
                             
                         </ab>
                         </div>
-                  <div type="textpart" subtype="sigla" n="rev" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="sigla" n="rev" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> Βασί
                         <cb n="b" break="no"/>λειος
                       </ab>
                         </div>
-                   <div type="textpart" subtype="label" n="rev" rend="circular" part="N"   xml:lang="">
-                        <ab part="N">
+                   <div type="textpart" subtype="label" n="rev" rend="circular"    xml:lang="">
+                        <ab >
                             <lb n="2"/>+ καὶ <expan ><abbr>μη</abbr><ex >τ</ex><abbr>ροπολίτῃ</abbr></expan> Ἀμασείας
                         </ab>
                         </div>
 
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -313,17 +313,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. Θεοτόκε βοήθει Θεοδώρῳ προέδρῳ <hi rend="italic">vel</hi> πρωτοπροέδρῳ / καὶ μητροπολίτῃ ᾿Αμασείας. Ὁ ἅγιος Βασίλειος.</p>
-            <p xml:lang="en" part="N">Mother of God. Theotokos help Theodoros, proedros (<hi rend="italic">or</hi> protoproedros) et metropolitan of Amaseia. St. Basil.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Théotokos aide Théodore, proèdre (<hi rend="italic">ou</hi> protoproèdre) et métropolite d'Amasée. Saint Basile.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. Θεοτόκε βοήθει Θεοδώρῳ προέδρῳ <hi rend="italic">vel</hi> πρωτοπροέδρῳ / καὶ μητροπολίτῃ ᾿Αμασείας. Ὁ ἅγιος Βασίλειος.</p>
+            <p xml:lang="en" >Mother of God. Theotokos help Theodoros, proedros (<hi rend="italic">or</hi> protoproedros) et metropolitan of Amaseia. St. Basil.</p>
+            <p xml:lang="fr" >Mère de Dieu. Théotokos aide Théodore, proèdre (<hi rend="italic">ou</hi> protoproèdre) et métropolite d'Amasée. Saint Basile.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Ce métropolite signa un chrysobulle de Nicéphore III
+            <p ><!-- Ce métropolite signa un chrysobulle de Nicéphore III
                       Botaneiatès, daté de décembre 1079  [1]. Sur le personnage,
                       se référer au commentaire de l’édition de V. Laurent. Le titre de proèdre est souvent utilisé
                       pour désigner le titulaire d’un siège épiscopal ou archiépiscopal. Ce ne peut être le cas ici
@@ -337,10 +337,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                           [1]. Cf. J. GOUILLARD, Un chrysobulle de Nicéphore
                           Botaneiate à souscription synodale, <hi rend="italic">Byz</hi>., 29-30, 1959-1960, p. 31, n. 8.
                       </p>
@@ -352,10 +352,10 @@ type, voir G. SCHLUMBERGER, Sceaux byzantins inédits (cinquième série), RN* 9
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">Bibliothèque Nationale de France, Paris,
+            <p >Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 232</citedRange>,</bibl>
                <bibl  >
@@ -369,7 +369,7 @@ type, voir G. SCHLUMBERGER, Sceaux byzantins inédits (cinquième série), RN* 9
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               />
          <!-- bibliography incomplete -->

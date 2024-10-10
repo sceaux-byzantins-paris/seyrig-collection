@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers la gauche; légèrement échancré aux orifices du canal.</p>
+                           <p >Décentré vers la gauche; légèrement échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-5UENb3-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes.</p>
+                              <p xml:lang="en" >Legend of 3 lines.</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-5UENb3-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes.</p>
+                              <p xml:lang="en" >Legend of 3 lines.</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,10 +286,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                       <lb n="1"/>Ἀνασ
 
                                   <lb n="2" break="no"/>τασί
@@ -298,8 +298,8 @@
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="4"/>σχολ
                                
@@ -311,17 +311,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -329,17 +329,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἀναστασίου σχολαστικοῦ.</p>
-            <p xml:lang="en" part="N">(Seal of) Anastasios, scholastikos.</p>
-            <p xml:lang="fr" part="N">(Sceau d') Anastase, scholastique.</p>
+         <div type="translation"   >
+            <p >Ἀναστασίου σχολαστικοῦ.</p>
+            <p xml:lang="en" >(Seal of) Anastasios, scholastikos.</p>
+            <p xml:lang="fr" >(Sceau d') Anastase, scholastique.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La datation est indiquée par la couronne et
+            <p ><!--La datation est indiquée par la couronne et
                       l’épigraphie. <hi rend="italic">Scholastikos</hi> peut être interprété comme un nom [1] et dans ce cas, nous aurions un des nombreux exemples de doubles noms[2]. Scholastikos
                       désigne aussi toute personne ayant suivi une formation supérieure, avocat ou conseiller
                       juridique[3].
@@ -349,30 +349,30 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     <!--  [1]. MARTINDALE, <hi rend="italic">Prosopography</hi>
                       II, 982.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                     <!--  [2]. NESBITT, Double Names on Byzantine Lead Seals, DO P 39, 1977 p. 108-121.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                      <!-- [3]. A. CLAUS, Ὁ Σχολαστικός, Cologne 1965, analysé par D. SIMON, <hi rend="italic">BZ</hi> 59, 1966,
                       p. 158-161.-->
                   </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                      <!-- [4]. MARTINDALE, <hi rend="italic">Prosopography</hi>, II, p. 78.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>64</citedRange>

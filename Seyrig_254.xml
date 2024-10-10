@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Droit totalement oblitéré; rogné sur tout le pourtour.</p>
+                           <p >Droit totalement oblitéré; rogné sur tout le pourtour.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,9 +168,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-SuMNAV-r</rs>
-                              <p xml:lang="en" part="N"/>
+                              <p xml:lang="en" />
                               <!--On laisse l'indication d'une iconographie quand même ?-->
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-SuMNAV-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,10 +265,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
                  
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ Βα<supplied reason="omitted" >σι</supplied>
                           <lb n="2" break="no"/>λείῳ ἐ<supplied reason="omitted" >πι</supplied>
                           <lb n="3" break="no"/>σκόπῳ <supplied reason="omitted" ><expan ><abbr>τ</abbr><ex >ῆς</ex></expan></supplied>
@@ -277,17 +277,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -295,27 +295,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">
+         <div type="translation"   >
+            <p >
                <abbr/> / + Βασιλείῳ ἐπισκόπῳ τῆς Κηβύρρας.</p>
-            <p xml:lang="en" part="N">Basil, bishop of Kibyrra.</p>
-            <p xml:lang="fr" part="N">Basile, évêque de Kibyrra</p>
+            <p xml:lang="en" >Basil, bishop of Kibyrra.</p>
+            <p xml:lang="fr" >Basile, évêque de Kibyrra</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Kibyrra était un évêché de Carie dont on connaissait jusqu’ici
+            <p ><!--Kibyrra était un évêché de Carie dont on connaissait jusqu’ici
                       de façon sûre le sceau d’un seul évêque, daté du Xe siècle, Procope [1]. On peut peut-être attribuer à cet évêché deux sceaux
                       supplémentaires[2].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. LAURENT, <hi rend="italic">Corpus</hi>, N,
                           1, 520, avec la notice sur l’évêché. 
                       </p>

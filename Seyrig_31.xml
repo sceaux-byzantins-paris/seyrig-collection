@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné fortement au sommet du champ; entailles aux orifices du canal; lettres nettement gravées.</p>
+                           <p >Rogné fortement au sommet du champ; entailles aux orifices du canal; lettres nettement gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,10 +169,10 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-AQ57ri-r</rs>
-                              <p xml:lang="en" part="N">CCruciform monogram, probably of the Laurent V type, framed by the usual tetrasyllable.</p>
+                              <p xml:lang="en" >CCruciform monogram, probably of the Laurent V type, framed by the usual tetrasyllable.</p>
                               <!-- à compléter -->
                               <!--pour le terme cantonner j'ai proposé "framed" à voir-->
-                              <p xml:lang="fr" part="N">Monogramme cruciforme, probablement de type Laurent V cantonné par le 
+                              <p xml:lang="fr" >Monogramme cruciforme, probablement de type Laurent V cantonné par le 
                                             tétrasyllabe habituel</p>
                            </layout>
                         </layoutDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-AQ57ri-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,10 +270,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  ><!-- dans obv et rev il y avait des problèmes de placement des tags rs: notamment sur le rev ceci a été rendu visible par EFES par le fait que le tiret pour aller à la ligne dans le mot hypatos n'était pas collé à la dernière lettre de la ligne, mais il y avait un espace blanc, créé par le rs mal placé -->
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   ><!-- dans obv et rev il y avait des problèmes de placement des tags rs: notamment sur le rev ceci a été rendu visible par EFES par le fait que le tiret pour aller à la ligne dans le mot hypatos n'était pas collé à la dernière lettre de la ligne, mais il y avait un espace blanc, créé par le rs mal placé -->
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει τῷ δούλῳ σου</ex></expan><!-- tags -->
 
@@ -281,8 +281,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>Λέον
                                
                                   <lb n="3" break="no"/>τι <rs type="dignity" ref="dignities.xml#ὕπατος">ὑπ
@@ -292,17 +292,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,35 +310,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- prénom à changer! Et croisette à supprimer -->
-            <p part="N">Θεοτόκε βοήθει τῷ δούλῳ σου / Λέοντι ὑπάτῳ.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant Leo, hypatos.</p>
+         <div type="translation"   ><!-- prénom à changer! Et croisette à supprimer -->
+            <p >Θεοτόκε βοήθει τῷ δούλῳ σου / Λέοντι ὑπάτῳ.</p>
+            <p xml:lang="en" >Mother of God help your servant Leo, hypatos.</p>
             <!-- il y a du français dans cette traduction anglaise -->
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Léon, <hi rend="italic">hypatos</hi>.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur Léon, <hi rend="italic">hypatos</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               ><!--  le commentaire manque; dans la partie final de ce fichier, vous avez inséré les informations du suivant-->
-            <p part="N"><!--A. Zacos et G. Veglery ont publié une pièce (2108) qui
+            <p ><!--A. Zacos et G. Veglery ont publié une pièce (2108) qui
                       appartient peut-être au même personnage, à la légende semblable, mais répartie différemment.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>31</citedRange>

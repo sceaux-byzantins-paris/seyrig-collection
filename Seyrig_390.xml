@@ -109,8 +109,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Large, relatively well-preserved blank; notched at both ends of the channel and slightly chipped on the left and right; raised edge on the right.</p>
-                           <p xml:lang="fr" part="N">Large flan relativement bien conservé; entaillé aux deux extrémités du canal et légèrement ébréché à gauche
+                           <p xml:lang="en" >Large, relatively well-preserved blank; notched at both ends of the channel and slightly chipped on the left and right; raised edge on the right.</p>
+                           <p xml:lang="fr" >Large flan relativement bien conservé; entaillé aux deux extrémités du canal et légèrement ébréché à gauche
                                         au droit; bord relevé à droite.</p>
                         </condition>
                      </supportDesc>
@@ -155,8 +155,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -175,8 +175,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-g3EWVn-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,8 +215,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-g3EWVn-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -247,7 +247,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -275,9 +275,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  > 
-                  <div type="textpart" subtype="sigla" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   > 
+                  <div type="textpart" subtype="sigla" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><abbr>Ί</abbr><ex >ησοῦ</ex><abbr>ς</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Χ</abbr><ex >ριστό</ex><abbr>ς</abbr></expan> 
                         <cb n="c"/>Νι
@@ -285,23 +285,23 @@
                         <cb n="e"/>+Sigillum canonicorum
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                           <cb n="f"/>+Sanctissimi Sepulchri
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,36 +309,36 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ίησοῦς Χριστός Νικά. +Sigillum canonicorum. / +Sanctissimi Sepulchri.</p>
-            <p xml:lang="en" part="N">Jesus Christ prevails. Seal of canons of the Holy Sepulchre.</p>
-            <p xml:lang="fr" part="N">Jésus-Christ prévaut. Sceau des chanoines du Saint-Sépulcre.</p>
+         <div type="translation"   >
+            <p >Ίησοῦς Χριστός Νικά. +Sigillum canonicorum. / +Sanctissimi Sepulchri.</p>
+            <p xml:lang="en" >Jesus Christ prevails. Seal of canons of the Holy Sepulchre.</p>
+            <p xml:lang="fr" >Jésus-Christ prévaut. Sceau des chanoines du Saint-Sépulcre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  On notera la forme des A surmontés d’un empattement débordant,
+            <p ><!--  On notera la forme des A surmontés d’un empattement débordant,
                       et la gravure des M et des N dont les jambages obliques sont très faiblement marqués. Une
                       graphie semblable se trouve par exemple sur le sceau de Baudouin II [1]. Les autres exemplaires conservés du sceau semblent plus tardifs.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                       [1]. <hi rend="italic">Sigillographie de l’Orient
                       Latin</hi>, pl I, 1. -->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 390</citedRange>
                </bibl>.                
@@ -346,10 +346,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Un ex. conservé à Malte, un autre à Munich, un troisième à Brunswick.-->
+            <p ><!--  Un ex. conservé à Malte, un autre à Munich, un troisième à Brunswick.-->
                       <!-- missing bibliography --></p>
          </div>
       </body>

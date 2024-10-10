@@ -108,7 +108,7 @@
                            <!-- je ne vois pas cette info dans l'édition; 12h est mentionné comme début de la légende circulaire -->
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné ; oblitéré au revers à droite.</p>
+                           <p >Rogné ; oblitéré au revers à droite.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <!--champ intérieur de 14 cm; à discuter, il s'agit du champ du monogramme-->
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pTeI2m-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pTeI2m-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme</p>
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme</p>
                               <!-- mais ici il y a aussi une légende circulaire -->
                            </layout>
                         </layoutDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,34 +271,34 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang=""><!-- attention aux @subtype!!! -->
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang=""><!-- attention aux @subtype!!! -->
+                      <ab >
                     
                           <lb n="1"/><expan ><ex >Τορνικίῳ</ex></expan> 
                           </ab>
 
                     
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                             <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan> 
                                 τῷ <supplied reason="lost" >σῷ δούλῳ</supplied></rs>  Τορνικίῳ <expan ><abbr><am ><g type="protos1"/></am></abbr><ex >πρωτο</ex><abbr>βέστ</abbr><ex >ῃ</ex></expan> τῷ <expan ><abbr>Βαρασβ</abbr><ex >ατζέ</ex></expan>
                                            
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,17 +306,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- le monogramme manque -->
-            <p part="N">+ Κύριε βοήθει τῷ σῷ δούλῳ Τορνικίῳ πρωτοβέστῃ τῷ Βαρασβατζέ.</p>
-            <p xml:lang="en" part="N">Lord help your servant Tornikios Barasbatze, protovestes.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Tornikios Barasbatzé, protovestès.</p>
+         <div type="translation"   ><!-- le monogramme manque -->
+            <p >+ Κύριε βοήθει τῷ σῷ δούλῳ Τορνικίῳ πρωτοβέστῃ τῷ Βαρασβατζέ.</p>
+            <p xml:lang="en" >Lord help your servant Tornikios Barasbatze, protovestes.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Tornikios Barasbatzé, protovestès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le monogramme inviterait à dater le
+            <p ><!--Le monogramme inviterait à dater le
                       sceau, plus tardivement, des XIIe-XIIIe siècles, en interprétant le titre comme protovestiaire,
                       mais l’épigraphie conduit à dater le plomb de la fin du XIe siècle. Les Tornikioi semblent
                       avoir eu une prédilection pour les monogrammes, puisqu’un sceau [1], datant de la fin du Xe ou du XIe siècle, comporte un monogramme proche
@@ -333,27 +333,27 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. KONSTANTOPOULOS,
                           <hi rend="italic">Molybdoboulla</hi>, 858.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. Odno utoenenie teksta chroniki Skilicy po materialam sfragistiki, <hi rend="italic">Soobscenija
                           Gos. Ermitaza </hi>40, 1975, p. 46-48.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                         <!--  [3]. <hi rend="italic">Iviron</hi> I, p. 15-19.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>63</citedRange>

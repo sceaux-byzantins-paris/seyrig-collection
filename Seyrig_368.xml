@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Strongly indented at the channel openings, off-centre towards the base on the reverse.</p>
-                           <p xml:lang="fr" part="N">Fortement échancré aux orifices du canal, décentré vers la base au revers.</p>
+                           <p xml:lang="en" >Strongly indented at the channel openings, off-centre towards the base on the reverse.</p>
+                           <p xml:lang="fr" >Fortement échancré aux orifices du canal, décentré vers la base au revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,11 +149,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acheté à Istanbul</p>
+                     <p >Acheté à Istanbul</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-GkUUJx-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme, de type
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme, de type
                                             Laurent I, cantonné par le nom du propriétaire du sceau.</p>
                            </layout>
                         </layoutDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-GkUUJx-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Μonogramme composé des lettres AOCTV et formé
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Μonogramme composé des lettres AOCTV et formé
                                             sur un N. Entre les branches du <hi rend="italic">nu</hi>: VI || ΟV.</p>
                            </layout>
                         </layoutDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,14 +272,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Θεοτόκε βοήθει</ex></expan> Σολέμ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                         <lb n="2"/> υἱοῦ <app type="alternative">
                                                   <lem><expan cert="low" ><expan ><ex >Ἀναστασίου</ex></expan></expan></lem>
                                                   <rdg><expan cert="low" ><expan ><ex >Ίουστινιανοῦ</ex></expan></expan></rdg>
@@ -287,36 +287,36 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="2">
                   <note >La deuxième solution est moins vraisemblable.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει Σολέμ / υἱοῦ Ἀναστασίου <hi rend="italic">vel</hi> Ίουστινιανοῦ.</p>
-            <p xml:lang="en" part="N">Mother of God help Solem, son of Anastasios or Ioustinianos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Solem, fils d'Anastase ou Justinien.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει Σολέμ / υἱοῦ Ἀναστασίου <hi rend="italic">vel</hi> Ίουστινιανοῦ.</p>
+            <p xml:lang="en" >Mother of God help Solem, son of Anastasios or Ioustinianos.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Solem, fils d'Anastase ou Justinien.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

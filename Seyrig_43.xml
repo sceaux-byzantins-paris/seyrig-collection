@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Cassé dans sa partie inferieure, avec perte presque totale de la dernière ligne; entaillé par plusieurs fissures au revers; en voie d’oxydation.</p>
+                           <p >Cassé dans sa partie inferieure, avec perte presque totale de la dernière ligne; entaillé par plusieurs fissures au revers; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DL5eG1-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DL5eG1-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,15 +268,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/> <rs type="invocation" xml:id="Κύριε1" rend="linear">
                               <expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan> 
                                                   </rs>
@@ -291,17 +291,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="2">
                   <note >L’absence de marque d’abréviation après le <!--T--> de Nicétas <!--Athena Ruby-->
@@ -309,18 +309,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Κύριε βοήθει Νικήτᾳ νωβελισίμο το Ῥαούλ.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Κύριε βοήθει Νικήτᾳ νωβελισίμο το Ῥαούλ.</p>
             <!-- omicron à faire ensuite -->
-            <p xml:lang="en" part="N">Mother of God. / Lord, help Niketas Raoul, nobelissimos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Seigneur aide Nicétas, nobélissime.</p>
+            <p xml:lang="en" >Mother of God. / Lord, help Niketas Raoul, nobelissimos.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Seigneur aide Nicétas, nobélissime.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               ><!-- attention: ici aussi il y a le me^me problème de notes qui apparaissent également dans le commentaire: sauriez-vous le résoudre? --><!--j'avais oublié de mettre le tag div pour fermer le commentaire et séparer cette partie des notes de bas de page-->
-            <p part="N"><!--La famille Raoul descendait d'un officier latin de ce nom,
+            <p ><!--La famille Raoul descendait d'un officier latin de ce nom,
                       qui abandonna l'armée de Robert Guiscard pour passer au service de l’empereur Alexis
                       Comnène. Jusqu'à maintenant était connu, parmi ses descendants, vivant au XIIe siècle,
                       Constantin Raoul (Doukas), sébaste, qui prit part au synode de 1191 [1]. Il faut peut-être ajouter Léon, ὁ τοῦ Ῥαούλ,
@@ -333,13 +333,13 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1].PAPADOPOULOS- KERAMEUS, <hi rend="italic">Analecta</hi> II p. 362; Shaw 1137.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. K. et S. LAK.E, <hi rend="italic">Dated Greek Minuscule Manuscripts
                               to the Year 1200</hi> V, Boston, 1936, n° 207; H. HUNGER - O. KRESTEN, <hi rend="italic">Katalog der griechischen
                                   Handschriften der österreichischen Nationalbibliothek</hi>. Teil 3/1, <hi rend="italic">Codices theologici 1-100</hi>, Vienne
@@ -350,10 +350,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>43</citedRange>
@@ -362,10 +362,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                   <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -376,10 +376,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/454/">Niketas 20122</ref>

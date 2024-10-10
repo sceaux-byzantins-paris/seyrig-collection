@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p xml:lang="en" part="N">Hollow bullet with suspension clamp. Broken in its upper left half. The suspension and the absence of a channel make us think that it is more of an amulet than a seal.</p>
-                           <p xml:lang="fr" part="N">Bulle creuse avec bélière de suspension. Cassée dans sa moitié supérieure gauche. La suspension et l’absencede canal nous font penser qu’il s’agit plutôt d’une amulette que d’un sceau.</p>
+                           <p xml:lang="en" >Hollow bullet with suspension clamp. Broken in its upper left half. The suspension and the absence of a channel make us think that it is more of an amulet than a seal.</p>
+                           <p xml:lang="fr" >Bulle creuse avec bélière de suspension. Cassée dans sa moitié supérieure gauche. La suspension et l’absencede canal nous font penser qu’il s’agit plutôt d’une amulette que d’un sceau.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">29</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Fl8baX-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">29</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Fl8baX-v</rs>
-                              <p xml:lang="en" part="N">Legend of 2 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 2 lignes</p>
+                              <p xml:lang="en" >Legend of 2 lines</p>
+                              <p xml:lang="fr" >Légende sur 2 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,7 +285,7 @@
                       </ab>
                   </div>
               </div> -->
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -293,19 +293,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N"/>
-            <p xml:lang="en" part="N"/>
-            <p xml:lang="fr" part="N"/>
+         <div type="translation"   >
+            <p />
+            <p xml:lang="en" />
+            <p xml:lang="fr" />
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

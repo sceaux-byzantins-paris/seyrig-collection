@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné légèrement au sommet et sur le pourtour à gauche ; échancré profondément aux extrémités du canal ;
+                           <p >Rogné légèrement au sommet et sur le pourtour à gauche ; échancré profondément aux extrémités du canal ;
                                         lettres nettement gravées.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">29</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-K5xpZG-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram.</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme.</p>
+                              <p xml:lang="en" >Cruciform monogram.</p>
+                              <p xml:lang="fr" >Monogramme cruciforme.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">29</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-K5xpZG-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,28 +265,28 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><expan ><ex >Κοσμᾷ</ex></expan>
 
                       </ab>
                       </div>
-                   <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                       <ab part="N">
+                   <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                       <ab >
                              <lb n="2"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2">Θεοτόκε βοήθει</rs> <!--Comment indiquer l'invocation avec deux "div"?-->
                        </ab>
                        </div>
-                  <div type="textpart" subtype="face" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/>τῷ δού
                         <cb n="b" break="no"/>λῳ σου
                       </ab>
                          </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="3"/>+ <rs type="dignity" ref="dignities.xml#πατρίκιος">πατρ
                           
                                   <lb n="4" break="no"/>ικίῳ</rs> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>κόμ</abbr>
@@ -303,17 +303,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -321,37 +321,37 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ Κοσμᾷ /  + πατρικίῳ καὶ κόμητι τοῦ θεοφλάκτου βασιλικοῦ Ὀψικίου +.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant Kosmas, patrikios and komes of the imperial Opsikion guarded by God.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Kosmas, patrice et comte de l'Opsikion impérial protégé par Dieu.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ Κοσμᾷ /  + πατρικίῳ καὶ κόμητι τοῦ θεοφλάκτου βασιλικοῦ Ὀψικίου +.</p>
+            <p xml:lang="en" >Mother of God help your servant Kosmas, patrikios and komes of the imperial Opsikion guarded by God.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur Kosmas, patrice et comte de l'Opsikion impérial protégé par Dieu.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Kosmas n’est pas attesté dans les sources contemporaines[1].
+            <p ><!--Kosmas n’est pas attesté dans les sources contemporaines[1].
                       Il pourrait être identique à Kosmas, patrice et stratège, connu par un sceau à peu près contemporain[2].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. Cf. HALDON, <hi rend="italic">Praetorians</hi>, p. 626, n. 1104.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                      <!-- [2]. ZACOS - VEGLERY, 2084.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>188</citedRange>
@@ -360,15 +360,15 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>406</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -378,11 +378,11 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                   <!-- <bibl><ptr target=""/>, <citedRange unit="page">p. 150, n° 3</citedRange></bibl>,</p>--><!--N D CHABIARIAS,-->
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p4704">Kosmas 43</ref>

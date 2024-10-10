@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed; deeply indented at the canal openings; oxidizing.</p>
-                           <p xml:lang="fr" part="N">Rogné; échancré profondément aux orifices du canal; en voie d’oxydation.</p>
+                           <p xml:lang="en" >Trimmed; deeply indented at the canal openings; oxidizing.</p>
+                           <p xml:lang="fr" >Rogné; échancré profondément aux orifices du canal; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-3jOOZD-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-3jOOZD-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,15 +269,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><ex >Ὁ ἃγιος</ex></expan> <expan ><abbr>Νικό
                           <cb n="b"/>λαο</abbr><ex >ς</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Σὸν <expan ><abbr>δοῦλ</abbr><ex >ον</ex></expan>
                            <lb n="2"/>Ἰάκωβον 
                            <lb n="3"/>μάκαρ 
@@ -285,17 +285,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,19 +303,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Νικόλαος. / Σὸν δοῦλον Ἰάκωβον μάκαρ σκέποις.</p>
-            <p xml:lang="en" part="N">Saint Nicholas. / Blessed, shelter your servant Jacob.</p>
-            <p xml:lang="fr" part="N">Saint Nicolas. / Bienheureux, protège ton serviteur Jacques.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Νικόλαος. / Σὸν δοῦλον Ἰάκωβον μάκαρ σκέποις.</p>
+            <p xml:lang="en" >Saint Nicholas. / Blessed, shelter your servant Jacob.</p>
+            <p xml:lang="fr" >Saint Nicolas. / Bienheureux, protège ton serviteur Jacques.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

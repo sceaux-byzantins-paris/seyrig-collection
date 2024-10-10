@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné fortement sur le pourtour; échancrure aux orifices du canal; pressé et oblitéré au revers; en voie
+                           <p >Rogné fortement sur le pourtour; échancrure aux orifices du canal; pressé et oblitéré au revers; en voie
                                         d’oxydation.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-glVC5w-r</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-glVC5w-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,9 +267,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></rs>
                           <lb n="2"/><expan ><abbr>Ἰω</abbr><ex >άννῃ</ex></expan> <expan ><abbr>σπαθ</abbr><ex >α</ex>
                           <lb n="3" break="no"/><abbr>ροκανδ</abbr><ex >ι</ex><abbr>δ</abbr><ex >άτῳ</ex></expan>
@@ -277,8 +277,8 @@
                           <lb n="5"/><expan ><abbr>τ</abbr><ex >οῦ</ex></expan> <expan ><abbr>ἠδ</abbr><ex >ι</ex><abbr>κ</abbr><ex >οῦ</ex></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="6"/><supplied reason="lost" >λ</supplied>όγου
                           <lb n="7"/><supplied reason="lost" ><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> ἐ</supplied>κ προ
                           <lb n="8" break="no"/>σώπου <expan ><abbr>Με
@@ -289,17 +289,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -307,17 +307,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει Ἰωάννῃ σπαθαροκανδιδάτῳ καὶ βασιλικῷ νοταρίῳ τοῦ ἠδικοῦ / λόγου καὶ ἐκ προσώπου Μεσημβρίας.</p>
-            <p xml:lang="en" part="N">Lord help John, spatharokandidatos, imperial notarios of the eidikos logos and ek prosopou of Mesembria.</p>
-            <p xml:lang="fr" part="N">Seigneur aide Jean, spatharocandidat, notaire impérial de l'<hi rend="italic">eidikon</hi> et <hi rend="italic">ek prosôpou</hi> de Mésembria.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει Ἰωάννῃ σπαθαροκανδιδάτῳ καὶ βασιλικῷ νοταρίῳ τοῦ ἠδικοῦ / λόγου καὶ ἐκ προσώπου Μεσημβρίας.</p>
+            <p xml:lang="en" >Lord help John, spatharokandidatos, imperial notarios of the eidikos logos and ek prosopou of Mesembria.</p>
+            <p xml:lang="fr" >Seigneur aide Jean, spatharocandidat, notaire impérial de l'<hi rend="italic">eidikon</hi> et <hi rend="italic">ek prosôpou</hi> de Mésembria.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Notre sceau peut être rapproché de celui édité par V. Laurent
+            <p ><!--Notre sceau peut être rapproché de celui édité par V. Laurent
                       [1], qui appartenait à Jean spatharocandidat et notaire de l'<hi rend="italic">eidikon logon</hi> (la
                       suite de la légende, au revers, n’est pas claire), mais l’extrême banalité du prénom interdit
                       toute certitude. D’autres ἐκ προσώπου de Mésembria, important port sur la Mer Noire, sont
@@ -326,25 +326,25 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1].  <hi rend="italic">Corpus</hi>, II, 632.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2].  Fogg 1891.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                         <!--  [3].  SEIBT, <hi rend="italic">Bleisiegel</hi>, p. 299.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>185</citedRange>

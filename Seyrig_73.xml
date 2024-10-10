@@ -106,7 +106,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Échancré à l’orifice supérieur du canal; décentré vers le sommet; éraflures et points d’oxydation.</p>
+                           <p >Échancré à l’orifice supérieur du canal; décentré vers le sommet; éraflures et points d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-K4PvL7-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes; la première ligne présente une lettre suscrite.</p>
+                              <p xml:lang="en" >Legend of 4 lines.</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes; la première ligne présente une lettre suscrite.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-K4PvL7-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes; la première ligne présente une lettre suscrite</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes; la première ligne présente une lettre suscrite</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,10 +266,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan>
                                
                                   <lb n="2"/> βοήθη</rs>
@@ -279,8 +279,8 @@
                                   <lb n="4" break="no"/>ίῳ 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="5"/><expan ><abbr>ἐξω</abbr><ex >τικῷ</ex></expan> <expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan>
                                   <lb n="6"/>στράτ
@@ -289,53 +289,53 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="1">
                   <note >le sceau porte ce qui pourrait être la trace d’une lettre suscrite, selon la même disposition qu’au revers.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Θεοτόκε βοήθει Γεωργίῳ /  ἐξωτικῷ βασιλικῷ στράτορι.</p>
-            <p xml:lang="en" part="N">Mother of God help George, exotikos basilikos strator.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Georges, exôtikos basilikos stratôr.</p>
+         <div type="translation"   >
+            <p >+ Θεοτόκε βοήθει Γεωργίῳ /  ἐξωτικῷ βασιλικῷ στράτορι.</p>
+            <p xml:lang="en" >Mother of God help George, exotikos basilikos strator.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Georges, exôtikos basilikos stratôr.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La lecture de la première ligne du revers ne fait aucun doute, mais son interprétation pose
+            <p ><!--La lecture de la première ligne du revers ne fait aucun doute, mais son interprétation pose
                       problème. On peut penser au qualificatif d'<hi rend="italic">exôtikos</hi> appliqué à des dignitaires qui ne résidaient
                       pas dans la capitale [1]. Il s’agirait dans ce cas d’un <hi rend="italic">stratôr</hi>
                       qui exerçait sa fonction en province.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. OIKONOMIDÈS, <hi rend="italic">Listes</hi>, p. 299.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>73</citedRange>

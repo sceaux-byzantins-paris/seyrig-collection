@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Légère échancrure à l’orifice inferieur du canal, dont la ligne est fissurée sur les deux faces; entaille au revers
+                           <p >Légère échancrure à l’orifice inferieur du canal, dont la ligne est fissurée sur les deux faces; entaille au revers
                                         sur le bord de gauche; gravure nette.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-iagUcc-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-iagUcc-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,20 +269,20 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><supplied reason="lost" ><abbr>θ</abbr><ex >ει</ex></supplied></expan> τῷ σῷ <expan ><abbr>δ</abbr><ex >ούλῳ</ex></expan></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/>+ Νικο
                           <lb n="3" break="no"/>δήμῳ <expan ><abbr>ἀρχ</abbr><ex >ι</ex>
                           <lb n="4" break="no"/><abbr>επισκόπ</abbr><ex >ῳ</ex></expan>
@@ -291,17 +291,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,17 +309,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. Θεοτόκε βοήθει τῷ σῷ δούλῳ. / + Νικοδήμῳ ἀρχιεπισκόπῳ Κορίνθου.</p>
-            <p xml:lang="en" part="N">Mother of God. Theotokos help your servant.  Nikodemos, archbishop of Corinth.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Théotokos aide ton serviteur Nikodèmos, archevêque de Corinthe.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. Θεοτόκε βοήθει τῷ σῷ δούλῳ. / + Νικοδήμῳ ἀρχιεπισκόπῳ Κορίνθου.</p>
+            <p xml:lang="en" >Mother of God. Theotokos help your servant.  Nikodemos, archbishop of Corinth.</p>
+            <p xml:lang="fr" >Mère de Dieu. Théotokos aide ton serviteur Nikodèmos, archevêque de Corinthe.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Nikodèmos n’est pas connu par ailleurs. L’épigraphie
+            <p ><!--  Nikodèmos n’est pas connu par ailleurs. L’épigraphie
                       du sceau est encore très proche de celle du Xe siècle (cf. le O encore un peu bouleté de la
                       première ligne du revers). Mais le type du droit ne devint à la mode qu’à partir des années
                       1030, à l’occasion de la découverte de l’icône des Blachernes [1]. Au
@@ -333,10 +333,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                           [1]. cf. SEIBT, <hi rend="italic">Nikopoios</hi>. 
                       </p>
                       <p xml:id="footnote-2">
@@ -352,10 +352,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                           <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 245</citedRange>,</bibl>
                <bibl  >

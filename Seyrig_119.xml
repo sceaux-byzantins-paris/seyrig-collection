@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Brisé en deux par la ligne du canal ; petites entailles ; grandes lettres bien gravées.</p>
+                           <p >Brisé en deux par la ligne du canal ; petites entailles ; grandes lettres bien gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">28</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-5AsAvR-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes.</p>
+                              <p xml:lang="en" >Legend of 4 lines.</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">28</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-5AsAvR-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,10 +268,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/>Σφ<supplied reason="omitted" >ρ</supplied>αγίς
                                
                                   <lb n="2"/><rs type="dignity" ref="dignities.xml#σεβαστός">σεβαστοῦ</rs>
@@ -282,8 +282,8 @@
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="5"/>κ<supplied reason="lost" >οι</supplied>
                                   <lb n="6" break="no"/>αιστ<supplied reason="lost" >ω</supplied>ρι
@@ -294,17 +294,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -312,17 +312,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Σφραγίς σεβαστοῦ Γαλάτωνος Στεφάνου / κοιαιστωρικὴς ἀξίαν ἐζωσμένου.</p>
-            <p xml:lang="en" part="N">The seal of Stephanos Galaton sebastos, who is vested with the dignity of koiaistor (metrical).</p>
-            <p xml:lang="fr" part="N">Le sceau d'Étienne Galatôn, sébaste, qui a été investi de la fonction de questeur.</p>
+         <div type="translation"   >
+            <p >Σφραγίς σεβαστοῦ Γαλάτωνος Στεφάνου / κοιαιστωρικὴς ἀξίαν ἐζωσμένου.</p>
+            <p xml:lang="en" >The seal of Stephanos Galaton sebastos, who is vested with the dignity of koiaistor (metrical).</p>
+            <p xml:lang="fr" >Le sceau d'Étienne Galatôn, sébaste, qui a été investi de la fonction de questeur.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--En 1196 Étienne Galatôn exerçait la charge de grand sacellaire,
+            <p ><!--En 1196 Étienne Galatôn exerçait la charge de grand sacellaire,
                       honoré de la dignité de <hi rend="italic">prôtonobélissimohypertatos</hi> [1]. Ce sceau,
                       d’après lequel Galatôn a obtenu la dignité supérieure de sébaste, est donc nécessairement
                       postérieur à cette date. Cette dignité n’est plus réservée aux membres de la famille impériale,
@@ -330,28 +330,28 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    <!--   [1]. <hi rend="italic">Lavra</hi> I, p. 350, 353, 356, 357.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                      <!-- [2]. Sur les Galatônes, cf. notre n° 71. --><!--créer lien-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>119</citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                       Hatay Archaeology Museum, Antakya,
                       <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>1122</citedRange>

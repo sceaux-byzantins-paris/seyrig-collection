@@ -113,8 +113,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Heavily trimmed at the canal openings; off-centre to the left. In the process of oxidation.</p>
-                           <p xml:lang="fr" part="N">Fortement rogné aux orifices du canal ; décentré vers la gauche. En voie d’oxydation.</p>
+                           <p xml:lang="en" >Heavily trimmed at the canal openings; off-centre to the left. In the process of oxidation.</p>
+                           <p xml:lang="fr" >Fortement rogné aux orifices du canal ; décentré vers la gauche. En voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -158,11 +158,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acheté à Istanbul</p>
+                     <p >Acheté à Istanbul</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -181,8 +181,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-LXGQgW-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme du type 180 de la classification
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme du type 180 de la classification
                                             Zacos-Veglery</p>
                            </layout>
                         </layoutDesc>
@@ -222,8 +222,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-LXGQgW-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Μonogramme composé de lettres latines et
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Μonogramme composé de lettres latines et
                                             grecques mélangées, comprenant un ΟΥ au sommet, et un E à la base, un G à gauche et un
                                             N à droite</p>
                            </layout>
@@ -254,7 +254,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -282,29 +282,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Θεοδώρου</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                         <lb n="2"/><expan cert="low" ><ex >Εὐγενίου</ex></expan><!-- revoir les lettres latines et grecques, dans un second temps -->
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -312,20 +312,20 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοδώρου. / Εὐγενίου (?).</p>
+         <div type="translation"   >
+            <p >Θεοδώρου. / Εὐγενίου (?).</p>
             <!-- à revoir ensuite -->
-            <p xml:lang="en" part="N">(Seal of) Theodore. / (Seal of) Eugenios (?).</p>
-            <p xml:lang="fr" part="N">(Sceau de) Théodore. / (Sceau d') Eugène (?)).</p>
+            <p xml:lang="en" >(Seal of) Theodore. / (Seal of) Eugenios (?).</p>
+            <p xml:lang="fr" >(Sceau de) Théodore. / (Sceau d') Eugène (?)).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

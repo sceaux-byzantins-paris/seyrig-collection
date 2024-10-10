@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Échancrures aux orifices du canal; rogné à droite.</p>
+                           <p >Échancrures aux orifices du canal; rogné à droite.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,9 +168,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-BatG1N-r</rs>
-                              <p xml:lang="en" part="N">Monogram cruciform: at the top of the cross, <!--Cd at the base, T on the left E on the right and P --> in the centre.</p>
+                              <p xml:lang="en" >Monogram cruciform: at the top of the cross, <!--Cd at the base, T on the left E on the right and P --> in the centre.</p>
                               <!-- à compléter -->
-                              <p xml:lang="fr" part="N">Monogramme cruciforme : au sommet de
+                              <p xml:lang="fr" >Monogramme cruciforme : au sommet de
                                             la croix, <!--Cd à la base, T à gauche E à droite et P --> <!--Athena Ruby--> au centre.</p>
                            </layout>
                         </layoutDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-BatG1N-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,14 +268,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  ><!--L'avers est en grec mais le revers est en latin, quelle langue faut-il choisir pour le début de la fiche et ici ?-->
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   ><!--L'avers est en grec mais le revers est en latin, quelle langue faut-il choisir pour le début de la fiche et ici ?-->
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Γεωργίου</ex></expan><!-- à tagger comme monomgramme -->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   
                                   <lb n="2"/>apo
 
@@ -286,30 +286,30 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Γεωργίου / apo hypaton.</p>
-            <p xml:lang="en" part="N">(Seal of) George, / apo hypaton.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Georges, / <hi rend="italic">apo hypatôn</hi>.</p>
+         <div type="translation"   >
+            <p >+ Γεωργίου / apo hypaton.</p>
+            <p xml:lang="en" >(Seal of) George, / apo hypaton.</p>
+            <p xml:lang="fr" >(Sceau de) Georges, / <hi rend="italic">apo hypatôn</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Ce type de sceau bilingue, fréquent dans
+            <p ><!--Ce type de sceau bilingue, fréquent dans
                       le bullaire africain jusqu’à la fin du VIIe siècle, ne peut être daté que sur critères épigraphiques.
                       G. Zacos et A. Veglery ont publié un sceau [1] dont le droit porte un monogramme de
                       Georges très proche du nôtre, mais qui, au revers, porte à nouveau le nom de Georges, en
@@ -317,19 +317,19 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     <!--  [1]. G. Zacos et A. Veglery 333.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">   
+            <p >   
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>21</citedRange>

@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné au sommet ; en voie d’oxydation ; lettres faiblement gravées.</p>
+                           <p >Fortement rogné au sommet ; en voie d’oxydation ; lettres faiblement gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pffwqU-r</rs>
-                              <p xml:lang="en" part="N">Invocative monogram of the type Laurent V, with nothing in the cantons.</p>
-                              <p xml:lang="fr" part="N">Monogramme invocatif de type Laurent V, sans rien dans les cantons.</p>
+                              <p xml:lang="en" >Invocative monogram of the type Laurent V, with nothing in the cantons.</p>
+                              <p xml:lang="fr" >Monogramme invocatif de type Laurent V, sans rien dans les cantons.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pffwqU-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,18 +265,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan></rs> 
 
                       </ab>
                       </div>
               
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><expan ><abbr>Κ</abbr><ex >ω</ex>ν<abbr>στ
                           
                                   <lb n="3" break="no"/>αντίνου</abbr></expan>
@@ -291,17 +291,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,19 +309,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / Κωνσταντίνου τοποτηρητοῦ.</p>
-            <p xml:lang="en" part="N">Theotokos help Constantine, topoteretes.</p>
-            <p xml:lang="fr" part="N">Théotokos aide Constantin, <hi rend="italic">topotèrètès</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / Κωνσταντίνου τοποτηρητοῦ.</p>
+            <p xml:lang="en" >Theotokos help Constantine, topoteretes.</p>
+            <p xml:lang="fr" >Théotokos aide Constantin, <hi rend="italic">topotèrètès</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

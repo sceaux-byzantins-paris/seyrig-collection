@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné légèrement sur le pourtour; bien centré; en voie d’oxydation.</p>
+                           <p >Rogné légèrement sur le pourtour; bien centré; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -173,8 +173,8 @@
                      <!--????-->
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -193,8 +193,8 @@
                                  <dim type="diameter">17,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-RQdJEM-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram.</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme.</p>
+                              <p xml:lang="en" >Cruciform monogram.</p>
+                              <p xml:lang="fr" >Monogramme cruciforme.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -234,8 +234,8 @@
                                  <dim type="diameter">17,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-RQdJEM-v</rs>
-                              <p xml:lang="en" part="N">Legend of 2 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 2 lignes</p>
+                              <p xml:lang="en" >Legend of 2 lines</p>
+                              <p xml:lang="fr" >Légende sur 2 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -263,7 +263,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -290,16 +290,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/><expan ><ex >Ἰωάννου</ex></expan>
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="2"/><app type="alternative">
                                                   <lem><expan ><abbr>Co</abbr><ex >n</ex><abbr>s</abbr><ex >ulis</ex></expan></lem>
@@ -310,17 +310,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -328,35 +328,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἰωάννου / Consulis <hi rend="italic">vel</hi> Consularis Praefecti Praetorio Africae.</p>
-            <p xml:lang="en" part="N">(Seal of) John, consul (?), praetorian prefect of Africa (?).</p>
-            <p xml:lang="fr" part="N">(Sceau de) Jean, consul (?), préfet du Prétoire (?).</p>
+         <div type="translation"   >
+            <p >Ἰωάννου / Consulis <hi rend="italic">vel</hi> Consularis Praefecti Praetorio Africae.</p>
+            <p xml:lang="en" >(Seal of) John, consul (?), praetorian prefect of Africa (?).</p>
+            <p xml:lang="fr" >(Sceau de) Jean, consul (?), préfet du Prétoire (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Lecture incertaine. On connaît également
+            <p ><!--Lecture incertaine. On connaît également
                       le sceau d’un Jean, préfet d’Italie, qui porte au droit un monogramme latin [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    <!--   [1]. ZACOS - VEGLERY
                       354.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>115</citedRange>

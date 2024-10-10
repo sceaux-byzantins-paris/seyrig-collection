@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné, usé; échancré aux orifices du canal.</p>
+                           <p >Rogné, usé; échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-sbms3x-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie.</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -208,9 +208,9 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-sbms3x-v</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram comprising
+                              <p xml:lang="en" >Cruciform monogram comprising
                                             the name and title and, in the cantons, the name of the seat.</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme comprenant
+                              <p xml:lang="fr" >Monogramme cruciforme comprenant
                                             le nom et le titre et dans les cantons, le nom du siège.</p>
                            </layout>
                         </layoutDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,25 +267,25 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                          <lb n="1"/><expan ><ex >Ἰωάννου ἀρχιεπισκόπου</ex></expan> Κύπρου
                         </ab>
                   </div>
                  
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -293,17 +293,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἰωάννου ἀρχιεπισκόπου Κύπρου.</p>
-            <p xml:lang="en" part="N">John, archbishop of Cyprus.</p>
-            <p xml:lang="fr" part="N">Jean, archevêque de Chypre.</p>
+         <div type="translation"   >
+            <p >Ἰωάννου ἀρχιεπισκόπου Κύπρου.</p>
+            <p xml:lang="en" >John, archbishop of Cyprus.</p>
+            <p xml:lang="fr" >Jean, archevêque de Chypre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- V. Laurent attribue, peut-être à juste titre, ce plomb à
+            <p ><!-- V. Laurent attribue, peut-être à juste titre, ce plomb à
                       Jean, qui assista au concile In Trullo en 691 [1]. V. Grumel
                       [2] le rapproche de Ἰωάννης ἀνάξιος ἐπίσκοπος Νέας Ἰουστινιανουπόλεως,
                       qui était en fonction lorsque les Chypriotes furent transférés dans le territoire de Cyzique
@@ -311,10 +311,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                           [1]. Voir son commentaire détaillé, p. 309.
                       </p>
                       <p xml:id="footnote-2">
@@ -329,10 +329,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 242b</citedRange>
                </bibl>
@@ -343,10 +343,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C.; Bibliothèque Nationale de France, Paris,
+            <p > Dumbarton Oaks, Washington D.C.; Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange unit="part"> 1302b</citedRange>,</bibl>
                <bibl  >
@@ -364,7 +364,7 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               />
          <!-- missing bibliography-->

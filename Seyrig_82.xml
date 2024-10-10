@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné dans la partie supérieure droite ; échancrure à l’orifice inferieur du canal. Ce dernier est entaillé
+                           <p >Fortement rogné dans la partie supérieure droite ; échancrure à l’orifice inferieur du canal. Ce dernier est entaillé
                                         profondément au revers.</p>
                         </condition>
                      </supportDesc>
@@ -169,8 +169,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1DL3lz-r</rs>
-                              <p xml:lang="en" part="N">Monogram of type ZACOS - VEGLERY 190 or 190a.</p>
-                              <p xml:lang="fr" part="N">Monogramme de type ZACOS - VEGLERY 190 ou 190a.</p>
+                              <p xml:lang="en" >Monogram of type ZACOS - VEGLERY 190 or 190a.</p>
+                              <p xml:lang="fr" >Monogramme de type ZACOS - VEGLERY 190 ou 190a.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1DL3lz-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -258,7 +258,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,10 +285,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><expan ><ex >Theodori</ex></expan>
 
@@ -296,8 +296,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><expan ><abbr>cub</abbr><ex >iculariou</ex></expan> et
                           
                                   <lb n="3"/><expan ><abbr><supplied reason="lost" >ba</supplied>sil</abbr><ex >ikou</ex></expan>
@@ -307,17 +307,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -325,17 +325,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Theodori / cubiculariou et basilikou chartulariou.</p>
-            <p xml:lang="en" part="N">(Seal of) Theodoros, koubikoularios and imperial chartoularios.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Théodore, cubiculaire et chartulaire impérial.</p>
+         <div type="translation"   >
+            <p >Theodori / cubiculariou et basilikou chartulariou.</p>
+            <p xml:lang="en" >(Seal of) Theodoros, koubikoularios and imperial chartoularios.</p>
+            <p xml:lang="fr" >(Sceau de) Théodore, cubiculaire et chartulaire impérial.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--On trouve un monogramme
+            <p ><!--On trouve un monogramme
                       presqu’identique avec l’étoile dans le premier canton, mais entouré d’une légende circulaire
                       en grec (κουβικουλαρίου και...) sur un sceau daté de la même époque, avec, au droit, le buste
                       de la Vierge [1]. Ces deux pièces, contemporaines, pourraient avoir
@@ -343,19 +343,19 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. ZACOS - VEGLERY, 2955.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>82</citedRange>

@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed and broken over a third on the right; notched at the canal openings.</p>
-                           <p xml:lang="fr" part="N">Rogné et cassé sur un tiers à droite; entaillé aux orifices du canal.</p>
+                           <p xml:lang="en" >Trimmed and broken over a third on the right; notched at the canal openings.</p>
+                           <p xml:lang="fr" >Rogné et cassé sur un tiers à droite; entaillé aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,11 +149,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acquis à Istanbul</p>
+                     <p >Acquis à Istanbul</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pCUS81-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme de deux grosses lettres grecques C et N. À l’intérieur du C, une croisette, au sommet
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme de deux grosses lettres grecques C et N. À l’intérieur du C, une croisette, au sommet
                                             du N, sans doute un OY</p>
                            </layout>
                         </layoutDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pCUS81-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme de deux grosses lettres latines liées, un S et un H ou N</p>
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme de deux grosses lettres latines liées, un S et un H ou N</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,9 +270,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                          <lb n="a"/><expan ><ex >Σισιννίου</ex></expan>
                       </ab>
                   </div>
@@ -281,17 +281,17 @@
                                </ab>
                           </div>--> 
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -299,19 +299,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Σισιννίου.</p>
-            <p xml:lang="en" part="N">(Seal of) Sisinnios.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Sisinnios.</p>
+         <div type="translation"   >
+            <p >Σισιννίου.</p>
+            <p xml:lang="en" >(Seal of) Sisinnios.</p>
+            <p xml:lang="fr" >(Sceau de) Sisinnios.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

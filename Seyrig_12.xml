@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Brisé dans sa partie supérieure, échancré aux orifices du canal qui a boursouflé le flan; la première a partiellement disparu</p>
+                           <p >Brisé dans sa partie supérieure, échancré aux orifices du canal qui a boursouflé le flan; la première a partiellement disparu</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -143,7 +143,7 @@
                      </origDate>
                   </origin>
                   <acquisition><!-- à compléter -->
-                     <p part="N"/>
+                     <p />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -164,8 +164,8 @@
                                  <!--j'ai réalisé une mauvaise manipulation, je m'en suis rendu compte que j'avais uploadé une version plus anciennee des fiches, toutes mes excuses-->
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-EpyCtc-r</rs>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme, de type Laurent X ( ?), cantonné du tétrasyllabe habituel</p>
-                              <p xml:lang="en" part="N">Cruciform Marian monogram, Laurent X type (?), with the usual tetrasyllable</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme, de type Laurent X ( ?), cantonné du tétrasyllabe habituel</p>
+                              <p xml:lang="en" >Cruciform Marian monogram, Laurent X type (?), with the usual tetrasyllable</p>
                               <!-- à changer en fonction du préc. en FR -->
                            </layout>
                         </layoutDesc>
@@ -206,8 +206,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-EpyCtc-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -236,7 +236,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -263,16 +263,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                                  lb n="1"/&gt;<expan >
                                      <ex >Θεοτόκε βοήθει τῷ σῷ δούλῳ</ex>
                                   </expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/><supplied reason="lost" >+</supplied> <expan cert="low" ><supplied reason="lost" cert="low" >Ἰ</supplied><abbr>ω</abbr><ex >άννης</ex></expan>      <!-- ici les ? doivent e^tre faits avec l'attribut cert et la valeur low -->                 
                           <lb n="2"/>ὁ ἐπὶ <expan ><abbr>τῖ</abbr><ex >ς</ex></expan> 
                           <lb n="3"/><expan ><abbr>β</abbr><ex >ασιλικῆς</ex></expan> τραπ
@@ -280,48 +280,48 @@
                       </ab>
                   </div>
               </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                  <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                  <ab >
                   </ab>
               </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
               </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Ἰωάννης (?) ὁ ἐπὶ τῖς βασιλικῆς τραπέζις.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Ἰωάννης (?) ὁ ἐπὶ τῖς βασιλικῆς τραπέζις.</p>
             <!-- il faut l'invocation de l'avers ici aussi -->
-            <p xml:lang="en" part="N">Theotokos aid your servant / John (?), imperial epi tes trapezes.</p>
-            <p xml:lang="fr" part="N">Théotokos aide ton serviteur / Jean (?), <hi rend="italic">épi tès trapézès</hi> impérial.</p>
+            <p xml:lang="en" >Theotokos aid your servant / John (?), imperial epi tes trapezes.</p>
+            <p xml:lang="fr" >Théotokos aide ton serviteur / Jean (?), <hi rend="italic">épi tès trapézès</hi> impérial.</p>
             <!-- "impérial" nécessaire? Pour l'instant on laisse; ou alors "responsable de la table impériale", mais cela implique différents changements ailleurs -->
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La fonction d'<hi rend="italic">épi tès trapézès</hi> est bien connue, son responsable assurait le service
+            <p ><!--La fonction d'<hi rend="italic">épi tès trapézès</hi> est bien connue, son responsable assurait le service
                       de la table impériale, secondé par un domestique <hi rend="italic">tès hypourgias</hi> [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. OIKONOMIDÈS, Préséance, p. 305-306. Pour une liste des <hi rend="italic">épi tès trapézès</hi> connus, voir GUILLAND, <hi rend="italic">Recherches</hi> I, p. 239-241.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>12</citedRange>

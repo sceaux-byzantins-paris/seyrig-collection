@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Légèrement échancré aux orifices du canal ; boursouflé et pressé le long du canal, grandes lettres assez grossières.</p>
+                           <p >Légèrement échancré aux orifices du canal ; boursouflé et pressé le long du canal, grandes lettres assez grossières.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-oS0DYA-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-oS0DYA-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,16 +268,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan >Ἡ <abbr>Ἀνά
                            <cb n="b"/>στα</abbr><ex >σις</ex></expan>.
                       </ab>
                   </div>
                   
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>Οἱ <expan ><abbr>κλ</abbr><ex >η</ex><abbr>ρ</abbr><ex >ι</ex>
                           <lb n="2" break="no"/><abbr>κ</abbr><ex >οὶ</ex></expan> τοῦ ἁγίου
                           <lb n="3"/><expan ><abbr>κ</abbr><ex >αὶ</ex></expan> <expan ><abbr>ζ</abbr><supplied reason="lost" ><ex >ω</ex></supplied><abbr><supplied reason="lost" >ο</supplied>δό
@@ -287,17 +287,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,37 +305,37 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἡ Ἀνάστασις. / Οἱ κληρικοὶ τοῦ ἁγίου καὶ ζωοδόχου Τάφου.</p>
-            <p xml:lang="en" part="N">The Resurrection. The clerks of the Saint and Sacred Sepulcher.</p>
-            <p xml:lang="fr" part="N">La Résurrection. Les clercs du Sépulcre saint et sacré.</p>
+         <div type="translation"   >
+            <p >Ἡ Ἀνάστασις. / Οἱ κληρικοὶ τοῦ ἁγίου καὶ ζωοδόχου Τάφου.</p>
+            <p xml:lang="en" >The Resurrection. The clerks of the Saint and Sacred Sepulcher.</p>
+            <p xml:lang="fr" >La Résurrection. Les clercs du Sépulcre saint et sacré.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Les caractéristiques de l’épigraphie (grandes lettres irrégulières, forme du Δ) nous conduisent à dater cette pièce plus tardivement que ne le faisait
+            <p ><!-- Les caractéristiques de l’épigraphie (grandes lettres irrégulières, forme du Δ) nous conduisent à dater cette pièce plus tardivement que ne le faisait
                       V. Laurent (XIe siècle). Nous pensons donc que cette pièce a été frappée lorsque le clergé
                       grec, expulsé de l’église du Saint-Sépulcre par les Croisés, a réoccupé le bâtiment, après la
                       reconquête musulmane (1187). Signalons, au XIe siècle, le sceau de la moniale Θεοδούλη, μυροφόρος τοῦ ἁγίου [(καὶ)] δεσποτικοῦ τάφου[1]. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                           [1]. ZACOS II, 747, lecture corrigée par N.
                           OIKONOMIDÈS, <hi rend="italic">REB</hi> 44, 1986, p. 266. -->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 253</citedRange>
                </bibl>

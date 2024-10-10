@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Deeply indented at the upper opening of the channel; oxidizing; clearly engraved.</p>
-                           <p xml:lang="fr" part="N">Profondément échancré à l’orifice supérieur du canal; en voie d’oxydation; nettement gravé.</p>
+                           <p xml:lang="en" >Deeply indented at the upper opening of the channel; oxidizing; clearly engraved.</p>
+                           <p xml:lang="fr" >Profondément échancré à l’orifice supérieur du canal; en voie d’oxydation; nettement gravé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-zZedy0-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-zZedy0-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,34 +270,34 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang=""><!-- pay attention to these attributes, they must be changed according to each legend -->
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang=""><!-- pay attention to these attributes, they must be changed according to each legend -->
+                      <ab >
                        <lb n="1"/><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> 
                           βοή<supplied reason="lost" >θ</supplied>
                           <lb n="2" break="no"/>ει τῷ σῷ 
                           <lb n="3"/>δούλῳ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><supplied reason="lost" ><abbr>Κ</abbr></supplied><abbr>ων</abbr><ex >σταντίνῳ</ex></expan>
                           <lb n="2"/><supplied reason="lost" >τ</supplied>ῷ <expan ><abbr>Σκλη</abbr>
                           <lb n="3" break="no"/><supplied reason="lost" ><abbr>ρ</abbr></supplied><abbr>οπούλ</abbr><ex >ῳ</ex></expan>
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,19 +305,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ / Κωνσταντίνῳ τῷ Σκληροπούλῳ.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ / Κωνσταντίνῳ τῷ Σκληροπούλῳ.</p>
             <!-- attention to accents and iota in the dative -->
-            <p xml:lang="en" part="N">Lord help your servant Constantine Skleropoulos.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Constantin Sklèropoulos.</p>
+            <p xml:lang="en" >Lord help your servant Constantine Skleropoulos.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Constantin Sklèropoulos.</p>
             <!-- in French: serviteur, pas servant! -->
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Peut-être ce personnage est-il identique au Constantin
+            <p ><!-- Peut-être ce personnage est-il identique au Constantin
                       Sklèros connu par un épigramme du Codex Marcianus 524 [1]. Un autre
                       Constantin Sklèros, prêtre, signe en 1176 le manuscrit Zaborda 58 [2]. On ne peut lui attribuer notre pièce pour des raisons
                       chronologiques. Nous ne disposons d’aucun indice qui permette de rattacher notre pièce à
@@ -326,10 +326,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                       [1]. SEIBT, <hi rend="italic">Skleroi</hi>, p. 109.
                   </p>
                   <p xml:id="footnote-2">
@@ -339,10 +339,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 317</citedRange>
                </bibl>.
@@ -350,10 +350,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C. (coll. Zacos),
+            <p > Dumbarton Oaks, Washington D.C. (coll. Zacos),
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.1046/view"/> BZS.1951.31.5.1046</citedRange>,</bibl>

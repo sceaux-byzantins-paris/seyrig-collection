@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Échancré aux orifices du canal et entaillé sur la gauche du revers; rogné légèrement sur le pourtour.</p>
+                           <p >Échancré aux orifices du canal et entaillé sur la gauche du revers; rogné légèrement sur le pourtour.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TN7kUc-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -228,8 +228,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TN7kUc-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -257,7 +257,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,9 +285,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>Παύ
                            <lb n="2" break="no"/>λου ἀρ
                           <lb n="3" break="no"/>χιεπισ
@@ -295,8 +295,8 @@
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="5"/>+ Θεσ
                           <lb n="6" break="no"/>σαλο
                           <lb n="7" break="no"/>νίκης 
@@ -304,17 +304,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -322,36 +322,36 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Παύλου ἀρχιεπισκόπου / Θεσσαλονίκης.</p>
-            <p xml:lang="en" part="N">(Seal of) Paul, archbishop of Thessaloniki.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Paul, archevêque de Thessalonique.</p>
+         <div type="translation"   >
+            <p >Παύλου ἀρχιεπισκόπου / Θεσσαλονίκης.</p>
+            <p xml:lang="en" >(Seal of) Paul, archbishop of Thessaloniki.</p>
+            <p xml:lang="fr" >(Sceau de) Paul, archevêque de Thessalonique.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Laurent date ce sceau du IXe siècle. La paléographie et notamment les
+            <p ><!--  Laurent date ce sceau du IXe siècle. La paléographie et notamment les
                       empattements des lettres nous amènent à le placer deux siècles plus haut. Il s’agit de Paul,
                       connu par deux lettres du pape Martin Ier datées de 649[1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                           [1]. cf. P. LEMERLE, <hi rend="italic">Les plus anciens
                           miracles de saint Démétrius</hi>, II, Paris, 1981, p. 28. -->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 271</citedRange>,</bibl>
                <bibl  >

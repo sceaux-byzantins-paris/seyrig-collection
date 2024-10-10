@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Uniface; off-centre to the left and trimmed around the left edge.</p>
-                           <p xml:lang="fr" part="N">Uniface; décentré vers la gauche et rogné sur le pourtour gauche; revers en forme de cône.</p>
+                           <p xml:lang="en" >Uniface; off-centre to the left and trimmed around the left edge.</p>
+                           <p xml:lang="fr" >Uniface; décentré vers la gauche et rogné sur le pourtour gauche; revers en forme de cône.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DrLJJD-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme composé autour d’un N, portant un O et un V au sommet de
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme composé autour d’un N, portant un O et un V au sommet de
                                             ses hastes verticale, un E inversé sur sa haste gauche et un Γ sur celle de droite</p>
                            </layout>
                         </layoutDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DrLJJD-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,9 +271,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan cert="low" ><ex >Εὐγενίου</ex></expan> 
                       </ab>
                   </div>
@@ -283,17 +283,17 @@
                           </ab>
                           </div>-->
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -301,22 +301,22 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Εὐγενίου (?)</p>
-            <p xml:lang="en" part="N">(Seal of) Eugenios (?)</p>
-            <p xml:lang="fr" part="N">(Sceau d') Eugène (?)</p>
+         <div type="translation"   >
+            <p >Εὐγενίου (?)</p>
+            <p xml:lang="en" >(Seal of) Eugenios (?)</p>
+            <p xml:lang="fr" >(Sceau d') Eugène (?)</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Si la lecture du monogramme est bonne,
+            <p ><!--Si la lecture du monogramme est bonne,
                       une pièce analogue (diamètre du champ, 8 mm) se trouve dans la collection Zamitz, Tübingen.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

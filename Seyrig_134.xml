@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Bonne conservation, avec une légère échancrure à l’orifice inférieur du canal ; gravure nette.</p>
+                           <p >Bonne conservation, avec une légère échancrure à l’orifice inférieur du canal ; gravure nette.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -171,8 +171,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -191,8 +191,8 @@
                                  <dim type="diameter">27</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PgqlTD-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,8 +231,8 @@
                                  <dim type="diameter">27</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PgqlTD-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -260,7 +260,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -287,10 +287,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                   <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                   <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/>Μέγας
                                
                                   <lb n="2"/>λογιστὴς Ἀνι
@@ -300,8 +300,8 @@
                                   <lb n="4"/> με γράφει
                       </ab>
                          </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="5"/>Ῥώμης
                           <lb n="6"/>ἔπαρχος
                           <lb n="7"/>τῆς Νέας
@@ -311,17 +311,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -329,17 +329,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μέγας λογιστὴς Ἀνδρόνικὁς με γράφει / Ῥώμης ἔπαρχος τῆς Νέας Καππαδόκης.</p>
-            <p xml:lang="en" part="N">Andronikos Kappadokes, megas logoriastes and eparch of the New Rome writes me.</p>
-            <p xml:lang="fr" part="N">Andronic Kappadokès, <hi rend="italic">mégas logariastès</hi> et éparque de la Nouvelle Rome m'écrit.</p>
+         <div type="translation"   >
+            <p >Μέγας λογιστὴς Ἀνδρόνικὁς με γράφει / Ῥώμης ἔπαρχος τῆς Νέας Καππαδόκης.</p>
+            <p xml:lang="en" >Andronikos Kappadokes, megas logoriastes and eparch of the New Rome writes me.</p>
+            <p xml:lang="fr" >Andronic Kappadokès, <hi rend="italic">mégas logariastès</hi> et éparque de la Nouvelle Rome m'écrit.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La famille Kappadokès est connue depuis le XIe siècle.
+            <p ><!--La famille Kappadokès est connue depuis le XIe siècle.
                       Le premier représentant fut Constantin, stratège célèbre, proche parent de Michel VII
                       [1]. Cette alliance avec une lignée impériale explique la fortune de la famille
                       au siècle suivant : Georges fut mystikos et, avec son frère Théochariste, restaura le couvent
@@ -355,40 +355,40 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                        <!--   [1]. BRYENNIOS, p. 265.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. S. EUSTRATIADES, Τυπικὸν τῆς μονῆς τοῦ ἁγίου Μάμαντος , <hi rend="italic">Hellenika</hi> I,
                           1928, p. 265-314.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                           <!--[3]. <hi rend="italic">VV</hi> 11, 1904, p. 479; SAKKOS, <hi rend="italic">Σύνοδοι</hi>, p. 103. -->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                           <!--[4]. J.
                           DARROUZÈS, Décret inédit de Manuel Comnène, <hi rend="italic">REB</hi> 31, 1973, p. 313.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                          <!-- [5]. OIKONOMIDÈS, <hi rend="italic">Organisation</hi>, p. 141.-->
                       </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                        <!--   [6]. Infra n° 275. <!-\-créer lien-\->-->
                       </p>
-            <p xml:id="footnote-7" part="N">
+            <p xml:id="footnote-7" >
                           <!--[7].  SCHLUMBERGER, <hi rend="italic">Sigillographie</hi>, p. 631, n° 3; KONSTANTOPOULOS, <hi rend="italic">Molybdoboulla</hi>,
                           636a; LAURENT, <hi rend="italic">Bulles métriques</hi>, 25; STAVRAKOS, 108.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>134</citedRange>

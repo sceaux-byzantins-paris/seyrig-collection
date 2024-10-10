@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Large flan ; pressé et partiellement oblitéré à la base ; les lettres sont empâtées.</p>
+                           <p >Large flan ; pressé et partiellement oblitéré à la base ; les lettres sont empâtées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Antakya</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-w1sp7H-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -228,8 +228,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-w1sp7H-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -257,7 +257,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -284,9 +284,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Θεοτόκε1">Θεο
                            <lb n="2" break="no"/>τόκε
                           <lb n="3"/>βοή
@@ -294,8 +294,8 @@
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="5"/>+ Φιλο
                           <lb n="6" break="no"/>θέῳ <expan ><abbr>μη
                           <lb n="7" break="no"/>τροπο
@@ -305,17 +305,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -323,27 +323,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / + Φιλοθέῳ μητροπολίτῃ Εὐχαῖτων.</p>
-            <p xml:lang="en" part="N">Theotokos help Philotheos, metropolitan of Euchaïta.</p>
-            <p xml:lang="fr" part="N">Théotokos aide Philothée, métropolite d'Euchaïtes.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / + Φιλοθέῳ μητροπολίτῃ Εὐχαῖτων.</p>
+            <p xml:lang="en" >Theotokos help Philotheos, metropolitan of Euchaïta.</p>
+            <p xml:lang="fr" >Théotokos aide Philothée, métropolite d'Euchaïtes.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Philothée, métropolite d’Euchaïtes, accomplit des missions
+            <p ><!--Philothée, métropolite d’Euchaïtes, accomplit des missions
                       diplomatiques pour le compte des empereurs Nicéphore Phocas et Jean Tzimiskès[1]. Un autre plomb selon lequel Philothée était
                       également syncelle nous est parvenu [2], information confirmée
                       par la "chronique de Nestor”.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. voir le
                           commentaire de LAURENT, <hi rend="italic">Corpus</hi>, V 1, 766.
                       </p>

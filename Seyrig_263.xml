@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Entaillé au sommet du revers ; bord légèrement relevé à l’avers ; gravure nette.</p>
+                           <p >Entaillé au sommet du revers ; bord légèrement relevé à l’avers ; gravure nette.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-S5js7O-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-S5js7O-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,43 +267,43 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μι
                         <cb n="b"/>χα</abbr><ex >ήλ</ex></expan>
                       </ab>
                   </div>
-                    <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                        <ab part="N">
+                    <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                        <ab >
                             <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>βοήθ</abbr><ex >ει</ex></expan> τῷ σῷ δούλῳ</rs> Βασιλείῳ
                             
                         </ab>
                         </div>
-                  <div type="textpart" subtype="sigla" n="rev" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="sigla" n="rev" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Ἰω</abbr><ex >άννης</ex></expan> ὁ 
                         <cb n="b" break="no"/><expan ><abbr>Θεολ</abbr><ex >ό</ex><abbr>γ</abbr><ex >ος</ex></expan>
                       </ab>
                         </div>
-                   <div type="textpart" subtype="label" n="rev" rend="circular" part="N"   xml:lang="">
-                        <ab part="N">
+                   <div type="textpart" subtype="label" n="rev" rend="circular"    xml:lang="">
+                        <ab >
                             <lb n="2"/>+ <expan ><abbr>μ</abbr><ex >ητ</ex><abbr>ροπολίτῃ</abbr></expan> Φιλιππουπόλεως
                         </ab>
                         </div>
 
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -311,32 +311,32 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μιχαήλ. Κύριε βοήθει τῷ σῷ δούλῳ Βασιλείῳ / μητροπολίτῃ Φιλιππουπόλεως. Ὁ ἅγιος Ἰωάννης ὁ Θεολόγος.</p>
-            <p xml:lang="en" part="N">Michael. Lord help your servant Basil, metropolitan of Philippopolis. St. John Theologos.</p>
-            <p xml:lang="fr" part="N">Michel. Seigneur aide ton serviteur Basile, métropolite de Philippoupolis. Saint Jean le Théologien.</p>
+         <div type="translation"   >
+            <p >Μιχαήλ. Κύριε βοήθει τῷ σῷ δούλῳ Βασιλείῳ / μητροπολίτῃ Φιλιππουπόλεως. Ὁ ἅγιος Ἰωάννης ὁ Θεολόγος.</p>
+            <p xml:lang="en" >Michael. Lord help your servant Basil, metropolitan of Philippopolis. St. John Theologos.</p>
+            <p xml:lang="fr" >Michel. Seigneur aide ton serviteur Basile, métropolite de Philippoupolis. Saint Jean le Théologien.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Basile est connu pour avoir soumis au synode patriarcal une question
+            <p ><!-- Basile est connu pour avoir soumis au synode patriarcal une question
                       de droit canonique concernant le mariage en 1092. Cf. le commentaire de V. Laurent. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <!--Parallèles : Coll. Zacos (de même boullôtèrion). DO 60.100.8-4803.
 Éd. : LAURENT, Corpus. V, 1, 687 (cet ex. ill.) ; ZACOS II, 381.-->
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 263</citedRange>
                </bibl>.
@@ -344,10 +344,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C., <!-- coll. Zacos (de même boullôtèrion) -->
+            <p > Dumbarton Oaks, Washington D.C., <!-- coll. Zacos (de même boullôtèrion) -->
                       <bibl  >
                   <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part"> 687</citedRange>, </bibl>
                <bibl  >

@@ -114,7 +114,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Uniface. Copie.</p>
+                           <p >Uniface. Copie.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -177,8 +177,8 @@
                                 >Jablah</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -197,9 +197,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ZNMePR-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
                               <!--la légende est linéaire sur 4 lignes-->
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,8 +241,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ZNMePR-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -270,7 +270,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -297,9 +297,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                          <lb n="1"/>Μικκίνου <rs type="dignity" ref="dignities.xml#πατρίκιος"><expan ><abbr>πατρικ</abbr><ex >ίου</ex></expan></rs>
                            <lb n="2"/>Γρηγορίου <rs type="dignity" ref="dignities.xml#ὕπατος"><expan ><abbr>ὑπάτ</abbr><ex >ου</ex></expan></rs>
                           <lb n="3"/> και κομμερ<supplied reason="lost" >κ</supplied>
@@ -307,23 +307,23 @@
 
                         </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -331,46 +331,46 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μικκίνου πατρικίου Γρηγορίου ὑπάτου και κομμερκιαρίων.</p>
-            <p xml:lang="en" part="N">(Seal of) Mikkinas, patrikios, and Gregorios, hypatos, kommerkiarios.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Mikkinas, patrice, et Grégoire, <hi rend="italic">hypatos</hi>, commerciaires.</p>
+         <div type="translation"   >
+            <p >Μικκίνου πατρικίου Γρηγορίου ὑπάτου και κομμερκιαρίων.</p>
+            <p xml:lang="en" >(Seal of) Mikkinas, patrikios, and Gregorios, hypatos, kommerkiarios.</p>
+            <p xml:lang="fr" >(Sceau de) Mikkinas, patrice, et Grégoire, <hi rend="italic">hypatos</hi>, commerciaires.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--À la différence des premiers éditeurs, nous préférons voir en <hi rend="italic">patrikios</hi> une dignité
+            <p ><!--À la différence des premiers éditeurs, nous préférons voir en <hi rend="italic">patrikios</hi> une dignité
                       plutôt que le nom d’un troisième commerciaire[1].  Les deux commerciales utilisent une légende identique sur un sceau épigraphique
                       [2]. Ils sont attestés également en 673-674 à la fois pour
                       l’apothèque d’Afrique et pour celle d’Honoriade.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1]. Sur ce point, cf. MORRISSON - SEIBT, <hi rend="italic">Carthage</hi>,
                           p. 235-236.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. OIKONOMIDÈS, <hi rend="italic">Dated Seals</hi>, 20-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>149</citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>145</citedRange>
@@ -378,7 +378,7 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
                   <!--Seyrig, Magnus-->
@@ -386,11 +386,11 @@
               </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                   <!--    <p><bibl><ptr target=""/>, <citedRange>17</citedRange></bibl>,</p>Morrisson, Sceaux inédits-->
-            <p part="N">
+            <p >
                       
                       <!-- <bibl><ptr target=""/>, <citedRange unit="page"> p. 40-41, n. 3</citedRange></bibl>,--></p>
          </div>

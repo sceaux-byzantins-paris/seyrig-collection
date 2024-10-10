@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Cassé à droite, le tiers du sceau a été emporté ; pressé et oblitéré sur les deux faces ; en voie d’oxydation ; les
+                           <p >Cassé à droite, le tiers du sceau a été emporté ; pressé et oblitéré sur les deux faces ; en voie d’oxydation ; les
                                         lettres subsistantes sont nettement gravées.</p>
                         </condition>
                      </supportDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">23,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TIUSmF-r</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">23,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TIUSmF-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,9 +270,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan><expan > <abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></rs>
                           <lb n="2"/><expan ><abbr><supplied reason="lost" >Χ</supplied>ριστοφ</abbr><ex >όρῳ</ex></expan>
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><supplied reason="omitted" ><abbr><am >α</am></abbr><ex >πρωτο</ex></supplied><abbr><supplied reason="lost" >σπ</supplied>αθαρ</abbr><ex >ίῳ</ex></expan></rs>
@@ -281,8 +281,8 @@
                         
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="6"/>κριτ<supplied reason="lost" >ῇ</supplied>
                           <lb n="7"/>τοῦ <expan ><abbr>βή<supplied reason="lost" >λ</supplied></abbr><supplied reason="lost" ><ex >ου</ex></supplied></expan>
                           <lb n="8"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> τῆς <expan ><abbr>Π<supplied reason="omitted" >α</supplied>
@@ -295,17 +295,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -313,18 +313,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει  Χριστοφόρῳ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου / κριτῇ τοῦ βήλου καὶ τῆς Παφλαγονίας τῷ Μιτυληναίῳ.</p>
-            <p xml:lang="en" part="N">Lord help Christophoros Mitylenaios, protospatharios, epi tou Chrysotriklinou, judge of the Velum and of Paphlagonia.</p>
-            <p xml:lang="fr" part="N">Seigneur aide Christophore Mitylènaios, protospathaire <hi rend="italic">épi tou Chrysotriklinou</hi>, juge du Vélum et
+         <div type="translation"   >
+            <p >Κύριε βοήθει  Χριστοφόρῳ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου / κριτῇ τοῦ βήλου καὶ τῆς Παφλαγονίας τῷ Μιτυληναίῳ.</p>
+            <p xml:lang="en" >Lord help Christophoros Mitylenaios, protospatharios, epi tou Chrysotriklinou, judge of the Velum and of Paphlagonia.</p>
+            <p xml:lang="fr" >Seigneur aide Christophore Mitylènaios, protospathaire <hi rend="italic">épi tou Chrysotriklinou</hi>, juge du Vélum et
                       de Paphlagonie.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Les Mitylènaioi, qu’on supposera originaires de l’île de
+            <p ><!--Les Mitylènaioi, qu’on supposera originaires de l’île de
                       Mitylène, sont attestés dès le Xe siècle. Ils fournirent de hauts fonctionnaires civils et
                       ecclésiastiques. Jean fut protospathaire impérial, juge des Optimates [1], encore protospathaire et juge de Paphlagonie, comme Christophore  [2] 
                       et fut peut-être également le correspondant de Léon, métropolite de Synada
@@ -335,38 +335,38 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1].  Shaw 1202, cat. Laurent
                           n° 723.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2].  DO 59.109.24-
                           2602.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                         <!--  [3]. DARROUZÈS. <hi rend="italic">Épistoliers</hi>, p. 184-185.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                         <!--  [4].  LAURENT,
                           <hi rend="italic">Corpus</hi>, V, 456.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                        <!--   [5].  <hi rend="italic">MM</hi> VI, p. 50.-->
                       </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                          <!-- [6].  E. K.URTZ, <hi rend="italic">Die Gedichte des
                           Christophoros Mitylenaios</hi>, Leipzig, 1903, p. I.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>193</citedRange>

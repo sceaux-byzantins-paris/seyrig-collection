@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Uniface. Empreinte de tissu. Rogné à droite et dans sa partie inférieure; lettres peu nettes.</p>
+                           <p >Uniface. Empreinte de tissu. Rogné à droite et dans sa partie inférieure; lettres peu nettes.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mmhrK5-r</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-mmhrK5-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,9 +286,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                          <lb n="1"/>Στεφάνου <expan ><abbr>ἐνδοξ</abbr><ex >οτάτου</ex></expan>
                            <lb n="2"/>ἀπὸ <expan ><abbr>μαγίστρ</abbr><ex >ων</ex></expan>
                           <lb n="3"/><expan ><abbr>Θ</abbr><ex >ε</ex><abbr>ίου</abbr></expan> λογοθέτου
@@ -296,23 +296,23 @@
                           <lb n="5"/>Τ<supplied reason="lost" >ύ</supplied>ρου
                         </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -320,17 +320,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Στεφάνου ἐνδοξοτάτου ἀπὸ μαγίστρων Θείου λογοθέτου και κομμερκιαρίου Τύρου.</p>
-            <p xml:lang="en" part="N">(Seal of) Stephen, most glorious apo magistron, general logothetes and kommerkiarios of Tyre.</p>
-            <p xml:lang="fr" part="N">(Sceau d') Étienne, très glorieux <hi rend="italic">apo magistrôn</hi>, logothète général et commerciaire de Tyr.</p>
+         <div type="translation"   >
+            <p >Στεφάνου ἐνδοξοτάτου ἀπὸ μαγίστρων Θείου λογοθέτου και κομμερκιαρίου Τύρου.</p>
+            <p xml:lang="en" >(Seal of) Stephen, most glorious apo magistron, general logothetes and kommerkiarios of Tyre.</p>
+            <p xml:lang="fr" >(Sceau d') Étienne, très glorieux <hi rend="italic">apo magistrôn</hi>, logothète général et commerciaire de Tyr.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Cf. SEYRIG, <hi rend="italic">Magnus</hi>. Pour un autre sceau de la même époque
+            <p ><!--Cf. SEYRIG, <hi rend="italic">Magnus</hi>. Pour un autre sceau de la même époque
                       avec deux effigies impériales de part et d’autre du buste du Christ[1]. La présence de l’impératrice oblige en tout cas à exclure le règne de Justinien puisque
                       Théodora n’est jamais représentée sur les monnaies ou les sceaux impériaux. Compte tenu
                       de la haute dignité portée par Étienne, ce dernier a pu exercer la charge effective de maître
@@ -339,20 +339,20 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. Voir ZACOS - VEGLERY,
                           129.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>143</citedRange>
@@ -361,7 +361,7 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
                 
@@ -372,7 +372,7 @@
               </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                   <!--    <p><bibl><ptr target=""/>, <citedRange>8</citedRange></bibl>,</p>Morrisson, Sceaux inédits-->

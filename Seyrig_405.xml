@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p xml:lang="en" part="N">Poor state of preservation; heavily indented at the canal openings and broken to the left of the right.</p>
-                           <p xml:lang="fr" part="N">Mauvais état de conservation; fortement échancré aux orifices du canal et brisé à gauche du droit.</p>
+                           <p xml:lang="en" >Poor state of preservation; heavily indented at the canal openings and broken to the left of the right.</p>
+                           <p xml:lang="fr" >Mauvais état de conservation; fortement échancré aux orifices du canal et brisé à gauche du droit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qR7jCJ-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qR7jCJ-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme  cruciforme complexe. Au sommet, un OY, à la base un Δ et
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme  cruciforme complexe. Au sommet, un OY, à la base un Δ et
                                             un A et surmontés d’un Ω, au centre un P, un Θ à droite et à gauche un E et un B</p>
                            </layout>
                         </layoutDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -277,28 +277,28 @@
               subtype="face"
               n="rev"
               rend="monogram"
-              part="N"
+              
               
               
               xml:lang="">
-            <ab part="N">
+            <ab >
                <cb n="a"/>
                <expan cert="low" >
                   <ex >Ἂββα Θεοδώρου</ex>
                </expan>
             </ab>
          </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,19 +306,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἂββα Θεοδώρου (?).</p>
-            <p xml:lang="en" part="N">(Seal of) Theodore, abbas (?).</p>
-            <p xml:lang="fr" part="N">(Sceau de) Théodore, abbas (?).</p>
+         <div type="translation"   >
+            <p >Ἂββα Θεοδώρου (?).</p>
+            <p xml:lang="en" >(Seal of) Theodore, abbas (?).</p>
+            <p xml:lang="fr" >(Sceau de) Théodore, abbas (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

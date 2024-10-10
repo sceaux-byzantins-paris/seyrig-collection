@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Échancrure au sommet et entaille le long de la ligne du canal; en voie d’oxydation.</p>
+                           <p >Échancrure au sommet et entaille le long de la ligne du canal; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-aBlV0V-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-aBlV0V-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,15 +267,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κ<supplied reason="lost" >ε</supplied></abbr></expan> <expan ><supplied reason="lost" ><abbr>β</abbr><ex >οή</ex></supplied><abbr>θ</abbr><ex >ει</ex></expan>
                           <lb n="2"/>τῷ σῷ <expan ><abbr>δούλ</abbr><ex >ῳ</ex></expan></rs>
                           <lb n="3"/><expan ><abbr>Γεωργί</abbr><ex >ῳ</ex></expan> <rs type="dignity" ref="dignities.xml#πρόεδρος">προ
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,17 +306,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ / Θεοτόκε βοήθει τῷ σῷ δούλῳ Γεωργίῳ προέδρῳ καὶ δουκὶ τῷ Μονομαχάτῳ.</p>
-            <p xml:lang="en" part="N">Mother of God / Theotokos help your servant George Monomachatos, proedros and doux.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu / Théotokos aide ton serviteur Georges Monomachatos, proèdre et duc.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ / Θεοτόκε βοήθει τῷ σῷ δούλῳ Γεωργίῳ προέδρῳ καὶ δουκὶ τῷ Μονομαχάτῳ.</p>
+            <p xml:lang="en" >Mother of God / Theotokos help your servant George Monomachatos, proedros and doux.</p>
+            <p xml:lang="fr" >Mère de Dieu / Théotokos aide ton serviteur Georges Monomachatos, proèdre et duc.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Georges Monomachatos était vestès et katépan dans les années 1070[1]. Il fut ensuite proèdre[2]. Lorsque Nicéphore Basilakios, duc de Dyrrachion, eut échoué dans
+            <p ><!--Georges Monomachatos était vestès et katépan dans les années 1070[1]. Il fut ensuite proèdre[2]. Lorsque Nicéphore Basilakios, duc de Dyrrachion, eut échoué dans
                       sa rébellion contre Nicéphore Botaniatès, Monomachatos fut nommé à ce poste pour le remplacer
                       (été-automne 1078). Puis il refusa de soutenir fermement Alexis Comnène contre Botaniatès.
                       En conséquence, dès son avènement, Alexis le limogea en faveur de son propre beau-frère,
@@ -327,10 +327,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. Voir
                           supra n° 206. (créer lien)
                       </p>
@@ -345,10 +345,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 210</citedRange>
                </bibl>.
@@ -356,10 +356,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C., (Coll. Zacos (2 ex. dont un anc. coll. Diamanti 44).
+            <p > Dumbarton Oaks, Washington D.C., (Coll. Zacos (2 ex. dont un anc. coll. Diamanti 44).
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4698"/> BZS.1958.106.4698</citedRange>,</bibl>

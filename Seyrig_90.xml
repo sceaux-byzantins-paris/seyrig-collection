@@ -113,7 +113,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers la gauche ; échancré aux orifices du canal ; en voie d’oxydation au revers ; lettres nettement gravées.</p>
+                           <p >Décentré vers la gauche ; échancré aux orifices du canal ; en voie d’oxydation au revers ; lettres nettement gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -157,8 +157,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -177,8 +177,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Vujb1Y-r</rs>
-                              <p xml:lang="en" part="N">Monogram built around an<!-- M-->.</p>
-                              <p xml:lang="fr" part="N">Monogramme construit autour d'un <!--M-->.</p>
+                              <p xml:lang="en" >Monogram built around an<!-- M-->.</p>
+                              <p xml:lang="fr" >Monogramme construit autour d'un <!--M-->.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -217,8 +217,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Vujb1Y-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines. </p>
-                              <p xml:lang="fr" part="N">Légende sur3 lignes.</p>
+                              <p xml:lang="en" >Legend of 3 lines. </p>
+                              <p xml:lang="fr" >Légende sur3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -246,7 +246,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -274,10 +274,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc-Latn" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc-Latn"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N"> 
+                      <ab > 
                           <lb n="1"/> <app type="alternative">
                                                   <lem><expan ><ex >Marianou</ex></expan></lem>
                                                   <rdg><expan ><ex >Marinou</ex></expan></rdg>
@@ -285,8 +285,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><expan ><abbr>com
                           <lb n="3" break="no"/>ito</abbr><ex >s</ex></expan> <expan ><abbr>th</abbr><ex >eion</ex></expan>
                           <lb n="4"/><expan ><abbr>prib</abbr><ex >aton</ex></expan>
@@ -297,17 +297,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -315,17 +315,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Marianos <hi rend="italic">vel</hi> Marinos / comitos theion pribaton.</p>
-            <p xml:lang="en" part="N">Marianos <hi rend="italic">or</hi> Marinos, count of the Private Largesses.</p>
-            <p xml:lang="fr" part="N">Marianos <hi rend="italic">ou</hi> Marino, comte des Largesses Privées.</p>
+         <div type="translation"   >
+            <p >Marianos <hi rend="italic">vel</hi> Marinos / comitos theion pribaton.</p>
+            <p xml:lang="en" >Marianos <hi rend="italic">or</hi> Marinos, count of the Private Largesses.</p>
+            <p xml:lang="fr" >Marianos <hi rend="italic">ou</hi> Marino, comte des Largesses Privées.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Un monogramme semblable à celui du droit de notre pièce figure au revers
+            <p ><!--Un monogramme semblable à celui du droit de notre pièce figure au revers
                       du sceau bilingue de Jean et Marianus [1]. Un monogramme très proche
                       se trouve sur un autre type de l’ancienne collection Schlumberger (photo à Vienne), avec au
                       revers: <!-\-€ - PAR - V -\->(<hi rend="italic">eparchu</hi>?), suivi d’un ornement en forme d’ oe renversé.
@@ -337,32 +337,32 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    <!--   [1]. ZACOS - VEGLERY, 2801.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                     <!--  [2]. Voir en dernier
                       lieu, DELMAIRE, <hi rend="italic">Largesses Sacrées</hi>.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                     <!--  [3]. IDEM, Les responsables
                       des finances impériales au Bas-Empire romain (IVe-VIe s.), <hi rend="italic">Études prosopographiques</hi>, Bruxelles,
                       1989, p. 287, notice 192.-->
                   </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                     <!--  [4]. Erica CRUIKSHANK DODD, Byzantine Silver
                       Stamps: Supplément II, <hi rend="italic">DOP</hi> 22, 1968, p. 145-146.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>90</citedRange>
@@ -371,10 +371,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target=""/>, <citedRange unit="page">p. 434, n° 48</citedRange>
                </bibl>,</p>

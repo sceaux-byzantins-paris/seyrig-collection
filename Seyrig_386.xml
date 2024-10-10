@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed around the edges and especially at the top; letters partly obliterated.</p>
-                           <p xml:lang="fr" part="N">Rogné au pourtour et particulièrement dans la partie supérieure; lettres en partie oblitérées.</p>
+                           <p xml:lang="en" >Trimmed around the edges and especially at the top; letters partly obliterated.</p>
+                           <p xml:lang="fr" >Rogné au pourtour et particulièrement dans la partie supérieure; lettres en partie oblitérées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-uo3BNw-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-uo3BNw-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -288,31 +288,31 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><abbr>S</abbr><ex >anctus</ex></expan> Si<supplied reason="lost" >r</supplied>
                           <cb n="b"/>us
                           <cb n="c"/><supplied reason="lost" >+Ian</supplied>uaensis <expan ><abbr>archiepisco</abbr><ex >pus</ex></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                           <cb n="d"/><supplied reason="lost" >Ci</supplied>vitas ianuensis
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -320,27 +320,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Sanctus Sirus +Ianuaensis archiepiscopus. / Civitas ianuensis.</p>
-            <p xml:lang="en" part="N">Saint Syrus, archbishop of Genoa. / City of Genoa.</p>
-            <p xml:lang="fr" part="N">Saint Syrus, archevêque de Gênes. / Ville de Gênes.</p>
+         <div type="translation"   >
+            <p >Sanctus Sirus +Ianuaensis archiepiscopus. / Civitas ianuensis.</p>
+            <p xml:lang="en" >Saint Syrus, archbishop of Genoa. / City of Genoa.</p>
+            <p xml:lang="fr" >Saint Syrus, archevêque de Gênes. / Ville de Gênes.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--San Siro était un des patrons de Gènes. Siro pourrait également être le nom
+            <p ><!--San Siro était un des patrons de Gènes. Siro pourrait également être le nom
                       de l’archevêque, ce qui pourrait expliquer l’absence de ce nom sur le sceau. Siro fut archevêque
                       à partir de 1133 et en 1162 il recevait une lettre du pape Alexandre III lui accordant le titre
                       de légat d’outre-mer à condition de se rendre en Terre Sainte tous les huit ans [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. Nous devons
                       cette information à Catherine Otten-Froux.-->
                   </p>

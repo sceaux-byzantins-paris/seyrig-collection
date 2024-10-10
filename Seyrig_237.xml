@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Échancré aux orifices du canal, surtout au sommet du revers.</p>
+                           <p >Échancré aux orifices du canal, surtout au sommet du revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-0HTpYi-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -208,8 +208,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-0HTpYi-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -237,7 +237,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,17 +265,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>Παν
                           <lb n="2" break="no"/>θηρί
                           <lb n="3" break="no"/>ου
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="4"/><expan >ἐ<abbr><supplied reason="lost" >π</supplied>ισ
                           <lb n="5" break="no"/>κό</abbr><ex >που</ex></expan> Ἀρά
                           <lb n="6" break="no"/>δου
@@ -286,17 +286,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,40 +304,40 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Πανθηρίου / ἐπισκόπου Ἀράδου.</p>
-            <p xml:lang="en" part="N">Pantherios, bishop of Arados.</p>
-            <p xml:lang="fr" part="N">Panthérios, évêque d'Arados</p>
+         <div type="translation"   >
+            <p >Πανθηρίου / ἐπισκόπου Ἀράδου.</p>
+            <p xml:lang="en" >Pantherios, bishop of Arados.</p>
+            <p xml:lang="fr" >Panthérios, évêque d'Arados</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- La bordure de lauriers sur les deux faces est typique du VIe siècle ainsi que
+            <p ><!-- La bordure de lauriers sur les deux faces est typique du VIe siècle ainsi que
                       le K surmonté d’un O et barré d’un signe d’abréviation[1].
                       Arados est aujourd’hui l’île de Rouad, en Syrie. G. Schlumberger [2] a publié un sceau très proche sur lequel il lit, peut-être
                       à tort, Πανθήριος au nominatif. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!-- xml:id="footnote-1">
+            <p ><!-- xml:id="footnote-1">
                           [1].  voir par exemple, supra, n° 135. - créer lien-->
                       </p>
-            <p part="N"><!-- xml:id="footnote-2">
+            <p ><!-- xml:id="footnote-2">
                           [2]. Sceaux byzantins inédits
                           4, <hi rend="italic">REG</hi> 13, 1900, n° 160, p. 475. --> 
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 237</citedRange>
                </bibl>.
@@ -345,10 +345,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">Kunshistorisches Museum Wien, Vienna (Vienne 315),
+            <p >Kunshistorisches Museum Wien, Vienna (Vienne 315),
                       <bibl  >
                   <ptr target="LaurentCorpus5.2"/>, <citedRange unit="part"> 1535</citedRange>,</bibl>
                <bibl  >

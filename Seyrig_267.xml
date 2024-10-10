@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Jeton de plomb ovale ; fortement rogné ; double frappe.</p>
+                           <p >Jeton de plomb ovale ; fortement rogné ; double frappe.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Beirut</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-P1uHsK-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -228,8 +228,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-P1uHsK-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -257,7 +257,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,32 +285,32 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                    <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                        <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                    <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                        <ab >
                             <lb n="1"/>Διονυσίου <expan ><abbr>ἐπισκ</abbr><ex >όπου</ex></expan>
                             
                         </ab>
                         </div>
                 
-                   <div type="textpart" subtype="label" n="rev" rend="circular" part="N"   xml:lang="">
-                        <ab part="N">
+                   <div type="textpart" subtype="label" n="rev" rend="circular"    xml:lang="">
+                        <ab >
                             <lb n="2"/><expan ><abbr>Ἐκ</abbr><ex >κ</ex><abbr>λησ</abbr><ex >ίας</ex></expan> <expan ><abbr>Σελευκ</abbr><ex >εί</ex><abbr>ας</abbr></expan> 
                         </ab>
                         </div>
 
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -318,27 +318,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Διονυσίου ἐπισκόπου / Ἐκκλησίας Σελευκείας .</p>
-            <p xml:lang="en" part="N">Dionysios, bishop of the Church of Seleucia.</p>
-            <p xml:lang="fr" part="N">Denys, évêque de l'Eglise de Séleucie.</p>
+         <div type="translation"   >
+            <p >Διονυσίου ἐπισκόπου / Ἐκκλησίας Σελευκείας .</p>
+            <p xml:lang="en" >Dionysios, bishop of the Church of Seleucia.</p>
+            <p xml:lang="fr" >Denys, évêque de l'Eglise de Séleucie.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Selon V. Laurent, l’attribution à l’évêché de Séleucie de
+            <p ><!-- Selon V. Laurent, l’attribution à l’évêché de Séleucie de
                       Piérie est justifiée par la provenance du sceau et par l’existence d’un évêque de ce nom, qui
                       assista au Ve concile oecuménique (553) [1] et que mentionne par ailleurs
                       le Pré spirituel de Jean Moschos [2]. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!-- xml:id="footnote-1">
+            <p ><!-- xml:id="footnote-1">
                           [1]. MANSI, IX, col. 175B.
                       </p>
                       <p xml:id="footnote-2">
@@ -348,10 +348,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">Bibliothèque Nationale de France, Paris,
+            <p >Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 267</citedRange>,</bibl>
                <bibl  >

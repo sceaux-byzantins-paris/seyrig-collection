@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers le sommet; toute la partie supérieure du sceau manque; au droit, profonde entaille sur le bord
+                           <p >Décentré vers le sommet; toute la partie supérieure du sceau manque; au droit, profonde entaille sur le bord
                                         droit.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,9 +169,9 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-yBUrgr-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram, probably of the Laurent V type, framed
+                              <p xml:lang="en" >Cruciform monogram, probably of the Laurent V type, framed
                                             by the usual tetrasyllable.</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme, probablement de type Laurent V cantonné par le tétrasyllabe habituel.</p>
+                              <p xml:lang="fr" >Monogramme cruciforme, probablement de type Laurent V cantonné par le tétrasyllabe habituel.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-yBUrgr-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,18 +266,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
                     </rs>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>...
                           
                                   <lb n="3"/><expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan> <expan ><abbr>σπαθ</abbr><ex >αρίῳ</ex></expan>
@@ -292,17 +292,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,40 +310,40 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / ... βασιλικῷ σπαθαρίῳ χαρτουλαρίῳ τοῦ δρόμου τῶν Ἀρμενιάκων.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant  N., imperial spatharios and chartoularios of the dromos of the Armeniakon.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur N., spathaire impérial et chartulaire du drome des Arméniaques.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / ... βασιλικῷ σπαθαρίῳ χαρτουλαρίῳ τοῦ δρόμου τῶν Ἀρμενιάκων.</p>
+            <p xml:lang="en" >Mother of God help your servant  N., imperial spatharios and chartoularios of the dromos of the Armeniakon.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur N., spathaire impérial et chartulaire du drome des Arméniaques.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Les chartulaires du drome s’occupaient probablement de
+            <p ><!--Les chartulaires du drome s’occupaient probablement de
                       l’exécution du service de la poste et de l’entretien des routes[1]. 
                       Pour un autre chartulaire du drome des Arméniaques, d’époque postérieure[2].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. OIKONOMIDÈS, <hi rend="italic">Préséance</hi>, p.
                       312.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                      <!-- [2]. Voir
                       LAURENT, <hi rend="italic">Corpus</hi>, II, 463.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>165</citedRange>

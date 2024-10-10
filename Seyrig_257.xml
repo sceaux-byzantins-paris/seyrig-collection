@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Fortement échancré sur le pourtour; entaillé dans toute sa largeur au revers, le long de la ligne du canal qui
+                           <p >Fortement échancré sur le pourtour; entaillé dans toute sa largeur au revers, le long de la ligne du canal qui
                                         est à l’horizontal ; fine gravure.</p>
                         </condition>
                      </supportDesc>
@@ -170,8 +170,8 @@
                                 >Ḩamāh</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -190,8 +190,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-WDJlOu-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,8 +232,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-WDJlOu-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -261,7 +261,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -288,22 +288,22 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                   <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                       <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                   <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                       <ab >
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>βοήθ</abbr><ex >ει</ex></expan> τῷ <expan ><abbr>σ</abbr><ex >ῷ</ex></expan> <expan ><abbr>δ</abbr><supplied reason="lost" >ούλῳ</supplied></expan></rs>
                            
                        </ab>
                    
                    </div>
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                        <ab part="N">
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                        <ab >
                            <cb n="a"/><expan ><abbr>ὁ ἃγ</abbr><ex >ιος</ex></expan> <expan ><abbr>Κο
                         <cb n="b" break="no"/>δ<supplied reason="lost" >ρ</supplied>ᾶ<supplied reason="lost" >τ</supplied></abbr><supplied reason="lost" ><ex >ος</ex></supplied></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/>+  Νικολ
                           <lb n="3" break="no"/><supplied reason="lost" >ά</supplied>ῳ ἐπισκ
                           <lb n="4" break="no"/><supplied reason="lost" >ό</supplied>πῳ <expan ><abbr>Μαγ
@@ -314,17 +314,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -332,26 +332,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Κοδρᾶτος. Κύριε βοήθει τῷ σῷ δούλῳ / Νικολάῳ ἐπισκόπῳ Μαγνησίας.</p>
-            <p xml:lang="en" part="N">St. Kodratos. Lord help your servant Nikoalos, bishop of Magnesia.</p>
-            <p xml:lang="fr" part="N">Saint Kodratos. Seigneur aide ton serviteur Nicolas, évêque de Magnésie.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Κοδρᾶτος. Κύριε βοήθει τῷ σῷ δούλῳ / Νικολάῳ ἐπισκόπῳ Μαγνησίας.</p>
+            <p xml:lang="en" >St. Kodratos. Lord help your servant Nikoalos, bishop of Magnesia.</p>
+            <p xml:lang="fr" >Saint Kodratos. Seigneur aide ton serviteur Nicolas, évêque de Magnésie.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--L’effigie de saint Kodratos (Quadratus) se retrouve sur un
+            <p ><!--L’effigie de saint Kodratos (Quadratus) se retrouve sur un
                       autre sceau de Magnésie, presque contemporain [1], mais cela
                       permet pas de décider s’il s’agit de Magnésie du Sipyle ou de Magnésie du Méandre.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. LAURENT, <hi rend="italic">Corpus</hi>, V, 1, 270.-->
                       </p>
          </div>

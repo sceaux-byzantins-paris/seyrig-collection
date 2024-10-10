@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition><!-- @rend manque -->
-                           <p part="N">Renflé au pourtour; fortement échancré à gauche et aux deux orifices du canal; caractères peu lisibles.</p>
+                           <p >Renflé au pourtour; fortement échancré à gauche et aux deux orifices du canal; caractères peu lisibles.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-52z0b1-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec, de part et d'autre de l'effigie, légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec, de part et d'autre de l'effigie, légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-52z0b1-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,9 +269,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" >....</supplied> Γ <!-- non, attention ! il est contradictoire de laisser des points à l'intérieur d'un supplied, soit le texte est restauré soit
                          il ne l'est pas, comme ici, et donc dans ce cas il faut utiliser le tag gap avec une certaine quatntité de caractère perdus-->
                         <cb n="b"/> <abbr/><!-- ici il y as d'abord du texte perdu et non restauré et ensuite une abbr. non résolue: il est ausis vrai que, en regardant la photo, l'édition ne semble pas très claire -->
@@ -279,8 +279,8 @@
                      
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><expan ><abbr>Σφραγ</abbr><ex >ὶς</ex></expan>
                           <lb n="2"/><expan ><abbr>Νικ<supplied reason="lost" >η</supplied>φόρ</abbr><ex >ου</ex></expan>
                           <lb n="3"/><expan ><abbr>βεστάρχ</abbr><ex >ου</ex></expan>
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">... / Σφραγίς Νικηφόρου βεστάρχου τοῦ ...</p>
-            <p xml:lang="en" part="N">... Seal of Nikephoros N., vestarches.</p>
-            <p xml:lang="fr" part="N">... Sceau de Nicéphore N., vestarque.</p>
+         <div type="translation"   >
+            <p >... / Σφραγίς Νικηφόρου βεστάρχου τοῦ ...</p>
+            <p xml:lang="en" >... Seal of Nikephoros N., vestarches.</p>
+            <p xml:lang="fr" >... Sceau de Nicéphore N., vestarque.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Un Nicéphore Bourtzès, vestarque, est connu; les traces de lettres, à
+            <p ><!--Un Nicéphore Bourtzès, vestarque, est connu; les traces de lettres, à
                       la fin de la légende, n’excluent pas la lecture de ce patronyme, mais le sceau de Bourtzès
                       porte le motif de saint Georges, en tenue militaire traditionnelle [1]. Cette lecture reste une simple hypothèse. On peut penser aussi au patronyme
                       Kounérès attesté par un sceau d’Athènes [2],
@@ -329,29 +329,29 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!--     [1]. CHEYNET - VANNIER,
                           <hi rend="italic">Études</hi>, p. 48-49.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                              <!-- [2]. STAVRAKOS, <hi rend="italic">Korrekturen</hi>, p. 44, n° 4 : Léon, patrice.-->
                           </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                          <!-- [3]. DO 58.106.2100: Nicolas Kounérès ?.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                           <!--[4]. Michel Kounérès, protospathaire.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>74</citedRange>

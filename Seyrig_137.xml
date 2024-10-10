@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Entaillé dans sa partie droite; boursouflures et entailles le long de la ligne du canal; en voie d’oxydation.</p>
+                           <p >Entaillé dans sa partie droite; boursouflures et entailles le long de la ligne du canal; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-zQn1UI-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes.</p>
+                              <p xml:lang="en" >Legend of 4 lines.</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-zQn1UI-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,10 +268,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/>+ <expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                                
                                   <lb n="2"/><expan ><abbr>Συμβατ</abbr><ex >ίῳ</ex></expan>
@@ -282,8 +282,8 @@
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="5"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan> <expan ><abbr>ῥά
                                   <lb n="6" break="no"/>πτ</abbr><ex >ῃ</ex></expan> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>κου
@@ -294,17 +294,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -312,18 +312,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Συμβατίῳ πρωτοσπαθαρίῳ μεγάλῳ χαρτουλαρίῳ / και βασιλικῷ ῥάπτῃ καὶ κουμερκιαρίῳ Χαλδίας.</p>
-            <p xml:lang="en" part="N">(Seal of) Symbatios, protospatharios, grand chartoularios, imperial raptes and kommerkiarios of Chaldia.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Symbatios, protospathaire, grand chartulaire, <hi rend="italic">raptès</hi> impérial et commerciaire de
+         <div type="translation"   >
+            <p >+ Συμβατίῳ πρωτοσπαθαρίῳ μεγάλῳ χαρτουλαρίῳ / και βασιλικῷ ῥάπτῃ καὶ κουμερκιαρίῳ Χαλδίας.</p>
+            <p xml:lang="en" >(Seal of) Symbatios, protospatharios, grand chartoularios, imperial raptes and kommerkiarios of Chaldia.</p>
+            <p xml:lang="fr" >(Sceau de) Symbatios, protospathaire, grand chartulaire, <hi rend="italic">raptès</hi> impérial et commerciaire de
                       Chaldée.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--On notera au droit l’abréviation inhabituelle de <hi rend="italic">chartoularios</hi>.
+            <p ><!--On notera au droit l’abréviation inhabituelle de <hi rend="italic">chartoularios</hi>.
                       Symbatios, qui d’après son nom était un oriental, de souche arménienne ou géorgienne, avait
                       la responsabilité des douanes de Trébizonde, place commerciale de premier plan. Enfin, la
                       présence de la charge de <hi rend="italic">raptès</hi> (tailleur), parmi d’autres fonctions, suggère que celle-ci n’était
@@ -334,18 +334,18 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>137</citedRange>

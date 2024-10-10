@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers la droite; échancrure à l’orifice inférieur du canal au revers.</p>
+                           <p >Décentré vers la droite; échancrure à l’orifice inférieur du canal au revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition><!-- non, ceci est destiné à indiquer comment le sceau est entré dans la collection/institution où il se trouve au moment de l'édition XML; vous l'aviez utilisé correctement sur les premiers sceaux, et puis je l'ai toujours trouvé vide, maintenant je comprends pourquoi-->
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PNcbMi-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes.</p>
+                              <p xml:lang="en" >Legend of 3 lines.</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PNcbMi-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -287,9 +287,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang=""><!-- attention, le problème quand on réutilise des fichiers est qu'il faut faire TRES attention à changer et adapter leurs différentes parties -->
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang=""><!-- attention, le problème quand on réutilise des fichiers est qu'il faut faire TRES attention à changer et adapter leurs différentes parties -->
+                      <ab >
                           <lb n="1"/>Grig
                                
                                   <lb n="2" break="no"/>or
@@ -297,8 +297,8 @@
                                   <lb n="3" break="no"/>iu
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   
                                   <lb n="4"/><rs type="dignity" ref="dignities.xml#ἰλλούστριος">ill
 
@@ -309,17 +309,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -327,31 +327,31 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Grigoriu illustriu.</p>
-            <p xml:lang="en" part="N">(Seal of) Gregory, illustris.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Grégoire, <hi rend="italic">illustris</hi>.</p>
+         <div type="translation"   >
+            <p >Grigoriu illustriu.</p>
+            <p xml:lang="en" >(Seal of) Gregory, illustris.</p>
+            <p xml:lang="fr" >(Sceau de) Grégoire, <hi rend="italic">illustris</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               ><!-- me^me remarque que ci-dessus: il faut faire beaucoup plus d'attention à cela, le commentaire qui était ici (avec sa note) n'avait rien à voir avec le sceau en question, qui n'en a aucun -->
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>34</citedRange>

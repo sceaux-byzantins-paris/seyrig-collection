@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Totalement décentré vers la gauche; revers pressé et oblitéré dans le tiers supérieur gauche et dans la partie
+                           <p >Totalement décentré vers la gauche; revers pressé et oblitéré dans le tiers supérieur gauche et dans la partie
                                         inférieure.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-FSOmAi-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-FSOmAi-v</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,15 +265,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" ><expan ><ex >Ὁ ἅγιος</ex></expan></supplied> <supplied reason="lost" >Μάρ</supplied>
                         <cb n="b" break="no"/>κος 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><supplied reason="lost" >+</supplied> <expan ><abbr>Βασίλ</abbr><ex >ειος</ex></expan>
                               
                           <lb n="2"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><supplied reason="lost" ><abbr><am ><g type="protos1"/></am></abbr><ex >πρωτο</ex></supplied><abbr>σπαθ</abbr><ex >άριος</ex></expan></rs> ἐπι
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,17 +306,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Μάρκος.  / + Βασίλειος, πρωτοσπαθάριος, ἐπι τοῦ χρυσοτρικλίνου, μέγας χαρτουλάριος τοῦ γενικοῦ καὶ πρωτονοτάριος.</p>
-            <p xml:lang="en" part="N">St. Mark. Basil, protospatharios, epi tou Chrysotriklinou, grand chartoularios of the genikon and protonotarios.</p>
-            <p xml:lang="fr" part="N">Saint Marc. Basile, protospathaire, <hi rend="italic">épi tou Chrysotriklinou</hi>, grand chartulaire du <hi rend="italic">génikon</hi> et protonotaire.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Μάρκος.  / + Βασίλειος, πρωτοσπαθάριος, ἐπι τοῦ χρυσοτρικλίνου, μέγας χαρτουλάριος τοῦ γενικοῦ καὶ πρωτονοτάριος.</p>
+            <p xml:lang="en" >St. Mark. Basil, protospatharios, epi tou Chrysotriklinou, grand chartoularios of the genikon and protonotarios.</p>
+            <p xml:lang="fr" >Saint Marc. Basile, protospathaire, <hi rend="italic">épi tou Chrysotriklinou</hi>, grand chartulaire du <hi rend="italic">génikon</hi> et protonotaire.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Un grand nombre de sceaux émis par ce personnage, à ce stade de sa carrière, nous sont parvenus. Le nombre de <hi rend="italic">boullôtèria</hi> utilisés par Basile (quatre au
+            <p ><!--Un grand nombre de sceaux émis par ce personnage, à ce stade de sa carrière, nous sont parvenus. Le nombre de <hi rend="italic">boullôtèria</hi> utilisés par Basile (quatre au
                       moins, selon Oikonomidès, sans compter peut-être un <hi rend="italic">boullôtèrion</hi> regravé et le nôtre) suggère
                       que leur propriétaire a pu frapper quantité de sceaux. Est-ce l’indice de l’exercice prolongé
                       de ses fonctions, notamment celle de protonotaire du <hi rend="italic">génikon</hi>, ou plus vraisemblablement,
@@ -329,20 +329,20 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. ZACOS
                           II, 388 ; pièce parallèle au Musée archéologique d’Istanbul.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>87</citedRange>

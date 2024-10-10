@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné dans sa partie supérieure et brisé sur le quart gauche; en voie d’oxydation; la gravure était nette.</p>
+                           <p >Rogné dans sa partie supérieure et brisé sur le quart gauche; en voie d’oxydation; la gravure était nette.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-WgEUuP-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-WgEUuP-v</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,15 +270,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" >Μιχ</supplied>
                         <cb n="b"/>αή<supplied reason="lost" >λ</supplied>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></rs>
                           <lb n="2"/><expan ><abbr>Θεοδώρ</abbr><ex >ῳ</ex></expan>
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><abbr><am >α</am></abbr><ex >πρωτο</ex><abbr>σπαθ</abbr><ex >αρίῳ</ex></expan></rs> <rs type="officeCivil" ref="officeCivil.xml#ἐπὶ_τοῦ_Χρυσοτρικλίνου">ἐπὶ  
@@ -291,17 +291,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,17 +309,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μιχαήλ / Κύριε βοήθει Θεοδώρῳ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου καὶ κουράτωρι Μεσοποταμίας τῷ [...]ῳ.</p>
-            <p xml:lang="en" part="N">St. Michael. Lord help Theodoros N., protospatharios, epi tou Chrysotriklinou and kourator of Mesopotamia.</p>
-            <p xml:lang="fr" part="N">Saint Michel. Seigneur aide Théodore N., protospathaire <hi rend="italic">épi tou Chrysotriclinou</hi> et curateur de Mésopotamie.</p>
+         <div type="translation"   >
+            <p >Μιχαήλ / Κύριε βοήθει Θεοδώρῳ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου καὶ κουράτωρι Μεσοποταμίας τῷ [...]ῳ.</p>
+            <p xml:lang="en" >St. Michael. Lord help Theodoros N., protospatharios, epi tou Chrysotriklinou and kourator of Mesopotamia.</p>
+            <p xml:lang="fr" >Saint Michel. Seigneur aide Théodore N., protospathaire <hi rend="italic">épi tou Chrysotriclinou</hi> et curateur de Mésopotamie.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le patronyme comportait sans doute seulement trois
+            <p ><!--Le patronyme comportait sans doute seulement trois
                       lettres. Ὤπος pourrait convenir mais ce n’est qu’une hypothèse. Il n’est pas surprenant qu’une
                       curatorie ait été établie en Mésopotamie puisque d’autres sont attestées dans les territoires
                       reconquis en Orient au cours des Xe et XIe siècles: curatorie de Mélitène[1], d’Antioche[2], d’Ibérie intérieure[3]. Le sceau d’un autre curateur de Mésopotamie nous
@@ -327,31 +327,31 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. OIKONOMIDÈS,
                           <hi rend="italic">Listes</hi>, p. 356.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. ZACOS II, 529.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                          <!-- [3]. N. OIKONOMIDÈS, <hi rend="italic">Byzantine
                           Lead Seals</hi>, Washington 1985, n° 80.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                           <!--[4]. Shaw
                           n° 711.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>186</citedRange>

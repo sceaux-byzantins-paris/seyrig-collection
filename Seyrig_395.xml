@@ -109,8 +109,8 @@ proposée. -->
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Decentred upwards. Slightly trimmed at the canal openings. Oxidizing.</p>
-                           <p xml:lang="fr" part="N">Décentré vers le haut. Légèrement rogné aux orifices du canal. En voie d’oxydation.</p>
+                           <p xml:lang="en" >Decentred upwards. Slightly trimmed at the canal openings. Oxidizing.</p>
+                           <p xml:lang="fr" >Décentré vers le haut. Légèrement rogné aux orifices du canal. En voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -154,8 +154,8 @@ proposée. -->
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -174,8 +174,8 @@ proposée. -->
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-RSfvXm-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,8 +215,8 @@ proposée. -->
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-RSfvXm-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@ proposée. -->
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,32 +273,32 @@ proposée. -->
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><supplied reason="lost" ><expan ><abbr>ὁ ἃγιος</abbr></expan></supplied>
                         <cb n="b"/><expan ><supplied reason="lost" >Γε</supplied><abbr>ώργιο</abbr><ex >ς</ex></expan> <!-- Quelques lettres renversées -->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Al Biṭrīq
                           <lb n="2"/>Naşr ibn
                           <lb n="3"/>Mušarraf
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,17 +306,17 @@ proposée. -->
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Γεώργιος. / Al Biṭrīq Naşr ibn Mušarraf.</p>
-            <p xml:lang="en" part="N">George./ Al Biṭrīq Naşr ibn Mušarraf.</p>
-            <p xml:lang="fr" part="N">Georges. / Al Biṭrīq Naşr ibn Mušarraf.</p>
+         <div type="translation"   >
+            <p >Γεώργιος. / Al Biṭrīq Naşr ibn Mušarraf.</p>
+            <p xml:lang="en" >George./ Al Biṭrīq Naşr ibn Mušarraf.</p>
+            <p xml:lang="fr" >Georges. / Al Biṭrīq Naşr ibn Mušarraf.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Pour la transcription exacte nous remercions le prof. Ambros
+            <p ><!--  Pour la transcription exacte nous remercions le prof. Ambros
                       (Vienne). L’histoire de ce chef arabe nous est particulièrement bien connue par Yahyia
                       d’Antioche. Il entra au service de Byzance, acceptant d’obéir au catépan d’Antioche. En dépit
                       de deux trahisons, le catépan Michel Spondylès accepta la proposition de Mousharraf de
@@ -329,20 +329,20 @@ proposée. -->
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                   [1]. Pour plus de détails, cf. W. FELIX, <hi rend="italic">Byzanz und die islamische Welt im früheren
                   11. Jahrhundert</hi>, Vienne 1981, p. 41, 42, <hi rend="italic">passim</hi>.--> 
               </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 395</citedRange>,</bibl>
                <bibl  >

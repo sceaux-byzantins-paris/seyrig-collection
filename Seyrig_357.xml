@@ -113,8 +113,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Heavily trimmed all around; no visible edge.</p>
-                           <p xml:lang="fr" part="N">Fortement rogné sur tout le pourtour; pas de bordure visible.</p>
+                           <p xml:lang="en" >Heavily trimmed all around; no visible edge.</p>
+                           <p xml:lang="fr" >Fortement rogné sur tout le pourtour; pas de bordure visible.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -158,8 +158,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -178,8 +178,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TcU0yV-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme: OY au sommet, A à la base,
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme cruciforme: OY au sommet, A à la base,
                                             B (comprenant peut-être aussi un P) et K lié avec un E aux deux extrémités de la barre
                                             transversale</p>
                            </layout>
@@ -220,8 +220,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TcU0yV-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme: Φ au sommet, A (?) à la base, à gauche
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme cruciforme: Φ au sommet, A (?) à la base, à gauche
                                             de la barre transversale N et Π entremêlés et à droite E</p>
                            </layout>
                         </layoutDesc>
@@ -251,7 +251,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -281,29 +281,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan cert="low" ><ex >Ἀβερκίου</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                         <lb n="2"/><expan cert="low" ><ex >Ἐπιφανίου</ex></expan>
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  ><!-- alternative readings to be encoded here, in this case -->
+         <div type="apparatus"   ><!-- alternative readings to be encoded here, in this case -->
             <listApp >
                <app type="alternative">
                   <lem>
@@ -325,26 +325,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἀβερκίου (?). / Ἐπιφανίου (?).</p>
-            <p xml:lang="en" part="N">(Seal of) Aberkios (?) and Epiphanios (?).</p>
-            <p xml:lang="fr" part="N">(Sceau d') Aberkios (?) et Épiphane (?).</p>
+         <div type="translation"   >
+            <p >Ἀβερκίου (?). / Ἐπιφανίου (?).</p>
+            <p xml:lang="en" >(Seal of) Aberkios (?) and Epiphanios (?).</p>
+            <p xml:lang="fr" >(Sceau d') Aberkios (?) et Épiphane (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--On notera la forme carrée,
+            <p ><!--On notera la forme carrée,
                       assez archaïque, du E. Les monogrammes connus d’Êpiphane présentent également le N et
                       le Π entremêlés [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. Pour un ex. de même époque, voir ZACOS - VEGLERY 1131.-->
                   </p>
          </div>

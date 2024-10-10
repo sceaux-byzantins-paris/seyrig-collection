@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Pressé et oblitéré sur les bords des deux faces ; entaillé à l’orifice supérieur du canal ; décentré vers la gauche.</p>
+                           <p >Pressé et oblitéré sur les bords des deux faces ; entaillé à l’orifice supérieur du canal ; décentré vers la gauche.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-uCNZ1h-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-uCNZ1h-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,14 +266,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                           <lb n="1"/><supplied reason="lost" ><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan></supplied> <expan ><abbr><supplied reason="lost" >β</supplied>οήθ</abbr><ex >ει</ex></expan> τῷ <supplied reason="lost" >σῷ</supplied> <expan ><abbr><supplied reason="lost" >δο</supplied>ύλ</abbr><ex >ῳ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="2"/>+ <expan ><abbr>Μ</abbr><ex >ι</ex>
                            <lb n="3" break="no"/><abbr>χαὴλ</abbr></expan> <expan ><abbr>χρ</abbr><ex >υσο</ex>
                           <lb n="4" break="no"/><abbr>τέλ</abbr><ex >ῃ</ex></expan> Κ<supplied reason="lost" >ο</supplied>
@@ -286,17 +286,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,35 +304,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ / + Μιχαὴλ χρυσοτέλῃ Κολονίας.</p>
-            <p xml:lang="en" part="N">Lord help your servant Michael, chrysoteles of Koloneia.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Michel, <hi rend="italic">chrysotélès</hi> de Colonée.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ / + Μιχαὴλ χρυσοτέλῃ Κολονίας.</p>
+            <p xml:lang="en" >Lord help your servant Michael, chrysoteles of Koloneia.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Michel, <hi rend="italic">chrysotélès</hi> de Colonée.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le <hi rend="italic">chrysotélès</hi> est un fonctionnaire fiscal dépendant du juge de thème
+            <p ><!--Le <hi rend="italic">chrysotélès</hi> est un fonctionnaire fiscal dépendant du juge de thème
                       [1]. Absent des listes de préséance du Xe siècle, il
                       est bien attesté au XIe siècle, mais ses fonctions précises ne sont pas déterminées.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. AHRWEILER, <hi rend="italic">Administration</hi>, p. 71 et n. 4.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>176</citedRange>

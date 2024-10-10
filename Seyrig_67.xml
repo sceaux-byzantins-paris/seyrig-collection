@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Déformé, entaillé sur l’avers, pressé et oblitéré sur le tiers droit du revers.</p>
+                           <p >Déformé, entaillé sur l’avers, pressé et oblitéré sur le tiers droit du revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,9 +168,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-c3VBK7-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
                               <!-- l'édition parle de traces de légende, il faudra penser à une façon standardisée de le dire -->
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-c3VBK7-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,13 +266,13 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" part="N"   rend="" xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv"    rend="" xml:lang="">
+                      <ab >
                       </ab><!-- ici il faudra indiquer la légende perdue, mais l'édition n'est pas claire à ce sujet -->
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> 
                           <expan ><abbr>β</abbr><supplied reason="lost" ><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></supplied></expan>
                           <lb n="2"/><expan ><abbr>Θεοφ<supplied reason="lost" >άν</supplied></abbr><supplied reason="lost" ><ex >ῃ</ex></supplied></expan>
@@ -282,17 +282,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="2">
                   <lem>Θεοφ[άν(ῃ)]</lem>
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει Θεοφάνῃ σεβαστοφόρῳ.</p>
-            <p xml:lang="en" part="N">Lord help Theophanes, sebastophoros.</p>
-            <p xml:lang="fr" part="N">Seigneur aide Théophane, sébastophore.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει Θεοφάνῃ σεβαστοφόρῳ.</p>
+            <p xml:lang="en" >Lord help Theophanes, sebastophoros.</p>
+            <p xml:lang="fr" >Seigneur aide Théophane, sébastophore.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Ce Théophane n’est
+            <p ><!--Ce Théophane n’est
                           connu par aucune autre source. Le sébastophore, chargé d’apporter au nouvel empereur les
                           insignes de sa dignité, tirait précisément son importance de la familiarité qu’il entretenait avec
                           lui[1]. Le sceau du sébastophore Théophile, conservé,
@@ -323,23 +323,23 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. R. GUILLAND, Sébastophore, <hi rend="italic">REB</hi> 21, 1963, p. 199-207, repris dans <hi rend="italic">Titres et fonctions
                           de l'Empire byzantin</hi>, Londres, 1976, n° XVI.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                        <!--   [2]. <hi rend="italic">ibid</hi>., note 53.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>67</citedRange>
@@ -348,10 +348,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> 
+            <p > 
                       Bibliothèque nationale de France, Paris,
                       <bibl  >
                   <ptr target="Schlumberger1884"/>, <citedRange unit="page"> p. 586 n°1</citedRange>
@@ -359,10 +359,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/471/">Theophanes 20102</ref>

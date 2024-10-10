@@ -7,8 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>
-               <seg xml:lang="en" cert="low" part="N">Seal of Timotheos (?) or Theotimos (?)</seg>
-               <seg xml:lang="fr" cert="low" part="N">Sceau de Timothée (?) ou Théotimos (?)</seg>
+               <seg xml:lang="en" cert="low" >Seal of Timotheos (?) or Theotimos (?)</seg>
+               <seg xml:lang="fr" cert="low" >Sceau de Timothée (?) ou Théotimos (?)</seg>
             </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
@@ -114,8 +114,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Offset at the top. Deeply indented on the right and left side of the blank, otherwise beautiful engraving.</p>
-                           <p xml:lang="fr" part="N">Décentré vers le haut. Profondément entaillé à droite et à gauche du flan, sinon belle gravure.</p>
+                           <p xml:lang="en" >Offset at the top. Deeply indented on the right and left side of the blank, otherwise beautiful engraving.</p>
+                           <p xml:lang="fr" >Décentré vers le haut. Profondément entaillé à droite et à gauche du flan, sinon belle gravure.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -159,8 +159,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -179,8 +179,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-AAWTPQ-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -219,8 +219,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-AAWTPQ-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme type Zacos-Veglery 457c, portant OY et T au sommet, Θ à la base, E à droite, M à gauche</p>
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme type Zacos-Veglery 457c, portant OY et T au sommet, Θ à la base, E à droite, M à gauche</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -249,7 +249,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -279,14 +279,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
                   <!--<div type="textpart" subtype="sigla" n="obv" rend="columns">
                       <ab>
                           <lb n="1"/>
                       </ab>
                   </div>--> 
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                         <lb n="1"/><app type="alternative">
                          <lem><expan cert="low" ><expan ><ex >Τιμοθέου</ex></expan></expan></lem>
                          <rdg><expan cert="low" ><expan ><ex >Θεοτίμου</ex></expan></expan></rdg>
@@ -294,17 +294,17 @@
                           </ab>
                           </div>
                </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -312,19 +312,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Τιμοθέου <hi rend="italic">vel</hi> Θεοτίμου.</p>
-            <p xml:lang="en" part="N">(Seal of) Timotheos <hi rend="italic">or</hi> Theotimos.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Timothée <hi rend="italic">ou</hi> Théotimos.</p>
+         <div type="translation"   >
+            <p >Τιμοθέου <hi rend="italic">vel</hi> Θεοτίμου.</p>
+            <p xml:lang="en" >(Seal of) Timotheos <hi rend="italic">or</hi> Theotimos.</p>
+            <p xml:lang="fr" >(Sceau de) Timothée <hi rend="italic">ou</hi> Théotimos.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

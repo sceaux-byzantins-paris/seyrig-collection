@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed around the edge and probably struck on a too narrow blank.</p>
-                           <p xml:lang="fr" part="N">Rogné au pourtour et sans doute frappé sur un flan trop étroit.</p>
+                           <p xml:lang="en" >Trimmed around the edge and probably struck on a too narrow blank.</p>
+                           <p xml:lang="fr" >Rogné au pourtour et sans doute frappé sur un flan trop étroit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -172,8 +172,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -192,8 +192,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-BQyFpi-r</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -234,8 +234,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-BQyFpi-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -264,7 +264,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -292,9 +292,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  ><!-- check all the legend's encoding to see the amendments -->
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   ><!-- check all the legend's encoding to see the amendments -->
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                        <lb n="1"/>+<expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan>
                        <lb n="2"/><expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan> τὴν 
                            <expan ><abbr>σ</abbr><supplied reason="lost" ><abbr>ὴ</abbr><ex >ν</ex></supplied></expan> 
@@ -303,8 +303,8 @@
                        <lb n="5" break="no"/><abbr>σπαθ</abbr><ex >α</ex><abbr>ρ</abbr><ex >έᾳ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="6"/><supplied reason="omitted" ><expan ><abbr>τ</abbr><ex >ῇ</ex></expan></supplied> Πεκου
                           <lb n="7" break="no"/><supplied reason="omitted" >λ</supplied>ήνᾳ <expan ><abbr>κ</abbr><ex >αὶ</ex></expan> 
                           <lb n="8"/><expan ><abbr>τεποτερ</abbr><ex >ι</ex>
@@ -314,17 +314,17 @@
                                </ab><!-- the line numbers should continue on the reverse -->
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -332,17 +332,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+Θεοτόκε βοήθει τὴν σὴν δούλην Κοσταντίνᾳ πρωτοσπαθαρέᾳ / τῇ Πεκουλήνᾳ καὶ τεποτεριτίσσᾳ τοῦ Κυβεριότου.</p>
-            <p xml:lang="en" part="N"> Mother of God help your servant Kostantina Pekoulina, protospatharissa and topoteretissa of the Kibyrrhaiotai.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ta servante Kostantina Pékoulina, prôtospatharissa et topotèrètissa des Cibyrrhéotes.</p>
+         <div type="translation"   >
+            <p >+Θεοτόκε βοήθει τὴν σὴν δούλην Κοσταντίνᾳ πρωτοσπαθαρέᾳ / τῇ Πεκουλήνᾳ καὶ τεποτεριτίσσᾳ τοῦ Κυβεριότου.</p>
+            <p xml:lang="en" > Mother of God help your servant Kostantina Pekoulina, protospatharissa and topoteretissa of the Kibyrrhaiotai.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ta servante Kostantina Pékoulina, prôtospatharissa et topotèrètissa des Cibyrrhéotes.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Kostantina, inconnue par ailleurs, était la femme
+            <p ><!--Kostantina, inconnue par ailleurs, était la femme
                       d’un protospathaire et <hi rend="italic">topotèrètès</hi>, c’est à dire d’un militaire commandant en second un tagma
                       ou responsable d’une importante garnison dans le thème des Cibyrrhéotes [1]. D’autres Pékoulès
                       sont attestés aux XIe et XIIe siècles: Georges, <hi rend="italic">prôtomandatôr</hi> [2]; Basile, <hi rend="italic">dishypatos</hi> et chartulaire du <hi rend="italic">stratiôtikon</hi> en 1088 [3]; Basile (?), juge et
@@ -351,10 +351,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. Cf. J.-Cl. CHEYNET,
                       Toparque et topotèrètès à la fin du 11e siècle, <hi rend="italic">REB</hi> 42, 1984, p. 215-224.
                   </p>

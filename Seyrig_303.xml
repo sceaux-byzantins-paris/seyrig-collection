@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!-- add WellCentered as a tag-->
-                           <p xml:lang="en" part="N">Well centered on a broad flan, the obverse is worn.</p>
-                           <p xml:lang="fr" part="N">Bien centré sur un large flan, l’avers est usé.</p>
+                           <p xml:lang="en" >Well centered on a broad flan, the obverse is worn.</p>
+                           <p xml:lang="fr" >Bien centré sur un large flan, l’avers est usé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JXJo4F-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JXJo4F-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme complexe</p>
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme complexe</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,30 +270,30 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N"><!-- some text needed to be restored -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab ><!-- some text needed to be restored -->
                        <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><supplied reason="lost" ><abbr>ρ</abbr></supplied></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Καματηρός</ex></expan>
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -301,27 +301,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Καματηρός.</p>
-            <p xml:lang="en" part="N"> Mother of God. / Kamateros.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Kamatèros.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Καματηρός.</p>
+            <p xml:lang="en" > Mother of God. / Kamateros.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Kamatèros.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Les Kamatèroi sont bien attestés depuis la première
+            <p ><!--Les Kamatèroi sont bien attestés depuis la première
                       moitié du XIe siècle comme hauts fonctionnaires civils et obtinrent de s’allier à la famille des
                       Comnènes. Ils sont largement représentés en sigillographie. Sur les Kamatèroi de la fin du
                       XIIe siècle [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. Voir notamment SEIBT, <hi rend="italic">Bleisiegel</hi>, I, n° 156.-->
                   </p>
          </div>

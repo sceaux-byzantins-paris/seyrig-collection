@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Offset to the left; deeply indented to the right, pressed and stretched.</p>
-                           <p xml:lang="fr" part="N">Décentré vers la gauche; profondément entaillé à droite, pressé et étiré.</p>
+                           <p xml:lang="en" >Offset to the left; deeply indented to the right, pressed and stretched.</p>
+                           <p xml:lang="fr" >Décentré vers la gauche; profondément entaillé à droite, pressé et étiré.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-BbxIGA-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-BbxIGA-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,15 +273,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N"><!-- again, there are problems with expansions of abbreviations and supplied text -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab ><!-- again, there are problems with expansions of abbreviations and supplied text -->
                        <cb n="a"/><supplied reason="lost" ><expan ><ex >Ὁ ἃγιος</ex></expan></supplied> <expan ><abbr><supplied reason="lost" >Γε</supplied>
                         <cb n="b"/>ώργ</abbr><ex >ι</ex><abbr>ο</abbr><ex >ς</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N"><!-- errors in lines 2-3 -->
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab ><!-- errors in lines 2-3 -->
                           <lb n="1"/><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> 
                           <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                           <lb n="2"/>τῷ σῷ <expan ><supplied reason="lost" ><abbr>δ</abbr><ex >ούλῳ</ex></supplied></expan> 
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Γεώργιος. / Κύριε βοήθει τῷ σῷ δούλῳ Φωτίῳ τῷ Σύρῳ.</p>
-            <p xml:lang="en" part="N">Saint George. / Lord help your servant Photios Syros.</p>
-            <p xml:lang="fr" part="N">Saint Georges. / Seigneur aide ton serviteur Phôtios Syros.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Γεώργιος. / Κύριε βοήθει τῷ σῷ δούλῳ Φωτίῳ τῷ Σύρῳ.</p>
+            <p xml:lang="en" >Saint George. / Lord help your servant Photios Syros.</p>
+            <p xml:lang="fr" >Saint Georges. / Seigneur aide ton serviteur Phôtios Syros.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Au contraire du patronyme Syropoulos
+            <p ><!-- Au contraire du patronyme Syropoulos
                       très souvent attesté [1], celui de Syros, dont la lecture est confirmée
                       par le sceau de Dumbarton Oaks, ne se rencontre pas dans les sources de l’époque. Dans
                       le <hi rend="italic">PLP</hi> XI figurent trois mentions de Syros, comme nom de famille et trois comme nom
@@ -326,10 +326,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                       [1]. Cf. SEIBT, <hi rend="italic">Bleisiegel</hi>, 141.
                   </p>
                   <p xml:id="footnote-2">
@@ -338,10 +338,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 319</citedRange>
                </bibl>.
@@ -349,10 +349,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C.,
+            <p > Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.2558/view"/> BZS.1958.106.2558</citedRange>,</bibl>

@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!-- create notched or niched tag of condition -->
-                           <p xml:lang="en" part="N">Notched and nicked at channel openings; oxidizing; worn.</p>
-                           <p xml:lang="fr" part="N">Échancré et entaillé aux orifices du canal; en voie d’oxydation; usé.</p>
+                           <p xml:lang="en" >Notched and nicked at channel openings; oxidizing; worn.</p>
+                           <p xml:lang="fr" >Échancré et entaillé aux orifices du canal; en voie d’oxydation; usé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-khIEM6-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-khIEM6-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,15 +269,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> βο
                           <lb n="2" break="no"/>ήθει 'Ελευ
                           <lb n="3" break="no"/>θερίῳ το <!-- the keyboard cannot place ῀ above o-->
@@ -286,17 +286,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,26 +304,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Θεοτόκε βοήθει Ἐλευθερίῳ το Ἀποδάλᾳ.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Θεοτόκε βοήθει Ἐλευθερίῳ το Ἀποδάλᾳ.</p>
             <!-- the keyboard cannot place ῀ above o-->
-            <p xml:lang="en" part="N">Mother of God. / Mother of God help Eleutherios Apodalas.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Mère de Dieu aide Éleuthère Apodalas.</p>
+            <p xml:lang="en" >Mother of God. / Mother of God help Eleutherios Apodalas.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Mère de Dieu aide Éleuthère Apodalas.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Il s’agirait d’une transcription grecque du nom arabe Abdallah.
+            <p ><!--Il s’agirait d’une transcription grecque du nom arabe Abdallah.
                       Pour d’autres formes [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. Voir, DO 58.106.4455: Άβδελάς (XIe siècle); <hi rend="italic">PLP</hi> 1205, Ἀππιδάλλος
                       (XIVe siècle).-->
                   </p>

@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur le pourtour; fortement pressé et oblitéré au revers à gauche.</p>
+                           <p >Rogné sur le pourtour; fortement pressé et oblitéré au revers à gauche.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-rTGvDO-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-rTGvDO-v</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,16 +271,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><supplied reason="lost" ><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan></supplied>
                       </ab>
                   </div>
                   
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <supplied reason="omitted" ><expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></supplied></rs>
                           <lb n="2"/><supplied reason="lost" >Θ</supplied>εοδώ
                           <lb n="3" break="no"/><supplied reason="lost" >ρ</supplied>ῳ <expan ><abbr>συγκέ
@@ -292,17 +292,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,26 +310,26 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Θεοτόκε βοήθει Θεοδώρῳ συγκέλλῳ καὶ μητροπολίτῃ Ἡρακλείας τῷ Τζάνζῃ.</p>
-            <p xml:lang="en" part="N">Mother of God. Theotokos help Theodoros Tzanzes, synkellos and metropolitan of Herakleia.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Théotokos aide Théodore Tzanzès, syncelle et métropolite d’Héraclée.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Θεοτόκε βοήθει Θεοδώρῳ συγκέλλῳ καὶ μητροπολίτῃ Ἡρακλείας τῷ Τζάνζῃ.</p>
+            <p xml:lang="en" >Mother of God. Theotokos help Theodoros Tzanzes, synkellos and metropolitan of Herakleia.</p>
+            <p xml:lang="fr" >Mère de Dieu. Théotokos aide Théodore Tzanzès, syncelle et métropolite d’Héraclée.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Le personnage est inconnu par ailleurs, mais il est établi que
+            <p ><!-- Le personnage est inconnu par ailleurs, mais il est établi que
                       son successeur, Théophile, occupait déjà le siège de la métropole en 1071[1]. Sur la famille Τζάντζης ou Τζάνζης, connue depuis le IXe siècle, voir le commentaire
                       de V. Laurent. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                           [1]. GRUMEL, <hi rend="italic">Regestes</hi>,
                           n° 900. 
                       </p>
@@ -340,10 +340,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 250</citedRange>
                </bibl>.
@@ -351,10 +351,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C.
+            <p > Dumbarton Oaks, Washington D.C.
                       <bibl  >
                   <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part"> 306</citedRange>,</bibl>
                <bibl  >
@@ -371,7 +371,7 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               />
          <!-- missing bibliography-->

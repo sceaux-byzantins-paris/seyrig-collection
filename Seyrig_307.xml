@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">A few nicks have led to points of oxidation, otherwise nice strike.</p>
-                           <p xml:lang="fr" part="N">Quelques entailles ayant entraîné des points d'oxydation, sinon belle frappe.</p>
+                           <p xml:lang="en" >A few nicks have led to points of oxidation, otherwise nice strike.</p>
+                           <p xml:lang="fr" >Quelques entailles ayant entraîné des points d'oxydation, sinon belle frappe.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-zaRJM0-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">17</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-zaRJM0-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,15 +271,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N"><!-- édition à revoir dans un deuxième temps -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab ><!-- édition à revoir dans un deuxième temps -->
                         <cb n="a"/><expan ><ex >Ὁ ἃγιος</ex> <abbr>Βασ<supplied reason="lost" >ί</supplied>
                           <cb n="b" break="no"/>λ</abbr><ex >ει</ex><supplied reason="lost" >ος</supplied></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+<expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr> 
                               <abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex>
                           <lb n="2"/><supplied reason="lost" >Ἀ</supplied>ναστα
@@ -289,17 +289,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -307,19 +307,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Βασίλειος. / Κύριε βοήθει Ἀναστασίῳ τῷ Κυρίτζῃ.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Βασίλειος. / Κύριε βοήθει Ἀναστασίῳ τῷ Κυρίτζῃ.</p>
             <!-- attention that the spirit be spirits and not accents or apostrophes -->
             <!-- preivous maybe to be changed according to possible changes in the edition -->
-            <p xml:lang="en" part="N">Saint Basil. / Lord help Anastasios Kyritzes.</p>
-            <p xml:lang="fr" part="N">Saint Basile. / Seigneur aide Anastase Kyritzès.</p>
+            <p xml:lang="en" >Saint Basil. / Lord help Anastasios Kyritzes.</p>
+            <p xml:lang="fr" >Saint Basile. / Seigneur aide Anastase Kyritzès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- L’étymologie de Kyritzès remonte peut-être au turc güreşçi
+            <p ><!-- L’étymologie de Kyritzès remonte peut-être au turc güreşçi
                       "lutteur” [1]. Ce nom paraît à plusieurs reprises dans les sources,
                       peut-être dès le VIIIe siècle [2] a publié le
                       sceau d’un Kyritzès contemporain d’Anastase, dont le prénom était peut-être Georges, et
@@ -330,10 +330,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                       [1]. Cf. <hi rend="italic">BZ</hi> 30, 1929-1930, p. 201.
                   </p>
                   <p xml:id="footnote-2">
@@ -352,10 +352,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 307</citedRange>
                </bibl>.
@@ -363,10 +363,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C., (Fogg 2194)
+            <p > Dumbarton Oaks, Washington D.C., (Fogg 2194)
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.3127/view"/> BZS.1955.1.3127</citedRange>,</bibl>

@@ -123,8 +123,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Heavily trimmed; deep indentations at canal openings; partially obliterated.</p>
-                           <p xml:lang="fr" part="N">Fortement rogné ; profondes échancrures aux orifices du canal ; partiellement oblitéré.</p>
+                           <p xml:lang="en" >Heavily trimmed; deep indentations at canal openings; partially obliterated.</p>
+                           <p xml:lang="fr" >Fortement rogné ; profondes échancrures aux orifices du canal ; partiellement oblitéré.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -164,8 +164,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">don d'Henri Seyrig</p>
+                     <p xml:lang="en" >donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -184,8 +184,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-txoqHY-r</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -226,8 +226,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-txoqHY-v</rs>
-                              <p xml:lang="en" part="N">Legend of six lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur six lignes.</p>
+                              <p xml:lang="en" >Legend of six lines.</p>
+                              <p xml:lang="fr" >Légende sur six lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -256,7 +256,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -282,9 +282,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  ><!-- xml:lang grc en raison de la stylesheet, mais il faudra changer vers grc-Latn? -->
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang=""><!-- attention à bien indiquer n=obv ou n=rev selon les cas -->
-                      <ab part="N">  
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   ><!-- xml:lang grc en raison de la stylesheet, mais il faudra changer vers grc-Latn? -->
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang=""><!-- attention à bien indiquer n=obv ou n=rev selon les cas -->
+                      <ab >  
                           <lb n="1"/>Con<supplied reason="lost" >s</supplied>
                              <lb n="2" break="no"/>tantin
                           <lb n="3" break="no"/>os <expan ><ex >καὶ</ex></expan> Leon p
@@ -294,10 +294,10 @@
                       </ab>
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="" part="N"  >
-                      <ab part="N"/>
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang=""   >
+                      <ab />
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >
@@ -309,27 +309,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Constantinos καὶ Leon pistoi basilis Romaion.</p>
-            <p xml:lang="en" part="N">Constantine and Leo, faithful emperors of the Romans</p>
-            <p xml:lang="fr" part="N">Constantin et Léon, pieux empereurs des Romains</p>
+         <div type="translation"   >
+            <p >Constantinos καὶ Leon pistoi basilis Romaion.</p>
+            <p xml:lang="en" >Constantine and Leo, faithful emperors of the Romans</p>
+            <p xml:lang="fr" >Constantin et Léon, pieux empereurs des Romains</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Léon a été associé à l’Empire par son père Constantin le 6 juin 751. Ce dernier
+            <p ><!--Léon a été associé à l’Empire par son père Constantin le 6 juin 751. Ce dernier
                           mourut le 14 septembre 775. W. Seibt [1]  a édité une pièce proche de la nôtre,
 mais au droit l'invocation trinitaire et au revers le nom de l’empereur sont gravés de manière
 fautive. L’editeur en conclut que le sceau est une copie, peut-être ancienne.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     [1]. <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange>16</citedRange>
                </bibl>.
@@ -337,10 +337,10 @@ fautive. L’editeur en conclut que le sceau est une copie, peut-être ancienne.
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Biliothèque Nationale de France, Paris,
                     <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>4</citedRange>
@@ -349,16 +349,16 @@ fautive. L’editeur en conclut que le sceau est une copie, peut-être ancienne.
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Musée de Sofia, Sofia,
                     <bibl  >
                   <ptr target="Mušmov1934"/>, <citedRange unit="page">p. 334, 4</citedRange>
                </bibl>; 
                 </p>
-            <p part="N">
+            <p >
                    Dumbarton Oaks, Washington D.C.,
                    <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>36a</citedRange>

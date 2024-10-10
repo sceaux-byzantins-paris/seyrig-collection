@@ -114,9 +114,9 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">The blank is rather rectangular in shape, broken at the base, with very raised edges, and is double-struck 
+                           <p xml:lang="en" >The blank is rather rectangular in shape, broken at the base, with very raised edges, and is double-struck 
                                         (the right one by the type of the reverse, but not the reverse).</p>
-                           <p xml:lang="fr" part="N">Flan de forme plutôt rectangulaire, cassé à la base; bords très relevés.
+                           <p xml:lang="fr" >Flan de forme plutôt rectangulaire, cassé à la base; bords très relevés.
                                         Double frappe (le droit par le type du revers, mais non l’inverse).</p>
                         </condition>
                      </supportDesc>
@@ -161,8 +161,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -181,8 +181,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JOo2Rs-r</rs>
-                              <p xml:lang="en" part="N">Iconography and monogram</p>
-                              <p xml:lang="fr" part="N">Iconographie et monogramme; traces de lettres formant la partie centrale du monogramme dont l’empreinte complète figure au revers</p>
+                              <p xml:lang="en" >Iconography and monogram</p>
+                              <p xml:lang="fr" >Iconographie et monogramme; traces de lettres formant la partie centrale du monogramme dont l’empreinte complète figure au revers</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -221,8 +221,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JOo2Rs-v</rs>
-                              <p xml:lang="en" part="N">Iconography and monogram</p>
-                              <p xml:lang="fr" part="N">Iconographie et monogramme cruciforme composé d’un Θ et d’un V entrelacés, au sommet
+                              <p xml:lang="en" >Iconography and monogram</p>
+                              <p xml:lang="fr" >Iconographie et monogramme cruciforme composé d’un Θ et d’un V entrelacés, au sommet
                                             d'un Δ surmonté d’un Ω à la base, d’un E et d’un P aux extrémités de la barre verticale</p>
                            </layout>
                         </layoutDesc>
@@ -251,7 +251,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -281,14 +281,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
                  <!-- <div type="textpart" subtype="sigla" n="obv" rend="columns">
                       <ab>
                           <lb n="1"/>
                       </ab>
                   </div> --> 
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                          <lb n="1"/><app type="alternative">
                          <lem><expan cert="low" ><expan ><ex >Θεοδώρου</ex></expan></expan></lem>
                          <rdg><expan cert="low" ><expan ><ex >Δωροθέου</ex></expan></expan></rdg>
@@ -296,17 +296,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -314,19 +314,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοδώρου <hi rend="italic">vel</hi> Δωροθέου.</p>
-            <p xml:lang="en" part="N">(Seal of) Theodore <hi rend="italic">or</hi> Dorotheos.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Théodore <hi rend="italic">ou</hi> Dorothée.</p>
+         <div type="translation"   >
+            <p >Θεοδώρου <hi rend="italic">vel</hi> Δωροθέου.</p>
+            <p xml:lang="en" >(Seal of) Theodore <hi rend="italic">or</hi> Dorotheos.</p>
+            <p xml:lang="fr" >(Sceau de) Théodore <hi rend="italic">ou</hi> Dorothée.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

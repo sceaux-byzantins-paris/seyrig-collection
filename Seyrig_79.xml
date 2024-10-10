@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Légèrement échancré et boursoufle au revers sur toute la longueur du canal.</p>
+                           <p >Légèrement échancré et boursoufle au revers sur toute la longueur du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-bs0yXP-r</rs>
-                              <p xml:lang="en" part="N">Monogram of late appearance. The central letter, erased, is surrounded by four pearls.</p>
-                              <p xml:lang="fr" part="N">Monogramme d’aspect tardif, dont l’interprétation est difficile en raison de
+                              <p xml:lang="en" >Monogram of late appearance. The central letter, erased, is surrounded by four pearls.</p>
+                              <p xml:lang="fr" >Monogramme d’aspect tardif, dont l’interprétation est difficile en raison de
                                             l’oblitération de la lettre centrale. Au sommet, un<!-- P surmonté d’un à la base un Cd, à
                       gauche, un R, à droite, un €1-->; le monogramme est cantonné par le tétrasyllabe habituel.</p>
                            </layout>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-bs0yXP-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,10 +267,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><ex >Κύριε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
@@ -278,8 +278,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Κοσ
                           
                                   <lb n="3" break="no"/>μᾷ <rs type="officeCivil" ref="officeCivil.xml#ἀσηκρῆτις"><expan ><abbr>ἀση
@@ -288,49 +288,49 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app/>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ / + Κοσμᾷ ἀσηκρῆτις.</p>
-            <p xml:lang="en" part="N">Lord help your servant Kosmas, asekretis.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Cosmas, <hi rend="italic">asèkrètis</hi>.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ / + Κοσμᾷ ἀσηκρῆτις.</p>
+            <p xml:lang="en" >Lord help your servant Kosmas, asekretis.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Cosmas, <hi rend="italic">asèkrètis</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--V. Laurent avait daté cette pièce du VIIIe siècle. Une datation
+            <p ><!--V. Laurent avait daté cette pièce du VIIIe siècle. Une datation
                       aussi haute est exclue aussi bien par la forme du monogramme [1] que par l’épigraphie.--> </p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>79</citedRange>
@@ -339,15 +339,15 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Hatay Archaeology Museum, Antakya,
                       <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>33</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -358,10 +358,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p4725">Kosmas 64</ref>

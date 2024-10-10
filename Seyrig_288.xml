@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Usé; entaillé aux orifices du canal et au revers fissuré sur tout le trajet de celui-ci.</p>
+                           <p >Usé; entaillé aux orifices du canal et au revers fissuré sur tout le trajet de celui-ci.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-kr746K-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-kr746K-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,15 +265,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Συμε</abbr><ex >ὼν</ex></expan> 
                         <cb n="b"/>ὁ <expan ><abbr>Θαυμ</abbr><ex >α</ex><abbr>τουρ</abbr><ex >γός</ex></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><supplied reason="omitted" >+</supplied> Ὁ ἅγι
                           <lb n="2" break="no"/><supplied reason="omitted" >ο</supplied>ς Συμε
                           <lb n="3" break="no"/><supplied reason="omitted" >ὼ</supplied>ν ὁ ἐν τῷ
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Συμεὼν ὁ Θαυματουργός. / + Ὁ ἅγιος Συμεὼν ὁ ἐν τῷ θαυμαστῷ ὄρει.</p>
-            <p xml:lang="en" part="N">St. Symeon the Thaumaturgist. (Seal of the monastery of) St. Symeon of the Admirable Mount.</p>
-            <p xml:lang="fr" part="N">Saint Syméon le Thaumaturge. (Sceau du monastère de) Saint Syméon du Mont Admirable.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Συμεὼν ὁ Θαυματουργός. / + Ὁ ἅγιος Συμεὼν ὁ ἐν τῷ θαυμαστῷ ὄρει.</p>
+            <p xml:lang="en" >St. Symeon the Thaumaturgist. (Seal of the monastery of) St. Symeon of the Admirable Mount.</p>
+            <p xml:lang="fr" >Saint Syméon le Thaumaturge. (Sceau du monastère de) Saint Syméon du Mont Admirable.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Ce sceau se rattache au groupe de pièces connues du monastère
+            <p ><!--Ce sceau se rattache au groupe de pièces connues du monastère
                       de Saint Syméon sur le Mont Admirable, dominant on le sait, l’embouchure de l’Oronte
                       [1]. Il ne faut pas confondre ce saint Syméon, le
                       Jeune, avec son homonyme et modèle, le plus célèbre des stylites, pour qui on construisit
@@ -328,10 +328,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. LAURENT, <hi rend="italic">Corpus</hi>, V, 2, 1559 bis et 1560.-->
                       </p>
          </div>

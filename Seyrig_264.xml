@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné sur le tout le pourtour; nettement échancré aux orifices du canal.</p>
+                           <p >Fortement rogné sur le tout le pourtour; nettement échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JKGD7l-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -208,8 +208,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JKGD7l-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -237,7 +237,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,15 +265,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                   <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                   <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτηρ</ex></expan>
                         <cb n="b"/><supplied reason="lost" ><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan></supplied>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><supplied reason="omitted" >+</supplied> <rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><supplied reason="omitted" ><abbr>Θ</abbr><ex >εοτό</ex></supplied><abbr><supplied reason="omitted" >κ</supplied>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></rs>
                           <lb n="2"/><supplied reason="omitted" >Βα</supplied>σιλείῳ
                           <lb n="3"/><supplied reason="omitted" >ἐπ</supplied>ίσκοπον
@@ -283,17 +283,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -301,17 +301,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ / + Θεοτόκε βοήθει Βασιλείῳ ἐπίσκοπον τῶν Φυτείας.</p>
-            <p xml:lang="en" part="N">Mother of God. Theotokos help Basil, bishop of Phyteia</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Théotokos aide Basile, évêque de Phyteia.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ / + Θεοτόκε βοήθει Βασιλείῳ ἐπίσκοπον τῶν Φυτείας.</p>
+            <p xml:lang="en" >Mother of God. Theotokos help Basil, bishop of Phyteia</p>
+            <p xml:lang="fr" >Mère de Dieu. Théotokos aide Basile, évêque de Phyteia.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- L’évêché de Phyteia relevait de la métropole
+            <p ><!-- L’évêché de Phyteia relevait de la métropole
                       de Synada, en Phrygie Salutaire. V. Laurent a d’abord daté ce sceau de la fin du Xe siècle
                       (Orghidan), puis du XIIe siècle (Corpus), et enfin a corrigé cette date en faveur de la seconde
                       moitié du XIe siècle[1], en fonction de la datation de l’épiscopat
@@ -319,18 +319,18 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                           [1]. <hi rend="italic">Corpus</hi>, V, 2, <hi rend="italic">Corrigenda</hi>, p. 456. -->
                       </p>
             <div type="bibliography"
                  subtype="edition"
-                 part="N"
+                 
                  
                  >
-               <p part="N"> Bibliothèque Nationale de France, Paris,
+               <p > Bibliothèque Nationale de France, Paris,
                               <bibl  >
                      <ptr target="Seyrig"/>, <citedRange unit="part"> 264</citedRange>
                   </bibl>.
@@ -339,10 +339,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Rumanian Academy of Letters, Bucarest; Dumbarton Oaks, Washington D.C. (Fogg 444),
+            <p > Rumanian Academy of Letters, Bucarest; Dumbarton Oaks, Washington D.C. (Fogg 444),
                       <bibl  >
                   <ptr target="Orghidan"/>,<citedRange unit="part"> 379</citedRange>,</bibl>
                <bibl  >

@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!-- add WellCentered and cracked as tags -->
-                           <p xml:lang="en" part="N">Well centred but cracked and blistered along the channel line.</p>
-                           <p xml:lang="fr" part="N">Bien centré mais fissuré et boursouflé le long de la ligne du canal.</p>
+                           <p xml:lang="en" >Well centred but cracked and blistered along the channel line.</p>
+                           <p xml:lang="fr" >Bien centré mais fissuré et boursouflé le long de la ligne du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">27</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-jrlmg8-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">27</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-jrlmg8-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,15 +271,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Ἰωάννην 
                           <lb n="2"/>Φάλκωνα 
                           <lb n="3"/>παρθένε 
@@ -287,17 +287,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,33 +305,33 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Ἰωάννην Φάλκωνα παρθένε σκέποις.</p>
-            <p xml:lang="en" part="N">Mother of God. / Virgin Mary, shelter John Phalkon.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Vierge Marie, protège Jean Falkôn.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Ἰωάννην Φάλκωνα παρθένε σκέποις.</p>
+            <p xml:lang="en" >Mother of God. / Virgin Mary, shelter John Phalkon.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Vierge Marie, protège Jean Falkôn.</p>
             <!-- trad.???? -->
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Jean Falkôn est probablement issu d’une des nombreuses
+            <p ><!--  Jean Falkôn est probablement issu d’une des nombreuses
                       familles, d’origine latine, installées dans l’Empire sous les premiers Comnènes, à l’occasion
                       de l'important recrutement de mercenaires occidentaux pratiqué par ces empereurs. À l’époque
                       des Paléologues, le <hi rend="italic">PLP</hi>, à paraître, a recensé quatre mentions de Falkôn et une de Falkônès.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 315</citedRange>
                </bibl>.
@@ -339,10 +339,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C.,
+            <p > Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="LaurentCorpus5.3"/>,<citedRange unit="part"> 1701 <hi rend="italic">bis</hi>
                   </citedRange>,</bibl>

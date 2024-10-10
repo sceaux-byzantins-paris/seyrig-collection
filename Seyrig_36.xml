@@ -105,9 +105,9 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Worn edge all around, with large indentations at the channel openings; large and clearly engraved letters; on the reverse, the first line and the initial cross have been destroyed </p>
+                           <p xml:lang="en" >Worn edge all around, with large indentations at the channel openings; large and clearly engraved letters; on the reverse, the first line and the initial cross have been destroyed </p>
                            <!--pour la croisette j'ai utilisé "cross" mais je ne suis pas sûr-->
-                           <p xml:lang="fr" part="N">Rogné sur tout le pourtour, avec des échancrures importantes aux orifices du canal; lettres de grande taille
+                           <p xml:lang="fr" >Rogné sur tout le pourtour, avec des échancrures importantes aux orifices du canal; lettres de grande taille
                                         et nettement gravées; sur le revers, la première ligne et la croisette initiale ont été détruites</p>
                            <!-- anglais?; ici il fallait aussi ajouter la remarque présente dans la descriptiono du revers, que vous aviez mis dans l'apparat -->
                         </condition>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JdgnlX-r</rs>
-                              <p xml:lang="en" part="N">Cruciform Marian monogram, of the Laurent V type, framed by the usual tetrasyllable</p>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme, de type Laurent V cantonné par le 
+                              <p xml:lang="en" >Cruciform Marian monogram, of the Laurent V type, framed by the usual tetrasyllable</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme, de type Laurent V cantonné par le 
                                             tétrasyllabe habituel</p>
                               <!-- cette description n'est pas exactement celle de l'édition: à revoir -->
                            </layout>
@@ -215,8 +215,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JdgnlX-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,10 +272,10 @@
    </facsimile>
    <text>
       <body><!-- dans un second temps, il faudra voir si  rajouter l'identification proposée avec Xylinitès -->
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
@@ -283,8 +283,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang=""><!--j'ai conservé une numérotation des lignes indépendantes, à modifier sans doute / je n'ai pas compris la remarquem la numérotation suit correctement celle de l'avers-->
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang=""><!--j'ai conservé une numérotation des lignes indépendantes, à modifier sans doute / je n'ai pas compris la remarquem la numérotation suit correctement celle de l'avers-->
+                      <ab >
                                   <lb n="2"/>  <supplied reason="omitted" >+ Νικ</supplied>
                           
                                   <lb n="3" break="no"/>ήτᾳ 
@@ -301,49 +301,49 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
             <!-- propos replacé dans l'état de conservation; l'apparat critique ne s'écrit pas comme ceci en SigiDoc xml, et en effet EFES ne l'a pas visualisé -->
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Νικήτᾳ πατρικίῳ καὶ μαγίστρῳ +.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant Niketas, patrikios and magistros.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Nicétas, patrice et magistre.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Νικήτᾳ πατρικίῳ καὶ μαγίστρῳ +.</p>
+            <p xml:lang="en" >Mother of God help your servant Niketas, patrikios and magistros.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur Nicétas, patrice et magistre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Étant donné que la dignité de magistre était
+            <p ><!--Étant donné que la dignité de magistre était
                       parcimonieusement attribuée à cette époque, peut-être à un unique bénéficiaire, notre plomb
                       pourrait avoir appartenu à Nicétas Xylinitès, attesté en 716 [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. THÉOPHANE, p. 400.   --> 
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>36</citedRange>
@@ -352,15 +352,15 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                      Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>3157a et b</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -370,10 +370,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PmbZOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16582/html">Niketas 5399</ref>

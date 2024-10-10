@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Bien centré; légères entailles sur le bord avec une erreur de gravure à la dernière ligne.</p>
+                           <p >Bien centré; légères entailles sur le bord avec une erreur de gravure à la dernière ligne.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">9</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-HybfJC-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -208,8 +208,8 @@
                                  <dim type="diameter">9</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-HybfJC-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -237,7 +237,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,9 +265,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>Σφρα
                            <lb n="2" break="no"/>γὶς ὁσι
                           <lb n="3" break="no"/>ου
@@ -276,8 +276,8 @@
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="4"/>Λου
                           <lb n="5" break="no"/>κᾶ τοῦ
                           <lb n="6"/>Στειρι
@@ -287,17 +287,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,17 +305,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Σφραγὶς ὁσιου / Λουκᾶ τοῦ Στειριώτου.</p>
-            <p xml:lang="en" part="N">Seal of (the monastery) of Saint Luke Steiriotes.</p>
-            <p xml:lang="fr" part="N">Sceau (du monastère) de Saint Luc Steiriôtès.</p>
+         <div type="translation"   >
+            <p >Σφραγὶς ὁσιου / Λουκᾶ τοῦ Στειριώτου.</p>
+            <p xml:lang="en" >Seal of (the monastery) of Saint Luke Steiriotes.</p>
+            <p xml:lang="fr" >Sceau (du monastère) de Saint Luc Steiriôtès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Il s’agit du fameux couvent situé en Phocide, fondé
+            <p ><!-- Il s’agit du fameux couvent situé en Phocide, fondé
                       au Xe siècle et qui se développa rapidement au siècle suivant. Le plomb conservé à Athènes
                       [1] n’est pas strictement identique : C4>PA - HÇ O -
                       CIOV || - 5K - AUKA -TU CTÇI - PICÙTU (deuxième ou troisième tiers du XIe siècle). Une
@@ -325,10 +325,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!-- xml:id="footnote-1">
+            <p ><!-- xml:id="footnote-1">
                           [1]. KONSTANTOPOULOS, <hi rend="italic">Molybdoboulla</hi>, 66.
                       </p>                   
                       <p xml:id="footnote-2">
@@ -337,10 +337,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 284</citedRange>
                </bibl>.

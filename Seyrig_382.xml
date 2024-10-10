@@ -112,8 +112,8 @@ de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies 
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Well preserved, slightly indented at the ends of the canal and swollen in the central part on the right.</p>
-                           <p xml:lang="fr" part="N">Bien conservé, légèrement échancré aux extrémités du canal et renflé dans sa partie centrale, au droit.</p>
+                           <p xml:lang="en" >Well preserved, slightly indented at the ends of the canal and swollen in the central part on the right.</p>
+                           <p xml:lang="fr" >Bien conservé, légèrement échancré aux extrémités du canal et renflé dans sa partie centrale, au droit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -156,8 +156,8 @@ de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies 
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -176,8 +176,8 @@ de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies 
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-OcZtGl-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -218,8 +218,8 @@ de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies 
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-OcZtGl-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -250,7 +250,7 @@ de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies 
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -279,29 +279,29 @@ de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies 
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                         <cb n="a"/>+Raimundus comes tripolitanus
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                           <cb n="b"/>+et <expan ><abbr>h</abbr><ex >a</ex><abbr>ec</abbr></expan> sua civitas Tripolis
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,31 +309,31 @@ de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies 
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+Raimundus comes tripolitanus / +et haec sua civitas Tripolis.</p>
-            <p xml:lang="en" part="N">Raymond duke of Tripoli and  this is his state of Tripoli.</p>
-            <p xml:lang="fr" part="N">Raymond duc de Tripoli et c'est son état de Tripoli.</p>
+         <div type="translation"   >
+            <p >+Raimundus comes tripolitanus / +et haec sua civitas Tripolis.</p>
+            <p xml:lang="en" >Raymond duke of Tripoli and  this is his state of Tripoli.</p>
+            <p xml:lang="fr" >Raymond duc de Tripoli et c'est son état de Tripoli.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Raymond de Tripoli s’opposa vivement au roi de Jérusalem, Guy de Lusignan,
+            <p ><!-- Raymond de Tripoli s’opposa vivement au roi de Jérusalem, Guy de Lusignan,
                       mais participa cependant à la désastreuse bataille de Hattin contre Saladin, dont il fut un
                       des rares rescapés. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 382</citedRange>,</bibl>
                <bibl  >
@@ -345,18 +345,18 @@ de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies 
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"><!--Un exemplaire conservé à Malte; un autre est connu par ailleurs (d’après la Sigillographie de l’Orient latin,
+            <p ><!--Un exemplaire conservé à Malte; un autre est connu par ailleurs (d’après la Sigillographie de l’Orient latin,
 p. 60-61, n- 139-142).--></p>
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N"><!-- missing bibliography --></p>
+            <p ><!-- missing bibliography --></p>
          </div>
       </body>
    </text>

@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré ; bord inférieur très relevé ; tiers rogné dans toute la partie supérieure ; lettres empâtées.
+                           <p >Décentré ; bord inférieur très relevé ; tiers rogné dans toute la partie supérieure ; lettres empâtées.
                                         </p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition><!-- ici et dans tous les fichiers: à compléter -->
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,9 +170,9 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ER2GOU-r</rs>
-                              <p xml:lang="en" part="N">Cruciform Marian monogram of type Laurent I</p>
+                              <p xml:lang="en" >Cruciform Marian monogram of type Laurent I</p>
                               <!-- à compléter -->
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme du type Laurent I.</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme du type Laurent I.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ER2GOU-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,10 +269,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     <rs type="invocation" ref="invocation.xml#Θεοτόκε1">
                           <lb n="1"/> <expan ><ex >Θεοτόκε βοήθει</ex></expan><!-- à tagger comme monogramme -->
 
@@ -280,8 +280,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Νικ
                                
                                   <lb n="3" break="no"/><supplied reason="omitted" >ο</supplied>λάῳ ἀ
@@ -294,30 +294,30 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / + Νικολάῳ ἀπὸ ἐπάρχων.</p>
-            <p xml:lang="en" part="N">Mother of God help Nikolaos, apo eparchon.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Nicolas, <hi rend="italic">apo éparchôn</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / + Νικολάῳ ἀπὸ ἐπάρχων.</p>
+            <p xml:lang="en" >Mother of God help Nikolaos, apo eparchon.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Nicolas, <hi rend="italic">apo éparchôn</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le type à l’aigle se rencontre jusqu’au premier tiers du VIIIe siècle ; le
+            <p ><!--Le type à l’aigle se rencontre jusqu’au premier tiers du VIIIe siècle ; le
 monogramme, du type Laurent I, était en vogue dans la seconde moitié du VIIe siècle. Les
 légendes au datif apparaissent à la fin du VIIe siècle, d’où la datation proposée. On connaît
 un type de sceau très proche du nôtre dont l’inscription, identique, est différemment répartie ;
@@ -326,19 +326,19 @@ collection Shaw 563.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    <!--   [1]. KONSTANTOPOULOS, <hi rend="italic">Stamoulis</hi>, 28-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>20</citedRange>
@@ -347,27 +347,27 @@ collection Shaw 563.--></p>
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque de l’Académie Roumaine, Bucarest,
                       <bibl  >
                   <ptr target="Orghidan"/>, <citedRange>296</citedRange>
                </bibl>; </p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>664</citedRange>
                </bibl>; </p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.5407/view"/>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -377,10 +377,10 @@ collection Shaw 563.--></p>
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PmbZOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16727/html">Nikolaos 5543</ref>

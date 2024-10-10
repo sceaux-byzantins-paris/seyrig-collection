@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné sur tout le pourtour; boursouflé le long de la ligne du canal.</p>
+                           <p >Fortement rogné sur tout le pourtour; boursouflé le long de la ligne du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tIPLNu-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes.</p>
+                              <p xml:lang="en" >Legend of 3 lines.</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,8 +215,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tIPLNu-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,18 +271,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                       <lb n="1"/>Σφρα
                       <lb n="2" break="no"/>γὶς Ἰω
                       <lb n="3" break="no"/>σήφ
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="4"/>Ταρχα
                         <lb n="5" break="no"/>νιώτου
                         <lb n="6"/><rs type="dignity" ref="dignities.xml#μάγιστρος">μαγίσ
@@ -290,17 +290,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,35 +308,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Σφραγὶς Ἰωσήφ / Ταρχανιώτου μαγίστρου.</p>
-            <p xml:lang="en" part="N">Seal of Joseph Tarchaneiotes, magistros.</p>
-            <p xml:lang="fr" part="N">Sceau de Joseph Tarchaniôtès, magistre.</p>
+         <div type="translation"   >
+            <p >Σφραγὶς Ἰωσήφ / Ταρχανιώτου μαγίστρου.</p>
+            <p xml:lang="en" >Seal of Joseph Tarchaneiotes, magistros.</p>
+            <p xml:lang="fr" >Sceau de Joseph Tarchaniôtès, magistre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Sur la carrière de ce personnage, dont nous éditons un autre sceau, voir
+            <p ><!--Sur la carrière de ce personnage, dont nous éditons un autre sceau, voir
                       la notice du n° 161 <!-\-créer lien-\->. Joseph Tarchaniôtès cessa d’être magistre au début de 1072, puisqu’à
                       cette date, il fut nommé duc d’Antioche, avec le titre de proèdre.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                           Bibliothèque Nationale de France, Paris
                           <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>39</citedRange>
@@ -345,10 +345,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                           Dumbarton Oaks, Washington D.C.,
                           <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -358,11 +358,11 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                       <!--<p><bibl><ptr target=""/>, <citedRange unit="page"> p. 31</citedRange></bibl>,</p>--><!--ajouter référence Leontiades-->
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/451/">Joseph 61</ref>

@@ -109,7 +109,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!--Surfrappé mais je n'ai pas trouvé son équivalent dans le guide de Sigidoc/ pour l'instant on laisse comme ceci, il faut en effet ajouter quelque chose de plus explicite dans le guide: ceci aurait été intéressant en tant que issue dans GitLab-->
-                           <p part="N">Surfrappé sur un autre beaucoup plus large ; échancré aux orifices du canal ; celui-ci a boursouflé et fissuré
+                           <p >Surfrappé sur un autre beaucoup plus large ; échancré aux orifices du canal ; celui-ci a boursouflé et fissuré
                                         le sceau par son milieu.</p>
                         </condition>
                      </supportDesc>
@@ -154,8 +154,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -174,8 +174,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VV1gRe-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes.</p>
+                              <p xml:lang="en" >Legend of 4 lines.</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,8 +215,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VV1gRe-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -245,7 +245,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,10 +272,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                       <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> βο
                                
                                   <lb n="2" break="no"/>ήθει τῷ
@@ -285,8 +285,8 @@
                                   <lb n="4"/><expan ><abbr>Ἰω</abbr><ex >άννῃ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N"><!-- attention à la disposition des éléments pour les termes divisés entre deux lignes, comme anthypatos et patrikios ici -->
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab ><!-- attention à la disposition des éléments pour les termes divisés entre deux lignes, comme anthypatos et patrikios ici -->
 
                                   <lb n="5"/><rs type="dignity" ref="dignities.xml#ἀνθύπατος"><expan ><abbr>ἀνθυ
                                
@@ -300,17 +300,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -318,19 +318,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Κύριε βοήθει τῷ σῷ δούλῳ / Ἰωάννῃ ἀνθυπάτῳ πατρικίῳ τῷ Κουρκούᾳ.</p>
+         <div type="translation"   >
+            <p >+ Κύριε βοήθει τῷ σῷ δούλῳ / Ἰωάννῃ ἀνθυπάτῳ πατρικίῳ τῷ Κουρκούᾳ.</p>
             <!-- ceci ne correpond pas à la légende du sceau 48 -->
-            <p xml:lang="en" part="N">Lord help your servant John Kourkouas, anthypatos and patrikios.</p>
+            <p xml:lang="en" >Lord help your servant John Kourkouas, anthypatos and patrikios.</p>
             <!-- il faudra penser à supprimer le / dans les traductions, car il n'est pas toujours passible de respecter cela; pour l'instant on laisse -->
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Jean Kourkouas, <hi rend="italic">anthypatos</hi> et patrice.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Jean Kourkouas, <hi rend="italic">anthypatos</hi> et patrice.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Trois Jean Kourkouas sont connus ; le plus ancien fut le fameux
+            <p ><!--Trois Jean Kourkouas sont connus ; le plus ancien fut le fameux
                       domestique des Scholes, en fonction durant 22 ans sous Romain Lecapène [1]. Le second, petit-fils du premier, périt face aux Russes, sous les ordres
                       de son cousin, l’empereur Jean Tzimiskès [2].
                       Le dernier fut catépan d’Italie; il débarqua à Bari en mai 1008 et y mourut entre septembre
@@ -341,26 +341,26 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                   <!--    [1]. GUILLAND, <hi rend="italic">Institutions</hi> I, p. 442.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                      <!-- [2]. SKYLITZÈS, p. 304; LÉON DIACRE, p. 126, p. 148.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                       <!--[3]. ANONYME DE BARI, p. 148, LUPUS PROTOSPATHARIUS, p. 56-57, <hi rend="italic">Annales
                           de Bari</hi>, p. 53.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>48</citedRange>

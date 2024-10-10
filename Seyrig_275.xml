@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné au pourtour, fissuré le long de la ligne du canal, pressé et oblitéré à la périphérie sur les deux
+                           <p >Fortement rogné au pourtour, fissuré le long de la ligne du canal, pressé et oblitéré à la périphérie sur les deux
                                         faces.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">28</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JfDep3-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">28</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-JfDep3-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,15 +267,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>Σφραγὶς
                           <lb n="2"/>Δανιὴλ
                           <lb n="3"/>μητροπο
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,32 +303,32 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Σφραγὶς Δανιὴλ μητροπολίτου Τύρου.</p>
-            <p xml:lang="en" part="N">Mother of God. Seal of Daniel, metropolitan of Tyre.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Sceau de Daniel, métropolite de Tyr.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Σφραγὶς Δανιὴλ μητροπολίτου Τύρου.</p>
+            <p xml:lang="en" >Mother of God. Seal of Daniel, metropolitan of Tyre.</p>
+            <p xml:lang="fr" >Mère de Dieu. Sceau de Daniel, métropolite de Tyr.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  L’épigraphie et les éléments de décor ne permettent pas
+            <p ><!--  L’épigraphie et les éléments de décor ne permettent pas
                       de dater le sceau du XIe siècle comme l’avait pensé Laurent. Il est à remarquer qu’au milieu
                       du nom se trouve un signe d’abréviation sans signification (comme dans les<hi rend="italic"> nomina sacra</hi>).
                       Le métropolite ne résidait pas sur place pendant l’occupation latine (1122-1291).--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 275</citedRange>
                </bibl>.
@@ -336,10 +336,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C. (Coll. Zacos (vraisemblablement de même boullôtèrion et mieux conservé),
+            <p > Dumbarton Oaks, Washington D.C. (Coll. Zacos (vraisemblablement de même boullôtèrion et mieux conservé),
                       <bibl  >
                   <ptr target="LaurentCorpus5.2"/>, <citedRange unit="part"> 1532</citedRange>,</bibl>
                <bibl  >

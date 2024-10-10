@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Fortement pressé et oblitéré au droit et au revers sur le côté gauche et sur le droit.</p>
+                           <p >Fortement pressé et oblitéré au droit et au revers sur le côté gauche et sur le droit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-yvlcxV-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-yvlcxV-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,14 +265,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                             <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>βοήθ</abbr><ex >ει</ex></expan> τῷ σῷ <expan ><abbr>δ</abbr><ex >ούλῳ</ex></expan></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <expan ><abbr>Γρ</abbr><ex >η</ex><abbr>γ</abbr><ex >ορίῳ</ex></expan>
                           <lb n="2"/><rs type="dignity" ref="dignities.xml#ἀνθύπατος"><expan ><abbr><supplied reason="lost" >ἀ</supplied>νθυπ</abbr><ex >ά</ex><abbr>τ</abbr><ex >ῳ</ex></expan></rs>
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#πατρίκιος"><supplied reason="lost" >π</supplied>ατρικ<supplied reason="lost" >ίῳ</supplied></rs>
@@ -282,17 +282,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="5">
                   <lem>τοῦ Ὀψικίου; τῷ Ὀψαρᾷ</lem>
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / Γρηγορίῳ ἀνθυπάτῳ πατρικίῳ καὶ στρατηγῷ τοῦ Ὀψικίου.</p>
-            <p xml:lang="en" part="N">Theotokos help your servant Gregory, anthypatos, patrikios and strategos of the Opsikion.</p>
-            <p xml:lang="fr" part="N">Théotokos aide ton serviteur Grégoire, <hi rend="italic">anthypatos</hi>, patrice et stratège de l’Opsikion.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / Γρηγορίῳ ἀνθυπάτῳ πατρικίῳ καὶ στρατηγῷ τοῦ Ὀψικίου.</p>
+            <p xml:lang="en" >Theotokos help your servant Gregory, anthypatos, patrikios and strategos of the Opsikion.</p>
+            <p xml:lang="fr" >Théotokos aide ton serviteur Grégoire, <hi rend="italic">anthypatos</hi>, patrice et stratège de l’Opsikion.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Pour un type de droit analogue, voir
+            <p ><!--Pour un type de droit analogue, voir
                       ZACOS II, 116, 121, 169, 249, 262 etc.
                       L’Opsikion était dirigé traditionnellement par un comte, mais on assiste à partir de la
                       seconde moitié du Xe siècle à une uniformisation du titre de stratège dans tous les thèmes,
@@ -321,20 +321,20 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. OIKONOMIDÈS,
                           <hi rend="italic">Listes</hi>, p. 348.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>191</citedRange>

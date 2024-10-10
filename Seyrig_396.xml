@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Well preserved, slightly indented at the channel openings and blistered on the reverse.</p>
-                           <p xml:lang="fr" part="N">Bien conservé, légèrement échancré aux orifices du canal et boursouflé au revers.</p>
+                           <p xml:lang="en" >Well preserved, slightly indented at the channel openings and blistered on the reverse.</p>
+                           <p xml:lang="fr" >Bien conservé, légèrement échancré aux orifices du canal et boursouflé au revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">10</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-vZE1Ye-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">10</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-vZE1Ye-v</rs>
-                              <p xml:lang="en" part="N">Legend of 2 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 2 lignes</p>
+                              <p xml:lang="en" >Legend of 2 lines</p>
+                              <p xml:lang="fr" >Légende sur 2 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,32 +270,32 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>Μώση 
                         <lb n="2"/>τοῦ Ζη
                         <lb n="3" break="no"/>έτῃ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang=""> <!-- this is in syriac -->
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang=""> <!-- this is in syriac -->
+                      <ab >
                           <cb n="a"/>MWŠ
                           <cb n="b"/>BR ZYD
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μώση τοῦ Ζηέτῃ. / MWŠ BR ZYD.</p>
-            <p xml:lang="en" part="N">Moses of Zeid. / Mûsā son of Zeid.</p>
-            <p xml:lang="fr" part="N">Moïse de Zeid. / Mûsā fils de Zeid.</p>
+         <div type="translation"   >
+            <p >Μώση τοῦ Ζηέτῃ. / MWŠ BR ZYD.</p>
+            <p xml:lang="en" >Moses of Zeid. / Mûsā son of Zeid.</p>
+            <p xml:lang="fr" >Moïse de Zeid. / Mûsā fils de Zeid.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le patronyme est un nom arabe très fréquent à toutes les époques. Ici, ZYD,
+            <p ><!--Le patronyme est un nom arabe très fréquent à toutes les époques. Ici, ZYD,
                       "augmenter, accroître”, peut-être une forme hypochoristique de nom théophore, par exemple,
                       ZYD’L, ZYDLT, "El, ou Allât, a augmenté (la famille)”.
                       Le nom ZYDLT est connu à Édesse aux premiers siècles après J.-C. [1], [2]. En grec, on connaît plusieurs graphies: Ζεδος, Ζειεδος, Ζηεδ [3]. 
@@ -321,10 +321,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                   [1]. Cf. J. B. SEGAL,
                   <hi rend="italic">Bull, of the School of Oriental and African Studies</hi> 22 (1959), p. 38.
               </p>

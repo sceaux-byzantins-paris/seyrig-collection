@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition><!-- @rend à ajouter -->
-                           <p xml:lang="en" part="N">Notched at the channel openings; blistered along the channel and pressed on the left side of the reverse; in the process of oxidation.</p>
-                           <p xml:lang="fr" part="N">Échancré aux orifices du canal; boursouflé le long du canal et pressé sur le côté gauche du revers; en voie
+                           <p xml:lang="en" >Notched at the channel openings; blistered along the channel and pressed on the left side of the reverse; in the process of oxidation.</p>
+                           <p xml:lang="fr" >Échancré aux orifices du canal; boursouflé le long du canal et pressé sur le côté gauche du revers; en voie
                                         d’oxydation.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-T7hKpa-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-T7hKpa-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,15 +270,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><abbr>Μ</abbr><ex >ι</ex>
                           <cb n="b" break="no"/><abbr>χ</abbr><ex >αήλ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Τήρι
                           <lb n="2"/><supplied reason="lost" >Μ</supplied>ιχαήλ 
                           <lb n="3"/>τὸν σὸν 
@@ -286,17 +286,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,17 +304,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μιχαήλ. / Τήρι Μιχαήλ τὸν σὸν οἰκέτην.</p>
-            <p xml:lang="en" part="N">Michael. / Safeguard your servant Michael.</p>
-            <p xml:lang="fr" part="N">Michel. / Protège ton serviteur Michel.</p>
+         <div type="translation"   >
+            <p >Μιχαήλ. / Τήρι Μιχαήλ τὸν σὸν οἰκέτην.</p>
+            <p xml:lang="en" >Michael. / Safeguard your servant Michael.</p>
+            <p xml:lang="fr" >Michel. / Protège ton serviteur Michel.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Deux autres bulles commencent par le même mot
+            <p ><!--Deux autres bulles commencent par le même mot
                       que la nôtre:
                   Τήρει Λέοντα, τήρων, Ἀλακασέα [1];
                   Τήρει θεράπων τοῦ Θεοῦ μυροβλύτα... [2].
@@ -323,10 +323,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. DO 58.106.4092.
                   </p>
                   <p xml:id="footnote-2">

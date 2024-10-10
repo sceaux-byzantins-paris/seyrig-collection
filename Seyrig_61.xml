@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="crushed"><!--je ne suis pas sûr; ceci a fait l'objet d'une eptite révision dernièrement, donc pour l'nstant on laisse ainsi-->
-                           <p part="N">Échancrure au sommet du canal, entaillé sur le côté gauche qui est aussi pressé et étiré. Très belle gravure.</p>
+                           <p >Échancrure au sommet du canal, entaillé sur le côté gauche qui est aussi pressé et étiré. Très belle gravure.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-CSgkwh-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne et légende invocative circualire commençant à 7h.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne et légende invocative circualire commençant à 7h.</p>
                               <!-- on verra si 7h est opportun -->
                            </layout>
                         </layoutDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-CSgkwh-v</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne et légende circulaire commençant à 7h</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne et légende circulaire commençant à 7h</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,41 +268,41 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigle" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigle" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Ἰω</abbr><ex >άννης</ex></expan> 
                         <cb n="b"/>ὁ <expan ><abbr>Πρ</abbr><ex >όδρομος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <supplied reason="lost" >β</supplied>οήθ<supplied reason="lost" >ει</supplied> τῷ σῷ <expan ><abbr>δούλ</abbr><ex >ῳ</ex></expan></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="label" n="rev" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="label" n="rev" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/>Ὁ ἅγιος 
                             <cb n="b"/><expan ><abbr>Θεόδωρ</abbr><ex >ος</ex></expan>
                                </ab>
                           </div>
-                   <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                   <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                           <lb n="2"/>+ <expan ><abbr>Πολυεύκτ</abbr><ex >ῳ</ex></expan> <rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><abbr><am ><g type="protos1"/></am></abbr><ex >πρωτο</ex><abbr>σπαθαρίῳ</abbr></expan></rs>
                       </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,21 +310,21 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Ἰωάννης ὁ Πρόδρομος. / Ὁ ἅγιος Θεόδωρος.</p>
-            <p part="N">+ Κύριε βοήθει τῷ σῷ δούλῳ / + Πολυεύκτῳ πρῶτοσπαθαρίῳ.</p>
-            <p xml:lang="en" part="N">St. John the Prodromos. St. Theodoros.</p>
-            <p xml:lang="en" part="N">Lord aid your servant Polyeuktos, protospatharios.</p>
-            <p xml:lang="fr" part="N">Saint Jean Prodrome. Saint Théodore.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Polyeucte, protospathaire.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Ἰωάννης ὁ Πρόδρομος. / Ὁ ἅγιος Θεόδωρος.</p>
+            <p >+ Κύριε βοήθει τῷ σῷ δούλῳ / + Πολυεύκτῳ πρῶτοσπαθαρίῳ.</p>
+            <p xml:lang="en" >St. John the Prodromos. St. Theodoros.</p>
+            <p xml:lang="en" >Lord aid your servant Polyeuktos, protospatharios.</p>
+            <p xml:lang="fr" >Saint Jean Prodrome. Saint Théodore.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Polyeucte, protospathaire.</p>
             <!-- c'est une hypothèse, mais le déboublement des p n'est pas forcément une bonne idée. -->
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le nom de Polyeucte est rarement présent sur les sceaux
+            <p ><!--Le nom de Polyeucte est rarement présent sur les sceaux
                       du XIe siècle. Plusieurs bulles au nom de Polyeucte, magistre, sont conservées [1]. Bien que contemporain du signataire de
                       notre bulle, il ne doit pas être identifié à celui-ci, en raison du motif iconographique choisi
                       pour le droit de son sceau (la Vierge). Notre Polyeucte est également postérieur au
@@ -334,27 +334,27 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1]. LAURENT,
                           <hi rend="italic">Bulles métriques</hi>, 308, Fogg 2327, DO 58.106.4682.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. KONSTANTOPOULOS, <hi rend="italic">Molybdoboulla</hi>, 542.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                           <!--[3]. W. SEIBT, Drei byzantinische Bleisiegel aus
                           Ephesos, <hi rend="italic">Litterae numismaticae Vindobonenses</hi>, s.d. (1979), p. 151-154.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>61</citedRange>

@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Champ décentré et fortement rogné vers la gauche; gravure assez nette pour le reste.</p>
+                           <p >Champ décentré et fortement rogné vers la gauche; gravure assez nette pour le reste.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -170,8 +170,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -190,8 +190,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Mtllxm-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,8 +232,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Mtllxm-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -262,7 +262,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -289,15 +289,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/>Ὁ ἅγιος
                         <cb n="b"/>Δημήτριος
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><rs type="dignity" ref="dignities.xml#σεβαστός">Σεβαστὸν</rs>
                           <lb n="2"/> ἤδη καὶ δομέσ
                           <lb n="3" break="no"/>τικον <expan ><abbr>μ</abbr><ex >έ</ex><abbr>γ</abbr><ex >αν</ex></expan> Ἀλέξι
@@ -308,17 +308,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -326,35 +326,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Δημήτριος / + Σεβαστὸν ἤδη καὶ δομέστικον μέγαν Ἀλέξιον νῦν τὸν Κομνηνὸν δεικνύω.</p>
-            <p xml:lang="en" part="N">St Demetrios. I present Alexios Komnenos, already a sebastos and now a megas domestikos.</p>
-            <p xml:lang="fr" part="N">Saint Dèmètrios. Je présente Alexis Comnène, déjà sébaste et désormais grand domestique.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Δημήτριος / + Σεβαστὸν ἤδη καὶ δομέστικον μέγαν Ἀλέξιον νῦν τὸν Κομνηνὸν δεικνύω.</p>
+            <p xml:lang="en" >St Demetrios. I present Alexios Komnenos, already a sebastos and now a megas domestikos.</p>
+            <p xml:lang="fr" >Saint Dèmètrios. Je présente Alexis Comnène, déjà sébaste et désormais grand domestique.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le titre de sébaste fut octroyé par Nicéphore Botaneiatès à Alexis Comnène
+            <p ><!--Le titre de sébaste fut octroyé par Nicéphore Botaneiatès à Alexis Comnène
                       lorsque ce dernier mit un terme à la rébellion de Nicéphore Basilakios au cours de l’été 1078
                       [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. Cf. ZACOS - VEGLERY, p. 1491-1492, et BARZOS, <hi rend="italic">Généalogie</hi> I, p. 91 sq.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>125</citedRange>
@@ -363,84 +363,84 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     <!--  Musée numismatique d'Athènes, Athènes,
                       <bibl><ptr target=""/>, <citedRange unit="page">13, 1880. p. 45</citedRange></bibl>; --> </p>
             <!--EPhS-->
-            <p part="N">
+            <p >
                       Bibliothèque nationale de France, Paris,
                       <!--bibl><ptr target=""/>, <citedRange unit="page"></citedRange></bibl>; --></p>
             <!--ajouter référence FROEHNER, Annuaire, 1884, p. 332, n° 91;-->
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C., 
                       <bibl  >
                   <ptr target="Schlumberger1884"/>
                   <citedRange unit="page"> p. 640 n. 5</citedRange>
                </bibl>; </p>
-            <p part="N">
+            <p >
                       Musée numismatique d'Athènes, Athènes,
                       <bibl  >
                   <ptr target="Athens1917"/>, <citedRange unit="page">p. 133, n. 496</citedRange>
                </bibl>; 
                   </p>
-            <p part="N">
+            <p >
                       Musée de Sofia, Sofia,
                       <bibl  >
                   <ptr target="Mušmov1934"/>, <citedRange unit="page">p. 347, n. 45</citedRange>
                </bibl>; 
                   </p>
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Laurent1932"/>, <citedRange unit="page">p. 172-173</citedRange>
                </bibl>,</p>
             <!--en vérifiant dans l'article j'ai constaté que la page n'était pas la bonne-->
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>2707bis</citedRange>
                </bibl>,</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>935</citedRange>
                </bibl>,</p>
             <!-- <p><bibl><ptr target=""/>, <citedRange unit="page">p. 729</citedRange></bibl>,</p> Banescu, recueil de sceaux byzantins-->
-            <p part="N">
+            <p >
                   Musée de Srem, Sremska Mitrovica,
                       <bibl  >
                   <ptr target="MaksimovićPopović1993"/>, <citedRange unit="page">p. 216</citedRange>
                </bibl>,</p>
-            <p part="N">
+            <p >
                       Musée Numismatique d’Athènes, Athènes,
                       <bibl  >
                   <ptr target="Athens2000"/>, <citedRange>127</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.1074">BZS.1947.2.1074 (DO 47.2.1074)</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.3960">BZS.1955.1.3960 (DO 55.1.3960)</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.3961">BZS.1955.1.3961 (DO 55.1.3961)</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                   Dumbarton Oaks, Washington D.C.,
                   <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -450,10 +450,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/501/">Alexios 1</ref>

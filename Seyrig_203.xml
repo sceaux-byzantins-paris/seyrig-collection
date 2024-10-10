@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">La partie supérieure a été arrachée; oblitéré à droite; gravure soignée.</p>
+                           <p >La partie supérieure a été arrachée; oblitéré à droite; gravure soignée.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-XHh33Y-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-XHh33Y-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,15 +265,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><supplied reason="lost" ><abbr>Μιχ</abbr></supplied>
                         <cb n="b"/><abbr>αή</abbr><ex >λ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>...
                           <lb n="2"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><abbr><am >α</am></abbr><ex >πρωτο</ex><abbr>σπαθ</abbr><ex >αρίῳ</ex></expan></rs> <expan ><supplied reason="lost" ><abbr>χ</abbr><ex >α</ex></supplied><abbr><supplied reason="lost" >ρ</supplied>
                           <lb n="3" break="no"/>τουλ</abbr><ex >αρίῳ</ex></expan> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>ἀ<supplied reason="lost" >να</supplied>
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="4-5">
                   <lem>[Χα]<supplied reason="omitted" >ρ</supplied> - ση[ανοῦ]</lem>
@@ -307,23 +307,23 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μιχαήλ / ... πρωτοσπαθαρίῳ χαρτουλαρίῳ καὶ ἀναγραφεῖ .. ση...</p>
-            <p xml:lang="en" part="N">St. Michael. (Seal of) N., protospatharios, chartoularios and anagrapheus.</p>
-            <p xml:lang="fr" part="N">Saint Michel. (Sceau de) N., protospathaire, chartulaire et <hi rend="italic">anagrapheus</hi>.</p>
+         <div type="translation"   >
+            <p >Μιχαήλ / ... πρωτοσπαθαρίῳ χαρτουλαρίῳ καὶ ἀναγραφεῖ .. ση...</p>
+            <p xml:lang="en" >St. Michael. (Seal of) N., protospatharios, chartoularios and anagrapheus.</p>
+            <p xml:lang="fr" >Saint Michel. (Sceau de) N., protospathaire, chartulaire et <hi rend="italic">anagrapheus</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--À la fin de l’inscription pouvait être gravé soit le patronyme,
+            <p ><!--À la fin de l’inscription pouvait être gravé soit le patronyme,
 soit le lieu, en principe un nom de thème, où le titulaire aurait exercé sa charge. Dans cette
 dernière hypothèse, on proposera la solution suivante : [Χα] <ρ>- ση|[ανοῦ].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

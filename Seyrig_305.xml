@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Hole on the left side of the right side, which has led to the obliteration of part of the legend; sends oxidation; otherwise the preserved letters are clearly engraved.</p>
-                           <p xml:lang="fr" part="N">Percé d’un trou sur la partie gauche du droit, ce qui a entraîné l’oblitération d’une partie de la légende; en
+                           <p xml:lang="en" >Hole on the left side of the right side, which has led to the obliteration of part of the legend; sends oxidation; otherwise the preserved letters are clearly engraved.</p>
+                           <p xml:lang="fr" >Percé d’un trou sur la partie gauche du droit, ce qui a entraîné l’oblitération d’une partie de la légende; en
                                         voie d’oxydation; sinon les lettres conservées sont nettement gravées.</p>
                         </condition>
                      </supportDesc>
@@ -154,8 +154,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -174,8 +174,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-rYoAqb-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-rYoAqb-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,15 +272,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/><supplied reason="lost" ><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan></supplied>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+<expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan>
                           <lb n="2"/>βοήθει 
                           <lb n="3"/>τῷ σῷ <expan >δ<supplied reason="lost" ><abbr>ού</abbr><ex >λῳ</ex></supplied></expan>
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,18 +308,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Θεοτόκε βοήθει τῷ σῷ δούλῳ Ῥωμανῷ τῷ Κέγχρῃ.</p>
-            <p xml:lang="en" part="N">Mother of God. / Mother of God help your servant Romanos Kenchres.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Θεοτόκε βοήθει τῷ σῷ δούλῳ Ῥωμανῷ τῷ Κέγχρῃ.</p>
+            <p xml:lang="en" >Mother of God. / Mother of God help your servant Romanos Kenchres.</p>
             <!-- attention to the space between the tags and the text: they are preserved on the web page -->
-            <p xml:lang="fr" part="N">Mère de Dieu. / Mère de Dieu aide ton serviteur Romain Kenchrès.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Mère de Dieu aide ton serviteur Romain Kenchrès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Le type de bordure est semblable à celui de notre n° 311
+            <p ><!--  Le type de bordure est semblable à celui de notre n° 311
                       (Nicéphore Myrôn), qui date du troisième quart du XIe siècle. Psellos fut en relation avec
                       trois membres de cette famille, Jean, Elpidios et Syméon. Elpidios, fils de Jean, fut fiançé
                       à la fille unique de Psellos avant que son comportement n’oblige son futur beau-père à rompre
@@ -329,10 +329,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!-- xml:id="footnote-1">
+            <p ><!-- xml:id="footnote-1">
                       [1]. <hi rend="italic">MB</hi>, V, p. 204-206.
                   </p> 
                   <p xml:id="footnote-2">
@@ -341,10 +341,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 305</citedRange>
                </bibl>.
@@ -352,10 +352,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">  Dumbarton Oaks, Washington D.C. (Fogg 1582, Shaw 1196), <!-- Inédit (inventorié dans le cat. dactyl. de la coll. Shaw par V. Laurent, n. 1327). -->
+            <p >  Dumbarton Oaks, Washington D.C. (Fogg 1582, Shaw 1196), <!-- Inédit (inventorié dans le cat. dactyl. de la coll. Shaw par V. Laurent, n. 1327). -->
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.3102"/> BZS.1955.1.3102</citedRange>,</bibl>

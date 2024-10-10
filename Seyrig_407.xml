@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Slightly nicked at the channel holes; pressed and obliterated in several places on both sides; well centred but too weakly engraved.</p>
-                           <p xml:lang="fr" part="N">Légèrement entaillé aux orifices du canal; pressé et oblitéré en plusieurs endroits des deux faces; bien centré
+                           <p xml:lang="en" >Slightly nicked at the channel holes; pressed and obliterated in several places on both sides; well centred but too weakly engraved.</p>
+                           <p xml:lang="fr" >Légèrement entaillé aux orifices du canal; pressé et oblitéré en plusieurs endroits des deux faces; bien centré
                                         mais trop faiblement gravé.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ARImWB-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ARImWB-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,15 +269,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><supplied reason="lost" ><ex >ὁ ἃγιος</ex> Ν</supplied><abbr>ι
                         <cb n="b" break="no"/>κόλαο</abbr><ex >ς</ex></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+<expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οήθει</ex></expan> 
                         <lb n="2"/>τῷ σῷ <expan ><abbr>δ</abbr><ex >ούλῳ</ex></expan> 
                         <lb n="3"/><expan ><abbr>Νικ</abbr><supplied reason="lost" >ο</supplied><abbr>λ</abbr><supplied reason="lost" >ά<ex >ῳ</ex></supplied></expan> 
@@ -286,17 +286,17 @@
                                </ab> <!-- the uncertainty maybe concerns what comes after the word μοναχῷ-->
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,22 +304,22 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Νικόλαος. / +Κύριε βοήθει τῷ σῷ δούλῳ Νικολάῳ μοναχῷ τῷ.......</p>
-            <p xml:lang="en" part="N">Saint Nicholas. / Lord help your servnant Nicholas the monk.......</p>
-            <p xml:lang="fr" part="N">Saint Nicolas. / Seigneur aide ton serviteur Nicolas le moine.......</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Νικόλαος. / +Κύριε βοήθει τῷ σῷ δούλῳ Νικολάῳ μοναχῷ τῷ.......</p>
+            <p xml:lang="en" >Saint Nicholas. / Lord help your servnant Nicholas the monk.......</p>
+            <p xml:lang="fr" >Saint Nicolas. / Seigneur aide ton serviteur Nicolas le moine.......</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le plomb se terminait par un patronyme ou par le nom d’un monastère dont
+            <p ><!--Le plomb se terminait par un patronyme ou par le nom d’un monastère dont
                       il ne reste trop peu de traces pour proposer une solution vraisemblable.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

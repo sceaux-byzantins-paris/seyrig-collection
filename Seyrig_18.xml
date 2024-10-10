@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers la gauche; entaillé aux orifices du canal; oblitéré en partie.</p>
+                           <p >Décentré vers la gauche; entaillé aux orifices du canal; oblitéré en partie.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-N4M8Ob-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                               <!-- il faut toujours écrire les me^mes choses de la me^me manière -->
                            </layout>
                         </layoutDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-N4M8Ob-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,10 +268,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     <rs type="invocation" ref="invocation.xml#Θεοτόκε1">
                           <lb n="1"/> + Θε
                       
@@ -282,8 +282,8 @@
                     </rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang=""><!-- la numérotation des lignes est continue entre avers et revers -->
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang=""><!-- la numérotation des lignes est continue entre avers et revers -->
+                      <ab >
                                   <lb n="5"/> Μιχ
                                
                                   <lb n="6" break="no"/>αὴλ ἀ
@@ -296,35 +296,35 @@
                                </ab>
      </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Θεοτόκε βοήθει / Μιχαὴλ ἀπὸ ἐπάρχων.</p>
-            <p xml:lang="en" part="N">Mother of God help Michael, apo eparchon.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Michel, <hi rend="italic">apo éparchôn.</hi>
+         <div type="translation"   >
+            <p >+ Θεοτόκε βοήθει / Μιχαὴλ ἀπὸ ἐπάρχων.</p>
+            <p xml:lang="en" >Mother of God help Michael, apo eparchon.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Michel, <hi rend="italic">apo éparchôn.</hi>
             </p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
                   
@@ -332,10 +332,10 @@
                   </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">   
+            <p >   
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>18</citedRange>

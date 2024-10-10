@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Pressé et oblitéré dans la partie inférieure droite; décentré légèrement vers la droite ; en voie d’oxydation.</p>
+                           <p >Pressé et oblitéré dans la partie inférieure droite; décentré légèrement vers la droite ; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,9 +169,9 @@
                                  <dim type="diameter">13</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-W0MdJB-r</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 5 lines</p>
+                              <p xml:lang="en" >Metrical legend of 5 lines</p>
                               <!-- en attente de plus amples discussions -->
-                              <p xml:lang="fr" part="N">Légende métrique sur 5 lignes</p>
+                              <p xml:lang="fr" >Légende métrique sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,9 +210,9 @@
                                  <dim type="diameter">13</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-W0MdJB-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 5 lines</p>
+                              <p xml:lang="en" >Metrical legend of 5 lines</p>
                               <!-- en attente de plus amples discussions -->
-                              <p xml:lang="fr" part="N">Légende métrique sur 5 lignes</p>
+                              <p xml:lang="fr" >Légende métrique sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,10 +268,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/>Οὗπερ
 
                                   <lb n="2"/>σφραγὶς 
@@ -283,8 +283,8 @@
                                     <lb n="5"/>Λόγε
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="6"/>κουρο
                               
                                   <lb n="7" break="no"/>παλάτιν 
@@ -297,17 +297,17 @@
                                </ab>
       </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -315,35 +315,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Οὗπερ σφραγὶς πέφυκα φυλάττοις Λόγε / κουροπαλάτιν Ῥωμανὸν πιστὸν λάτριν.</p>
-            <p xml:lang="en" part="N">O Word, may you watch him whose seal I am, Romanos kouropalates faithful servant.</p>
-            <p xml:lang="fr" part="N">Ô Verbe puisses tu veiller sur celui dont je suis le sceau, Romain curopalate fidèle serviteur.</p>
+         <div type="translation"   >
+            <p >Οὗπερ σφραγὶς πέφυκα φυλάττοις Λόγε / κουροπαλάτιν Ῥωμανὸν πιστὸν λάτριν.</p>
+            <p xml:lang="en" >O Word, may you watch him whose seal I am, Romanos kouropalates faithful servant.</p>
+            <p xml:lang="fr" >Ô Verbe puisses tu veiller sur celui dont je suis le sceau, Romain curopalate fidèle serviteur.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Rappelons l’ingénieuse hypothèse émise par V.
+            <p ><!--Rappelons l’ingénieuse hypothèse émise par V.
 Laurent <!-\- référence biblio à ajouter -\->: la référence au Verbe (Λόγε) pourrait faire allusion au patronyme du signataire de
 la bulle, en ce cas, il s’agirait d’un Paléologue, le curopalate Romain Paléologue étant attesté
 par les sources de l’époque de la frappe du sceau. Mais tout ceci reste hypothétique.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>25</citedRange>
@@ -352,22 +352,22 @@ par les sources de l’époque de la frappe du sceau. Mais tout ceci reste hypot
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque nationale de France, Paris,
                       <bibl  >
                   <ptr target=""/>, <citedRange unit="page"/>
                </bibl>; </p>
             <!--ajouter référence FROEHNER, Annuaire, 1882, p. 56, n° 60;-->
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="Schlumberger1884"/>
                   <citedRange unit="page"> p. 46</citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="Laurent1932"/>
                   <citedRange> 295</citedRange>
@@ -376,10 +376,10 @@ par les sources de l’époque de la frappe du sceau. Mais tout ceci reste hypot
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/448/">Romanos 20104</ref>

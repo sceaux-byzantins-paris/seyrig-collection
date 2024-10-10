@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné dans sa partie inferieure; échancrure à l’orifice du canal.</p>
+                           <p >Rogné dans sa partie inferieure; échancrure à l’orifice du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Jbail</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wUUGON-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wUUGON-v</rs>
-                              <p xml:lang="en" part="N">Marian invocative monogram of the Laurent V type.</p>
-                              <p xml:lang="fr" part="N">Monogramme invocatif marial, du type Laurent V.</p>
+                              <p xml:lang="en" >Marian invocative monogram of the Laurent V type.</p>
+                              <p xml:lang="fr" >Monogramme invocatif marial, du type Laurent V.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,30 +286,30 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                          <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><supplied reason="omitted" ><expan ><ex >Θεοτόκε βοήθει</ex></expan></supplied></rs>
                         </ab>
                   </div>
-                  <div type="textpart" subtype="label" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="label" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                             <lb n="2"/>+ <supplied reason="lost" >Δαμια</supplied>νῷ ἀρχ<supplied reason="lost" >ιεπισκόπῳ</supplied> Κύπρου
                           
                       </ab>
                       </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -317,17 +317,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει. + Δαμιανῷ ἀρχιεπισκόπῳ Κύπρου.</p>
-            <p xml:lang="en" part="N">Theotokos help Damianos, archbishop of Cyprus.</p>
-            <p xml:lang="fr" part="N">Théotokos aide Damianos, archevêque de Chypre.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει. + Δαμιανῷ ἀρχιεπισκόπῳ Κύπρου.</p>
+            <p xml:lang="en" >Theotokos help Damianos, archbishop of Cyprus.</p>
+            <p xml:lang="fr" >Théotokos aide Damianos, archevêque de Chypre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Nous proposons de lire Δαμιανῷ, connu par un sceau
+            <p ><!--Nous proposons de lire Δαμιανῷ, connu par un sceau
                       conservé au Musée de Chypre [1] et daté par A. I. Dikigoropoulos
                       du VIII' siècle [2]. La description du sceau correspond à celle du nôtre: au droit,
                       le buste d’un saint barbu et au revers, le monogramme de l’invocation mariale en son centre
@@ -341,10 +341,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. Inventaire n° 1954/IV-23/1.
                       </p>
                       <p xml:id="footnote-2">

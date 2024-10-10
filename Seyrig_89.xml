@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur tout le pourtour; entaille au bas du revers; échancure à l’orifice inférieur du revers dont le champ
+                           <p >Rogné sur tout le pourtour; entaille au bas du revers; échancure à l’orifice inférieur du revers dont le champ
                                         est décentré vers le sommet; la dernière ligne de la légende au revers n'est pas conservée.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-rEaCrs-r</rs>
-                              <p xml:lang="en" part="N">Iconography, circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie, légende circulaire</p>
+                              <p xml:lang="en" >Iconography, circular legend</p>
+                              <p xml:lang="fr" >Iconographie, légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-rEaCrs-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,21 +265,21 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><gap reason="lost" extent="unknown" unit="character" />
                         <cb n="b"/><gap reason="lost" extent="unknown" unit="character" />
                       </ab>
                   </div>
-                       <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                           <ab part="N">
+                       <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                           <ab >
                                <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2">+ <expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οήθει</ex></expan> τῷ σῷ <supplied reason="lost" ><expan ><abbr>δούλ</abbr><ex >ῳ</ex></expan></supplied></rs>
                                
                            </ab>
                            </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/><supplied reason="lost" >+</supplied> <expan ><abbr>Στεφάν</abbr><ex >ῳ</ex></expan>
                           <lb n="3"/><supplied reason="lost" ><expan ><abbr>β</abbr><ex >ασιλίκῳ</ex></expan></supplied> 
                           <rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><abbr><am ><g type="protos1"/></am></abbr><ex >πρωτο</ex><abbr>σπαθαρ</abbr><ex >ίῳ</ex></expan></rs>
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Κύριε βοήθει τῷ σῷ δούλῳ / + Στεφάνῳ, βασιλίκῳ πρωτοσπαθαρίῳ, μεγάλῳ χαρτουλαρίῳ τοῦ γενικοῦ λογοθεσίου.</p>
-            <p xml:lang="en" part="N">Lord help your servant Stephen, protospatharios and grand chartoularios of the genikon.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Étienne, protospathaire et grand chartulaire du <hi rend="italic">génikon</hi>.</p>
+         <div type="translation"   >
+            <p >+ Κύριε βοήθει τῷ σῷ δούλῳ / + Στεφάνῳ, βασιλίκῳ πρωτοσπαθαρίῳ, μεγάλῳ χαρτουλαρίῳ τοῦ γενικοῦ λογοθεσίου.</p>
+            <p xml:lang="en" >Lord help your servant Stephen, protospatharios and grand chartoularios of the genikon.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Étienne, protospathaire et grand chartulaire du <hi rend="italic">génikon</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Les documents d’archives, notamment ceux de Patmos,
+            <p ><!--Les documents d’archives, notamment ceux de Patmos,
                       mentionnent un certain nombre de chartulaires du <hi rend="italic">génikon</hi>, mais ils sont plus tardifs et aucun
                       d’eux ne portaient le prénom d’Étienne. Un sceau contemporain d’Étienne, spatharocandidat
                       impérial et chartulaire du génikon, a été publié par Konstantopoulos [1]. La présence de saint Nicolas au droit invite toutefois à le distinguer
@@ -326,20 +326,20 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. <hi rend="italic">Molybdoboulla</hi>, 591e;
                       Laurent, <hi rend="italic">Corpus</hi>, II, 377.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                           Bibliothèque Nationale de France, Paris,
                           <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>90</citedRange>
@@ -348,21 +348,21 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">    Hatay Archaeology Museum, Antakya,
+            <p >    Hatay Archaeology Museum, Antakya,
                         <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange unit="page"> 352</citedRange>;</bibl>
             </p>
-            <p part="N">    Dumbarton Oaks, Washington DC,
+            <p >    Dumbarton Oaks, Washington DC,
                           <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange unit="page"> 892</citedRange>.</bibl>
             </p>
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >             
                   </div>

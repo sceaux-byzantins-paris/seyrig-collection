@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré à l’avers comme au revers ; oblitéré partiellement sur le côté gauche de l’avers ; nettement gravé.</p>
+                           <p >Décentré à l’avers comme au revers ; oblitéré partiellement sur le côté gauche de l’avers ; nettement gravé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1PN3I3-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1PN3I3-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,17 +268,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+ Σφρα
                           <lb n="2" break="no"/>γίς Στε
                           <lb n="3" break="no"/><supplied reason="lost" >φ</supplied>άνου βε
                           <lb n="4" break="no"/>στάρχου
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="5"/>καὶ
                           <lb n="6"/>δουκὸς
                           <lb n="7"/>Ἀντιο
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,17 +306,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Σφραγίς Στεφάνου βεστάρχου / καὶ δουκὸς Ἀντιοχείας.</p>
-            <p xml:lang="en" part="N">Seal of Stephen, vestarches and doux of Antioch.</p>
-            <p xml:lang="fr" part="N">Sceau d'Étienne, vestarque et duc d’Antioche.</p>
+         <div type="translation"   >
+            <p >+ Σφραγίς Στεφάνου βεστάρχου / καὶ δουκὸς Ἀντιοχείας.</p>
+            <p xml:lang="en" >Seal of Stephen, vestarches and doux of Antioch.</p>
+            <p xml:lang="fr" >Sceau d'Étienne, vestarque et duc d’Antioche.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Un sceau de la collection Fogg (582) a peut-être appartenu à Étienne :
+            <p ><!--Un sceau de la collection Fogg (582) a peut-être appartenu à Étienne :
                      <!-\- -X- + COPA - ne GTE - OANOV -X- || -X- RECTd - KAI KAT(€) - nANQ -X-\\-\-> Étienne
                       n'est pas attesté à Antioche par d’autres sources. Le premier éditeur du sceau, V. Laurent,
                       avait proposé deux identifications possibles dont l’une n’est pas vraiment satisfaisante et l’autre
@@ -338,32 +338,32 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. SKYLITZÈS. p. 428-430; CHEYNET, <hi rend="italic">Pouvoir</hi>,
                           p. 57-58.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. PSELLOS, <hi rend="italic">Chronographie</hi>, II, p. 4.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                          <!-- [3]. DO 60.23.7- 3332.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                          <!-- [4]. SKYLITZÈS, p. 446; BRYENNIOS, p. 99.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                         <!--  [5]. SKYLITZÈS, p. 398 et p. 405-406.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>157</citedRange>
@@ -372,7 +372,7 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
                   
@@ -380,14 +380,14 @@
               </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="Laurent1962"/>, <citedRange unit="page">p. 241 et s.</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/513/">Stephanos 20116</ref>

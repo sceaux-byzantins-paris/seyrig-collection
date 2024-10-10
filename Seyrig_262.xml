@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Flan présentant un renflement oblong médian à gauche du droit; oblitéré dans la moitié droite au revers.</p>
+                           <p >Flan présentant un renflement oblong médian à gauche du droit; oblitéré dans la moitié droite au revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">34</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-2UJtiI-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">34</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-2UJtiI-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,16 +266,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" ><expan ><abbr>Ἰ</abbr><ex >ησοῦ</ex><abbr>ς</abbr></expan></supplied>
                         <cb n="b"/><expan ><abbr>Χ</abbr><ex >ριστό</ex><abbr>ς</abbr></expan>
                       </ab>
                       </div>
                   
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ Μ<supplied reason="lost" >ανου</supplied>
                           <lb n="2" break="no"/>ὴλ ἐλέῳ <expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                           <lb n="3"/><expan ><abbr>μ</abbr><ex >ητ</ex><abbr>ροπολίτης</abbr></expan> Φ<supplied reason="lost" >ιλα</supplied>
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἰησοῦς Χριστός. / + Μανουὴλ ἐλέῳ Θεοῦ μητροπολίτης Φιλαδελφείας καὶ ὑπέπερτιμος.</p>
-            <p xml:lang="en" part="N">Jesus Christ. Manuel by the grace of God metropolitan od Philadelphia and hypertimos.</p>
-            <p xml:lang="fr" part="N">Jésus Christ. Manuel, métropolite de Jérusalem par la grâce de Dieu et hypertime.</p>
+         <div type="translation"   >
+            <p >Ἰησοῦς Χριστός. / + Μανουὴλ ἐλέῳ Θεοῦ μητροπολίτης Φιλαδελφείας καὶ ὑπέπερτιμος.</p>
+            <p xml:lang="en" >Jesus Christ. Manuel by the grace of God metropolitan od Philadelphia and hypertimos.</p>
+            <p xml:lang="fr" >Jésus Christ. Manuel, métropolite de Jérusalem par la grâce de Dieu et hypertime.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Ce métropolite n’est pas connu de V. Laurent. Un Manuel
+            <p ><!--Ce métropolite n’est pas connu de V. Laurent. Un Manuel
                       est connu à Philadelphie en 1197, mais trop tôt pour qu’on puisse l’identifier au titulaire de
                       notre pièce. Le métropolite de Philadelphie le plus connu du début du XIVe siècle fut Théolepte
                       qui occupa le siège de 1283/4 à 1322 [1]. Il eut à ses côtés, comme chartophylax
@@ -326,10 +326,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. <hi rend="italic">PLP</hi> n° 7509. 
                       </p>
                       <p xml:id="footnote-2">

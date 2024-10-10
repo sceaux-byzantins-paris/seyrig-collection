@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné, en voie d’oxydation.</p>
+                           <p >Rogné, en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-nK58Pf-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram,  of the ZACOS-VEGLERY 51 type, framed by the usual tetrasyllable</p>
-                              <p xml:lang="fr" part="N">Monogramme marial, de type ZACOS-VEGLERY 51, cantonné du tétrasyllabe habituel</p>
+                              <p xml:lang="en" >Cruciform monogram,  of the ZACOS-VEGLERY 51 type, framed by the usual tetrasyllable</p>
+                              <p xml:lang="fr" >Monogramme marial, de type ZACOS-VEGLERY 51, cantonné du tétrasyllabe habituel</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-nK58Pf-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,10 +265,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
@@ -276,8 +276,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><supplied reason="omitted" cert="low" >+</supplied> <supplied reason="omitted" cert="low" >Μ</supplied><supplied reason="lost" >ι</supplied>χ<supplied reason="lost" >α</supplied>
                                
                                   <lb n="2" break="no"/>ήλ  <rs type="dignity" ref="dignities.xml#πατρίκιος"><expan ><abbr>πατρικ</abbr><ex >ίῳ</ex></expan></rs>
@@ -289,17 +289,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -307,33 +307,33 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Μιχαήλ πατρικίῳ καὶ βασιλικῷ πρῶτοσπαθαριῳ.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant / Michael patrikios and imperial protospatharios.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur / Michel patrice et protospathaire impérial.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Μιχαήλ πατρικίῳ καὶ βασιλικῷ πρῶτοσπαθαριῳ.</p>
+            <p xml:lang="en" >Mother of God help your servant / Michael patrikios and imperial protospatharios.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur / Michel patrice et protospathaire impérial.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>47</citedRange>

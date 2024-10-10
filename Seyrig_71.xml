@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition><!-- @rend manque -->
-                           <p part="N">Longue entaille le long du canal; fortement pressé et aux lettres empâtées; double frappe.</p>
+                           <p >Longue entaille le long du canal; fortement pressé et aux lettres empâtées; double frappe.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1OgFhS-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1OgFhS-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes; la première ligne présente deux lettres suscrites</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes; la première ligne présente deux lettres suscrites</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,15 +268,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang=""><!-- ou peut-e^tre sigle; à voir -->
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang=""><!-- ou peut-e^tre sigle; à voir -->
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μ<supplied reason="lost" >ι</supplied>
                         <cb n="b"/>χ<supplied reason="lost" >α</supplied></abbr><supplied reason="lost" ><ex >ήλ</ex></supplied></expan>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><expan ><abbr>Μιχ</abbr><ex >αὴλ</ex></expan> <expan ><abbr>σπαθ</abbr><ex >αρο</ex>
                           <lb n="2" break="no"/><abbr>κανδ</abbr><ex >ιδᾶ</ex><abbr>τ</abbr><ex >ος</ex></expan>
                           <lb n="3"/> ὁ Γα<supplied reason="lost" >λ</supplied>α
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="3-4">
                   <note >Le patronyme est de lecture difficile : Glabas, Gabalas doivent
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μιχαήλ. / Μιχαὴλ σπαθαροκανδιδᾶτος ὁ Γαλατῶν (?).</p>
-            <p xml:lang="en" part="N">Michael. Michael Galaton (?), spatharokandidatos.</p>
-            <p xml:lang="fr" part="N">Michel. Michel Galatôn (?), spatharocandidat.</p>
+         <div type="translation"   >
+            <p >Μιχαήλ. / Μιχαὴλ σπαθαροκανδιδᾶτος ὁ Γαλατῶν (?).</p>
+            <p xml:lang="en" >Michael. Michael Galaton (?), spatharokandidatos.</p>
+            <p xml:lang="fr" >Michel. Michel Galatôn (?), spatharocandidat.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Les
+            <p ><!--Les
                       Galatônés apparaissent dans la seconde moitié du Xe siècle d’après un sceau [1]. On les retrouve à partir du
                       XIe siècle, en Béotie, où l’un d’eux était comte et un autre, spathaire [2]. L’éditeur du texte considère comme possible le rattachement à cette lignée de Galatès,
                       connu par une inscription du Théseion de 996. En dehors de notre Michel, nous connaissons
@@ -327,38 +327,38 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. DO 58.106.2751 ;
                           au droit, croix patriarcale fleuronnée avec légende circulaire; au revers: <!-\-0EO - (pANIO R,
                           - ÇflA0,KAN - AA TO TAAA - TONI-\-> ; cf. STAVRAKOS, n° 48.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                              <!-- [2]. SVORONOS, <hi rend="italic">Cadastre</hi>,
                               p. 76.-->
                           </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                          <!-- [3]. SCHLUMBERGER, <hi rend="italic">Sigillographie</hi>, p. 666, n° 2, que l’éditeur date trop
                           tardivement des XIIe-XIIIe siècles.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                         <!--  [4]. Fogg 57 : au droit, buste de saint Eugène et au revers, <!-\-K€ RO - MOI TA -[A]ATW-\->.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                        <!--   [5]. cf. <hi rend="italic">infra</hi>, notre n° 119.-->
                       </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                          <!-- [6]. GAUTIER, <hi rend="italic">Pantocrator</hi>, p. 121.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>71</citedRange>

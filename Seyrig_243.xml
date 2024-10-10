@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné; ébréché et entaillé aux orifices du canal.</p>
+                           <p >Rogné; ébréché et entaillé aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,10 +168,10 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VPACY7-r</rs>
-                              <p xml:lang="en" part="N">Invocative monogram, of the type Zacos XLI (very rare: instead of the usual
+                              <p xml:lang="en" >Invocative monogram, of the type Zacos XLI (very rare: instead of the usual
                                            <!-- H of the right branch of the Laurent V type, it has only an E-->), framed by the usual
                                             tetrasyllable.</p>
-                              <p xml:lang="fr" part="N">Monogramme invocatif, du type Zacos XLI (très rare: au lieu de l’habituel
+                              <p xml:lang="fr" >Monogramme invocatif, du type Zacos XLI (très rare: au lieu de l’habituel
                                           <!--  H de la branche droite du type Laurent V, il comporte seulement un E-->), cantonné du
                                             tétrasyllabe habituel.</p>
                            </layout>
@@ -212,9 +212,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VPACY7-v</rs>
-                              <p xml:lang="en" part="N">Monogram comprising the name and title
+                              <p xml:lang="en" >Monogram comprising the name and title
                                             and in the cantons the name of the seat.</p>
-                              <p xml:lang="fr" part="N">Monogramme comprenant le nom et le titre
+                              <p xml:lang="fr" >Monogramme comprenant le nom et le titre
                                             et dans les cantons le nom du siège.</p>
                            </layout>
                         </layoutDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,14 +271,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                          <lb n="1"/><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
                         </ab>
                   </div>
-                   <div type="textpart" subtype="label" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                   <div type="textpart" subtype="label" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="2"/><expan ><app type="alternative">
                                                 <lem><expan ><ex >Ἐπιφανίου</ex></expan></lem>
                                                   <rdg><expan ><ex >Ἐπιφανίῳ</ex></expan></rdg></app> <app type="alternative">
@@ -288,14 +288,14 @@
                       </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
                 
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,17 +303,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἐπιφανίου <hi rend="italic">vel</hi> Ἐπιφανίῳ ἀρχιεπισκόπου <hi rend="italic">vel</hi> ἀρχιεπισκόπῳ Κύπρου.</p>
-            <p xml:lang="en" part="N">Epiphanios, archbishop of Cyprus.</p>
-            <p xml:lang="fr" part="N">Épiphane, archevêque de Chypre.</p>
+         <div type="translation"   >
+            <p >Ἐπιφανίου <hi rend="italic">vel</hi> Ἐπιφανίῳ ἀρχιεπισκόπου <hi rend="italic">vel</hi> ἀρχιεπισκόπῳ Κύπρου.</p>
+            <p xml:lang="en" >Epiphanios, archbishop of Cyprus.</p>
+            <p xml:lang="fr" >Épiphane, archevêque de Chypre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--D’après le <hi rend="italic">synodikon</hi>, quatre archevêques
+            <p ><!--D’après le <hi rend="italic">synodikon</hi>, quatre archevêques
                       du nom d’Épiphane ont occupé le siège de Chypre au Moyen Âge[1]. Si la légende devait être
                       lue au génitif, on pourrait identifier le titulaire de notre sceau avec l’un des participants au
                       concile de 680-681. Mais le type de monogramme au droit et la possibilité de lire la légende
@@ -324,10 +324,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!-- xml:id="footnote-1">
+            <p ><!-- xml:id="footnote-1">
                           [1]. voir V. LAURENT, Les
                           fastes épiscopaux de l’Église de Chypre, <hi rend="italic">REB</hi> 6, 1948, p. 153-166.
                       </p>
@@ -337,10 +337,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                               <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 243</citedRange>,</bibl>
                <bibl  >
@@ -351,10 +351,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N"> <!-- missing bibliography --></p>
+            <p > <!-- missing bibliography --></p>
          </div>
          <!--Seize pièces, voir commentaire.
 Inédit, mais sans doute mentionné dans DIKIGOROUPOULOS, Cyprus, p. 245.-->

@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Moitié de plomb sectionné verticalement le long de la ligne du canal; bord légèrement rogné; gravure très nette.</p>
+                           <p >Moitié de plomb sectionné verticalement le long de la ligne du canal; bord légèrement rogné; gravure très nette.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -182,8 +182,8 @@
                                 >Latakia</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -202,8 +202,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-M0lpBk-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,8 +244,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-M0lpBk-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -273,7 +273,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -301,20 +301,20 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                        <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                        <ab >
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2"><supplied reason="lost" >+ </supplied> <expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> βοήθει <supplied reason="omitted" >τῷ σῷ δούλῳ</supplied></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                        <ab part="N">
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                        <ab >
                            <cb n="a"/>Ὁ ἅγιος
                         <cb n="b"/><supplied reason="omitted" >Πέτρος</supplied>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/><expan ><abbr><supplied reason="omitted" >Ἰωάν</supplied>ν</abbr><ex >ῃ</ex></expan>
                           <lb n="3"/><expan ><abbr><supplied reason="omitted" >πατρι</supplied>άρχ</abbr><ex >ῃ</ex></expan>
                           <lb n="4"/><supplied reason="omitted" >Θεουπό</supplied>λεως
@@ -325,17 +325,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -343,17 +343,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Πέτρος. Κύριε βοήθει τῷ σῷ δούλῳ. / + Ἰωάννῃ πατριάρχῃ Θεουπόλεως μεγάλης Ἀντιοχείας.</p>
-            <p xml:lang="en" part="N">St. Peter. Lord help your servant, John, patriarch of Theoupolis, Antioch the Great.</p>
-            <p xml:lang="fr" part="N">Saint Pierre. Seigneur aide ton serviteur Jean, patriarche de la Théoupolis, Antioche la Grande.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Πέτρος. Κύριε βοήθει τῷ σῷ δούλῳ. / + Ἰωάννῃ πατριάρχῃ Θεουπόλεως μεγάλης Ἀντιοχείας.</p>
+            <p xml:lang="en" >St. Peter. Lord help your servant, John, patriarch of Theoupolis, Antioch the Great.</p>
+            <p xml:lang="fr" >Saint Pierre. Seigneur aide ton serviteur Jean, patriarche de la Théoupolis, Antioche la Grande.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Il s’agirait du sceau de Jean III, patriarche depuis le 4 octobre 996
+            <p ><!--  Il s’agirait du sceau de Jean III, patriarche depuis le 4 octobre 996
                       [1] jusqu’en juillet 1021[2]. Il est
                       mentionné par le synodikon d’Antioche [3]. Toutefois, un patriarche homonyme qui vécut un peu plus tard est connu
                       [4]. Il n’est pas exclu que notre sceau puisse lui être attribué, mais
@@ -361,10 +361,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"> <!-- xml:id="footnote-1">
+            <p > <!-- xml:id="footnote-1">
                           [1]. cf. <hi rend="italic">supra</hi> n° 226. 
                       </p>
                       <p xml:id="footnote-2">
@@ -380,10 +380,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">Bibliothèque Nationale de France, Paris,
+            <p >Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 233a</citedRange>,</bibl>
                <bibl  >
@@ -397,10 +397,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Collection Seyrig (Paris), 760: <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part">233b</citedRange>
                </bibl> = <ref target="Seyrig_233b.html">SigiDoc IDXXXX</ref>

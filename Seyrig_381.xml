@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p xml:lang="en" part="N">Folded around the edge; slight break on the right.</p>
-                           <p xml:lang="fr" part="N">Renflé au pourtour; légère brisure à droite.</p>
+                           <p xml:lang="en" >Folded around the edge; slight break on the right.</p>
+                           <p xml:lang="fr" >Renflé au pourtour; légère brisure à droite.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter">29</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-rCyIAm-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">29</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-rCyIAm-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -258,7 +258,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,15 +286,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan> 
                           <cb n="b" break="no"/><expan ><abbr>Θ</abbr><ex >εοῦ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Εὐμο
                           <lb n="2" break="no"/>ρφία ἐν <expan ><abbr>Χ</abbr><ex >ριστ</ex><abbr>ῷ</abbr></expan> 
                           <lb n="3"/>πιστὴ ῥήγ
@@ -302,17 +302,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -320,17 +320,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Εὐμορφία ἐν Χριστῷ πιστὴ ῥήγενα.</p>
-            <p xml:lang="en" part="N">Mother of God. / Queen Eumorphia, faithful to Christ.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Reine Eumorphia, fidèle au Christ.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Εὐμορφία ἐν Χριστῷ πιστὴ ῥήγενα.</p>
+            <p xml:lang="en" >Mother of God. / Queen Eumorphia, faithful to Christ.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Reine Eumorphia, fidèle au Christ.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La reine Morfia (Eumorfia), fille du protonobélissime Gabriel,
+            <p ><!--La reine Morfia (Eumorfia), fille du protonobélissime Gabriel,
                       duc arménien de Mélitène, épouse de Baudouin de Bourcq, comte d’Édesse, monta avec lui sur le trône de Jérusalem en 1118. La date de sa mort peut être fixée au 1er octobre 1126
                       [1]. Le type byzantin s’explique donc par l’origine familiale
                       de la reine, bien que la matrice n’ait pu être gravée qu’après son accession au titre royal
@@ -338,10 +338,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. R. HlESTAND, Chronologisches zur Geschichte des Königreiches Jérusalem um 1130,
                       Deutsches Archiv 26, 1970, p. 220-224.-->
                   </p>

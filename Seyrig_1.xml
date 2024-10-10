@@ -96,8 +96,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="clipped"><!-- clipped????? -->
-                           <p xml:lang="en" part="N">Uniface. Cloth impression on reverse; indented at top and bottom at channel openings.</p>
-                           <p xml:lang="fr" part="N">Uniface. Empreinte de tissu au revers; échancré en haut et en bas aux orifices du canal.</p>
+                           <p xml:lang="en" >Uniface. Cloth impression on reverse; indented at top and bottom at channel openings.</p>
+                           <p xml:lang="fr" >Uniface. Empreinte de tissu au revers; échancré en haut et en bas aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -146,8 +146,8 @@
                      <!-- vérifier graphie -->
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">don d'Henri Seyrig</p>
+                     <p xml:lang="en" >donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -166,8 +166,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Ay7okH-r</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Ay7okH-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc status="draft">
@@ -267,8 +267,8 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" part="N"  />
-         <div type="apparatus" part="N"  >
+         <div type="edition"   />
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >
@@ -280,13 +280,13 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  />
+         <div type="translation"   />
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N">On peut faire remarquer
+            <p >On peut faire remarquer
                         l’analogie de cette effigie avec le type des AE 2 de Léon (<hi rend="italic">LRBC</hi> 2251). Un type voisin est
                         encore employé sur certains bronzes (<hi rend="italic">dêkanoummia</hi>) de Justin Ier {<hi rend="italic">BNC</hi>, pl. VI, 21 ; avec la
                         lance) et sur le multiple d’or de Justinien Ier {<hi rend="italic">ibidem</hi>, pl. VIII, 2 avec le globe nicéphore).
@@ -298,12 +298,12 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               />
       </body>

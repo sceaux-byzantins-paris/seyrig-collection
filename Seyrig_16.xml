@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur le pourtour; échancré aux orifices du canal, pressé et oblitéré en son centre; en voie d’oxydation.</p>
+                           <p >Rogné sur le pourtour; échancré aux orifices du canal, pressé et oblitéré en son centre; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,10 +169,10 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PBBIWv-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram bearing an A or X at the centre of the cross, 
+                              <p xml:lang="en" >Cruciform monogram bearing an A or X at the centre of the cross, 
                                             Ρ at the top, at the base, Μ at the left, and Ι-Ν ligatured at the right of the horizontal arm; circular invocative legend</p>
                               <!-- regarder explication de la template! -->
-                              <p xml:lang="fr" part="N">Monogramme cruciforme portant un A ou X au
+                              <p xml:lang="fr" >Monogramme cruciforme portant un A ou X au
                                             centre de la croix,  Ρ au sommet, à la base, Μ à gauche, et Ι-Ν ligaturés à droite du bras
                                             horizontal; légende invocative circulaire</p>
                            </layout>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PBBIWv-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines and circular legend</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes et légende circulaire</p>
+                              <p xml:lang="en" >Legend of 6 lines and circular legend</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes et légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,17 +271,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Μαρίνος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
                        <lb n="1"/>Κύριε βοήθει
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="1"/>+ ἐπὶ τοῦ 
                                   
                                   <lb n="2"/><expan ><abbr>θ</abbr><ex >ε</ex><abbr>ωφυλάκ</abbr><ex >του</ex></expan>
@@ -295,23 +295,23 @@
                                      <lb n="6" break="no"/>χ</abbr><ex >ρίστο</ex><abbr>υ</abbr></expan> <expan ><abbr>δεσπ</abbr><ex >ότου</ex></expan>
               
                                </ab>
-<div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
+<div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
                         <lb n="1"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan >πριμικ<supplied reason="lost" >ηρίῳ</supplied></expan> <supplied reason="lost" >τοῦ</supplied> <expan ><supplied reason="lost" ><abbr>β</abbr><ex >ασιλικοῦ</ex></supplied></expan> <expan ><supplied reason="lost" >β</supplied>εστρη<supplied reason="lost" >αρίου</supplied></expan> ou <expan ><supplied reason="lost" >ὀ</supplied>στη<supplied reason="lost" >αρίῳ</supplied></expan>
                     </div>
                   </div>
                        </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
             <!-- dans l'apparat, avec référence à l'édition du monogramme qui est à faire: "Solution : Marinos ; Marianos semble moins vraisemblable en raison de la ligature Ι-Ν ." -->
             <listApp >
                <app loc="2"><!-- numéro de ligne à changer après avoir complété l'édition de la légende -->
@@ -319,33 +319,33 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- à compléter --><!-- j'ai ajouté les éléments de l'avers mais la légende autour de la légende du revers, je ne suis pas sûr de comment les ajouter à la traduction-->
-            <p part="N">Κύριε βοήθει Μαρίνος /+ ἐπὶ τοῦ θεωφυλάκτου κοιτῶνος καὶ ἐπηνκέρνῃ Ῥομανοῦ τοῦ φιλοχρίστου δεσπότου.</p>
-            <p xml:lang="en" part="N">Lord help Marinos, keeper of the God-guarded bedchamber and pinkernes of the Christ-loving despot Romanos.</p>
-            <p xml:lang="fr" part="N">Seigneur aide Marinos, <hi rend="italic">épi tou koitônos</hi> gardé par Dieu et pincerne du despote Romain qui aime Dieu.</p>
+         <div type="translation"   ><!-- à compléter --><!-- j'ai ajouté les éléments de l'avers mais la légende autour de la légende du revers, je ne suis pas sûr de comment les ajouter à la traduction-->
+            <p >Κύριε βοήθει Μαρίνος /+ ἐπὶ τοῦ θεωφυλάκτου κοιτῶνος καὶ ἐπηνκέρνῃ Ῥομανοῦ τοῦ φιλοχρίστου δεσπότου.</p>
+            <p xml:lang="en" >Lord help Marinos, keeper of the God-guarded bedchamber and pinkernes of the Christ-loving despot Romanos.</p>
+            <p xml:lang="fr" >Seigneur aide Marinos, <hi rend="italic">épi tou koitônos</hi> gardé par Dieu et pincerne du despote Romain qui aime Dieu.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Laurent a voulu
+            <p ><!--Laurent a voulu
 identifier Romain avec Lécapéne, mais l’empereur cité peut être aussi bien Romain II
 Porphyrogénète que Romain Ier Lécapéne. Le style du droit paraît néanmoins dater plutôt
 de la seconde moitié du Xe siècle; il s’agirait donc de Romain II.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
               </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                           Biliothèque Nationale de France, Paris,
                           <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>16</citedRange>
@@ -354,10 +354,10 @@ de la seconde moitié du Xe siècle; il s’agirait donc de Romain II.--></p>
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                           Dumbarton Oaks, Washington D.C.,
                           <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>716 (Fogg 318 et 319)</citedRange>
@@ -365,10 +365,10 @@ de la seconde moitié du Xe siècle; il s’agirait donc de Romain II.--></p>
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PmbZOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ27134/html">Marinos</ref>

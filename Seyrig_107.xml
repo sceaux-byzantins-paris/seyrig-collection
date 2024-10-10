@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Fortement décentré vers la droite ; seule la moitié inférieure gauche est frappée ; les lettres restantes sont finement
+                           <p >Fortement décentré vers la droite ; seule la moitié inférieure gauche est frappée ; les lettres restantes sont finement
                                         gravées; renflement au revers à droite.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">20,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-NNzmjy-r</rs>
-                              <p xml:lang="en" part="N">Cruciform Marian monogram, of the Laurent V type, enclosed by the letters of the name.</p>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme,  de type Laurent V cantonné par les lettres du nom.</p>
+                              <p xml:lang="en" >Cruciform Marian monogram, of the Laurent V type, enclosed by the letters of the name.</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme,  de type Laurent V cantonné par les lettres du nom.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">20,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-NNzmjy-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,24 +266,24 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan>
 
                     </rs>
                       </ab>
                       </div>
-                      <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                      <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/>Ἰω<supplied reason="lost" >άν</supplied>
                         <cb n="b"/>+ νῃ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><rs type="dignity" ref="dignities.xml#ὕπατος"><supplied reason="omitted" >ὑπάτ</supplied>
                           
                                   <lb n="3" break="no"/><supplied reason="omitted" >ῳ</supplied></rs> <supplied reason="omitted" >κ</supplied>αὶ γε
@@ -296,17 +296,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -314,30 +314,30 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει  Ἰωάννῃ / ὑπάτῳ καὶ γενικῷ λογοθέτῃ.</p>
-            <p xml:lang="en" part="N">Mother of God help John, hypatos and logothetes of the genikon.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Jean, <hi rend="italic">hypatos</hi> et logothète du <hi rend="italic">génikon</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει  Ἰωάννῃ / ὑπάτῳ καὶ γενικῷ λογοθέτῃ.</p>
+            <p xml:lang="en" >Mother of God help John, hypatos and logothetes of the genikon.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Jean, <hi rend="italic">hypatos</hi> et logothète du <hi rend="italic">génikon</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La dignité est complétée d’après l’exemplaire édité par G.
+            <p ><!--La dignité est complétée d’après l’exemplaire édité par G.
                       Zacos. On notera l’épigraphie caractéristique du début du VIIIe siècle: empattements marqués,
                       barre médiane de l’<hi rend="italic">epsilon</hi> et jambages du <hi rend="italic">kappa</hi> plus longs. À Dumbarton Oaks [1] se trouve un sceau un peu plus récent du même Jean, ὕπατος, βασιλικὸς σπαθάριος και γενικὸς λογοθέτης ; au droit, le monogramme cruciforme de type V [2]-->.</p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. DO n° 61.17.27-
                       756.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                       <!--[2]. ZACOS - VEGLERY,
                       2026. Voir aussi Shaw 874 avec au droit un monogramme très proche et au revers : <!-\-+ VT1A
                       - TO S BA - CIAIKO - CI1A0A - HQ-\->.-->
@@ -345,10 +345,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>107</citedRange>
@@ -357,15 +357,15 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>277</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>2021</citedRange>
@@ -373,10 +373,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p3820">Ioannes 368</ref>

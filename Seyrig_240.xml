@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné au pourtour ; décentré vers la gauche ; bord droit relevé ; en voie d’oxydation ; surfrappé.</p>
+                           <p >Fortement rogné au pourtour ; décentré vers la gauche ; bord droit relevé ; en voie d’oxydation ; surfrappé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DidAON-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DidAON-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -287,15 +287,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                        <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                        <ab >
                            <cb n="a"/><supplied reason="omitted" ><expan ><ex >ὁ ἃγιος</ex></expan></supplied> <expan ><abbr><supplied reason="omitted" >Νι</supplied>
                         <cb n="b" break="no"/>κόλ</abbr><ex >αος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ Ἅγιε
                           <lb n="2"/><expan ><abbr>Νικόλα</abbr><ex >ε</ex></expan>
                           <lb n="3"/><expan ><abbr>βοήθ</abbr><ex >ει</ex></expan> <expan ><abbr>Νικ</abbr><ex >ο</ex>
@@ -307,17 +307,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -325,30 +325,30 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Νικόλαος. / Ἅγιε Νικόλαε βοήθει Νικολάῳ ἐπισκόπῳ Χίου.</p>
-            <p xml:lang="en" part="N">St. Nikolaos. St. Nikolaos help Nikolaos, bishop of Chios.</p>
-            <p xml:lang="fr" part="N">Saint Nicolas. Saint Nicolas aide Nicolas, évêque de Chio.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Νικόλαος. / Ἅγιε Νικόλαε βοήθει Νικολάῳ ἐπισκόπῳ Χίου.</p>
+            <p xml:lang="en" >St. Nikolaos. St. Nikolaos help Nikolaos, bishop of Chios.</p>
+            <p xml:lang="fr" >Saint Nicolas. Saint Nicolas aide Nicolas, évêque de Chio.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Sur cet évêché dépendant de la métropole de Rhodes,
+            <p ><!--  Sur cet évêché dépendant de la métropole de Rhodes,
                       voir le commentaire de V. Laurent, <hi rend="italic">Corpus</hi>, N, 1, p. 534.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 240</citedRange>
                </bibl>.
@@ -356,10 +356,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Numismatic Museum of Athens, Athens;
+            <p > Numismatic Museum of Athens, Athens;
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Schlumberger1884"/>, <citedRange unit="part"> 1</citedRange>,</bibl>

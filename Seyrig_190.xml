@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné profondément au sommet; percé dans la partie inférieure gauche; en voie d’oxydation.</p>
+                           <p >Rogné profondément au sommet; percé dans la partie inférieure gauche; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-W2iyIk-r</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-W2iyIk-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,9 +268,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/><supplied reason="omitted" >+</supplied> <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan><expan > <abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                           <lb n="2"/>τῷ σῷ <expan ><abbr>δού
                           <lb n="3" break="no"/>λ</abbr><ex >ῳ</ex></expan></rs> <expan ><abbr>Λέοντ</abbr><ex >ι</ex></expan>
@@ -278,8 +278,8 @@
                         
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="5"/>τοῦ <supplied reason="lost" >Ὀ</supplied>
                           <lb n="6" break="no"/>ψική<supplied reason="lost" >ου</supplied>
                           <lb n="7"/>τῷ <expan ><abbr/><ex >Ἑξα</ex><abbr>κη  <!--l'élément abrégé doit être ajouté-->
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ Λέοντι πρωτονοταρίῳ / τοῦ Ὀψικήου τῷ Ἑξακηονίτῃ.</p>
-            <p xml:lang="en" part="N">Lord help your servant Leo Hexakionites, protonotarios of the Opsikion.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Léon Hexakiônitès, protonotaire de l’Opsikion.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ Λέοντι πρωτονοταρίῳ / τοῦ Ὀψικήου τῷ Ἑξακηονίτῃ.</p>
+            <p xml:lang="en" >Lord help your servant Leo Hexakionites, protonotarios of the Opsikion.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Léon Hexakiônitès, protonotaire de l’Opsikion.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le représentant le plus remarquable de la lignée, Nicéphore,
+            <p ><!--Le représentant le plus remarquable de la lignée, Nicéphore,
                       fut stratège de Thessalonique[1] et
                       ultérieurement obtint le commandement de l’Italie et de la Calabre  [2]. Au XIe siècle, nous connaissons le plomb inédit de Hélène
                       Hexakiônitissa [3]. V. Laurent a édité [4] le sceau de Nicéphore
@@ -327,34 +327,34 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1].  <hi rend="italic">Actes d’Iviron</hi> I, éd. J. LEFORT, N. OlKONOMIDÈS, Denise
                           PAPACHRYSSANTHOU avec la coll. d’Hélène MÉTRÊVELI, XIV, acte n° 9, 1. 25-26.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2].  FALKENHAUSEN,
                           <hi rend="italic">Dominazione</hi>, p. 181-182.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                          <!-- [3].  IFEB 124.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                          <!-- [4].  <hi rend="italic">op. cit</hi>., p. 315.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                          <!-- [5].  DO 58.106.4550, au droit saint
                           Pierre.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>190</citedRange>
@@ -363,24 +363,24 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                           Dumbarton Oaks, Washington D.C.,
                           <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.1921">BZS.1958.106.1921 (DO 58.106. 1921)</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.3303">BZS.1955.1.3303 (DO 55.1. 3303)</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -390,14 +390,14 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       <!--<bibl><ptr target=""/>, <citedRange unit="page">p. 316</citedRange></bibl>,--><!--V. LAURENT, Contributions à la prosopographie du thème de Longobardie-->
                       
                   </p>
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/535/">Leon 20124</ref>

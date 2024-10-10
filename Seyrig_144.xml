@@ -114,7 +114,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Uniface. Empreinte de tissu au revers ; rogné au pourtour ; échancré aux orifices du canal.</p>
+                           <p >Uniface. Empreinte de tissu au revers ; rogné au pourtour ; échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -157,8 +157,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -177,9 +177,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wLQ3v2-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
                               <!--la légende est linéaire sur 5 lignes-->
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -219,8 +219,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wLQ3v2-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -248,7 +248,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -275,9 +275,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                          <lb n="1"/>+ Διομήδους
                            <lb n="2"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> Διογένους
                           <lb n="3"/><expan ><abbr>ἐνδοξ</abbr><ex >οτάτων</ex></expan> <expan ><abbr>κομμ
@@ -285,23 +285,23 @@
                           <lb n="5" break="no"/>θήκης Τύρου
                         </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,17 +309,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Διομήδους και Διογένους ἐνδοξοτάτων κομμερκιαρίων ἀποθήκης Τύρου.</p>
-            <p xml:lang="en" part="N">(Seal of) Diomedes ans Diogenes, most glorious kommerkiarios of Tyre.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Diomède et Diogène, très glorieux commerciaires de Tyr.</p>
+         <div type="translation"   >
+            <p >+ Διομήδους και Διογένους ἐνδοξοτάτων κομμερκιαρίων ἀποθήκης Τύρου.</p>
+            <p xml:lang="en" >(Seal of) Diomedes ans Diogenes, most glorious kommerkiarios of Tyre.</p>
+            <p xml:lang="fr" >(Sceau de) Diomède et Diogène, très glorieux commerciaires de Tyr.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Selon G. Zacos et A. Veglery et selon N. Oikonomidès, l’empereur
+            <p ><!--Selon G. Zacos et A. Veglery et selon N. Oikonomidès, l’empereur
                       représenté ici est Maurice, accompagné de son fils Théodose et de sa femme Constantina.
                       Il s’agit en fait d’une émission du règne de Justin II datant soit de l'association au pouvoir
                       de Tibère, nommé césar le 7 décembre 574, soit de sa nomination comme coempereur (26
@@ -354,43 +354,43 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. <hi rend="italic">MIB</hi> 2, pl. 10, 1.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. DODD, n°5 21-25.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                          <!-- [3]. <hi rend="italic">EphS</hi> 7, 1872-1873, p.
                           69, n° 7, dessiné pl. I.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                           <!--[4]. "Διομήδης ἔπαρχος τῆς πόλεως", <hi rend="italic">EPhS</hi>, Supplément au tome
                           13, 1890, p. 23-24.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                          <!-- [5]. Pour cette dernière, avec la légende + Ἐπὶ Διομήδους ἐπάρχου entourant au centre le
                           monogramme Ῥώμις, A. Mordtmann renvoie à Sorlin-Dorigny,<hi rend="italic"> Rev. Arch</hi>. 32, 1876, p. 90
                           129-->
                       </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                           <!--[6]. Sur trois objets du trésor de Stuma, DODD, n° 22.-->
                       </p>
-            <p xml:id="footnote-7" part="N">
+            <p xml:id="footnote-7" >
                         <!--  [7]. <hi rend="italic">Sigillographie</hi>, p. 317-318.-->
                       </p>
-            <p xml:id="footnote-8" part="N">
+            <p xml:id="footnote-8" >
                           <!--[8]. p. 510,
                           n° 7.-->
                       </p>
-            <p xml:id="footnote-9" part="N">
+            <p xml:id="footnote-9" >
                         <!--  [9]. V. par ex. ci-dessus
                           le n° 139. --><!--créer lien-->
                       </p>
-            <p xml:id="footnote-10" part="N">
+            <p xml:id="footnote-10" >
                          <!-- [10]. Silk Trade and Production in
                           Byzantium from the Sixth to the Ninth Century: the Seals of Kommerkiarioi, <hi rend="italic">DOP</hi> 40, 1986,
                           p. 39.-->
@@ -398,16 +398,16 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>144</citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Oikonomides1986"/>, <citedRange>6</citedRange>
@@ -415,13 +415,13 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
               </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
                   <!--    <p><bibl><ptr target=""/>, <citedRange>10</citedRange></bibl>,</p>Morrisson, Sceaux inédits-->

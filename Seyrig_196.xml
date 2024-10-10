@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné au sommet du champ; profondément entaillé à gauche et dans sa partie inferieure droites; les lettres
+                           <p >Rogné au sommet du champ; profondément entaillé à gauche et dans sa partie inferieure droites; les lettres
                                         restantes sont parfois brisées.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">27</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ks0zqJ-r</rs>
-                              <p xml:lang="en" part="N">Invocative monogram of the type Laurent V, frame by the name of the owner.</p>
-                              <p xml:lang="fr" part="N">Monogramme invocatif de type Laurent V, cantonné par
+                              <p xml:lang="en" >Invocative monogram of the type Laurent V, frame by the name of the owner.</p>
+                              <p xml:lang="fr" >Monogramme invocatif de type Laurent V, cantonné par
                                             le nom du propriétaire.</p>
                            </layout>
                         </layoutDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">27</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ks0zqJ-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,18 +266,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan></rs> Θεοδώρῳ
 
                       </ab>
                       </div>
                 
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><rs type="dignity" ref="dignities.xml#ὕπατος"><supplied reason="omitted" >ὑ</supplied><supplied reason="lost" >π</supplied>άτῳ</rs>
                           
                                   <lb n="3"/><supplied reason="omitted" ><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan></supplied> ἐπάρχ
@@ -291,17 +291,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,17 +309,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει Θεοδώρῳ / ὑπάτῳ καὶ ἐπάρχῳ Θεσσαλονίκης.</p>
-            <p xml:lang="en" part="N">Theotokos help Theodoros, hypatos and eparches of Thessaloniki.</p>
-            <p xml:lang="fr" part="N">Théotokos aide Théodore, <hi rend="italic">hypatos</hi> et éparque de Thessalonique.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει Θεοδώρῳ / ὑπάτῳ καὶ ἐπάρχῳ Θεσσαλονίκης.</p>
+            <p xml:lang="en" >Theotokos help Theodoros, hypatos and eparches of Thessaloniki.</p>
+            <p xml:lang="fr" >Théotokos aide Théodore, <hi rend="italic">hypatos</hi> et éparque de Thessalonique.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--On observe la même disposition du droit sur un autre sceau
+            <p ><!--On observe la même disposition du droit sur un autre sceau
 de Théodore[1].
 L’éparque de Thessalonique, survivance de l’éparque de l’Illyricum, dont le rôle de
 représentant du pouvoir central dans la ville, bien mis en valeur dans les <hi rend="italic">Miracula Demetrii</hi>
@@ -327,27 +327,27 @@ représentant du pouvoir central dans la ville, bien mis en valeur dans les <hi 
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. ZACOS - VEGLERY, 2412.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                       <!--[2]. P. LEMERLE, <hi rend="italic">Les plus anciens recueils des miracles de saint Démétrius</hi>, Paris 1981, II p. 38,
 41 et passim.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                       <!--[3]. par exemple ZACOS - VEGLERY,
 957, 1691, 1717A, 2383, 2588, 2589, 2651.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>196</citedRange>

@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné dans toute sa partie droite; boursouflé le long du canal, au revers; très belles lettres, nettement et
+                           <p >Rogné dans toute sa partie droite; boursouflé le long du canal, au revers; très belles lettres, nettement et
                                         régulièrement gravées.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,9 +169,9 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PdKvf1-r</rs>
-                              <p xml:lang="en" part="N">Cruciform Marian monogram, of the Laurent V type, framed
+                              <p xml:lang="en" >Cruciform Marian monogram, of the Laurent V type, framed
                                             by the usual tetrasyllable.</p>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme, de type Laurent V cantonné par le tétrasyllabe habituel.</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme, de type Laurent V cantonné par le tétrasyllabe habituel.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PdKvf1-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,18 +266,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
                     </rs>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><expan ><abbr><supplied reason="omitted" >Κ</supplied>ω</abbr><ex >ν</ex><abbr>σταν</abbr><ex >τίνῳ</ex></expan>
                           
                                   <lb n="3"/><rs type="dignity" ref="dignities.xml#πατρίκιος"><supplied reason="lost" >π</supplied>ατρικίῳ</rs> <rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος_β"><expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan>
@@ -290,17 +290,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / Κωνσταντίνῳ πατρικίῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ ἐπάρχῳ Πόλεως.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant Constantine, patrikios, imperial protospatharios and eparch of the City.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Constantin, patrice, protospathaire impérial et éparque de la Ville.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / Κωνσταντίνῳ πατρικίῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ ἐπάρχῳ Πόλεως.</p>
+            <p xml:lang="en" >Mother of God help your servant Constantine, patrikios, imperial protospatharios and eparch of the City.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur Constantin, patrice, protospathaire impérial et éparque de la Ville.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--V. Laurent a publié un sceau  [1] qui appartint
+            <p ><!--V. Laurent a publié un sceau  [1] qui appartint
                       aussi à un Constantin, éparque. Il rappelle que deux personnages ainsi nommés ont occupé
                       cette charge, l’un lorsque Basile était co-empereur avec Michel III et l’autre lorsqu’il régnait
                       seul. V. Laurent n’assignait pas précisément le sceau à l’un ou à l’autre de ces éparques, mais
@@ -328,23 +328,23 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     <!--  [1]. <hi rend="italic">Corpus</hi>, II, 1003.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                      <!-- [2]. ZACOS - VEGLERY
                       1820.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>133</citedRange>

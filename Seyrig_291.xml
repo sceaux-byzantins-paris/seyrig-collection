@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Slightly worn edge around the edges; slightly notched on the left side.</p>
-                           <p xml:lang="fr" part="N">Rogné légèrement sur le pourtour; légèrement entaillé sur le côté gauche.</p>
+                           <p xml:lang="en" >Slightly worn edge around the edges; slightly notched on the left side.</p>
+                           <p xml:lang="fr" >Rogné légèrement sur le pourtour; légèrement entaillé sur le côté gauche.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -154,11 +154,11 @@
                   <!-- Acheté: this is not discovered, not the findspot; 
                             information for the type=transferred  -->
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acheté à Istanbul</p>
+                     <p >Acheté à Istanbul</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -177,8 +177,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wE7VSo-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -219,8 +219,8 @@
                                  <dim type="diameter">12</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-wE7VSo-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -248,7 +248,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -276,15 +276,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+Σκέ
                           <lb n="2" break="no"/>πε <expan ><abbr>δέσπ</abbr><ex >οινα</ex></expan>
                           <lb n="3"/>Νικήτᾳ
@@ -294,17 +294,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -312,19 +312,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / + Σκέπε δέσποινα Νικήτᾳ Ἀδραλέστῳ.</p>
-            <p xml:lang="en" part="N">Mother of God. / Lady protect Niketas Adralestos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Despoina protège Nicétas Adralestos.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / + Σκέπε δέσποινα Νικήτᾳ Ἀδραλέστῳ.</p>
+            <p xml:lang="en" >Mother of God. / Lady protect Niketas Adralestos.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Despoina protège Nicétas Adralestos.</p>
             <!--Gardons nous le terme despoina ou traduisons nous en "Dame"?-->
             <!-- à traduire -->
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Adralestos est attesté comme patronyme, au Xe siècle, lorsque Diogène Adralestos, neveu
+            <p ><!--Adralestos est attesté comme patronyme, au Xe siècle, lorsque Diogène Adralestos, neveu
                       de Bardas Phôkas, participa, avec son oncle, à une rébellion contre Jean Tzimiskès. Il se rendit
                       rapidement à Bardas Sklèros [2]. Cet Adralestos
                       avait sans doute pour ancêtre le domestique des scholes de ce nom, actif sous Romain Lécapène
@@ -337,10 +337,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. SEIBT, <hi rend="italic">Theotokos</hi>, p. 44-45.
                       </p>
                       <p xml:id="footnote-2">

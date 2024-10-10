@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition><!-- gravure et relief: ici ou sous épigraphie? -->
-                           <p part="N">Flan plus large que le sceau ; gravure nette et bien conservée ; l’effigie a un puissant relief.</p>
+                           <p >Flan plus large que le sceau ; gravure nette et bien conservée ; l’effigie a un puissant relief.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition><!-- à compléter -->
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">13</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-z00l8j-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">13</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-z00l8j-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,15 +268,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                   <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                     <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                   <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                     <ab >
                          <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   
                                   <lb n="1"/>Μιχαὴλ  
@@ -292,17 +292,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,17 +310,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- à compléter -->
-            <p part="N">Μήτηρ Θεοῦ / + Μιχαὴλ ἀνθύπατος ᾿Ατταλειάτης.</p>
-            <p xml:lang="en" part="N">Mother of God / Michael Attaleiates, anthypatos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu / Michel Attaleiatès, <hi rend="italic">anthypatos</hi>.</p>
+         <div type="translation"   ><!-- à compléter -->
+            <p >Μήτηρ Θεοῦ / + Μιχαὴλ ἀνθύπατος ᾿Ατταλειάτης.</p>
+            <p xml:lang="en" >Mother of God / Michael Attaleiates, anthypatos.</p>
+            <p xml:lang="fr" >Mère de Dieu / Michel Attaleiatès, <hi rend="italic">anthypatos</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--P. Gautier a reconstitué la carrière de Michel Attaleiatès [1]. Romain IV lui conféra la dignité de patrice en 1069 et Michel VII lui accorda
+            <p ><!--P. Gautier a reconstitué la carrière de Michel Attaleiatès [1]. Romain IV lui conféra la dignité de patrice en 1069 et Michel VII lui accorda
 celle, supérieure, d'<hi rend="italic">anthypatos</hi>, comme en témoigne le titre de l’ouvrage de droit composé par
 Attaleiatès en 1072/73. Ce dernier fut promu vestès avant 1079, peut-être dès 1075. Le type
 de la Vierge Hodègètria, très en vogue dans la seconde moitié du XIe siècle, est ici très
@@ -329,19 +329,19 @@ précisément daté.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. <hi rend="italic">Diataxis</hi>, p. 11-16.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">   
+            <p >   
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>17</citedRange>

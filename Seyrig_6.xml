@@ -123,9 +123,9 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="pierced">
-                           <p xml:lang="en" part="N">Offset to the left; pierced at the top; slightly indented at the channel holes. Obliterated on the reverse at the top
+                           <p xml:lang="en" >Offset to the left; pierced at the top; slightly indented at the channel holes. Obliterated on the reverse at the top
                                         left.</p>
-                           <p xml:lang="fr" part="N">Décentré vers la gauche; percé en haut; légèrement échancré aux orifices du canal. Oblitéré au revers en haut
+                           <p xml:lang="fr" >Décentré vers la gauche; percé en haut; légèrement échancré aux orifices du canal. Oblitéré au revers en haut
                                         à gauche.</p>
                         </condition>
                      </supportDesc>
@@ -167,8 +167,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">don d'Henri Seyrig</p>
+                     <p xml:lang="en" >donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -188,8 +188,8 @@
                                  <!-- cette information est souvent données dans l'édition, mais pas toujours: elle correspond au diamètre du champ -->
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tQ0Av2-r</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -236,8 +236,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tQ0Av2-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -271,7 +271,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -298,29 +298,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                <div type="textpart" subtype="sigla" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">  
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                <div type="textpart" subtype="sigla" n="obv" rend="linear"    xml:lang="">
+                      <ab >  
                           <lb n="1"/><expan ><abbr>Ἰ</abbr><ex >ησοῦ</ex><abbr>ς</abbr></expan> <expan ><abbr>Χ</abbr><ex >ριστό</ex><abbr>ς</abbr></expan>
                       </ab>
                   </div>
-                <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">  
+                <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >  
                          <lb n="1"/>Ἐμμανουήλ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">  
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >  
                           <lb n="1"/> <supplied reason="lost" >+</supplied> <expan ><supplied reason="lost" ><abbr>Basil</abbr><ex >eios</ex></supplied></expan> <expan ><supplied reason="lost" ><ex >kai</ex></supplied></expan> 
                           <expan ><supplied reason="lost" ><abbr>Cons</abbr></supplied><abbr>tanti</abbr><ex >nos</ex></expan> 
                          <expan ><abbr>b</abbr><ex >asileis</ex></expan> <expan ><supplied reason="lost" ><abbr>R</abbr><ex >omaion</ex></supplied></expan>
                       </ab>
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la" part="N"  >
-                  <ab part="N"/>
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la"   >
+                  <ab />
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >
@@ -332,17 +332,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Basileios kai Constantinos basileis Romaion.</p>
-            <p xml:lang="en" part="N">Basil and Constantine, basileis of the Romans.</p>
-            <p xml:lang="fr" part="N">Basile et Constantin, basileis des Romains.</p>
+         <div type="translation"   >
+            <p >Basileios kai Constantinos basileis Romaion.</p>
+            <p xml:lang="en" >Basil and Constantine, basileis of the Romans.</p>
+            <p xml:lang="fr" >Basile et Constantin, basileis des Romains.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Sur la sigillographie de Basile II et la coexistence de sceaux de l’empereur seul
+            <p ><!--Sur la sigillographie de Basile II et la coexistence de sceaux de l’empereur seul
 ou avec son frère Constantin, voir SEIBT, <hi rend="italic">Bleisiegel</hi>, p. 87. Le type du sceau impérial avec
 les deux souverains ne semble guère avoir varié au cours de ce long règne; à la différence
 des monnaies où costumes respectifs et croix déterminent six classes d'<hi rend="italic">histaména</hi>. Le type du
@@ -352,15 +352,15 @@ et la monnaie d’or au début du règne, ne fut plus changé.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     [1]. <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange unit="page">p. 87</citedRange>
                </bibl>.
                 </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                     [2]. <bibl  >
                   <ptr target="Grierson1993b"/>, <citedRange>1</citedRange>
                </bibl>.
@@ -368,10 +368,10 @@ et la monnaie d’or au début du règne, ne fut plus changé.--></p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Biliothèque Nationale de France, Paris,
                     <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>6</citedRange>
@@ -380,15 +380,15 @@ et la monnaie d’or au début du règne, ne fut plus changé.--></p>
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Dumbarton Oaks, Washington D.C.,
                     <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>76</citedRange>
                </bibl>; </p>
-            <p part="N"> Münzkabinett des Kunsthistorischen Museums, Vienne,
+            <p > Münzkabinett des Kunsthistorischen Museums, Vienne,
                     <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange>18</citedRange>
                </bibl>.
@@ -396,10 +396,10 @@ et la monnaie d’or au début du règne, ne fut plus changé.--></p>
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                 </p>
          </div>
       </body>

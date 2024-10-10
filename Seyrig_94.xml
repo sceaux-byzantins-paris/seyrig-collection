@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Bien centré; fendu en deux parties égales le long de la ligne du canal, au droit.</p>
+                           <p >Bien centré; fendu en deux parties égales le long de la ligne du canal, au droit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,9 +168,9 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tOUkDh-r</rs>
-                              <p xml:lang="en" part="N">Patriarchal cross on four steps. Around it, between two nets, the usual
+                              <p xml:lang="en" >Patriarchal cross on four steps. Around it, between two nets, the usual
                                             of invocation.</p>
-                              <p xml:lang="fr" part="N">Croix patriarcale sur quatre degrés. Autour, entre deux filets, la formule
+                              <p xml:lang="fr" >Croix patriarcale sur quatre degrés. Autour, entre deux filets, la formule
                                             d’invocation habituelle.</p>
                            </layout>
                         </layoutDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tOUkDh-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,10 +267,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> βοήθει τῷ σῷ <expan ><abbr>δούλ</abbr><ex >ῳ</ex></expan>
 
@@ -278,8 +278,8 @@
                       </ab>
                       </div>
                       
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Ἰωά
                           
                                   <lb n="3" break="no"/>ννῃ <expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan> κ
@@ -292,17 +292,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,35 +310,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ / + Ἰωάννῃ βασιλικῷ κουράτορι. Ἀμήν.</p>
-            <p xml:lang="en" part="N">Lord help your servant John, imperial kourator. Amen.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Jean, curateur impérial. Amen.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ / + Ἰωάννῃ βασιλικῷ κουράτορι. Ἀμήν.</p>
+            <p xml:lang="en" >Lord help your servant John, imperial kourator. Amen.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Jean, curateur impérial. Amen.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La résolution de l’abréviation finale n’est
+            <p ><!--La résolution de l’abréviation finale n’est
                       pas sûre. La formule Amen est rare. La fonction de curateur s’accompagne parfois d’une
                       précision géographique et on pourrait penser, moins vraisemblablement, à un toponyme
                       (Aminsos ? Amaseia ?).--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>94</citedRange>

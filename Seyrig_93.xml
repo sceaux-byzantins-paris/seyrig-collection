@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur tout le pourtour; pressé et oblitéré en plusieurs points des deux faces; percé en son centre.</p>
+                           <p >Rogné sur tout le pourtour; pressé et oblitéré en plusieurs points des deux faces; percé en son centre.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,9 +168,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-u6eAFj-r</rs>
-                              <p xml:lang="en" part="N">Cruciform Marian monogram,  of the Laurent V type, continued
+                              <p xml:lang="en" >Cruciform Marian monogram,  of the Laurent V type, continued
                                             in the cantons by the name of the owner of the seal.</p>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme,  de type Laurent V continué
+                              <p xml:lang="fr" >Monogramme marial cruciforme,  de type Laurent V continué
                                             dans les cantons par le nom du propriétaire du sceau.</p>
                            </layout>
                         </layoutDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-u6eAFj-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,18 +267,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan> Θεωδώτῳ
                               
                     </rs>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>ὑπάτ
                           
                                   <lb n="3" break="no"/>ῳ <expan ><abbr>κ</abbr><ex >αὶ</ex></expan> <expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan> κ
@@ -291,17 +291,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,35 +309,35 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει  Θεωδώτῳ / ὑπάτῳ καὶ βασιλικῷ κουράτωρι.</p>
-            <p xml:lang="en" part="N">Mother of God help Theodotos, hypatos and imperial kourator.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Théodote, <hi rend="italic">hypatos</hi> et curateur impérial.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει  Θεωδώτῳ / ὑπάτῳ καὶ βασιλικῷ κουράτωρι.</p>
+            <p xml:lang="en" >Mother of God help Theodotos, hypatos and imperial kourator.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Théodote, <hi rend="italic">hypatos</hi> et curateur impérial.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le sceau d’un Théodote, hypatos et domestique de la table
+            <p ><!--Le sceau d’un Théodote, hypatos et domestique de la table
 impériale [1], contemporain du nôtre, pourrait
 éventuellement avoir appartenu à ce même personnage à un stade ultérieur de sa carrière.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. Fogg 1757, éd. ZACOS - VEGLERY, 2484.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>93</citedRange>

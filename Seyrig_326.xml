@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Offset towards the base on the reverse; and pressed on the top of the reverse.</p>
-                           <p xml:lang="fr" part="N">Décentré vers la base au revers et pressé au sommet du revers.</p>
+                           <p xml:lang="en" >Offset towards the base on the reverse; and pressed on the top of the reverse.</p>
+                           <p xml:lang="fr" >Décentré vers la base au revers et pressé au sommet du revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-nlMXi7-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">14</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-nlMXi7-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende metrique sur 4 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende metrique sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,15 +269,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N"><!-- à laisser comme ceci pour le moment, j'ai des doutes sur la transcription, à revoir sur photo -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab ><!-- à laisser comme ceci pour le moment, j'ai des doutes sur la transcription, à revoir sur photo -->
                          <cb n="a"/><expan ><ex >Ὁ ἃγιος</ex></expan> <supplied reason="lost" >Θεόδ
                         <cb n="b"/><ex >ο</ex>ρος</supplied>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Σφράγι
                           <lb n="2" break="no"/>ζε <expan ><abbr>μάρτ</abbr><ex >υς</ex></expan> 
                           <lb n="3"/>τὰς <expan ><abbr>γραφ</abbr><ex >ὰς</ex></expan> 
@@ -285,17 +285,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -303,27 +303,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Θεόδωρος. / Σφράγιζε, μάρτυς, τὰς γραφὰς Βασιλείου.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Θεόδωρος. / Σφράγιζε, μάρτυς, τὰς γραφὰς Βασιλείου.</p>
             <!-- obv à revoir si changements dans édition -->
-            <p xml:lang="en" part="N">Saint Theodore. / Martyr, seal the writings of Basil.</p>
-            <p xml:lang="fr" part="N">Saint Théodore. / Martyr, scelle les écrits de Basile.</p>
+            <p xml:lang="en" >Saint Theodore. / Martyr, seal the writings of Basil.</p>
+            <p xml:lang="fr" >Saint Théodore. / Martyr, scelle les écrits de Basile.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le même vers, à l’exception de Βασιλείου remplacé par
+            <p ><!--Le même vers, à l’exception de Βασιλείου remplacé par
                           Γεωργίου, apparaît sur la légende métrique du plomb de Georges Comnène Paléologue datant
                           du troisième quart du XIIe siècle [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. KONSTANTOPOULOS, <hi rend="italic">Molybdoboulla</hi>, 670a; STAVRAKOS,
                           131.-->
                       </p>

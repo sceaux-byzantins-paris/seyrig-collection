@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Profondément entaillé au droit ; pressé et oblitéré, à droite et à gauche, sur les deux faces ; sinon belle gravure; à l'avers, l'inscription en colonne de part et d'autre de l'effigie est perdue.</p>
+                           <p >Profondément entaillé au droit ; pressé et oblitéré, à droite et à gauche, sur les deux faces ; sinon belle gravure; à l'avers, l'inscription en colonne de part et d'autre de l'effigie est perdue.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition><!-- à compléter -->
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ApF5mp-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ApF5mp-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,13 +266,13 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang=""><!-- l'absence de texte sur le sceau et dans l'édition n'implique pas absence de tags -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang=""><!-- l'absence de texte sur le sceau et dans l'édition n'implique pas absence de tags -->
                       <cb n="a"/><gap reason="lost" extent="unknown" unit="character" /><!-- mal visualisé après transformation! -->
                       <cb n="b"/><gap reason="lost" extent="unknown" unit="character" />
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="1"/><supplied reason="lost" >+</supplied> <expan ><abbr>Λέ</abbr><ex >ω</ex><abbr>ν</abbr></expan><!-- attention aux espaces blancs! -->
                                
                                   <lb n="2"/><expan ><supplied reason="lost" >σ</supplied><abbr>παθα</abbr><supplied reason="lost" >ρ<ex >ο</ex></supplied>
@@ -287,17 +287,17 @@
                                </ab>
  </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp ><!-- mettre ceci quand il n'y a pas d'apparat critique: ici et ailleurs dans les autres fichiers -->
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,17 +305,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Λέων σπαθαροκανδιδᾶτος καὶ ἐπὶ τοῦ Πανθέου ὁ Πάμφιλος.</p>
-            <p xml:lang="en" part="N">Leo Pamphilos, spatharocandidatos and epi tou Pantheou.</p>
-            <p xml:lang="fr" part="N">Léon Pamphilos, spatharocandidat et <hi rend="italic">épi tou Panthéou</hi>.</p>
+         <div type="translation"   >
+            <p >+ Λέων σπαθαροκανδιδᾶτος καὶ ἐπὶ τοῦ Πανθέου ὁ Πάμφιλος.</p>
+            <p xml:lang="en" >Leo Pamphilos, spatharocandidatos and epi tou Pantheou.</p>
+            <p xml:lang="fr" >Léon Pamphilos, spatharocandidat et <hi rend="italic">épi tou Panthéou</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Les Pamphiloi sont bien représentés en sigillographie à partir
+            <p ><!--Les Pamphiloi sont bien représentés en sigillographie à partir
 du XIe siècle avec Michel  [1], Léon  [2] et Dèmètrios, protospathaire et juge de l’Hippodrome [3]. Léon, titulaire de notre sceau, doit être distingué de son homonyme cité
 précédemment. Il est le plus ancien représentant actuellement connu de la lignée, car l’autre
 Léon vécut au XIIIe siècle.
@@ -332,34 +332,34 @@ accession au trône [6].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    <!--   [1]. SZEMIOTH - WASILEWSKI, n° 91.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                       <!--[2]. LAURENT, <hi rend="italic">Bulles métriques</hi> STAVRAKOS, 201.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                       <!--[3]. LAURENT, <hi rend="italic">Corpus</hi>, II, 869.-->
                   </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                      <!-- [4]. AHRWEILER, <hi rend="italic">Administration</hi>, p. 28 et note 9.-->
                   </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                      <!-- [5]. XVII, § 19.-->
                   </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                       <!--[6]. SKYLITZÈS, p. 390.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">   
+            <p >   
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>14</citedRange>

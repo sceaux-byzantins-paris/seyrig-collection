@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="pierced">
-                           <p part="N">Percé en son sommet, rogné sur le pourtour, comportant quelques points d’oxydation sur les deux faces ; les
+                           <p >Percé en son sommet, rogné sur le pourtour, comportant quelques points d’oxydation sur les deux faces ; les
                                         lettres du revers sont nettement plus grandes que celles du droit.</p>
                         </condition>
                      </supportDesc>
@@ -169,8 +169,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-MiAepQ-r</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes.</p>
+                              <p xml:lang="en" >Legend of 5 lines.</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-MiAepQ-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,10 +286,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/><supplied reason="lost" >Θ</supplied>εοφάνους <rs type="dignity" ref="dignities.xml#πατρίκιος">πατρ
                                
                                   <lb n="2" break="no"/><supplied reason="lost" >ι</supplied>κίου</rs> <rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος_β">βασιλικοῦ πρ
@@ -301,8 +301,8 @@
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="6"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καί</ex></expan> κομ
                                   <lb n="7" break="no"/>μερκιαρ
@@ -315,17 +315,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -333,17 +333,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοφάνους πατρικίου βασιλικοῦ πρωτοσπαθαρίου γενικοῦ λογοθέτου καί κομμερκιαρίου ἀποθήκης Ἑλλησπόντου καὶ Λυδίας .</p>
-            <p xml:lang="en" part="N">(Seal of) Theophanes, patrikios, imperial protospatharios, logothetes of the genikon, imperial and kommerkiarios of the Hellespont and of the Lydia.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Théophane, patrice, protospathaire impérial, logothète du génikon et commerciaire de l’Hellespont et de la Lydie.</p>
+         <div type="translation"   >
+            <p >Θεοφάνους πατρικίου βασιλικοῦ πρωτοσπαθαρίου γενικοῦ λογοθέτου καί κομμερκιαρίου ἀποθήκης Ἑλλησπόντου καὶ Λυδίας .</p>
+            <p xml:lang="en" >(Seal of) Theophanes, patrikios, imperial protospatharios, logothetes of the genikon, imperial and kommerkiarios of the Hellespont and of the Lydia.</p>
+            <p xml:lang="fr" >(Sceau de) Théophane, patrice, protospathaire impérial, logothète du génikon et commerciaire de l’Hellespont et de la Lydie.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--D’après les sceaux conservés on sait que Théophane, logothète du <hi rend="italic">génikon</hi>, a
+            <p ><!--D’après les sceaux conservés on sait que Théophane, logothète du <hi rend="italic">génikon</hi>, a
                       détenu simultanément en 727/728 les offices de commerciaire de Bithynie, des (Phrygies)
                       Salutaire et Pacatienne, de l’Hellespont et de Lydie (notre sceau) ainsi que de Thessalonique.
                       En 728/729 il exerçait encore les mêmes responsabilités pour la Bithynie et les (Phrygie)
@@ -351,25 +351,25 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    <!--   [1]. Cf. ZACOS - VEGLERY, p. 161, Tab. 16.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>139</citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>236</citedRange>
@@ -377,17 +377,17 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
                 
               </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p7980">Theophanes 33</ref>

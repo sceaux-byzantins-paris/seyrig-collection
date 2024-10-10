@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Fortement échancré aux orifices du canal; lenticulaire.</p>
+                           <p >Fortement échancré aux orifices du canal; lenticulaire.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Po6yT2-r</rs>
-                              <p xml:lang="en" part="N">Monogram of type ZACOS - VEGLERY 301</p>
-                              <p xml:lang="fr" part="N">Monogramme de type ZACOS - VEGLERY 301</p>
+                              <p xml:lang="en" >Monogram of type ZACOS - VEGLERY 301</p>
+                              <p xml:lang="fr" >Monogramme de type ZACOS - VEGLERY 301</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Po6yT2-v</rs>
-                              <p xml:lang="en" part="N">Monogram of type ZACOS - VEGLERY 362</p>
-                              <p xml:lang="fr" part="N">Monogramme du type ZACOS - VEGLERY 362</p>
+                              <p xml:lang="en" >Monogram of type ZACOS - VEGLERY 362</p>
+                              <p xml:lang="fr" >Monogramme du type ZACOS - VEGLERY 362</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,17 +265,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N"> 
+                      <ab > 
                           <lb n="1"/><expan ><ex >Λεοντίου</ex></expan>
 
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                                   <lb n="2"/> <rs type="dignity" ref="dignities.xml#πατρίκιος">
                         <expan ><ex >πατρικίου</ex></expan>
                           </rs>
@@ -283,17 +283,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -301,33 +301,33 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Λεοντίου / πατρικίου.</p>
-            <p xml:lang="en" part="N">(Seal of) Leontios, / patrikios.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Léonce, / patrice.</p>
+         <div type="translation"   >
+            <p >Λεοντίου / πατρικίου.</p>
+            <p xml:lang="en" >(Seal of) Leontios, / patrikios.</p>
+            <p xml:lang="fr" >(Sceau de) Léonce, / patrice.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>45</citedRange>

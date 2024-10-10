@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition><!-- @rend à ajouter -->
-                           <p part="N">Très mauvaise conservation ; à la base,
+                           <p >Très mauvaise conservation ; à la base,
                                         une grande entaille a détruit la fin de la légende ; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pyzkwe-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                               <!-- l'édition en fait pas mention de colonne, mais d'une légende circulaire au pourtour, qui devrait e^tre mentionnée ici -->
                            </layout>
                         </layoutDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pyzkwe-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 or 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 ou 6 lignes</p>
+                              <p xml:lang="en" >Legend of 5 or 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 ou 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -271,14 +271,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                          <lb n="1"/><rs type="invocation" xml:id="Θεοτόκε1" rend="circular"><expan ><supplied reason="lost" ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κ</abbr></supplied><abbr>ε</abbr></expan> βοήθε<supplied reason="lost" >ι</supplied></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/>Ῥωμανῷ
                           <lb n="3"/>πρωτοβεσ
                           <lb n="4" break="no"/>τάρχῃ κα<supplied reason="lost" >ὶ</supplied>
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / Ῥωμανῷ πρωτοβεστάρχῃ και ἀνθυπάτῳ τῷ ...</p>
-            <p xml:lang="en" part="N">Theotokos help Romanos N., protovestarches and anthypatos.</p>
-            <p xml:lang="fr" part="N">Théotokos aide Romain N., protovestarque et <hi rend="italic">anthypatos</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / Ῥωμανῷ πρωτοβεστάρχῃ και ἀνθυπάτῳ τῷ ...</p>
+            <p xml:lang="en" >Theotokos help Romanos N., protovestarches and anthypatos.</p>
+            <p xml:lang="fr" >Théotokos aide Romain N., protovestarque et <hi rend="italic">anthypatos</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le patronyme est perdu. La dignité de protovestarque n’est pas
+            <p ><!--Le patronyme est perdu. La dignité de protovestarque n’est pas
                       attestée avant le règne de Nicéphore III Botaneiatès. Les détenteurs de ce titre actuellement
                       connus sont peu nombreux. Ainsi la collection Shaw (n° 1012, cat. Laurent n° 122) conserve
                       le sceau de Romain Agallianos, protovestarque. G. Schlumberger  [1] a
@@ -331,20 +331,20 @@
                       Katzamoundai (voir infra, n° 216 <!-\-créer lien-\->).--></p>
             <div type="commentary"
                  subtype="footnotes"
-                 part="N"
+                 
                  
                  >
-               <p xml:id="footnote-1" part="N">
+               <p xml:id="footnote-1" >
                           <!--[1]. Schlumberger, <hi rend="italic">Sigillographie</hi>, p. 297.-->
                       </p>
             </div>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>62</citedRange>

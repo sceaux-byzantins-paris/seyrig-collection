@@ -114,8 +114,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Strongly indented at the lower opening of the channel; off-centre to the right on the obverse and to the left on the reverse; blistered on both sides.</p>
-                           <p xml:lang="fr" part="N">Fortement échancré à l’orifice inférieur du canal; décentré vers la droite à l’avers et vers la gauche, au revers; boursouflé sur les deux faces.</p>
+                           <p xml:lang="en" >Strongly indented at the lower opening of the channel; off-centre to the right on the obverse and to the left on the reverse; blistered on both sides.</p>
+                           <p xml:lang="fr" >Fortement échancré à l’orifice inférieur du canal; décentré vers la droite à l’avers et vers la gauche, au revers; boursouflé sur les deux faces.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -159,8 +159,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -179,8 +179,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-hsP845-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme d’un type inhabituel</p>
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme cruciforme d’un type inhabituel</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -219,8 +219,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-hsP845-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Μonogramme cruciforme comportant gauche un P et à droite un E, au sommet un ΟΥ, à la base, traces d' un Ω et un Δ liés,
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Μonogramme cruciforme comportant gauche un P et à droite un E, au sommet un ΟΥ, à la base, traces d' un Ω et un Δ liés,
                                             au centre Θ</p>
                            </layout>
                         </layoutDesc>
@@ -249,7 +249,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -279,14 +279,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan cert="low" ><ex >Κύριε ὁ Θεὸς βοήθει</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                          <lb n="2"/><app type="alternative">
                          <lem><expan cert="low" ><expan ><ex >Θεοδώρου</ex></expan></expan></lem>
                          <rdg><expan cert="low" ><expan ><ex >Δωροθέου</ex></expan></expan></rdg>
@@ -294,17 +294,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -312,19 +312,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε ὁ Θεὸς βοήθει / Θεοδώρου <hi rend="italic">vel</hi> Δωροθέου.</p>
-            <p xml:lang="en" part="N">Lord God, help Theodore <hi rend="italic">or</hi> Dorotheou.</p>
-            <p xml:lang="fr" part="N">Seigneur Dieu aide Théodore <hi rend="italic">ou</hi> Dorothée.</p>
+         <div type="translation"   >
+            <p >Κύριε ὁ Θεὸς βοήθει / Θεοδώρου <hi rend="italic">vel</hi> Δωροθέου.</p>
+            <p xml:lang="en" >Lord God, help Theodore <hi rend="italic">or</hi> Dorotheou.</p>
+            <p xml:lang="fr" >Seigneur Dieu aide Théodore <hi rend="italic">ou</hi> Dorothée.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

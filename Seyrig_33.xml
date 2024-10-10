@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Brisé dans sa partie gauche; échancré à l’orifice supérieur du canal.</p>
+                           <p >Brisé dans sa partie gauche; échancré à l’orifice supérieur du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition><!-- à compléter, ici et dans tous les autres fichiers, à vérifier -->
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-0OpSOn-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram of the Laurent V type, framed by the usual tetrasyllable</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme de type Laurent V cantonné par le 
+                              <p xml:lang="en" >Cruciform monogram of the Laurent V type, framed by the usual tetrasyllable</p>
+                              <p xml:lang="fr" >Monogramme cruciforme de type Laurent V cantonné par le 
                                             tétrasyllabe habituel</p>
                            </layout>
                         </layoutDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-0OpSOn-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,10 +267,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
@@ -278,8 +278,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                     
                                   <lb n="2"/>  Τιμ<supplied reason="lost" >ο</supplied>
                           
@@ -294,17 +294,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -312,39 +312,39 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / Τιμοθέῳ ὑπάτῳ.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant Timotheos, hypatos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Timothée, <hi rend="italic">hypatos</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / Τιμοθέῳ ὑπάτῳ.</p>
+            <p xml:lang="en" >Mother of God help your servant Timotheos, hypatos.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur Timothée, <hi rend="italic">hypatos</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Cf. G. Zacos et A. Veglery (2564) qui présentent
+            <p ><!--Cf. G. Zacos et A. Veglery (2564) qui présentent
                       un sceau d’un personnage de nom (sous forme d’un monogramme) et de titulature identiques
                       [1], mais d’un type différent. Cf. également Konstantopoulos [2], qui publie le sceau d’un Timothée, ἀπὸ ἐπάρχων, 
                       de paléographie similaire, mais dont le monogramme ne porte pas le tétrasyllabe. L’identité des titulaires n est pas exclue.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. DO 58.75.17-547.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                       <!--[2]. Konstantopoulos, (Molybdoboulla, 355γ).-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>33</citedRange>

@@ -105,8 +105,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed around the edges; slight indentation at the channel openings; letters and effigies partly obliterated.</p>
-                           <p xml:lang="fr" part="N">Rogné au pourtour; légère échancrure aux orifices du canal; lettres et effigies en partie oblitérées.</p>
+                           <p xml:lang="en" >Trimmed around the edges; slight indentation at the channel openings; letters and effigies partly obliterated.</p>
+                           <p xml:lang="fr" >Rogné au pourtour; légère échancrure aux orifices du canal; lettres et effigies en partie oblitérées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -170,8 +170,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -190,8 +190,8 @@
                                  <dim type="diameter">30</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-3P7A6J-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,8 +231,8 @@
                                  <dim type="diameter">30</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-3P7A6J-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -261,7 +261,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -290,29 +290,29 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                         <cb n="a"/>+Sanctus <supplied reason="lost" >Petrus apostolus</supplied>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                           <cb n="b"/>+Radulfus <supplied reason="lost" >patriarchu</supplied>s <expan ><abbr>Antiochen</abbr><ex >sis</ex></expan>
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -320,25 +320,25 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+Sanctus Petrus apostolus. / +Radulfus patriarchus Antiochensis.</p>
-            <p xml:lang="en" part="N">Saint apostle Peter. / Raoul, patriarch of Antioch.</p>
-            <p xml:lang="fr" part="N">Saint apôtre Pierre. / Raoul, patriarche d'Antioche.</p>
+         <div type="translation"   >
+            <p >+Sanctus Petrus apostolus. / +Radulfus patriarchus Antiochensis.</p>
+            <p xml:lang="en" >Saint apostle Peter. / Raoul, patriarch of Antioch.</p>
+            <p xml:lang="fr" >Saint apôtre Pierre. / Raoul, patriarche d'Antioche.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Il s’agit probablement de Raoul, originaire de Domfront,
+            <p ><!--Il s’agit probablement de Raoul, originaire de Domfront,
                       archevêque de Mamistra, puis patriarche d’Antioche de 1136 à 1142 [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. Du CANGE-REY, <hi rend="italic">Familles
                       d’Outre Mer</hi>, p. 740-741, 770; F. CHALANDON, <hi rend="italic">Les Comnène</hi> II, Paris 1912, p. 108-109, 122,
                       167.-->

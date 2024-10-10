@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné à gauche; profondément échancré aux orifices du canal.</p>
+                           <p >Rogné à gauche; profondément échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-zQ7Dsu-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes.</p>
+                              <p xml:lang="en" >Legend of 3 lines.</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-zQ7Dsu-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -287,10 +287,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc-la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc-la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/>Γεν
                                
                                   <lb n="2" break="no"/>ναδί
@@ -299,8 +299,8 @@
 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="4"/><expan ><abbr>com</abbr><ex >itis</ex></expan>
                                   <lb n="5"/><expan ><abbr>Sacr</abbr><ex >arum</ex></expan>
@@ -309,17 +309,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -327,17 +327,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Γενναδίου / comitis Sacrarum Largitionum.</p>
-            <p xml:lang="en" part="N">(Seal of) Gennadios, count of the Sacred Largesses.</p>
-            <p xml:lang="fr" part="N">(Sceau de) Gennadios, comte des Largesses Sacrées.</p>
+         <div type="translation"   >
+            <p >Γενναδίου / comitis Sacrarum Largitionum.</p>
+            <p xml:lang="en" >(Seal of) Gennadios, count of the Sacred Largesses.</p>
+            <p xml:lang="fr" >(Sceau de) Gennadios, comte des Largesses Sacrées.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Un sceau de Gennadios, <hi rend="italic">Comes
+            <p ><!--Un sceau de Gennadios, <hi rend="italic">Comes
                       sacrarum largitionum</hi>, de même type bilingue, mais d’un boullôtèrion différent (avec une croix),
                       est publié par G. Zacos et A. Veglery, n° 813. Un troisième type se trouve dans la collection
                       des Méchitaristes de Vienne (n° 42). Le droit est très proche de celui de notre sceau, le revers
@@ -353,25 +353,25 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. DODD, n° 37-40.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                       <!--[2]. <hi rend="italic">ibid</hi>., n° 29.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                      <!-- [3]. R. DELMAIRE, Le déclin des largesses sacrées, <hi rend="italic">Hommes et Richesses</hi> I, p. 277, n. 30.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>91</citedRange>

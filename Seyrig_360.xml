@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Strongly indented at the openings of the canal.</p>
-                           <p xml:lang="fr" part="N">Fortement échancré aux orifices du canal.</p>
+                           <p xml:lang="en" >Strongly indented at the openings of the canal.</p>
+                           <p xml:lang="fr" >Fortement échancré aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,11 +152,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acquis à Beyrouth</p>
+                     <p >Acquis à Beyrouth</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -175,8 +175,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-czWHia-r</rs>
-                              <p xml:lang="en" part="N">Iconography and monogram</p>
-                              <p xml:lang="fr" part="N">Iconographie et deux monogrammes invocatifs cruciformes portant chacun un terme de l'invocation</p>
+                              <p xml:lang="en" >Iconography and monogram</p>
+                              <p xml:lang="fr" >Iconographie et deux monogrammes invocatifs cruciformes portant chacun un terme de l'invocation</p>
                               <!-- description à compléter -->
                            </layout>
                         </layoutDesc>
@@ -218,8 +218,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-czWHia-v</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme du type 273 de la classification Zacos - Veglery (sceau n° 596,
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme du type 273 de la classification Zacos - Veglery (sceau n° 596,
                                             avec un aigle au droit)</p>
                            </layout>
                         </layoutDesc>
@@ -250,7 +250,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -280,14 +280,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><ex >Θεοτόκε</ex></expan> <expan ><ex >βοήθει</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                         <lb n="2"/><app type="alternative">
                                                   <lem><expan cert="low" ><expan ><ex >Καρίνου</ex></expan></expan></lem>
                                                   <rdg><expan cert="low" ><expan ><ex >Νεκταρίου</ex></expan></expan></rdg>
@@ -296,39 +296,39 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="2">
                   <note >La première solution semble la plus probable.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / Καρίνου (?) or Νεκταρίου (?) or Κεράνου (?).</p>
-            <p xml:lang="en" part="N">Mother of God help Karinos or Nektarios (?) or Keranos (?).</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Carin (?) ou Nectaire (?) ou Kéranos (?).</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / Καρίνου (?) or Νεκταρίου (?) or Κεράνου (?).</p>
+            <p xml:lang="en" >Mother of God help Karinos or Nektarios (?) or Keranos (?).</p>
+            <p xml:lang="fr" >Mère de Dieu aide Carin (?) ou Nectaire (?) ou Kéranos (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Pour la datation du type de Vierge, voir
+            <p ><!--Pour la datation du type de Vierge, voir
                       supra, n° 358.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

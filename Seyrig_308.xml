@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Cropped on the right, pressed and cancelled on the left of the obverse and the right of the reverse, some nicks on the reverse.</p>
-                           <p xml:lang="fr" part="N">Rogné sur la droite, pressé et oblitéré sur la gauche de l’avers et la droite du revers, quelques entailles sur
+                           <p xml:lang="en" >Cropped on the right, pressed and cancelled on the left of the obverse and the right of the reverse, some nicks on the reverse.</p>
+                           <p xml:lang="fr" >Rogné sur la droite, pressé et oblitéré sur la gauche de l’avers et la droite du revers, quelques entailles sur
                                         le revers.</p>
                         </condition>
                      </supportDesc>
@@ -154,8 +154,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -174,8 +174,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-6oYTLM-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,8 +215,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-6oYTLM-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 5 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,16 +272,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N"><!-- look at the corrections here -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab ><!-- look at the corrections here -->
                         <cb n="a"/><supplied reason="lost" ><expan ><ex >Ὁ ἃγιος</ex></expan></supplied>
                             <supplied reason="lost" >Β</supplied>α<supplied reason="lost" >σί</supplied>
                           <cb n="b"/>λειος
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Τοῦ Λε<!-- no expan with supplied if there is no an expansion of abbreviation -->
                           <lb n="2" break="no"/>πενδρην<supplied reason="lost" >οῦ</supplied>
                           <lb n="3"/>σφράγισμ<supplied reason="lost" >α</supplied>
@@ -292,17 +292,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,18 +310,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Βασίλειος. / Τοῦ Λεπενδρηνοῦ σφράγισμα Βασιλείου.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Βασίλειος. / Τοῦ Λεπενδρηνοῦ σφράγισμα Βασιλείου.</p>
             <!-- careful: on the article O there was an apostrophe/accent, not a spirit! -->
-            <p xml:lang="en" part="N">Saint Basil. / Seal of Basil Lependrenos.</p>
-            <p xml:lang="fr" part="N">Saint Basile. / Sceaux de Basile Lépendrènos.</p>
+            <p xml:lang="en" >Saint Basil. / Seal of Basil Lependrenos.</p>
+            <p xml:lang="fr" >Saint Basile. / Sceaux de Basile Lépendrènos.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La forme de la croisette du revers avec sa branche
+            <p ><!--La forme de la croisette du revers avec sa branche
                       horizontale très allongée est caractéristique du XIIe siècle. Peu de représentants de cette famille
                       sont connus. Parmi eux, deux Léon: le premier fut catépan d’Édesse en 1035 [1], le second, d’une génération plus jeune, spatharocandidat [2]. Un Lépendrènos dont le prénom ne nous est pas parvenu, fut l’objet d’une enquête
                       à la fin du règne de Manuel Ier vers 1180, car la population de Thessalonique lui était hostile
@@ -330,10 +330,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. SKYLITZÈS,
                       p. 397, 399, 400.
                   </p>
@@ -347,10 +347,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 308</citedRange>
                </bibl>.
@@ -358,10 +358,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, D.C. (coll. Zacos)
+            <p > Dumbarton Oaks, D.C. (coll. Zacos)
                       <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/599/"> Basileios 20128</ref>

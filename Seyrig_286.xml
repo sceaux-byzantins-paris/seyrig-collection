@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="pierced">
-                           <p part="N">Étiré et légèrement renflé sur le côté gauche ; percé en deux endroits ; rogné et partiellement oblitéré à la suite
+                           <p >Étiré et légèrement renflé sur le côté gauche ; percé en deux endroits ; rogné et partiellement oblitéré à la suite
                                         d’un défaut de frappe.</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tEafVk-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-tEafVk-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,15 +268,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="lost" ><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Ἰω</abbr><ex >άννης</ex></expan> ὁ </supplied> <expan ><abbr><supplied reason="lost" >Πρό
                         <cb n="b" break="no"/>δρ</supplied>ομ</abbr><ex >ος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <expan ><abbr>Σφρ</abbr><ex >α</ex>
                           <lb n="2" break="no"/><supplied reason="lost" ><abbr>γ</abbr><ex >ὶς</ex></supplied></expan> <expan ><abbr>τ</abbr><ex >ῆ</ex><abbr>ς</abbr></expan> <expan ><abbr>β</abbr><ex >ασιλικῆς</ex></expan> <expan ><abbr>μ
                           <lb n="3" break="no"/>ον</abbr><ex >ῆς</ex></expan> τοῦ <expan ><abbr><supplied reason="lost" >Π</supplied>
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,17 +306,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Ἰωάννης ὁ Πρόδρομος . / + Σφραγὶς τῆς βασιλικῆς μονῆς τοῦ Προδρόμου τῆς (?).</p>
-            <p xml:lang="en" part="N">St. John Prodromos. Seal of the imperial monastery of the Prodromos τῆς (?).</p>
-            <p xml:lang="fr" part="N">Saint Jean Prodrome. Sceau du monastère impérial du Prodrome τῆς (?).</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Ἰωάννης ὁ Πρόδρομος . / + Σφραγὶς τῆς βασιλικῆς μονῆς τοῦ Προδρόμου τῆς (?).</p>
+            <p xml:lang="en" >St. John Prodromos. Seal of the imperial monastery of the Prodromos τῆς (?).</p>
+            <p xml:lang="fr" >Saint Jean Prodrome. Sceau du monastère impérial du Prodrome τῆς (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  La lecture de la dernière ligne fait difficulté
+            <p ><!--  La lecture de la dernière ligne fait difficulté
                       en raison en partie de la surfrappe. Nous avions tout d’abord pensé à la lecture Ἐρεμίας
                       qui aurait placé cette pièce dans le groupe des sceaux du monastère impérial bien connu de
                       Constantinople placé sous le vocable du Prodrome[1].
@@ -330,10 +330,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                           [1]. LAURENT, <hi rend="italic">Corpus</hi>, N, 2, 1285 et 3, 1944.
                       </p>
                       <p xml:id="footnote-2">
@@ -345,10 +345,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 286</citedRange>
                </bibl>.
@@ -356,10 +356,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris (BN 154)<!-- (mais de coins différents) -->; Dumbarton Oaks, Washington D.C.,
+            <p > Bibliothèque Nationale de France, Paris (BN 154)<!-- (mais de coins différents) -->; Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="LaurentCorpus5.2"/>, <citedRange unit="part"> 1284</citedRange>
                </bibl>.

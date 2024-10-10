@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Profondément rogné sur tout le pourtour.</p>
+                           <p >Profondément rogné sur tout le pourtour.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Tn2Ekk-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines.</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes.</p>
+                              <p xml:lang="en" >Legend of 4 lines.</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Tn2Ekk-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,10 +268,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/><supplied reason="omitted" >+ </supplied> <rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan>βο
                                
                                   <lb n="2" break="no"/><supplied reason="omitted" >ή</supplied>θε<supplied reason="lost" >ι</supplied> τῷ<!-- attention: il n'y a aucun expansion d'abr. -->
@@ -281,8 +281,8 @@
                                   <lb n="4" break="no"/>Μιχαήλ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
 
                                   <lb n="5"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan ><abbr><am ><g type="protos1"/></am></abbr><ex >πρωτο</ex><abbr>σπα
                                   <lb n="6" break="no"/>θαρίῳ</abbr></expan></rs>
@@ -293,17 +293,17 @@
                                </ab>
    </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -311,17 +311,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Κύριε βοήθει τῷ σῷ δούλῳ / Μιχαήλ πρωτοσπαθαρίῳ τῷ Σαγοπούλῳ.</p>
-            <p xml:lang="en" part="N">Lord help your servant Michael Sagopoulos, protospatharios.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Michel Sagopoulos, protospathaire.</p>
+         <div type="translation"   >
+            <p >+ Κύριε βοήθει τῷ σῷ δούλῳ / Μιχαήλ πρωτοσπαθαρίῳ τῷ Σαγοπούλῳ.</p>
+            <p xml:lang="en" >Lord help your servant Michael Sagopoulos, protospatharios.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Michel Sagopoulos, protospathaire.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le patronyme Sagopoulos serait attesté depuis
+            <p ><!--Le patronyme Sagopoulos serait attesté depuis
                       le Xe siècle (?) par le sceau inédit de Nicolas Sagopoulos (anc. coll. Pozzi n° 63, d’après le
                       fichier de V. Laurent). Au XIe siècle on connaît Théophylacte qui rendit visite à saint Lazare
                       le Galésiote (<hi rend="italic">AASS</hi> Non. III, p. 541 B); Michel, protospathaire et mystographe, qui pourrait être identique au titulaire de notre sceau [1] 
@@ -329,19 +329,19 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. V. LAURENT, <hi rend="italic">Corpus</hi>, II, 146; STAVRAKOS, 225.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                           Bibliothèque Nationale de France, Paris,
                           <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>60</citedRange>

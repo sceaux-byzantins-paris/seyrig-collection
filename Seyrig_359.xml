@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Unifacial; indented at the orifices, with very raised edges.</p>
-                           <p xml:lang="fr" part="N">Uniface; échancré aux orifices, aux bords très relevés; revers en forme de cône.</p>
+                           <p xml:lang="en" >Unifacial; indented at the orifices, with very raised edges.</p>
+                           <p xml:lang="fr" >Uniface; échancré aux orifices, aux bords très relevés; revers en forme de cône.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">10</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-nPCLNY-r</rs>
-                              <p xml:lang="en" part="N">Monogram</p>
-                              <p xml:lang="fr" part="N">Monogramme composé autour d’un Π avec une barre horizontale allongée
+                              <p xml:lang="en" >Monogram</p>
+                              <p xml:lang="fr" >Monogramme composé autour d’un Π avec une barre horizontale allongée
                                             formant un T, portant un O et V au sommet de ses hastes verticales, la haste de droite servant
                                             en outre à former un E et, entre les jambages du Π un A</p>
                            </layout>
@@ -215,8 +215,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-nPCLNY-v</rs>
-                              <p xml:lang="en" part="N"/>
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="en" />
+                              <p xml:lang="fr" />
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -245,7 +245,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -274,9 +274,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="1"/><app type="alternative">
                                                   <lem><expan cert="low" ><expan ><ex >Ἀπελάτου</ex></expan></expan></lem>
                                                   <rdg><expan cert="low" ><expan ><ex >Ἀπελλίου</ex></expan></expan></rdg><!-- ??????????? -->
@@ -290,43 +290,43 @@
                           </ab>
                           </div>-->
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="1">
                   <note >Les solutions hypothétiques Apélatès et Apellios impliquent qu’un Λ est inclus dans le A; s’il en était autrement, la troisième solution pourrait être proposée.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἀπελάτου (?).</p>
-            <p part="N">Ἀπελλίου (?).</p>
-            <p part="N">Παειτου (?).</p>
-            <p xml:lang="en" part="N">(Seal of) Apelates (?) or Apellios (?) or Paeitos (?).</p>
-            <p xml:lang="fr" part="N">(Sceau d') Apélatès (?) ou Apellios (?) ou Paeitos (?).</p>
+         <div type="translation"   >
+            <p >Ἀπελάτου (?).</p>
+            <p >Ἀπελλίου (?).</p>
+            <p >Παειτου (?).</p>
+            <p xml:lang="en" >(Seal of) Apelates (?) or Apellios (?) or Paeitos (?).</p>
+            <p xml:lang="fr" >(Sceau d') Apélatès (?) ou Apellios (?) ou Paeitos (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le nom Apélatès est attesté [1].--></p>
+            <p ><!--Le nom Apélatès est attesté [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. ZACOS - VEGLERY 1727 et 1728.-->
                   </p>
          </div>

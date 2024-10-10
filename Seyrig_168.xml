@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné au sommet et à la base ; l’effigie est partiellement oblitérée ainsi que la partie gauche du revers.</p>
+                           <p >Fortement rogné au sommet et à la base ; l’effigie est partiellement oblitérée ainsi que la partie gauche du revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-2AXJRH-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-2AXJRH-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,16 +268,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Ὁ ἅγι<supplied reason="lost" >ο</supplied></abbr><supplied reason="lost" ><ex >ς</ex></supplied></expan> 
                         <cb n="b"/><supplied reason="lost" ><expan ><abbr>Δημήτρ</abbr><ex >ιος</ex></expan></supplied>
                            
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><expan ><abbr><supplied reason="omitted" >Ν</supplied>ικολά</abbr><ex >ῳ</ex></expan>
                           <lb n="2"/><expan ><supplied reason="omitted" ><abbr><am >α</am></abbr><ex >πρωτο</ex></supplied><abbr>σπαθ</abbr><ex >αρίῳ</ex></expan> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan>
                           <lb n="3"/><expan ><abbr><supplied reason="omitted" >σ</supplied>τρατ</abbr><ex >η</ex><abbr>γ</abbr><ex >ῷ</ex></expan>
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="5-6">
                   <lem>τ(ῷ) [Ἀ]μυῤ-[τζ]αντ(αρίῳ) ou Μυρ-[τ]αήτ(ῃ)</lem>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Δημήτριος. / Νικολάῳ πρωτοσπαθαρίῳ καὶ στρατηγῷ Ἀρτεσίου τῷ Μυρελαήτῃ.</p>
-            <p xml:lang="en" part="N">St. Demetrios.Nikolaos Myrelaites (?), imperial protospatharios (?) and strategos of Archesh.</p>
-            <p xml:lang="fr" part="N">Saint Dèmètrios. Nicolas Myrélaïtès ( ?), protospathaire impérial ( ?) et stratège d’Arčeš.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Δημήτριος. / Νικολάῳ πρωτοσπαθαρίῳ καὶ στρατηγῷ Ἀρτεσίου τῷ Μυρελαήτῃ.</p>
+            <p xml:lang="en" >St. Demetrios.Nikolaos Myrelaites (?), imperial protospatharios (?) and strategos of Archesh.</p>
+            <p xml:lang="fr" >Saint Dèmètrios. Nicolas Myrélaïtès ( ?), protospathaire impérial ( ?) et stratège d’Arčeš.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--W. Félix a rassemblé les informations les plus importantes
+            <p ><!--W. Félix a rassemblé les informations les plus importantes
                       sur Arčeš/Arğiš/ Ἀρτέσιον, aujourd’hui Erceş (à proximité de la côte nord-est du lac de
                       Van). En 414 H (1023/24) Nicéphore Comnène, alors catépan du Vaspourakan, l’enleva aux
                       musulmans - vraisemblablement aux Merwânides [1]. En 1045/1046, Étienne
@@ -339,28 +339,28 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. FELIX, <hi rend="italic">Islam</hi>, p. 140.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                           <!--[2]. <hi rend="italic">ibid</hi>., p. 162.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                           <!--[3]. FELIX, <hi rend="italic">Islam</hi>, p. 173.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                          <!-- [4]. JANIN, <hi rend="italic">Constantinople</hi>, p. 394.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>168</citedRange>

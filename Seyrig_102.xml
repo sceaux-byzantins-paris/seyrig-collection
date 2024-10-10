@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Pressé et brisé dans le tiers supérieur droit et à la base; les lettres restantes sont nettement gravées.</p>
+                           <p >Pressé et brisé dans le tiers supérieur droit et à la base; les lettres restantes sont nettement gravées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-MZN8mo-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-MZN8mo-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,15 +268,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >ὁ ἂγιος</ex></expan> <expan ><abbr>Ἰω</abbr><ex >άννης</ex></expan> 
                         <cb n="b"/>ὁ <expan ><abbr>Πρό</abbr><ex >δρομος</ex></expan> 
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ Σφρα
                           <lb n="2" break="no"/><supplied reason="lost" >γὶ</supplied>ς δικα
                           <lb n="3" break="no"/>στοῦ <expan ><abbr>Μι</abbr><ex >χαὴλ</ex></expan> τοῦ
@@ -286,17 +286,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,17 +304,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">ὁ ἂγιος Ἰωάννης ὁ Πρόδρομος / + Σφραγὶς δικαστοῦ Μιχαὴλ τοῦ Βαρέος.</p>
-            <p xml:lang="en" part="N">St. John the Prodromos. Seal of Michael Barys, judge.</p>
-            <p xml:lang="fr" part="N">Saint Jean Prodrome. Sceau de Michel Barys, juge.</p>
+         <div type="translation"   >
+            <p >ὁ ἂγιος Ἰωάννης ὁ Πρόδρομος / + Σφραγὶς δικαστοῦ Μιχαὴλ τοῦ Βαρέος.</p>
+            <p xml:lang="en" >St. John the Prodromos. Seal of Michael Barys, judge.</p>
+            <p xml:lang="fr" >Saint Jean Prodrome. Sceau de Michel Barys, juge.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le prénom est de lecture certaine en dépit de l’absence de l’habituel
+            <p ><!--Le prénom est de lecture certaine en dépit de l’absence de l’habituel
                       <!-\-X au dessus de Ml-\-> et de tout signe d’abréviation. La lignée des Bareis est connue depuis
                       le début du Xe siècle, lorsque Michel Barys arrêta Léon Phocas pour lequel son propre fils,
                       Constantin, domestique des Hicanates, avait pris parti. Au XIe siècle, la famille est bien
@@ -350,52 +350,52 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. <hi rend="italic">Vie de Lazare le Galésiote</hi>, p. 540; CHEYNET, <hi rend="italic">Pouvoir</hi>, p. 64-65.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                           <!--    [2]. LAURENT,
                               <hi rend="italic">Corpus</hi>, V, 1767; STAVRAKOS, 33-->.
                           </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                         <!--  [3]. PENNAS, <hi rend="italic">SBS</hi> 2, p. 168, n° 3.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                           <!--[4]. LAURENT, <hi rend="italic">Corpus</hi>, II, 1113.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
              <!--             [5]. Athènes 384, STAVRAKOS, 34.-->
                       </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                        <!--   [6]. DO 60.10.12-3106.-->
                       </p>
-            <p xml:id="footnote-7" part="N">
+            <p xml:id="footnote-7" >
                           <!--[7]. Athènes 224, STAVRAKOS, 35; le nom de famille
                           n’est pas assuré.-->
                       </p>
-            <p xml:id="footnote-8" part="N">
+            <p xml:id="footnote-8" >
                        <!--   [8]. Coll. Théodoridès, cf. PENNAS,
                           <hi rend="italic">SBS</hi> 2, p. 169.-->
                       </p>
-            <p xml:id="footnote-9" part="N">
+            <p xml:id="footnote-9" >
                          <!-- [9]. Coll. Zacos.-->
                       </p>
-            <p xml:id="footnote-10" part="N">
+            <p xml:id="footnote-10" >
                      <!--     [10]. Coll. Zacos.-->
                       </p>
-            <p xml:id="footnote-11" part="N">
+            <p xml:id="footnote-11" >
                          <!-- [11]. LAURENT, <hi rend="italic">Corpus</hi>, V, 1767.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>102</citedRange>

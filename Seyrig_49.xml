@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné sur tout le pourtour; les lettres sont empâtées.</p>
+                           <p >Fortement rogné sur tout le pourtour; les lettres sont empâtées.</p>
                            <!-- la remarque sur les lettres peut aller dans lettering -->
                         </condition>
                      </supportDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-52LVsb-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-52LVsb-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,15 +270,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/>Μι
                         <cb n="b"/><supplied reason="lost" >χαήλ</supplied><!-- non! cette partie doit e^tre encodée avec les tags pour les inscriptions en colonne et donc avec cb: voir Guidelines -->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                             <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
                                            
                                        </rs>
@@ -295,17 +295,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -313,18 +313,18 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μιχαήλ. / + Κύριε βοήθει Ἀλεξίῳ πατρικίῳ το Περινῷ.</p>
-            <p xml:lang="en" part="N">Michael. / Lord help Alexios Perenos, patrikios.</p>
-            <p xml:lang="fr" part="N">Michel. / Seigneur aide Alexis Pérènos, patrice.</p>
+         <div type="translation"   >
+            <p >Μιχαήλ. / + Κύριε βοήθει Ἀλεξίῳ πατρικίῳ το Περινῷ.</p>
+            <p xml:lang="en" >Michael. / Lord help Alexios Perenos, patrikios.</p>
+            <p xml:lang="fr" >Michel. / Seigneur aide Alexis Pérènos, patrice.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               ><!-- les notes figuraient dans le commentaire  parce que le div du commentaire n'était pas correctement refermé avec un /div après le p et donc il englobait toute la suite (et juste avant body il a avait donc un /div mal placé);
                   il s'agit d'un problème que j'ai déjà fait remarquer sur des fichiers plus anciens, toujours lié au fait de réemployer des fichiers préexistants; l'alignement des différents éléments xml de me^me niveau hiérarchique peut aider à voir ce genre de problème mais il faut un fichier xml très ordonné -->
-            <p part="N"><!--À l’époque de la frappe de ce sceau, un Pérènos est attesté
+            <p ><!--À l’époque de la frappe de ce sceau, un Pérènos est attesté
                       comme duc de Dyrrachion [1]. Promu duc d’Italie [2], il ne put réellement exercer cette fonction, car Robert Guiscard tenait
                       trop bien le territoire italien pour que Pérènos puisse franchir le détroit d’Otrante [3]. Le prénom du duc ne nous est pas parvenu ; il pourrait
                       s’agir de Léon Pérènos qu’un sceau de la collection Zacos mentionne comme magistre et duc
@@ -333,25 +333,25 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1]. ANONYME DE BARI, p. 152.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                     <!--      [2]. SKYLITZÈS CONTINUÉ, p. 169.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                           <!--[3]. FALKENHAUSEN, Dominazione, p. 99.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>49</citedRange>

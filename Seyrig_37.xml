@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Fortement pressé et oblitéré à la base; décentré au revers vers le sommet; en voie d’oxydation.</p>
+                           <p >Fortement pressé et oblitéré à la base; décentré au revers vers le sommet; en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-dhYY04-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                               <!-- à repenser, dans un second temps -->
                            </layout>
                         </layoutDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">24</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-dhYY04-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +244,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,15 +272,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang=""><!-- attention! Sigla, pas label ici -->
-                      <ab part="N"><!-- le nombre de lettres dans abbr, donc visibles sur le sceau, dépend de combien de point se trouvent dans l'édition diplomatique; ici il n'y a que deux, donc les éditeurs ont considéré que sur le sceau il y avait MP, et non pas MHP, il faudrait donc changer -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang=""><!-- attention! Sigla, pas label ici -->
+                      <ab ><!-- le nombre de lettres dans abbr, donc visibles sur le sceau, dépend de combien de point se trouvent dans l'édition diplomatique; ici il n'y a que deux, donc les éditeurs ont considéré que sur le sceau il y avait MP, et non pas MHP, il faudrait donc changer -->
                          <cb n="a"/><supplied reason="undefined" evidence="similar" ><expan ><abbr>Μ</abbr><ex >ήτη</ex><abbr>ρ</abbr></expan></supplied><!-- oui, mais il reste encore à mentionner le fait que, sur cette colonne, le texte est perdu et qu'il a été restauré par les éditeurs -->
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/> <supplied reason="omitted" >+</supplied>
                                       <rs type="invocation" xml:id="Θεοτόκε2" rend="linear">
                                                          <expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan>
@@ -298,17 +298,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -316,33 +316,33 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / + Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰωάννῃ μαγίστρῳ.</p>
-            <p xml:lang="en" part="N">Mother of God. / Mother of God aid your servant John, magistros.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Mère de Dieu aide ton serviteur Jean, magistre.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / + Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰωάννῃ μαγίστρῳ.</p>
+            <p xml:lang="en" >Mother of God. / Mother of God aid your servant John, magistros.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Mère de Dieu aide ton serviteur Jean, magistre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>37</citedRange>

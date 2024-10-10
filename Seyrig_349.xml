@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Decentred towards the top, pressed, obliterated, blistered on both sides.</p>
-                           <p xml:lang="fr" part="N">Décentré vers le sommet, pressé, oblitéré, boursouflé sur les deux faces.</p>
+                           <p xml:lang="en" >Decentred towards the top, pressed, obliterated, blistered on both sides.</p>
+                           <p xml:lang="fr" >Décentré vers le sommet, pressé, oblitéré, boursouflé sur les deux faces.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">11</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pz4Ipv-r</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 3 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">11</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-pz4Ipv-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 3 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,33 +268,33 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+Λό
                         <lb n="2" break="no"/>γων πέ
                         <lb n="3" break="no"/>φυκα
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="4"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>γραφ</abbr><ex >ῶν</ex></expan>
                         <lb n="5"/>σφραγ<supplied reason="lost" >ὶς</supplied> 
                         <lb n="6"/>Πόθου
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,19 +302,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+Λόγων πέφυκα / καὶ γραφῶν σφραγὶς Πόθου.</p>
-            <p xml:lang="en" part="N">I am the seal of the words and writings of Pothos.</p>
-            <p xml:lang="fr" part="N">Je suis le sceau des paroles et des écrits de Pothos.</p>
+         <div type="translation"   >
+            <p >+Λόγων πέφυκα / καὶ γραφῶν σφραγὶς Πόθου.</p>
+            <p xml:lang="en" >I am the seal of the words and writings of Pothos.</p>
+            <p xml:lang="fr" >Je suis le sceau des paroles et des écrits de Pothos.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

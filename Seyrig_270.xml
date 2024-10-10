@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Légèrement rogné dans sa partie supérieure; en voie d’oxydation, sinon complet.</p>
+                           <p >Légèrement rogné dans sa partie supérieure; en voie d’oxydation, sinon complet.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ZDIXLm-r</rs>
-                              <p xml:lang="en" part="N">Monogram similar to the Laurent V type, framed by the usual tetrasyllabe.</p>
-                              <p xml:lang="fr" part="N">Monogramme se rapprochant du type Laurent V, cantonné par
+                              <p xml:lang="en" >Monogram similar to the Laurent V type, framed by the usual tetrasyllabe.</p>
+                              <p xml:lang="fr" >Monogramme se rapprochant du type Laurent V, cantonné par
                                             le tétrasyllabe habituel.</p>
                            </layout>
                         </layoutDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ZDIXLm-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -258,7 +258,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,18 +285,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><ex >Θεοτόκε βοήθει</ex></expan></rs> τῷ σῷ δούλῳ
 
                       </ab>
                       </div>
               
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Μαρκι
                           
                           <lb n="3" break="no"/>ανῷ <expan ><abbr>ἀ</abbr><ex >ρ</ex><abbr>χιε
@@ -315,17 +315,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -333,27 +333,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Μαρκιανῷ ἀρχιεπισκόπῳ Θηβῶν.</p>
-            <p xml:lang="en" part="N">Theotokos help your servant Markianos, archbishop of Thebes.</p>
-            <p xml:lang="fr" part="N">Théotokos aide ton serviteur Markianos, archevêque de Thèbes.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Μαρκιανῷ ἀρχιεπισκόπῳ Θηβῶν.</p>
+            <p xml:lang="en" >Theotokos help your servant Markianos, archbishop of Thebes.</p>
+            <p xml:lang="fr" >Théotokos aide ton serviteur Markianos, archevêque de Thèbes.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Archevêque inconnu. Remarquer la ligature UN, remarquable à une
+            <p ><!--Archevêque inconnu. Remarquer la ligature UN, remarquable à une
                       époque si haute, et la croix formée par le Θ (au droit). Cette dernière forme se retrouve aussi
                       sur le sceau d un stratège de Nicopolis[1]. Sur la métropole de Thèbes, voir
                       LAURENT, <hi rend="italic">Corpus</hi>, V, 1, p. 591.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. N. et W. SEIBT, Die sphragistischen Quellen zum
                       byzantinischen Thema Nikopolis, in : <hi rend="italic">Nicopolis I. Proceedings of the first Int. Symposium on
                       Nicopolis (1984)</hi>, Prévéza 1987, p. 328, illustration, p. 559.-->

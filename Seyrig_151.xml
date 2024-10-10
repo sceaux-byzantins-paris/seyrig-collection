@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Échancré aux orifices du canal; légèrement décentré vers la gauche au revers et au droit.</p>
+                           <p >Échancré aux orifices du canal; légèrement décentré vers la gauche au revers et au droit.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,9 +188,9 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-hmNyP0-r</rs>
-                              <p xml:lang="en" part="N">Cruciform Marian monogram, of the Laurent V type, framed
+                              <p xml:lang="en" >Cruciform Marian monogram, of the Laurent V type, framed
                                             by the usual tetrasyllable.</p>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme, de type Laurent V cantonné par le tétrasyllabe habituel.</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme, de type Laurent V cantonné par le tétrasyllabe habituel.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-hmNyP0-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -258,7 +258,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -285,18 +285,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
                     </rs>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><expan ><abbr><supplied reason="lost" >Ἰ</supplied>σα</abbr><ex >α</ex><abbr>κίῳ</abbr></expan>
                           
                                   <lb n="3"/>κόμιτι <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan>
@@ -308,17 +308,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -326,36 +326,36 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / Ἰσαακίῳ κόμιτι καὶ κομερκιαρίῳ.</p>
-            <p xml:lang="en" part="N">Theotokos help your servant Isaakios, count and kommerkiarios.</p>
-            <p xml:lang="fr" part="N">Théotokos aide ton serviteur Isaac, comte et commerciaire.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / Ἰσαακίῳ κόμιτι καὶ κομερκιαρίῳ.</p>
+            <p xml:lang="en" >Theotokos help your servant Isaakios, count and kommerkiarios.</p>
+            <p xml:lang="fr" >Théotokos aide ton serviteur Isaac, comte et commerciaire.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le cumul de la fonction de comte avec celle de commerciaire est
+            <p ><!--Le cumul de la fonction de comte avec celle de commerciaire est
                       exceptionnel, aussi pourrait-on penser qu'Isaac exerçait sa fonction à Abydos, où était établi
                       un poste de douane et où, à cette époque, les comtes sont bien attestés [1].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1]. Nicétas, IFEB 303 ;
                       ZACOS - VEGLERY, 1333, 1769... .-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>151</citedRange>
@@ -364,10 +364,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p4157">Isaakios 13</ref>

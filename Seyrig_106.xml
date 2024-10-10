@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Fortement échancré aux orifices du canal ; partiellement oblitéré sur les deux faces.</p>
+                           <p >Fortement échancré aux orifices du canal ; partiellement oblitéré sur les deux faces.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,9 +189,9 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-6qipMr-r</rs>
-                              <p xml:lang="en" part="N">Cruciform Marian monogram of the Laurent I type, continued
+                              <p xml:lang="en" >Cruciform Marian monogram of the Laurent I type, continued
                                             in the cantons by the name of the owner of the seal.</p>
-                              <p xml:lang="fr" part="N">Monogramme marial cruciforme,  de type Laurent I framed by the owner's letters.</p>
+                              <p xml:lang="fr" >Monogramme marial cruciforme,  de type Laurent I framed by the owner's letters.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-6qipMr-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,24 +286,24 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan>
 
                     </rs>
                       </ab>
                       </div>
-                      <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                      <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/>Παύ
                         <cb n="b" break="no"/>λῳ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>γενι
                           
                                   <lb n="3" break="no"/>κῷ λο
@@ -316,17 +316,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -334,42 +334,42 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει  Παυλω / γενικῷ λογοθέτῃ.</p>
-            <p xml:lang="en" part="N">Mother of God help Paul, logothetes of the genikon.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Paul, logothète du <hi rend="italic">génikon</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει  Παυλω / γενικῷ λογοθέτῃ.</p>
+            <p xml:lang="en" >Mother of God help Paul, logothetes of the genikon.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Paul, logothète du <hi rend="italic">génikon</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Paul doit être l’un des premiers logothètes du <hi rend="italic">génikon</hi> connus
+            <p ><!--Paul doit être l’un des premiers logothètes du <hi rend="italic">génikon</hi> connus
                       puisque la plus ancienne mention de cette fonction remonte à 692. Contrairement à ce
                       qu’affirme LAURENT  [1] sur la foi d’une lecture erronée de LICHAČEV [2], aucun commerciaire du VIe ou du VIIe siècle n’a assumé cette
                       fonction; ils exercent parfois celle de logothète, sans autre précision [3].--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                      <!-- [1].  LAURENT, <hi rend="italic">Corpus</hi>, II, p. 129.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                     <!--  [2].  LICHAČEV, <hi rend="italic">Datirovannie</hi>, p. 159-161.-->
                   </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                     <!--  [3]. Voir infra, n° 143.--> <!--créer lien-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>106</citedRange>
@@ -378,15 +378,15 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>276</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                           Dumbarton Oaks, Washington D.C.,
                           <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>3162</citedRange>
@@ -394,10 +394,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p6189">Paulos 65</ref>

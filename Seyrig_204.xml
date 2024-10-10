@@ -108,7 +108,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="deformedBlank">
-                           <p part="N">Déformé; le canal a formé une fissure importante; l’échancrure de la partie inférieure de l’orifice du canal a
+                           <p >Déformé; le canal a formé une fissure importante; l’échancrure de la partie inférieure de l’orifice du canal a
                                         détruit la fin de la légende.</p>
                         </condition>
                      </supportDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +173,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-0HHB0y-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-0HHB0y-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,16 +270,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr><supplied reason="lost" >Ἰ</supplied>ω</abbr><ex >άννης</ex></expan>
                         <cb n="b" break="no"/><expan ><ex >ὁ</ex></expan> <expan ><abbr>Χρυ</abbr><ex >σό</ex><abbr>στ</abbr><ex >ο</ex><abbr>μ</abbr><ex >ος</ex></expan>
                            
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <expan ><abbr>Ἰω</abbr><ex >άννῃ</ex></expan>
                           <lb n="2"/><expan ><abbr>σπαθαρ</abbr><ex >ίῳ</ex></expan>
                           <lb n="3"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>ἀντιγρ</abbr><ex >α</ex>
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Ἰωάννης ὁ Χρυσόστομος. / Ἰωάννῃ σπαθαρίῳ καὶ ἀντιγραφεῖ τῷ Καρδαμοπούλῳ.</p>
-            <p xml:lang="en" part="N">St. John Chrysostom. (Seal of) John Kardamopoulos, spatharios and antigrapheus.</p>
-            <p xml:lang="fr" part="N">Saint Jean Chrysostome. (Sceau de) Jean Kardamopoulos, spathaire et <hi rend="italic">antigrapheus</hi>.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Ἰωάννης ὁ Χρυσόστομος. / Ἰωάννῃ σπαθαρίῳ καὶ ἀντιγραφεῖ τῷ Καρδαμοπούλῳ.</p>
+            <p xml:lang="en" >St. John Chrysostom. (Seal of) John Kardamopoulos, spatharios and antigrapheus.</p>
+            <p xml:lang="fr" >Saint Jean Chrysostome. (Sceau de) Jean Kardamopoulos, spathaire et <hi rend="italic">antigrapheus</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Pour le nom Kardamès, d’origine slave, cf.
+            <p ><!--  Pour le nom Kardamès, d’origine slave, cf.
                       I. DUJCEV, Slavjanski mestni i lični imeni vŭv vizantijskite opisni knigi, <hi rend="italic">Izv. na Ins. za bŭlgarski
                       Ezik</hi>, 8, 1962, p. 208. Les <hi rend="italic">antigrapheis</hi> apparaissent dans les <hi rend="italic">taktika</hi> du IXe siècle, comme
                       des subordonnés du questeur. Ils s’occupaient notamment de législation et des testaments
@@ -327,19 +327,19 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"> <!--  xml:id="footnote-1">
+            <p > <!--  xml:id="footnote-1">
                           [1]. OIKONOMIDÈS, <hi rend="italic">Listes</hi>, p. 321-322.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 204</citedRange>
                </bibl>.
@@ -347,10 +347,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Hermitage, St. Petersburg, 
+            <p > Hermitage, St. Petersburg, 
                          <bibl  >
                   <ptr target="Schlumberger1884"/>, <citedRange unit="part"> 2</citedRange>
                </bibl>, 

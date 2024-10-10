@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur le pourtour ; quelques points d’oxydation ; entaillé en diagonale sur le revers ; sinon, belle gravure.</p>
+                           <p >Rogné sur le pourtour ; quelques points d’oxydation ; entaillé en diagonale sur le revers ; sinon, belle gravure.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">29</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-KN2Nr2-r</rs>
-                              <p xml:lang="en" part="N">Invocative monogram of the type Laurent V, framed by the tetrasyllable.</p>
-                              <p xml:lang="fr" part="N">Monogramme invocatif de type Laurent V, cantonné du tétrasyllabe.</p>
+                              <p xml:lang="en" >Invocative monogram of the type Laurent V, framed by the tetrasyllable.</p>
+                              <p xml:lang="fr" >Monogramme invocatif de type Laurent V, cantonné du tétrasyllabe.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -208,8 +208,8 @@
                                  <dim type="diameter">29</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-KN2Nr2-v</rs>
-                              <p xml:lang="en" part="N">Legend of 7 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 7 lignes</p>
+                              <p xml:lang="en" >Legend of 7 lines</p>
+                              <p xml:lang="fr" >Légende sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -237,7 +237,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -264,10 +264,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ δούλῳ σου</rs>
                           
@@ -277,8 +277,8 @@
                       </ab>
                       </div>
 
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Θεο
                           
                                   <lb n="3" break="no"/>δώρῳ <rs type="dignity" ref="dignities.xml#πατρίκιος">πα 
@@ -297,17 +297,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -315,17 +315,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ Θεοδώρῳ / + πατρικίῳ καὶ κόμητι τοῦ θεοφυλάκτου βασιλικοῦ Ὀψικίου +.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant Theodoros, patrikios and komes of the imperial Opsikion guarded by God.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Théodore, patrice et comte de l'Opsikion impérial protégé par Dieu..</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ Θεοδώρῳ / + πατρικίῳ καὶ κόμητι τοῦ θεοφυλάκτου βασιλικοῦ Ὀψικίου +.</p>
+            <p xml:lang="en" >Mother of God help your servant Theodoros, patrikios and komes of the imperial Opsikion guarded by God.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur Théodore, patrice et comte de l'Opsikion impérial protégé par Dieu..</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Il est peu probable qu’on puisse identifier le Théodore de
+            <p ><!--Il est peu probable qu’on puisse identifier le Théodore de
                       notre sceau, avec son homonyme présent au concile de 680 [1]
                       car il semble plus jeune d’une ou deux générations. En revanche, le plomb légèrement plus
                       ancien [2] d’un Théodore, patrice et stratège, avec au droit deux palmes
@@ -333,22 +333,22 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                     <!--  [1]. HALDON, <hi rend="italic">Praetorians</hi>, p. 359.-->
                   </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                     <!--  [2]. ZACOS - VEGLERY, 2451.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>189</citedRange>
@@ -357,10 +357,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Münzkabinett des Kunsthistorischen Museums, Vienne,
                       <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>3194 (Vienne 213)</citedRange>
@@ -368,10 +368,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="http://www.pbe.kcl.ac.uk/person/p7634">Theodoros 280</ref>

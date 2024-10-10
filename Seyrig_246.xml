@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur le côté droit ; percé à l’orifice du canal.</p>
+                           <p >Rogné sur le côté droit ; percé à l’orifice du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-U7JGPy-r</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -208,8 +208,8 @@
                                  <dim type="diameter">16</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-U7JGPy-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -237,7 +237,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,17 +265,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/><expan ><abbr>Ἁγ</abbr><ex >ίας</ex></expan>
                           <lb n="2"/><expan ><abbr>Ἐκκλ
                           <lb n="3" break="no"/>ησ</abbr><ex >ίας</ex></expan> 
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="4"/><expan ><abbr>Πόλ</abbr>
                           <lb n="5" break="no"/><ex >εως</ex></expan> <expan ><abbr>Ἐμ
                           <lb n="6" break="no"/>ίσ</abbr><ex >ης</ex></expan>
@@ -286,17 +286,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,32 +304,32 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἁγίας Ἐκκλησίας / Πόλεως Ἐμίσης.</p>
-            <p xml:lang="en" part="N">(Seal of the) Holy Church of the City of Emesa.</p>
-            <p xml:lang="fr" part="N">(Sceau de la) Sainte Église de la Cité d'Émèse.</p>
+         <div type="translation"   >
+            <p >Ἁγίας Ἐκκλησίας / Πόλεως Ἐμίσης.</p>
+            <p xml:lang="en" >(Seal of the) Holy Church of the City of Emesa.</p>
+            <p xml:lang="fr" >(Sceau de la) Sainte Église de la Cité d'Émèse.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Il faut noter l’absence de croix et l’importance du signe d’abréviation I ainsi
+            <p ><!-- Il faut noter l’absence de croix et l’importance du signe d’abréviation I ainsi
                       que le fait inhabituel qu’il se rencontre au revers au début de la deuxième ligne, séparé du
                       mot qu’il abrège. Le sceau appartient peut-être à l’époque arabe, s’il ne s’agit pas d’un faux
                       d’époque moderne. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                            <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 246</citedRange>,</bibl>
                <bibl  >

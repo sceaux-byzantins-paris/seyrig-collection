@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Cropped at the bottom, edges raised, oxidation spots on both sides.</p>
-                           <p xml:lang="fr" part="N">Rogné dans sa partie inférieure, bords relevés, points d’oxydation sur les deux faces.</p>
+                           <p xml:lang="en" >Cropped at the bottom, edges raised, oxidation spots on both sides.</p>
+                           <p xml:lang="fr" >Rogné dans sa partie inférieure, bords relevés, points d’oxydation sur les deux faces.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-dOWxbd-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">26</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-dOWxbd-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,17 +268,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+Ἃγιαι
                         <lb n="2"/>ἃγιαι ἃγι
                         <lb n="3" break="no"/>αι τρὶς ἃ
                         <lb n="4" break="no"/>γιαι <expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="5"/>+Φλαβ
                         <lb n="6" break="no"/>βιανὸν τ
                         <lb n="7" break="no"/>ὸν σὸν οἰκ
@@ -287,17 +287,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -305,19 +305,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+Ἃγιαι ἃγιαι ἃγιαι τρὶς ἃγιαι Κύριε / +Φλαβιανὸν τὸν σὸν οἰκέτιν φύλατε+.</p>
-            <p xml:lang="en" part="N">Holy, holy, holy, thrice holy, Lord / Protect your servant Phlavianos.</p>
-            <p xml:lang="fr" part="N">Saint, saint, saint, trois fois saint, Seigneur / Protège ton serviteur Phlavianos.</p>
+         <div type="translation"   >
+            <p >+Ἃγιαι ἃγιαι ἃγιαι τρὶς ἃγιαι Κύριε / +Φλαβιανὸν τὸν σὸν οἰκέτιν φύλατε+.</p>
+            <p xml:lang="en" >Holy, holy, holy, thrice holy, Lord / Protect your servant Phlavianos.</p>
+            <p xml:lang="fr" >Saint, saint, saint, trois fois saint, Seigneur / Protège ton serviteur Phlavianos.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

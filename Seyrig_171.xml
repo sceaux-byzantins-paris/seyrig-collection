@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Fortes échancrures aux orifices du canal ; rogné sur le pourtour ; décentré vers la base au droit ; en voie
+                           <p >Fortes échancrures aux orifices du canal ; rogné sur le pourtour ; décentré vers la base au droit ; en voie
                                         d’oxydation.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DcozD7-r</rs>
-                              <p xml:lang="en" part="N">Monogram (partially obliterated) framed by rosettes.</p>
-                              <p xml:lang="fr" part="N">Monogramme (partiellement oblitéré) cantonné par des rosettes.</p>
+                              <p xml:lang="en" >Monogram (partially obliterated) framed by rosettes.</p>
+                              <p xml:lang="fr" >Monogramme (partiellement oblitéré) cantonné par des rosettes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-DcozD7-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,23 +266,23 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2">+ <supplied reason="lost" >Κύρι</supplied>ε βο<supplied reason="lost" >ήθει τῷ σῷ δού</supplied>λῳ
 
                     </rs>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+                      <ab >
                           <lb n="2"/><expan ><ex >Νικήτᾳ</ex></expan> 
                       </ab>
                        </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="3"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος_β"><expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan> <expan ><abbr><am >α</am></abbr><ex >πρωτο</ex><abbr>σπ
                           
                                   <lb n="4" break="no"/>αθ</abbr><ex >αρίῳ</ex></expan></rs> <rs type="officeCivil" ref="officeCivil.xml#ἐπὶ_τοῦ_Χρυσοτρικλίνου">ἐπὶ <expan ><abbr>τ</abbr><ex >οῦ</ex></expan> <expan ><abbr>Χρ
@@ -296,17 +296,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -314,38 +314,38 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ. Νικήτᾳ. / βασιλικῷ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου καὶ στρατιγῷ Καπαδοκίας.</p>
-            <p xml:lang="en" part="N">Lord help your servant Niketas, imperial protospatharios, epi tou Chrysotriklinou and strategos of Cappadocia.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Nicétas, protospathaire impérial <hi rend="italic">épi tou Chrysotriklinou</hi> et
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ. Νικήτᾳ. / βασιλικῷ πρωτοσπαθαρίῳ ἐπὶ τοῦ Χρυσοτρικλίνου καὶ στρατιγῷ Καπαδοκίας.</p>
+            <p xml:lang="en" >Lord help your servant Niketas, imperial protospatharios, epi tou Chrysotriklinou and strategos of Cappadocia.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Nicétas, protospathaire impérial <hi rend="italic">épi tou Chrysotriklinou</hi> et
 stratège de Cappadoce.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Pour une disposition similaire du droit avec un
+            <p ><!--Pour une disposition similaire du droit avec un
                       monogrammme cantonné de rosettes, voir le sceau d’Étienne [1]. Cette forme de monogramme est rare; on la rencontre principalement
                       vers le milieu du Xe siècle. L’identification du lieu de commandement n’est pas entièrement
                       assurée; il pourrait s’agir aussi bien de l’Hellade.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       <!--[1]. SEIBT, <hi rend="italic">Bleisiegel</hi>, 45; ZACOS
                       II, 1069, 1084, 1086.-->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>171</citedRange>

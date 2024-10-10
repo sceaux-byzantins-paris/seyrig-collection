@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Légèrement rogné et échancré aux orifices du canal ; lettres légèrement empâtées, sinon belle conservation ; large
+                           <p >Légèrement rogné et échancré aux orifices du canal ; lettres légèrement empâtées, sinon belle conservation ; large
                                         flan.</p>
                         </condition>
                      </supportDesc>
@@ -171,8 +171,8 @@
                                 >Ṣūr</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -191,8 +191,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Fyb4Cy-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,8 +232,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Fyb4Cy-v</rs>
-                              <p xml:lang="en" part="N">Legend of 8 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 8 lignes</p>
+                              <p xml:lang="en" >Legend of 8 lines</p>
+                              <p xml:lang="fr" >Légende sur 8 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -262,7 +262,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -289,15 +289,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μ</abbr><ex >ι</ex>
                         <cb n="b"/><abbr>χ</abbr><ex >αήλ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><expan ><abbr>Ῥωμαν</abbr><ex >ὸς</ex></expan>
                           <lb n="2"/><rs type="dignity" ref="dignities.xml#πρόεδρος"><expan ><abbr>πρόεδρο</abbr><ex >ς</ex></expan></rs>
                           <lb n="3"/><expan ><abbr>στρατοπε
@@ -310,17 +310,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -328,17 +328,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μιχαήλ / Ῥωμανὸς πρόεδρος στρατοπεδάρχης τῖς Ἀνατολῆς καὶ δοὺξ Ἀντιοχείας ὁ Σκληρός.</p>
-            <p xml:lang="en" part="N">St. Michael. Romanos Skleros, proedros, stratopedarches od Anatolia and doux of Antioch.</p>
-            <p xml:lang="fr" part="N">Saint Michel. Romain Sklèros, proèdre, stratopédarque d’Anatolie et duc d’Antioche.</p>
+         <div type="translation"   >
+            <p >Μιχαήλ / Ῥωμανὸς πρόεδρος στρατοπεδάρχης τῖς Ἀνατολῆς καὶ δοὺξ Ἀντιοχείας ὁ Σκληρός.</p>
+            <p xml:lang="en" >St. Michael. Romanos Skleros, proedros, stratopedarches od Anatolia and doux of Antioch.</p>
+            <p xml:lang="fr" >Saint Michel. Romain Sklèros, proèdre, stratopédarque d’Anatolie et duc d’Antioche.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Romain Sklèros, devenu proèdre, commande à
+            <p ><!--Romain Sklèros, devenu proèdre, commande à
                       nouveau à Antioche après avoir connu la disgrâce sous Théodora et Michel VI (janv. 1055-
                       août 1057). Le plomb a pu être frappé sous Isaac Comnène ou dans les premières années
                       du règne de Constantin X[1]. D’après un sceau de la collection
@@ -346,19 +346,19 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                          <!-- [1]. Cf. SEIBT, <hi rend="italic">Skleroi</hi>, p. 82-83.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>159</citedRange>
@@ -367,10 +367,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Musée de l'Ermitage,
                       <!--<bibl><ptr target=""/>, <citedRange unit="page">p. 471 et s., n° 155, facsimile p.
                           472 (M 8087)</citedRange></bibl>,--></p>
@@ -378,14 +378,14 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="Seibt1976"/>, <citedRange unit="page">p. 82, pl. 2, n. 8.</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/6/">Romanos 104</ref>

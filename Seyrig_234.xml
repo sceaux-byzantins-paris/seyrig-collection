@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Très belle pièce nettement gravée et conservée; champ légèrement décentré, légère échancrure aux orifices du
+                           <p >Très belle pièce nettement gravée et conservée; champ légèrement décentré, légère échancrure aux orifices du
                                         canal.</p>
                         </condition>
                      </supportDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-T2D4qR-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,8 +215,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-T2D4qR-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -245,7 +245,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,15 +273,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                        <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                        <ab >
                            <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Ἠλ</abbr><ex >ί</ex><abbr>ας</abbr></expan>
                         <cb n="b"/><expan ><ex >Ὁ ἅγιος </ex></expan> <expan ><abbr>Πέτρο</abbr><ex >ς</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>Θεοδόσι
                           <lb n="2" break="no"/>ος <expan ><abbr>ἐλ</abbr><ex >έ</ex><abbr>ῳ</abbr></expan> <expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan> <expan ><abbr>π</abbr><ex >ατ</ex><abbr>ρι
                           <lb n="3"/>άρχ</abbr><ex >ης</ex></expan> <expan ><abbr>Θ</abbr><ex >εο</ex><abbr>υπόλ</abbr><ex >εως</ex></expan> <expan ><abbr>Μ</abbr><ex >ε</ex><abbr>γ</abbr><ex >άλης</ex></expan>
@@ -292,17 +292,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,17 +310,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Πέτρος. Ὁ ἅγιος Ἠλίας. / Θεοδόσιος ἐλέῳ Θεοῦ πατριάρχης Θεουπόλεως Μεγάλης Ἀντιοχείας ὁ Χρυσοβέργης.</p>
-            <p xml:lang="en" part="N">St Elias. St Petros.  Theodosios Chrysoberges by the grace of God patriarch of Theoupolis, Antioch the Great.</p>
-            <p xml:lang="fr" part="N">Saint Elie. Saint Pierre. Théodose Chrysobergès, partiarche de Théoupolis, Antioche la Grande, par la grâce de Dieu.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Πέτρος. Ὁ ἅγιος Ἠλίας. / Θεοδόσιος ἐλέῳ Θεοῦ πατριάρχης Θεουπόλεως Μεγάλης Ἀντιοχείας ὁ Χρυσοβέργης.</p>
+            <p xml:lang="en" >St Elias. St Petros.  Theodosios Chrysoberges by the grace of God patriarch of Theoupolis, Antioch the Great.</p>
+            <p xml:lang="fr" >Saint Elie. Saint Pierre. Théodose Chrysobergès, partiarche de Théoupolis, Antioche la Grande, par la grâce de Dieu.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Théodose est cité dans la liste du Synodikon du dimanche
+            <p ><!--  Théodose est cité dans la liste du Synodikon du dimanche
                       de l’Orthodoxie[1]. Il fut intronisé avant le 30 août 1057 et son successeur (direct ?) Émilien
                       était en charge "depuis longtemps" en 1074[2]. La
                       famille Chrysobergès a fourni plusieurs hommes d’Église de haut rang dont deux patriarches
@@ -331,10 +331,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--   xml:id="footnote-1">
+            <p ><!--   xml:id="footnote-1">
                           [1]. J. GOUILLARD, Le synodikon de l’Orthodoxie, édition et commentaire, <hi rend="italic">TM</hi>
                           2, 1967, p. 107. 
                       </p>
@@ -348,10 +348,10 @@
 Sigillographie, p. 313, n. 1; LAURENT, Corpus V, 1524; ZACOS II, 57d..-->
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">Bibliothèque Nationale de France, Paris,
+            <p >Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 234</citedRange>
                </bibl>.
@@ -359,10 +359,10 @@ Sigillographie, p. 313, n. 1; LAURENT, Corpus V, 1524; ZACOS II, 57d..-->
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Kunsthistorisches Museum Wien, Vienna (Vienne 697);
+            <p > Kunsthistorisches Museum Wien, Vienna (Vienne 697);
                       Dumbarton Oaks, Washington D.C. (Coll. Zacos), 
                       <bibl  >
                   <ptr target="Schlumberger1884"/>, <citedRange unit="part"> 1</citedRange>,</bibl>
@@ -379,7 +379,7 @@ Sigillographie, p. 313, n. 1; LAURENT, Corpus V, 1524; ZACOS II, 57d..-->
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               />
          <!-- missing bibliography -->

@@ -106,8 +106,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Deeply indented at the orifices of the channel oriented on the axis 10h-14h; pressed and crushed at the perimeter.</p>
-                           <p xml:lang="fr" part="N">Profondément échancré aux orifices du canal orienté sur l’axe 10h-14h; préssé et écrasé au pourtour.</p>
+                           <p xml:lang="en" >Deeply indented at the orifices of the channel oriented on the axis 10h-14h; pressed and crushed at the perimeter.</p>
+                           <p xml:lang="fr" >Profondément échancré aux orifices du canal orienté sur l’axe 10h-14h; préssé et écrasé au pourtour.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">31</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-japcAs-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -213,8 +213,8 @@
                                  <dim type="diameter">31</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-japcAs-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,31 +269,31 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><abbr>Ί</abbr><ex >ησοῦ</ex><abbr>ς</abbr></expan> 
                         <cb n="b"/><expan ><abbr>Χ</abbr><ex >ριστό</ex><abbr>ς</abbr></expan> 
                           <cb n="c"/><expan ><supplied reason="lost" >Si</supplied><abbr>gil</abbr><ex >lum</ex></expan> Ascensionis <expan ><abbr>D</abbr><ex >omi</ex><abbr>ni</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <cb n="d"/>+prior <gap reason="illegible" quantity="4" unit="character" /> olivet <gap reason="illegible" quantity="4" unit="character" />
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -301,19 +301,19 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ίησοῦς Χριστός. Sigillum Ascensionis Domini. / +Prior ... Olivet</p>
-            <p xml:lang="en" part="N">Jesus Christ defeats. Seal of Lord's Ascension. / Superior... Olivet</p>
-            <p xml:lang="fr" part="N">Jésus-Christ vainqueur. Sceau de l'Ascension du Seigneur. / Prieur... Olivet</p>
+         <div type="translation"   >
+            <p >Ίησοῦς Χριστός. Sigillum Ascensionis Domini. / +Prior ... Olivet</p>
+            <p xml:lang="en" >Jesus Christ defeats. Seal of Lord's Ascension. / Superior... Olivet</p>
+            <p xml:lang="fr" >Jésus-Christ vainqueur. Sceau de l'Ascension du Seigneur. / Prieur... Olivet</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Cassé dans son tiers inférieur gauche, boursouflé et oxydé ; échancré à l’orifice supérieur du canal ; en voie de
+                           <p >Cassé dans son tiers inférieur gauche, boursouflé et oxydé ; échancré à l’orifice supérieur du canal ; en voie de
                                         complète oxydation.</p>
                         </condition>
                      </supportDesc>
@@ -191,8 +191,8 @@
                                 >Beirut</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -211,8 +211,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qbTDtB-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend and legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec égende en colonne et légende invocative circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend and legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec égende en colonne et légende invocative circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -253,8 +253,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qbTDtB-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -283,7 +283,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -311,20 +311,20 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N"><!-- la transcription de ce nom n'est pas claire dans l'édition: pour l'instant on laisse comme ceci, en attendant de voir les parallèles éventuels -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab ><!-- la transcription de ce nom n'est pas claire dans l'édition: pour l'instant on laisse comme ceci, en attendant de voir les parallèles éventuels -->
                          <cb n="a"/><supplied reason="lost" ><expan ><ex >Ὁ ἅγιος</ex></expan></supplied> <expan ><abbr><supplied reason="lost" >Θεό</supplied>
                         <cb n="b" break="no"/>δ</abbr><ex >ω</ex><abbr>ρ</abbr><ex >ος</ex></expan>
                       </ab>
                       </div>
-                      <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                          <ab part="N"><!-- la transcription n'est pas claire dans l'édition: pour l'instant on laisse comme ceci, en attendant de voir les parallèles éventuels -->
+                      <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                          <ab ><!-- la transcription n'est pas claire dans l'édition: pour l'instant on laisse comme ceci, en attendant de voir les parallèles éventuels -->
                               <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2"><supplied reason="lost" ><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></supplied> τῷ σῷ δούλῳ</rs>
                           </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/>Συμεὼν
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#πρωτοπρόεδρος">πρωτοπ<supplied reason="lost" >ροέ</supplied>
                           <lb n="4" break="no"/>δρῳ</rs> τῷ Μ<supplied reason="lost" >α</supplied>
@@ -334,17 +334,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -352,17 +352,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  ><!-- éventuellement à changer en fonction de l'édition -->
-            <p part="N">Ὁ ἅγιος Θεόδωρος. Θεοτόκε βοήθει τῷ σῷ δούλῳ / Συμεὼν πρωτοπροέδρῳ τῷ Μαρχαψάβῳ.</p>
-            <p xml:lang="en" part="N">Saint Theodoros. Mother of God, help your servant Symeon Marchapsabos protoproedros.</p>
-            <p xml:lang="fr" part="N">Saint Théodore. Mère de Dieu aide ton serviteur  Syméon Marchapsabos, protoproèdre.</p>
+         <div type="translation"   ><!-- éventuellement à changer en fonction de l'édition -->
+            <p >Ὁ ἅγιος Θεόδωρος. Θεοτόκε βοήθει τῷ σῷ δούλῳ / Συμεὼν πρωτοπροέδρῳ τῷ Μαρχαψάβῳ.</p>
+            <p xml:lang="en" >Saint Theodoros. Mother of God, help your servant Symeon Marchapsabos protoproedros.</p>
+            <p xml:lang="fr" >Saint Théodore. Mère de Dieu aide ton serviteur  Syméon Marchapsabos, protoproèdre.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Cette famille au nom oriental, peut être de souche arabosyrienne,
+            <p ><!--Cette famille au nom oriental, peut être de souche arabosyrienne,
                       n’est connue jusqu’ici que par des sceaux. À la fin du XIe ou au début du XIIe siècle, Jean
                       Marchapsabos est attesté deux fois comme moine et syncelle [1].
                       Ce dernier y voit un nom d’origine syriaque, Mar Habsabba. Jusqu’ici, le nom avait été lu
@@ -378,20 +378,20 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. LAURENT, <hi rend="italic">Corpus</hi>, V, 1678,
                           corrigé par N. OlKONOMIDÈS, <hi rend="italic">Spéculum</hi>, 49, 1974, p. 746, d’après un sceau DO 58.106.446.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>55</citedRange>

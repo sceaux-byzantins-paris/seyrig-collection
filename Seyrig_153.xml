@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré et rogné sur le côté droit; partiellement oblitéré sur le côté droit du revers.</p>
+                           <p >Décentré et rogné sur le côté droit; partiellement oblitéré sur le côté droit du revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Xdonul-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-Xdonul-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,15 +265,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Ὁ ἅγ</abbr><ex >ιος</ex></expan> 
                         <cb n="b"/><expan ><abbr>Νικ</abbr><ex >όλαος</ex></expan> 
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <expan ><abbr>Παῦλ</abbr><ex >ος</ex></expan>
                           <lb n="2"/><rs type="officeCivil" ref="officeCivil.xml#λογοθέτης_τοῦ_δρόμου"><expan ><abbr>χαρτουλ</abbr><ex >άριος</ex></expan></rs>
                           <lb n="3"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><ex >ώ</ex><abbr>ρ</abbr><ex >ει</ex><abbr>άρ</abbr><ex >ιος</ex></expan>
@@ -282,17 +282,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -300,17 +300,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Νικόλαος. / + Παῦλος χαρτουλάριος και ώρειάριος Ἀμισοῦ.</p>
-            <p xml:lang="en" part="N">St. Nikolaos. Paul, chartoularios and horeiarios of Amisos.</p>
-            <p xml:lang="fr" part="N">Saint Nicolas. Paul, chartulaire et <hi rend="italic">hôreiarios</hi> d’Amisos.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Νικόλαος. / + Παῦλος χαρτουλάριος και ώρειάριος Ἀμισοῦ.</p>
+            <p xml:lang="en" >St. Nikolaos. Paul, chartoularios and horeiarios of Amisos.</p>
+            <p xml:lang="fr" >Saint Nicolas. Paul, chartulaire et <hi rend="italic">hôreiarios</hi> d’Amisos.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Ami(n)sos, important port sur la mer Noire, assurait le débouché
+            <p ><!--Ami(n)sos, important port sur la mer Noire, assurait le débouché
                       des produits agricoles de la vallée de l’Halys. On connait plusieurs hôreiarioi de cette ville:
                       Moschos [1], Eustathe [2], Georges [3]. En dehors
                       d’Aminsos, ces fonctionnaires sont aussi attestés à Kios de Bithynie. L'<hi rend="italic">hôreiarios</hi> était
@@ -320,29 +320,29 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. ZACOS - VEGLERY 611.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. IFEB 340.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                        <!--   [3]. IFEB 779.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                         <!--  [4].  Voir S. G. MERCATI, Ὁριάριος-Horrearius, <hi rend="italic">Aegyptus</hi> 30, 1950,
                           p. 8-13, cité par V. Laurent (<hi rend="italic">Orghidan</hi>, p. 19).-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>153</citedRange>
@@ -351,17 +351,17 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.1856">BZS.1951.31.5.1856 (Fogg 1856)</ref>
                   </citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -371,10 +371,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/509/">Paulos 20102</ref>

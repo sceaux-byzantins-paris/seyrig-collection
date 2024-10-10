@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Très mauvais état, mais les lettres conservées sont nettement gravées; il peut s’agir d’un flan défectueux utilisé
+                           <p >Très mauvais état, mais les lettres conservées sont nettement gravées; il peut s’agir d’un flan défectueux utilisé
                                         pour un essai du boullôtérion, ou bien le sceau a été ultérieurement retaillé, seule une bande centrale étant
                                         conservée. Comme le saint, gravé au droit, semble avoir été volontairement préservé, on pourrait imaginer que
                                         le sceau a servi d’ornement, voire d’amulette.</p>
@@ -155,8 +155,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -175,8 +175,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TwMyOM-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns.</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns.</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -217,8 +217,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-TwMyOM-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -246,7 +246,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,15 +273,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><abbr/>
                         <cb n="b"/>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><supplied reason="omitted" >Σκ</supplied>έπο<supplied reason="omitted" >ις</supplied>
                               
                           <lb n="2"/><supplied reason="omitted" >Μι</supplied>χαὴλ <expan ><abbr><supplied reason="omitted" >σα</supplied>
@@ -291,17 +291,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -309,20 +309,20 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">
+         <div type="translation"   >
+            <p >
                <abbr/>. / Σκέποις Μιχαὴλ σακελλάρην Τορνίκην.</p>
-            <p xml:lang="en" part="N">
+            <p xml:lang="en" >
                <abbr/>. Protect Michael Tornikes, sakellarios.</p>
-            <p xml:lang="fr" part="N">
+            <p xml:lang="fr" >
                <abbr/>. Protège Michel Tornikès, sacellaire.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le sacellaire, contrôleur des finances de l’État,
+            <p ><!--Le sacellaire, contrôleur des finances de l’État,
                       voit ses attributions modifiées au cours de la seconde moitié du XIIe siècle; il devint responsable
                       d’un service ayant compétence sur les échelles et la marine [1].
                       Les Tornikioi, famille d’origine arméno-géorgienne, est illustre depuis le Xe siècle. Etablis
@@ -337,30 +337,30 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. OIKONOMIDÈS, <hi rend="italic">Organisation</hi>, p.
                           135.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. CHEYNET,
                           <hi rend="italic">Pouvoirs</hi>, p. 59-61.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                           <!--[3]. DAVIDSON, 2819.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                          <!-- [4]. Athènes 492β, DO 58.106.2538; 2776; 4489; cf. STAVRAKOS, 263-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>120</citedRange>

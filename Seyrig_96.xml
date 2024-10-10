@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné ; percé dans sa partie inférieure.</p>
+                           <p >Rogné ; percé dans sa partie inférieure.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,9 +189,9 @@
                                  <dim type="diameter">30</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-LbUrDu-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
                               <!--Le sceau est particulier : iconographie bilatérale, sigles en colonne et légende linéraire-->
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,9 +232,9 @@
                                  <dim type="diameter">30</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-LbUrDu-v</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
                               <!--Le sceau est particulier : iconographie bilatérale, sigles en colonne et légende linéraire-->
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -262,7 +262,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -290,21 +290,21 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Ἰ</abbr><ex >ησοῦ</ex><abbr>ς</abbr></expan>
                         <cb n="b"/><expan ><abbr>Χ</abbr><ex >ριστό</ex><abbr>ς</abbr></expan>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="c"/><expan ><ex >Ὁ ἄγιος</ex></expan> <expan ><abbr>Νικόλα</abbr><ex >ος</ex></expan>
                         <cb n="d"/><expan ><ex >Ὁ ἄγιος</ex></expan> <expan ><abbr>Μην</abbr><ex >ᾶς</ex></expan> ὁ <expan ><abbr>Κ<supplied reason="lost" >α</supplied></abbr><ex >λ</ex><abbr>λ</abbr><ex >ικέλα</ex><abbr>δ</abbr><ex >ος</ex></expan> 
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan>                      
                           <lb n="2"/>βοήθει</rs>
                           <lb n="3"/><expan ><abbr>Κων</abbr><ex >σταντίνῳ</ex></expan> <rs type="dignity" ref="dignities.xml#πρωτοπρόεδρος">πρω    
@@ -313,20 +313,20 @@
                                </ab>
                           </div>
                
-              <div type="textpart" subtype="sigla" n="rev" rend="columns" part="N"   xml:lang="">
-                  <ab part="N">
+              <div type="textpart" subtype="sigla" n="rev" rend="columns"    xml:lang="">
+                  <ab >
                       <cb n="e"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                       <cb n="f"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                   </ab>
               </div>
-              <div type="textpart" subtype="label" n="rev" rend="columns" part="N"   xml:lang="">
-                  <ab part="N">
+              <div type="textpart" subtype="label" n="rev" rend="columns"    xml:lang="">
+                  <ab >
                       <cb n="g"/><gap reason="lost" extent="unknown" unit="character" />
                       <cb n="h"/><expan ><ex >Ὁ ἄγιος</ex></expan> Παντελε<supplied reason="lost" >ήμ</supplied>ων
                   </ab>
               </div>
-              <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                  <ab part="N">
+              <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                  <ab >
                       <lb n="6"/><expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> μεγά
                           <lb n="7" break="no"/>λῳ δρουγ
                       <lb n="8" break="no"/>γαρίῳ τῆς
@@ -335,17 +335,17 @@
                   </ab>
               </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -353,17 +353,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἰησοῦς Χριστός. Ὁ ἄγιος Νικόλαος. Ὁ ἄγιος Μηνᾶς ὁ Καλλικέλαδος. + Κύριε βοήθει Κωνσταντίνῳ πρωτοπροέδρῳ. / Μήτηρ Θεοῦ. [...?...]. Ὁ ἄγιος Παντελεήμων. καὶ μεγάλῳ δρουγγαρίῳ τῆς βίγλας.</p>
-            <p xml:lang="en" part="N">Jesus Christ. St. Nicholas. St. Menas the Kallikelados. Mother of God. [...?...]. St. Panteleimon. Lord help Constantine, protoproedros and grand droungarios of the Vigla.</p>
-            <p xml:lang="fr" part="N">Jésus-Christ. Saint Nicolas. Saint Ménas le Kallikélados. Mère de Dieu. [...?...]. Saint Pantéléèmôn. Seigneur aide Constantin, protoproèdre et grand drongaire de la Veille.</p>
+         <div type="translation"   >
+            <p >Ἰησοῦς Χριστός. Ὁ ἄγιος Νικόλαος. Ὁ ἄγιος Μηνᾶς ὁ Καλλικέλαδος. + Κύριε βοήθει Κωνσταντίνῳ πρωτοπροέδρῳ. / Μήτηρ Θεοῦ. [...?...]. Ὁ ἄγιος Παντελεήμων. καὶ μεγάλῳ δρουγγαρίῳ τῆς βίγλας.</p>
+            <p xml:lang="en" >Jesus Christ. St. Nicholas. St. Menas the Kallikelados. Mother of God. [...?...]. St. Panteleimon. Lord help Constantine, protoproedros and grand droungarios of the Vigla.</p>
+            <p xml:lang="fr" >Jésus-Christ. Saint Nicolas. Saint Ménas le Kallikélados. Mère de Dieu. [...?...]. Saint Pantéléèmôn. Seigneur aide Constantin, protoproèdre et grand drongaire de la Veille.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--L’existence d’une pièce [1] à l’iconographie semblable appartenant
+            <p ><!--L’existence d’une pièce [1] à l’iconographie semblable appartenant
                       au même Constantin, bien qu’il ne mentionne ni sa dignité, ni sa fonction, nous a permis
                       d’identifier les saints figurant sur notre plomb. V. Laurent a publié [2] le sceau de ce Constantin avec le même texte réparti
                       différemment et sans iconographie, provenant donc d’un autre boullôtèrion. Le personnage,
@@ -377,30 +377,30 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                        <!--   [1]. ZACOS II, 404.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                           <!--[2]. <hi rend="italic">Corpus</hi>, II, 891.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                        <!--   [3].  Sur son cursus honorum, cf. P. GAUTIER, La curieuse ascendance de Jean Tzétzès, <hi rend="italic">REB</hi> 28,
                           1970, p. 212-216.-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                        <!--  [4]. OIKONOMIDÈS, <hi rend="italic">Organisation</hi>,
                           p. 133-134.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>96</citedRange>

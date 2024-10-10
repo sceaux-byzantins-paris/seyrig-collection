@@ -109,8 +109,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!-- add Indented as tag -->
-                           <p xml:lang="en" part="N">Widely indented at the canal openings; blank too wide.</p>
-                           <p xml:lang="fr" part="N">Largement échancré aux orifices du canal; flan trop large.</p>
+                           <p xml:lang="en" >Widely indented at the canal openings; blank too wide.</p>
+                           <p xml:lang="fr" >Largement échancré aux orifices du canal; flan trop large.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -154,11 +154,11 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acquis à Antioche</p>
+                     <p >Acquis à Antioche</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -177,8 +177,8 @@
                                  <dim type="diameter">10</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-KNyagv-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -219,8 +219,8 @@
                                  <dim type="diameter">10</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-KNyagv-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -248,7 +248,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -277,17 +277,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                        <lb n="1"/><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> βο
                        <lb n="2" break="no"/>ήθει 
                        <lb n="3"/>τῷ σῷ 
                        <lb n="4"/>δούλῷ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><abbr>Ἰω</abbr><ex >άννῃ</ex></expan>
                           <lb n="2"/>τῷ Μα
                           <lb n="3" break="no"/>δυτη
@@ -295,17 +295,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -313,17 +313,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῷ / Ἱωάννῃ τῷ Μαδυτηνῷ.</p>
-            <p xml:lang="en" part="N"> Lord help your servant John Madytenos.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Jean Madytènos.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῷ / Ἱωάννῃ τῷ Μαδυτηνῷ.</p>
+            <p xml:lang="en" > Lord help your servant John Madytenos.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Jean Madytènos.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Le patronyme est manifestement formé sur Madyta, cité de
+            <p ><!-- Le patronyme est manifestement formé sur Madyta, cité de
                       Thrace. On connaît par un acte de Patmos un contemporain de Jean Madytènos, Nicolas,
                       protovestarque et grand chartulaire en 1087 [1]. Son sceau, sans titulature
                       ni fonction, d’un type très proche de celui de Jean, est conservé en deux exemplaires [2]. Mènas n’est attesté que par un sceau d’un type proche des
@@ -331,10 +331,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                       [1]. <hi rend="italic">Patmos</hi> I, p. 334.
                   </p>
                   <p xml:id="footnote-2">
@@ -347,10 +347,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 309</citedRange>
                </bibl>.
@@ -358,10 +358,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C.;
+            <p > Dumbarton Oaks, Washington D.C.;
                       Musèe d'Istanbul, série Osman n. 16. <!-- unpublished -->
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">

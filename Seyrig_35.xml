@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Légèrement échancré à l’orifice inferieur du canal; décentré vers la base au droit; des points d’oxydation sur
+                           <p >Légèrement échancré à l’orifice inferieur du canal; décentré vers la base au droit; des points d’oxydation sur
                                         les deux faces.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ovXNJB-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram composed of <!--Athena Ruby--> at the ends of the horizontal bar; type Zacos 79.</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme composé d’un <!--Athena Ruby -->aux extrémités de la barre horizontale; type Zacos 79.</p>
+                              <p xml:lang="en" >Cruciform monogram composed of <!--Athena Ruby--> at the ends of the horizontal bar; type Zacos 79.</p>
+                              <p xml:lang="fr" >Monogramme cruciforme composé d’un <!--Athena Ruby -->aux extrémités de la barre horizontale; type Zacos 79.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-ovXNJB-v</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram <!--Athena Ruby -->at the ends of the horizontal bar; type Zacos 221</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme <!--Athena Ruby -->aux extrémités de la barre horizontale;  type Zacos 221.</p>
+                              <p xml:lang="en" >Cruciform monogram <!--Athena Ruby -->at the ends of the horizontal bar; type Zacos 221</p>
+                              <p xml:lang="fr" >Monogramme cruciforme <!--Athena Ruby -->aux extrémités de la barre horizontale;  type Zacos 221.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,18 +267,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                 
                           <lb n="1"/><expan ><ex >Γεωργίου</ex></expan>
                           
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>  <rs type="dignity" ref="dignities.xml#ἰλλούστριος"><expan ><ex >ἰλλουστρίου</ex></expan>
                                   
                                   </rs>
@@ -286,46 +286,46 @@
                                </ab>
                   </div>
                  </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
             <!-- ceci va dans la description de l'avers et du revers; en outre, l'apparat ne s'écrit pas de cette manière en SigiDoc; si vous aviez regardé le fichier avec EFES vous auriez remarqué que la phrase qui était ici n'était pas visualisée; j'insiste sur l'importance de travailler sur des fihciers à l'intérieur d'EFES -->
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Γεωργίου ἰλλουστρίου.</p>
-            <p xml:lang="en" part="N">(Seal of) George, illoustrios</p>
-            <p xml:lang="fr" part="N">(Sceau de) Georges, <hi rend="italic">illoustrios</hi>.</p>
+         <div type="translation"   >
+            <p >Γεωργίου ἰλλουστρίου.</p>
+            <p xml:lang="en" >(Seal of) George, illoustrios</p>
+            <p xml:lang="fr" >(Sceau de) Georges, <hi rend="italic">illoustrios</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Biliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>35</citedRange>

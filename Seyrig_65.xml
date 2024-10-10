@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Échancré aux orifices du canal ; au revers, profonde entaille le long du canal et plusieurs points d’oxydation.</p>
+                           <p >Échancré aux orifices du canal ; au revers, profonde entaille le long du canal et plusieurs points d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -148,8 +148,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -168,8 +168,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-f1y5u6-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-f1y5u6-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,15 +265,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan><!-- dans le sigle il y a M H P -->
                         <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <expan ><abbr>Σ<supplied reason="omitted" >κέ</supplied>π</abbr><ex >οις</ex></expan>
                           <lb n="2"/><supplied reason="omitted" >μ</supplied>ε <supplied reason="omitted" ><expan ><abbr>Μ</abbr><ex >ήτ</ex><abbr>ερ</abbr></expan></supplied> τοῦ Θε
                           <lb n="3" break="no"/>ανθρώπου Λόγου
@@ -284,17 +284,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,17 +302,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / + Σκέποις με Μήτερ τοῦ Θεανθρώπου Λόγου Χετοὺμ σεβαστὸν γόνον τὸν τοῦ Ὀσίνη.</p>
-            <p xml:lang="en" part="N">Mother of God. Mother of the Divine Word made flesh, watch over me, Hetoum, sebastos, son of Oshin.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Mère de la Parole Divine, veille sur moi, Hét'oum, sébaste, fils de Oshin.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / + Σκέποις με Μήτερ τοῦ Θεανθρώπου Λόγου Χετοὺμ σεβαστὸν γόνον τὸν τοῦ Ὀσίνη.</p>
+            <p xml:lang="en" >Mother of God. Mother of the Divine Word made flesh, watch over me, Hetoum, sebastos, son of Oshin.</p>
+            <p xml:lang="fr" >Mère de Dieu. Mère de la Parole Divine, veille sur moi, Hét'oum, sébaste, fils de Oshin.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le propriétaire du sceau pourrait être Hét'oum II, fils de
+            <p ><!--Le propriétaire du sceau pourrait être Hét'oum II, fils de
                       Oshin ( †1110), qui détint la principauté de Lampron jusqu’en 1143 et fut un fidèle vassal
                       des Byzantins. Selon un colophon de 1190, il aurait été honoré de la dignité de sébaste par
                       Alexis Comnéne; selon un autre colophon, c’est l’empereur Jean II qui aurait fait de lui un
@@ -329,10 +329,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. DÉDÉYAN, <hi rend="italic">Pouvoirs</hi>, vol. III, p. 634-635; voir aussi
                           C. TOUMANOFF, <hi rend="italic">Manuel de généalogie et de chronologie pour l'histoire du Caucase chrétien
                           - Arménie - Géorgie - Albanie</hi>, Rome 1976, p. 276, n° 56.-->
@@ -340,10 +340,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>65</citedRange>
@@ -352,20 +352,20 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="ZacosSpink2"/>, <citedRange unit="part">133</citedRange>
                </bibl>.</p>
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/3895/">Hetoum 20101</ref>

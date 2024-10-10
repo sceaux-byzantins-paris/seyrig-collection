@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné fortement dans sa partie supérieure; étiré sur tout le champ ce qui a rendu les lettres empâtées.</p>
+                           <p >Rogné fortement dans sa partie supérieure; étiré sur tout le champ ce qui a rendu les lettres empâtées.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -170,8 +170,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -190,8 +190,8 @@
                                  <dim type="diameter">20,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-oIIkOA-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,8 +232,8 @@
                                  <dim type="diameter">20,5</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-oIIkOA-v</rs>
-                              <p xml:lang="en" part="N">Legend of 8 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 8 lignes</p>
+                              <p xml:lang="en" >Legend of 8 lines</p>
+                              <p xml:lang="fr" >Légende sur 8 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -261,7 +261,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -288,15 +288,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><supplied reason="omitted" ><expan ><abbr>Ἀρχ</abbr><ex >άγγελος</ex></expan></supplied> 
                         <cb n="b"/><expan ><abbr>Μιχα</abbr><ex >ήλ</ex></expan>
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><expan ><abbr><supplied reason="lost" >Γε</supplied>ώρ<supplied reason="lost" >γ</supplied></abbr><supplied reason="lost" ><ex >ιος</ex></supplied></expan> <supplied reason="lost" >ὕ</supplied>
                           <lb n="2" break="no"/>πατος κρι
                           <lb n="3" break="no"/>τὴς ἐπὶ τοῦ
@@ -309,17 +309,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -327,17 +327,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἀρχάγγελος Μιχαήλ / Γεώργιος ὕπατος κριτὴς ἐπὶ τοῦ ἱπποδρόμου τοῦ βήλου καὶ τῶν Ἀνατολικῶν ὁ Μακρεμβολίτης.</p>
-            <p xml:lang="en" part="N">Archangel Michael. Seal of George Makrembolites, hypatos, judge of the Hippodrome, of the Velum and of the Anatolikon.</p>
-            <p xml:lang="fr" part="N">Archange Michel. Sceau de Georges Makrembolitès, <hi rend="italic">hypatos</hi>, juge de l’Hippodrome, du Vélum et des Anatoliques.</p>
+         <div type="translation"   >
+            <p >Ἀρχάγγελος Μιχαήλ / Γεώργιος ὕπατος κριτὴς ἐπὶ τοῦ ἱπποδρόμου τοῦ βήλου καὶ τῶν Ἀνατολικῶν ὁ Μακρεμβολίτης.</p>
+            <p xml:lang="en" >Archangel Michael. Seal of George Makrembolites, hypatos, judge of the Hippodrome, of the Velum and of the Anatolikon.</p>
+            <p xml:lang="fr" >Archange Michel. Sceau de Georges Makrembolitès, <hi rend="italic">hypatos</hi>, juge de l’Hippodrome, du Vélum et des Anatoliques.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La datation proposée se fonde sur le costume impérial
+            <p ><!--La datation proposée se fonde sur le costume impérial
                       attribué traditionnellement à saint Michel qui rappelle le type de lôros en usage à partir du
                       règne de Constantin VIII; ce ”modified loros”, selon Grierson [1], se
                       caractérise par la présence d’une bande bien distincte de perles, autour du cou. Le sceptre
@@ -377,60 +377,60 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. <hi rend="italic">DOC</hi> III p. 121-123.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. <hi rend="italic">DOC</hi> III,
                           pl. LVIII, 1.-->
                       </p>
-            <p xml:id="footnote-3" part="N">
+            <p xml:id="footnote-3" >
                         <!--  [3]. BRYER - WINFIELD, <hi rend="italic">Pontos</hi> I, p. 317-->
                       </p>
-            <p xml:id="footnote-4" part="N">
+            <p xml:id="footnote-4" >
                           <!--[4]. SKYLITZÈS, p. 412.-->
                       </p>
-            <p xml:id="footnote-5" part="N">
+            <p xml:id="footnote-5" >
                          <!-- [5]. CHEYNET, <hi rend="italic">Pouvoir</hi>, p. 51-52.-->
                       </p>
-            <p xml:id="footnote-6" part="N">
+            <p xml:id="footnote-6" >
                         <!--  [6]. <hi rend="italic">AASS</hi> Nov. III 539E.-->
                       </p>
-            <p xml:id="footnote-7" part="N">
+            <p xml:id="footnote-7" >
                           <!--[7]. DO
                           Neg. n° 59.109.22-2560.-->
                       </p>
-            <p xml:id="footnote-8" part="N">
+            <p xml:id="footnote-8" >
                         <!--  [8]. IFEB 78.-->
                       </p>
-            <p xml:id="footnote-9" part="N">
+            <p xml:id="footnote-9" >
                        <!--   [9]. Ermitage M 6101 ; à l’avers, la Vierge au type de l’Épiskepsis.-->
                       </p>
-            <p xml:id="footnote-10" part="N">
+            <p xml:id="footnote-10" >
                          <!-- [10]. Fogg 956; à l’avers, la Transfiguration, au revers, saint Spyridon avec inscription
                           au pourtour.-->
                       </p>
-            <p xml:id="footnote-11" part="N">
+            <p xml:id="footnote-11" >
                           <!--[11]. KONSTANTOPOULOS. <hi rend="italic">Molybdoboulla</hi>, 382, STAVRAKOS 153,
                           sceau datable des années 1070.-->
                       </p>
-            <p xml:id="footnote-12" part="N">
+            <p xml:id="footnote-12" >
                         <!--  [12]. DO 58.106.2712 et 4687, Ermitage M 8613.-->
                       </p>
-            <p xml:id="footnote-13" part="N">
+            <p xml:id="footnote-13" >
                           <!--[13]. <hi rend="italic">PLP</hi>
                           16351-16353.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>155</citedRange>

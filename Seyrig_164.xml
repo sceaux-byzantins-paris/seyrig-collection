@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Flan très large; fissuré sur toute la longueur du canal; décentré par rapport au flan, qui est un réemploi.</p>
+                           <p >Flan très large; fissuré sur toute la longueur du canal; décentré par rapport au flan, qui est un réemploi.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -183,8 +183,8 @@
                                 >Latakia</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -203,8 +203,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-EZIdm5-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,8 +243,8 @@
                                  <dim type="diameter">18</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-EZIdm5-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -272,7 +272,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -299,16 +299,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Θε
                         <cb n="b" break="no"/><supplied reason="lost" >όδωρ</supplied>ο</abbr><ex >ς</ex></expan>
                            
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>βοή</abbr><ex >θει</ex></expan></rs>
                           <lb n="2"/><expan ><abbr>Θε<supplied reason="lost" >ο</supplied>δ</abbr><ex >ώρῳ</ex></expan> <expan ><abbr><am >α</am></abbr><ex >πρωτο</ex>
                           <lb n="3" break="no"/><abbr>ν</abbr><ex >οταρίῳ</ex></expan> <expan ><abbr>Θ</abbr><ex >εο</ex><abbr>υπ</abbr><ex >όλεω</ex><abbr>ς</abbr></expan>
@@ -317,17 +317,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -335,17 +335,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Θεόδωρος. / Κύριε βοήθει Θεοδώρῳ πρωτονοταρίῳ Θεουπόλεως Ἀντιοχείας.</p>
-            <p xml:lang="en" part="N">St. Theodoros. Lord help Theodoros, protonotarios of Antioch (?).</p>
-            <p xml:lang="fr" part="N">Saint Théodore. Seigneur aide Théodore, protonotaire d’Antioche (?).</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Θεόδωρος. / Κύριε βοήθει Θεοδώρῳ πρωτονοταρίῳ Θεουπόλεως Ἀντιοχείας.</p>
+            <p xml:lang="en" >St. Theodoros. Lord help Theodoros, protonotarios of Antioch (?).</p>
+            <p xml:lang="fr" >Saint Théodore. Seigneur aide Théodore, protonotaire d’Antioche (?).</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La lecture de cette pièce est délicate car elle comporte, semble-t-il, des
+            <p ><!--La lecture de cette pièce est délicate car elle comporte, semble-t-il, des
                       abréviations nombreuses (y compris pour le prénom Théodore) et son état de conservation
                       ne permet pas de restituer toutes les lettres avec certitude. La lecture proposée présente
                       l’avantage de respecter tous les signes d’abréviations, mais oblige à admettre que des fonctions
@@ -355,18 +355,18 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>164</citedRange>

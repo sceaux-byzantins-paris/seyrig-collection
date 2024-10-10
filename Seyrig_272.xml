@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p part="N">Échancré aux orifices du canal, entaillé au droit sur la droite; boursouflures au revers.</p>
+                           <p >Échancré aux orifices du canal, entaillé au droit sur la droite; boursouflures au revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-MnGp8D-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,8 +231,8 @@
                                  <dim type="diameter">21</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-MnGp8D-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -260,7 +260,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -288,22 +288,22 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                           <cb n="a"/><expan ><abbr>Μ</abbr><ex >ήτηρ</ex></expan> <expan ><abbr>Θ</abbr><ex >εοῦ</ex></expan>
                         <cb n="b"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Δημ</abbr><ex >ήτριος</ex></expan>
                       </ab>
                   </div>
                   
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/>+ <rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β<supplied reason="lost" >οή</supplied>θ</abbr><ex >ει</ex></expan>
                         <cb n="b"/><supplied reason="lost" >τ</supplied>ῷ <supplied reason="lost" >σῷ</supplied> <supplied reason="lost" ><expan ><abbr>δ</abbr><ex >ού</ex><abbr>λ</abbr><ex >ῳ</ex></expan></supplied></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/>+ Ἰωάν
                           <lb n="3" break="no"/>νῃ ἀρχιε
                           <lb n="4" break="no"/>πισκόπῳ
@@ -313,17 +313,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -331,30 +331,30 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. Ὁ ἅγιος Δημήτριος. Θεοτόκε βοήθει τῷ σῷ δούλῳ. / + Ἰωάννῃ ἀρχιεπισκόπῳ Θεσσαλονίκης.</p>
-            <p xml:lang="en" part="N">Mother of God St Demetrios. Theotokos help your servant John, archbishop of Thessaloniki.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. Saint Dèmètrios. Théotokos aide ton serviteur Jean, archevêque de Thessalonique.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. Ὁ ἅγιος Δημήτριος. Θεοτόκε βοήθει τῷ σῷ δούλῳ. / + Ἰωάννῃ ἀρχιεπισκόπῳ Θεσσαλονίκης.</p>
+            <p xml:lang="en" >Mother of God St Demetrios. Theotokos help your servant John, archbishop of Thessaloniki.</p>
+            <p xml:lang="fr" >Mère de Dieu. Saint Dèmètrios. Théotokos aide ton serviteur Jean, archevêque de Thessalonique.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Deux archevêques de ce nom étant cités par le <hi rend="italic">Synodikon</hi> de la métropole
+            <p ><!-- Deux archevêques de ce nom étant cités par le <hi rend="italic">Synodikon</hi> de la métropole
                       pour le début du siècle, il est impossible de déterminer lequel a frappé ce sceau. --></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 258</citedRange>
                </bibl>.
@@ -362,10 +362,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris (BN 524); Anc. coll. Schlumberger;
+            <p > Bibliothèque Nationale de France, Paris (BN 524); Anc. coll. Schlumberger;
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Schlumberger1881"/>, <citedRange unit="page"> p. 106</citedRange>,</bibl>

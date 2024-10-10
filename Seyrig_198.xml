@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Légèrement rogné sur le côté gauche; décentré vers la gauche et légèrement boursouflé le long du canal.</p>
+                           <p >Légèrement rogné sur le côté gauche; décentré vers la gauche et légèrement boursouflé le long du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -168,8 +168,8 @@
                                 >Istanbul</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -188,8 +188,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-7QgdNW-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire.</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +229,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-7QgdNW-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,14 +286,14 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="circular"    xml:lang="">
+                      <ab >
                             <lb n="1"/><rs type="invocation" ref="invocation.xml#Κύριε2"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>βοήθε</abbr><ex >ι</ex></expan> τῷ σῷ δούλῳ</rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="2"/>+ <expan ><abbr>Μαρίν</abbr><ex >ῳ</ex></expan>
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#πατρίκιος"><expan ><abbr>πατρικ</abbr><ex >ίῳ</ex></expan></rs> <rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος_β"><expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan> <expan ><abbr><am >α</am></abbr><ex >πρωτο</ex>
                           <lb n="4" break="no"/><abbr>σπαθ</abbr><ex >αρίῳ</ex></expan></rs> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>στ</abbr><ex >ρ</ex><abbr>α</abbr><ex >τηγῷ</ex></expan>
@@ -303,17 +303,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -321,17 +321,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Κύριε βοήθει τῷ σῷ δούλῳ / + Μαρίνῳ πατρικίῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατηγῷ Θεσσαλονίκης.</p>
-            <p xml:lang="en" part="N">Lord help your servant Marinos, patrikios, imperial protospatharios and strategos of Thessaloniki.</p>
-            <p xml:lang="fr" part="N">Seigneur aide ton serviteur Marinos, patrice, protospathaire impérial et stratège de Thessalonique.</p>
+         <div type="translation"   >
+            <p >Κύριε βοήθει τῷ σῷ δούλῳ / + Μαρίνῳ πατρικίῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατηγῷ Θεσσαλονίκης.</p>
+            <p xml:lang="en" >Lord help your servant Marinos, patrikios, imperial protospatharios and strategos of Thessaloniki.</p>
+            <p xml:lang="fr" >Seigneur aide ton serviteur Marinos, patrice, protospathaire impérial et stratège de Thessalonique.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La datation du sceau est confirmée par une
+            <p ><!--La datation du sceau est confirmée par une
                       inscription du rempart de Thessalonique découverte en 1981. Celle-ci rappelle les travaux
                       effectués par Marinos en 6370 (862/863) alors qu’il était protospathaire et stratège de
                       Thessalonique. Ce texte a été signalé par Euterpi Marki () et
@@ -346,23 +346,23 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                         <!--  [1]. <hi rend="italic">Macédonika</hi>, 22, 1982, p. 145.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                         <!--  [2]. Note prosopographique sur
                           une inscription du rempart de Thessalonique (861/862), <hi rend="italic">REB</hi> 49, 1991, p. 247-253.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>198</citedRange>
@@ -371,10 +371,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                   
                           Dumbarton Oaks, Washington D.C.,
                       <bibl  >
@@ -383,7 +383,7 @@
                   </citedRange>
                </bibl>;
                   </p>
-            <p part="N">
+            <p >
                       
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >

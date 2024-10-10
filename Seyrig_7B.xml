@@ -112,7 +112,7 @@
                            <measure type="countermark" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Renflés au pourtour et légèrement décentrés vers la gauche. Le second ex. est en voie d’oxydation.</p>
+                           <p >Renflés au pourtour et légèrement décentrés vers la gauche. Le second ex. est en voie d’oxydation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -156,7 +156,7 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p part="N"/>
+                     <p />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -175,8 +175,8 @@
                                  <dim type="diameter">31</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-o8nK0K-r</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -216,8 +216,8 @@
                                  <dim type="diameter">31</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-o8nK0K-v</rs>
-                              <p xml:lang="en" part="N">Iconography with circular legend</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en" >Iconography with circular legend</p>
+                              <p xml:lang="fr" >Iconographie avec légende circulaire</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -252,7 +252,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -278,46 +278,46 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                 <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                <ab part="N"><!-- ici on n'indique pas le numéro de ligne avec lb, mais il faut utiliser cb: voir Guidelines -->
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                 <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                <ab ><!-- ici on n'indique pas le numéro de ligne avec lb, mais il faut utiliser cb: voir Guidelines -->
                     <lb n="1"/><expan ><abbr>Ἰ</abbr><ex >ησοῦ</ex><abbr>ς</abbr></expan> <expan ><abbr>Χ</abbr><ex >ριστό</ex><abbr>ς</abbr></expan>
                 </ab>
             </div>
-                <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
-                                  <lb n="1"/> <expan ><abbr>ʹΡωμαν</abbr><ex >ὸς</ex></expan> <w lemma="καί" lemmaRef="http://www.perseus.tufts.edu/hopper/morph?l=kai&amp;la=greek" part="N">
+                <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >
+                                  <lb n="1"/> <expan ><abbr>ʹΡωμαν</abbr><ex >ὸς</ex></expan> <w lemma="καί" lemmaRef="http://www.perseus.tufts.edu/hopper/morph?l=kai&amp;la=greek" >
                                       <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan>
                                   </w>  Εὐδοκία
                       </ab>
                 </div>
-                <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+                <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                           <lb n="1"/><expan ><abbr>Κων</abbr><ex >σταντῖνος</ex></expan>, <expan ><abbr>Μ</abbr><ex >ι</ex><abbr>χ</abbr><ex >αήλ</ex></expan>, <expan ><abbr>Ἀνδ</abbr><ex >ρόνικος</ex></expan>
                       </ab>
                 </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="rev" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="rev" rend="circular"    xml:lang="">
+                      <ab >
                        
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
-            <p part="N"/>
+         <div type="apparatus"   >
+            <p />
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Ρωμανὸς καὶ Εὐδοκία. / Κωνστάντῖνος, Μιχαήλ, Ἀνδρόνικος.</p>
-            <p xml:lang="en" part="N">Romanos and Eudokia. / Constantine, Michael, Andronikos.</p>
-            <p xml:lang="fr" part="N">Romain et Eudocie. / Constantin, Michel, Andronic.</p>
+         <div type="translation"   >
+            <p >+ Ρωμανὸς καὶ Εὐδοκία. / Κωνστάντῖνος, Μιχαήλ, Ἀνδρόνικος.</p>
+            <p xml:lang="en" >Romanos and Eudokia. / Constantine, Michael, Andronikos.</p>
+            <p xml:lang="fr" >Romain et Eudocie. / Constantin, Michel, Andronic.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le type est celui de la première des deux variétés de <hi rend="italic">nomismata histaména</hi>
+            <p ><!--Le type est celui de la première des deux variétés de <hi rend="italic">nomismata histaména</hi>
                     du règne [1]. Mais la sigillographie ne connaît pas, semble-t-il, d’exemplaire semblable à celui
                     de la seconde variété. Ceci confirme que la distinction introduite sur la monnaie d’or était
                     simplement une marque - plus ou moins secrète - de la chute du titre entre les deux émissions
@@ -326,20 +326,20 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                    <!-- [1]. C. MORRISSON, La dévaluation de la monnaie byzantine au XIe siècle, <hi rend="italic">TM</hi> 6, 1976,
                     p. 7, n. 19).-->
                 </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Biliothèque Nationale de France, Paris
                     <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>7b</citedRange>
@@ -348,10 +348,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                     Dumbarton Oaks, Washington D.C.,
                     <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>93</citedRange>
@@ -366,10 +366,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://db.pbw.kcl.ac.uk/jsp/boulloterion.jsp?bKey=435">Romanos 4</ref>

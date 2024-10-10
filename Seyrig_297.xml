@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Slightly trimmed around the rim; indentation at the lower opening of the channel; two notches at the bottom of the reverse.</p>
-                           <p xml:lang="fr" part="N">Légèrement rogné au pourtour; échancrure à l’orifice inférieur du canal; deux entailles au bas du revers.</p>
+                           <p xml:lang="en" >Slightly trimmed around the rim; indentation at the lower opening of the channel; two notches at the bottom of the reverse.</p>
+                           <p xml:lang="fr" >Légèrement rogné au pourtour; échancrure à l’orifice inférieur du canal; deux entailles au bas du revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -154,11 +154,11 @@
                   </origin>
                   <!-- info in provenance transferred -->
                   <provenance type="transferred" xml:lang="fr">
-                     <p part="N">Acheté à Istanbul</p>
+                     <p >Acheté à Istanbul</p>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -177,8 +177,8 @@
                                  <dim type="diameter">30</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-aftdFE-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -218,9 +218,9 @@
                                  <dim type="diameter">30</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-aftdFE-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 7 lines</p>
+                              <p xml:lang="en" >Metrical legend of 7 lines</p>
                               <!-- it is important to mention that the legend is metrical! -->
-                              <p xml:lang="fr" part="N">Légende métrique sur 7 lignes</p>
+                              <p xml:lang="fr" >Légende métrique sur 7 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -248,7 +248,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -276,15 +276,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/>Ὁ ἃγιος 
                         <cb n="b"/><expan ><abbr>Θε</abbr><ex >ό</ex><abbr>δωρ</abbr><supplied reason="lost" ><abbr>ο</abbr><ex >ς</ex></supplied></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+Γραφὰς
                           <lb n="2"/>σφραγίζω
                           <lb n="3"/>Χωματηνοῦ
@@ -295,17 +295,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -313,17 +313,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Θεόδωρος. / + Γραφὰς σφραγίζω Χωματηνοῦ τοὐπίκλην, ἀθλητἀ, τοῦ σοῦ δούλου καὶ συνωνύμου. </p>
-            <p xml:lang="en" part="N">Saint Theodore. / I seal the writings of the so-called Chomatenos, martyr, your homonymous servant.</p>
-            <p xml:lang="fr" part="N">Saint Théodore. / Je scelle les écrits du dénommé Chomatènos, martyr, ton serviteur homonyme.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Θεόδωρος. / + Γραφὰς σφραγίζω Χωματηνοῦ τοὐπίκλην, ἀθλητἀ, τοῦ σοῦ δούλου καὶ συνωνύμου. </p>
+            <p xml:lang="en" >Saint Theodore. / I seal the writings of the so-called Chomatenos, martyr, your homonymous servant.</p>
+            <p xml:lang="fr" >Saint Théodore. / Je scelle les écrits du dénommé Chomatènos, martyr, ton serviteur homonyme.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Les Chômatènoi partagèrent le destin des Chôniatai. Les
+            <p ><!-- Les Chômatènoi partagèrent le destin des Chôniatai. Les
                       deux familles étaient originaires de villes phrygiennes voisines, Chôma et Chônai, et parvinrent
                       à de hauts postes, notamment ecclésiastiques, dans la seconde moitié du XIIe siècle. Chôma
                       était réputée pour ses soldats, appelés Chômatènoi, qui formaient un tagma au service de
@@ -335,10 +335,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!-- xml:id="footnote-1">
+            <p ><!-- xml:id="footnote-1">
                       [1]. <hi rend="italic">Alexiade</hi>, I, p. 21, 22).
                   </p>
                   <p xml:id="footnote-2">
@@ -355,10 +355,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 297</citedRange>,</bibl>
                <bibl  >
@@ -370,10 +370,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Istanbul, coll. privée (d’après une note de V. Laurent) <!-- unpublished --></p>
+            <p > Istanbul, coll. privée (d’après une note de V. Laurent) <!-- unpublished --></p>
          </div>
       </body>
    </text>

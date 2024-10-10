@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed at lower right, pressed, obliterated at base of reverse.</p>
-                           <p xml:lang="fr" part="N">Rogné en bas à droite, pressé, oblitéré à la base du revers.</p>
+                           <p xml:lang="en" >Trimmed at lower right, pressed, obliterated at base of reverse.</p>
+                           <p xml:lang="fr" >Rogné en bas à droite, pressé, oblitéré à la base du revers.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-XX7iE3-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-XX7iE3-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 4 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,15 +268,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><ex >Ὁ ἃγιος</ex></expan> Γρηγόρι
                         <cb n="b"/>ος ὁ <expan ><abbr>Θεολ</abbr><ex >ό</ex><abbr>γ</abbr><ex >ος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Φύλαξ 
                            <lb n="2"/>πέφυκα 
                            <lb n="3"/>τῶν <expan ><abbr>λόγ</abbr><ex >ων</ex></expan>
@@ -284,17 +284,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,17 +302,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Γρηγόριος ὁ Θεολόγος. / Φύλαξ πέφυκα τῶν λόγων Κωνσταντίνου.</p>
-            <p xml:lang="en" part="N">Saint Gregory the Theologian. / I am the custodian of Constantine's words.</p>
-            <p xml:lang="fr" part="N">Saint Grégoire le Théologien. / Je suis le gardien des paroles de Constantin.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Γρηγόριος ὁ Θεολόγος. / Φύλαξ πέφυκα τῶν λόγων Κωνσταντίνου.</p>
+            <p xml:lang="en" >Saint Gregory the Theologian. / I am the custodian of Constantine's words.</p>
+            <p xml:lang="fr" >Saint Grégoire le Théologien. / Je suis le gardien des paroles de Constantin.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Une légende identique est connue par d’autres
+            <p ><!--Une légende identique est connue par d’autres
                           plombs, mais soit avec au droit une croix patriarcale fleuronnée [1], soit avec
                           saint Jean Chrysostome et le nom écrit en toutes lettres [2]. Il n’y a pas de
                           légende semblable dans LAURENT, <hi rend="italic">Bulles métriques</hi>, mais le n° 613 [3] porte
@@ -320,10 +320,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. DO 58.106.2035.
                   </p>
                   <p xml:id="footnote-2">

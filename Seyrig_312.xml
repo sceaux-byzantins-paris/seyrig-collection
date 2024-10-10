@@ -107,8 +107,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Slightly indented at the channel openings; edges raised; obliterated on the reverse left; otherwise well centred and well engraved.</p>
-                           <p xml:lang="fr" part="N">Légèrement échancré aux orifices du canal; bords relevés; oblitéré sur le revers à gauche; sinon bien centréet bien gravé.</p>
+                           <p xml:lang="en" >Slightly indented at the channel openings; edges raised; obliterated on the reverse left; otherwise well centred and well engraved.</p>
+                           <p xml:lang="fr" >Légèrement échancré aux orifices du canal; bords relevés; oblitéré sur le revers à gauche; sinon bien centréet bien gravé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -152,8 +152,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -172,8 +172,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qPBMeC-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -214,8 +214,8 @@
                                  <dim type="diameter">23</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qPBMeC-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -243,7 +243,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -272,15 +272,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                        <cb n="a"/><expan ><ex >Ὁ ἃγιος</ex></expan> Νικό
                         <cb n="b"/>λαος
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang=""><!-- metrical, false? -->
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang=""><!-- metrical, false? -->
+                      <ab >
                           <lb n="1"/>+Σφρα
                           <lb n="2" break="no"/>γὶς Βασιλεί
                           <lb n="3" break="no"/><supplied reason="lost" >ο</supplied>υ Μεσοπο
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app loc="1-4">
                   <note xml:lang="fr" >La légende comprend bien douze pieds, mais en l’absence de césure
@@ -306,17 +306,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἃγιος Νικόλαος. / Σφραγὶς Βασιλείου Μεσοποταμίτου.</p>
-            <p xml:lang="en" part="N">Saint Nicholas. Seal of Basil Mesopotamites.</p>
-            <p xml:lang="fr" part="N">Saint Nicolas. Sceaux de Basile Mésopotamitès.</p>
+         <div type="translation"   >
+            <p >Ὁ ἃγιος Νικόλαος. / Σφραγὶς Βασιλείου Μεσοποταμίτου.</p>
+            <p xml:lang="en" >Saint Nicholas. Seal of Basil Mesopotamites.</p>
+            <p xml:lang="fr" >Saint Nicolas. Sceaux de Basile Mésopotamitès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--  Le seul personnage connu sous ce nom qui pourrait être mis en rapport avec le titulaire
+            <p ><!--  Le seul personnage connu sous ce nom qui pourrait être mis en rapport avec le titulaire
                       de notre sceau est un général d’Alexis Comnène, mentionné uniquement par Guillaume de
                       Pouille [1]. Il participa aux combats qui précédèrent la bataille de Dyrrachion en octobre
                       1081 et fut alors fait prisonnier par les Normands. L’identification avec le propriétaire de
@@ -326,19 +326,19 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--  xml:id="footnote-1">
+            <p ><!--  xml:id="footnote-1">
                       [1]. P. 222. -->
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 312</citedRange>,</bibl>
                <bibl  >

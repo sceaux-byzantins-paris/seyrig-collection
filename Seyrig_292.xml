@@ -108,8 +108,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p xml:lang="en" part="N">Highly indented at the orifices of the canal; stretched blank; decentered towards the base.</p>
-                           <p xml:lang="fr" part="N">Échancré fortement aux orifices du canal; flan étiré; décentré vers la base.</p>
+                           <p xml:lang="en" >Highly indented at the orifices of the canal; stretched blank; decentered towards the base.</p>
+                           <p xml:lang="fr" >Échancré fortement aux orifices du canal; flan étiré; décentré vers la base.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -154,8 +154,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -174,8 +174,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-bnlyfx-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,8 +215,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-bnlyfx-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -245,7 +245,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -273,17 +273,17 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><ex >Ὁ ἅγιος</ex></expan> <expan ><abbr>Γε
                           <cb n="b" break="no"/>όργι</abbr><ex >ος</ex></expan><!-- the problem here was double: there are 2 abreviations, so you need 2 expan;
                           the other problem was related to the editors' transcription: they used omega, but on the seal there is an omiron, as per diplomatic transcription,
                           and in addition this oicron do not need any round bracket, because it is not a solution of abbreviation-->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>+<expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> 
                           <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan><!-- again, 1 expan per abreviation -->  
                           <lb n="2"/>Θεοδόσιῳ
@@ -292,17 +292,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -310,17 +310,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N"> Ὁ ἃγιος Γεώργιος. / +Κύριε βοήθει Θεοδοσίῳ τῷ Ἀγρίτῃ.</p>
-            <p xml:lang="en" part="N">Saint George. / Lord help Theodosios Agrites.</p>
-            <p xml:lang="fr" part="N">Saint Georges. / Seigneur aide Théodose Agritès.</p>
+         <div type="translation"   >
+            <p > Ὁ ἃγιος Γεώργιος. / +Κύριε βοήθει Θεοδοσίῳ τῷ Ἀγρίτῃ.</p>
+            <p xml:lang="en" >Saint George. / Lord help Theodosios Agrites.</p>
+            <p xml:lang="fr" >Saint Georges. / Seigneur aide Théodose Agritès.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--La famille, bien représentée au tournant du XIe siècle,
+            <p ><!--La famille, bien représentée au tournant du XIe siècle,
                       est connue seulement par la sigillographie : Jean [1], peut-être contemporain de notre Théodose, Michel [2] et Pankalos [3]. Pour aucun de ces trois personnages
                       la dignité n’est mentionnée. On connaît également le curopalate Constantin par un sceau inédit
                       de la fin du XIe siècle ou du début du XIIe [4]. Le moine Syméon n’est peut être
@@ -329,10 +329,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                           [1]. LAURENT, <hi rend="italic">Bulles métriques</hi> 53 et DO  55.1.3826.
                       </p>
                       <p xml:id="footnote-2">
@@ -353,10 +353,10 @@
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 292</citedRange>
                </bibl>.
@@ -364,10 +364,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C. (coll. Zacos)
+            <p > Dumbarton Oaks, Washington D.C. (coll. Zacos)
                       <bibl  >
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/583/"> Theodosios 20103</ref>

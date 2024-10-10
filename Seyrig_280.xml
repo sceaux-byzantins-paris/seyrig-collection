@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné à droite; échancrures aux orifices du canal.</p>
+                           <p >Rogné à droite; échancrures aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-oEbbW1-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">20</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-oEbbW1-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -266,9 +266,9 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/><supplied reason="omitted" >+ Ἄστυ</supplied>
                            <lb n="2"/>κράτισ
                           <lb n="3" break="no"/>τον Ἀνάσ
@@ -278,8 +278,8 @@
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="6"/><supplied reason="omitted" >Αὐξ</supplied>ε<supplied reason="omitted" >ν</supplied>
                           <lb n="7" break="no"/><supplied reason="omitted" >τ</supplied>ίου μάν
                           <lb n="8" break="no"/>δρας μὲ
@@ -290,17 +290,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,17 +308,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ἄστυ κράτιστον, Ἀνάστασις ἁγία. / Αὐξεντίου μάνδρας μὲ ποιμὴν ὁ γράφων.</p>
-            <p xml:lang="en" part="N">Mighty city! Holy Resurrection! He who writes me is the hegoumenos of the monastery of Auxentios.</p>
-            <p xml:lang="fr" part="N">Ville puissante ! Sainte Résurrection ! Celui qui m'écrit est l'higoumène du monastère d'Auxence.</p>
+         <div type="translation"   >
+            <p >Ἄστυ κράτιστον, Ἀνάστασις ἁγία. / Αὐξεντίου μάνδρας μὲ ποιμὴν ὁ γράφων.</p>
+            <p xml:lang="en" >Mighty city! Holy Resurrection! He who writes me is the hegoumenos of the monastery of Auxentios.</p>
+            <p xml:lang="fr" >Ville puissante ! Sainte Résurrection ! Celui qui m'écrit est l'higoumène du monastère d'Auxence.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!-- Comme l’a déjà noté V. Laurent,
+            <p ><!-- Comme l’a déjà noté V. Laurent,
                       la protection invoquée ici de la sainte Anastasis s’expliquerait par le fait que le couvent
                       constantinopolitain de ce nom a un temps conservé le corps de saint Auxence, ermite qui
                       vécut au Ve siècle sur le mont. On peut aussi imaginer que l’église principale du monastère
@@ -326,15 +326,15 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 280</citedRange>
                </bibl>.
@@ -342,10 +342,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C. (coll. Zacos),
+            <p > Dumbarton Oaks, Washington D.C. (coll. Zacos),
                       <bibl  >
                   <ptr target="LaurentCorpus5.3"/>, <citedRange unit="part"> 1934</citedRange>,</bibl>
                <bibl  >

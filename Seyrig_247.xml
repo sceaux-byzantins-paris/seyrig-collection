@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers le haut; profondément échancré aux orifices du canal, sinon belle frappe.</p>
+                           <p >Décentré vers le haut; profondément échancré aux orifices du canal, sinon belle frappe.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -169,8 +169,8 @@
                                 >Beirut</placeName>
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -189,8 +189,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PlrPB6-r</rs>
-                              <p xml:lang="en" part="N">Invocative monogram of the type Laurent VIII, framed by the usual tetrasyllabe.</p>
-                              <p xml:lang="fr" part="N">Monogramme invocatif de type Laurent VIII, cantonné par
+                              <p xml:lang="en" >Invocative monogram of the type Laurent VIII, framed by the usual tetrasyllabe.</p>
+                              <p xml:lang="fr" >Monogramme invocatif de type Laurent VIII, cantonné par
                                             le tétrasyllabe habituel.</p>
                            </layout>
                         </layoutDesc>
@@ -230,8 +230,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-PlrPB6-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -259,7 +259,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -286,18 +286,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                            <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><ex >Θεοτόκε βοήθει</ex></expan></rs> τῷ σῷ δούλῳ
 
                       </ab>
                       </div>
               
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Θεογ
                           
                           <lb n="3" break="no"/>νώστο <expan ><abbr>δ</abbr><ex >ια</ex><abbr>κ</abbr><ex >όνῳ</ex></expan>  
@@ -316,17 +316,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -334,17 +334,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Θεογνώστο διακόνῳ οἰκονόμῳ Ἐφέσω.</p>
-            <p xml:lang="en" part="N">Theotokos help your servant Theognostos, deacon and oikonomos of Ephesus.</p>
-            <p xml:lang="fr" part="N">Théotokos aide ton serviteur Théognoste, diacre et économe d’Éphèse.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Θεογνώστο διακόνῳ οἰκονόμῳ Ἐφέσω.</p>
+            <p xml:lang="en" >Theotokos help your servant Theognostos, deacon and oikonomos of Ephesus.</p>
+            <p xml:lang="fr" >Théotokos aide ton serviteur Théognoste, diacre et économe d’Éphèse.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Il s’agit sans doute du personnage déjà connu par deux
+            <p ><!--Il s’agit sans doute du personnage déjà connu par deux
                       autres sceaux[1], mais sur
                       lesquels il ne mentionne pas sa qualité de diacre. Les lettres sont nettement gravées et sont
                       encore terminées par des empattements bien marqués. Au lieu du génitif attendu Ἐφέσου,
@@ -353,10 +353,10 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N"><!--> xml:id="footnote-1">
+            <p ><!--> xml:id="footnote-1">
                       [1]. LAURENT, <hi rend="italic">Corpus</hi>, V, 1, 263 et 1699 et ZACOS - VEGLERY 2492.-->
                   </p>
          </div>

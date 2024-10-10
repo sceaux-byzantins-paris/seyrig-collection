@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Rogné sur tout le pourtour, échancré aux orifices du canal ; pressé et partiellement oblitéré sur le bord droit
+                           <p >Rogné sur tout le pourtour, échancré aux orifices du canal ; pressé et partiellement oblitéré sur le bord droit
                                         des deux faces; en voie d'oxydation. Grandes lettres.</p>
                         </condition>
                      </supportDesc>
@@ -150,8 +150,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N"/>
-                     <p xml:lang="fr" part="N"/>
+                     <p xml:lang="en" />
+                     <p xml:lang="fr" />
                   </acquisition>
                </history>
                <msPart n="r">
@@ -170,8 +170,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-UXOIvb-r</rs>
-                              <p xml:lang="en" part="N">Cruciform monogram, probably of the Laurent V type, framed by the usual tetrasyllable</p>
-                              <p xml:lang="fr" part="N">Monogramme cruciforme, probablement de type Laurent V cantonné par le 
+                              <p xml:lang="en" >Cruciform monogram, probably of the Laurent V type, framed by the usual tetrasyllable</p>
+                              <p xml:lang="fr" >Monogramme cruciforme, probablement de type Laurent V cantonné par le 
                                             tétrasyllabe habituel</p>
                            </layout>
                         </layoutDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">25</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-UXOIvb-v</rs>
-                              <p xml:lang="en" part="N">Legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 3 lignes</p>
+                              <p xml:lang="en" >Legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -267,10 +267,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει </ex></expan>τῷ σῷ δούλῳ
 <!-- le tétrasyllabe est à placer à l'extérieur de expan, qui n'inclut que les lettres en forme de monogramme -->
@@ -278,8 +278,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/>+ Πανα 
                                
                                   <lb n="3" break="no"/>ρέτῳ <rs type="dignity" ref="dignities.xml#ὕπατος"><supplied reason="lost" >ὑ</supplied>
@@ -289,17 +289,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -307,33 +307,33 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Παναρέτῳ ὑπάτῳ.</p>
-            <p xml:lang="en" part="N">Mother of God help your servant Panateros hypatos.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide ton serviteur Panatéros <hi rend="italic">hypatos</hi>.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Παναρέτῳ ὑπάτῳ.</p>
+            <p xml:lang="en" >Mother of God help your servant Panateros hypatos.</p>
+            <p xml:lang="fr" >Mère de Dieu aide ton serviteur Panatéros <hi rend="italic">hypatos</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
               
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>32</citedRange>
@@ -342,10 +342,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Musée Numismatique, Athènes,
                       <bibl  >
                   <ptr target="Athens1917"/>, <citedRange>568</citedRange>

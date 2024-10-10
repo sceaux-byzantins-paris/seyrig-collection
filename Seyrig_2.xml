@@ -109,8 +109,8 @@
                            <measure type="channelOrient" unit="clock"/>12-6<!-- à vérifier -->
                                 </support>
                         <condition rend="wornEdge">
-                           <p xml:lang="en" part="N">Trimmed; heavily indented on the right and at the channel openings; notched on the reverse side over most of the channel.</p>
-                           <p xml:lang="fr" part="N">Rogné; fortement échancré à droite et aux orifices du canal; entaillé au revers sur la plus grande partie du
+                           <p xml:lang="en" >Trimmed; heavily indented on the right and at the channel openings; notched on the reverse side over most of the channel.</p>
+                           <p xml:lang="fr" >Rogné; fortement échancré à droite et aux orifices du canal; entaillé au revers sur la plus grande partie du
                                         canal.</p>
                         </condition>
                      </supportDesc>
@@ -153,8 +153,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">don d'Henri Seyrig</p>
+                     <p xml:lang="en" >donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -173,8 +173,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qOLyGh-r</rs>
-                              <p xml:lang="en" part="N">Circular legend around the emperor's image.</p>
-                              <p xml:lang="fr" part="N">Légende circulaire autour de l'image de l'empereur.</p>
+                              <p xml:lang="en" >Circular legend around the emperor's image.</p>
+                              <p xml:lang="fr" >Légende circulaire autour de l'image de l'empereur.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -215,9 +215,9 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-qOLyGh-v</rs>
-                              <p xml:lang="en" part="N"/>
+                              <p xml:lang="en" />
                               <!-- à ne pas utiliser avec l'iconographie -->
-                              <p xml:lang="fr" part="N"/>
+                              <p xml:lang="fr" />
                               <!-- à ne pas utiliser avec l'iconographie -->
                            </layout>
                         </layoutDesc>
@@ -250,7 +250,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -276,26 +276,26 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
-                      <ab part="N">  
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
+                      <ab >  
                           <lb n="1"/><expan ><abbr>D</abbr><ex >ominus</ex></expan> <expan ><abbr>n</abbr><ex >oster</ex></expan> Iustinianus <expan ><abbr>p</abbr><ex >er</ex><abbr>p</abbr><ex >etuus</ex></expan> <expan ><abbr>Aug</abbr><ex >ustus</ex></expan>.
                       </ab>
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la"   >
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                           <!-- édition à ajouter ! -->
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >
@@ -307,24 +307,24 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Dominus noster Iustinianus perpetuus Augustus.</p>
-            <p xml:lang="en" part="N">Our lord Justinian, eternal Augustus.</p>
-            <p xml:lang="fr" part="N">Notre Seigneur Justinien, Auguste perpétuel</p>
+         <div type="translation"   >
+            <p >Dominus noster Iustinianus perpetuus Augustus.</p>
+            <p xml:lang="en" >Our lord Justinian, eternal Augustus.</p>
+            <p xml:lang="fr" >Notre Seigneur Justinien, Auguste perpétuel</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"/>
+            <p />
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                 Biliothèque Nationale de France, Paris,
                 <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>2</citedRange>
@@ -333,16 +333,16 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
            Dumbarton Oaks, Washington D.C.,
                     <bibl  >
                   <ptr target="Zacos1"/>, <citedRange>3a et b</citedRange>
                </bibl>;
                 </p>
-            <p part="N">
+            <p >
                 Münzkabinett des Kunsthistorischen Museums, Vienne,
                 <bibl  >
                   <ptr target="BBÖ1"/>, <citedRange>6</citedRange>

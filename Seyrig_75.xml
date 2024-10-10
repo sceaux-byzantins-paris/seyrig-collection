@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="broken">
-                           <p part="N">Brisé; une cassure a détruit le tiers supérieur; le droit est très oxydé.</p>
+                           <p >Brisé; une cassure a détruit le tiers supérieur; le droit est très oxydé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-OFfni1-r</rs>
-                              <p xml:lang="en" part="N">Between eagle's wings, marian monogram, type Laurent I.</p>
-                              <p xml:lang="fr" part="N">Entre les ailes de l'aigle, monogramme marial de type Laurent I.</p>
+                              <p xml:lang="en" >Between eagle's wings, marian monogram, type Laurent I.</p>
+                              <p xml:lang="fr" >Entre les ailes de l'aigle, monogramme marial de type Laurent I.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -211,8 +211,8 @@
                                  <dim type="diameter">22</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-OFfni1-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -241,7 +241,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,10 +268,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan ><ex >Θεοτόκε βοήθει</ex></expan>
 
@@ -279,8 +279,8 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                                   <lb n="2"/><supplied reason="lost" >Γε</supplied>ωρ
                           
                                   <lb n="3" break="no"/>γί<supplied reason="lost" >ο <!--omicron avec iota souscrit--> <expan ><abbr>β</abbr><ex >ασιλικῷ</ex></expan></supplied> βεσ
@@ -290,17 +290,17 @@
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -308,36 +308,36 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Θεοτόκε βοήθει / Γεωργίο βασιλικῷ βεστύτωρι.</p>
+         <div type="translation"   >
+            <p >Θεοτόκε βοήθει / Γεωργίο βασιλικῷ βεστύτωρι.</p>
             <!--omicron-->
-            <p xml:lang="en" part="N">Mother of God help George, imperial vestitor.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu aide Georges, vestitor impérial.</p>
+            <p xml:lang="en" >Mother of God help George, imperial vestitor.</p>
+            <p xml:lang="fr" >Mère de Dieu aide Georges, vestitor impérial.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Le vestitor était un fonctionnaire palatin qui aidait
+            <p ><!--Le vestitor était un fonctionnaire palatin qui aidait
                       l’empereur à s’habiller. G. Zacos et A. Veglery ont publié le sceau (1482) d’un Georges vestitor,
                       avec au droit un monogramme, de type Laurent I. L’identité des deux personnages est possible.--></p>
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
 
                   </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>75</citedRange>

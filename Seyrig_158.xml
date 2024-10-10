@@ -107,7 +107,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="notCentered">
-                           <p part="N">Décentré vers la gauche; entaillé à gauche; légère échancrure à l’orifice du canal.</p>
+                           <p >Décentré vers la gauche; entaillé à gauche; légère échancrure à l’orifice du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -151,8 +151,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -171,8 +171,8 @@
                                  <dim type="diameter">31</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-NUXUTW-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonne.</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonne.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -212,8 +212,8 @@
                                  <dim type="diameter">31</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-NUXUTW-v</rs>
-                              <p xml:lang="en" part="N">Legend of 6 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 6 lignes</p>
+                              <p xml:lang="en" >Legend of 6 lines</p>
+                              <p xml:lang="fr" >Légende sur 6 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -242,7 +242,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -269,15 +269,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                          <cb n="a"/>Ὁ ἅγ<supplied reason="lost" >ιος</supplied> 
                         <cb n="b"/>Γεώργιος
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan ><abbr>Κ</abbr><ex >ύρι</ex><abbr>ε</abbr></expan> <expan ><abbr>β</abbr><ex >οή</ex><abbr>θ</abbr><ex >ει</ex></expan></rs>
                           <lb n="2"/>Ῥωμανῷ
                           <lb n="3"/><rs type="dignity" ref="dignities.xml#μάγιστρος">μαγίστρῳ</rs>
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,17 +306,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Ὁ ἅγιος Γεώργιος. / + Κύριε βοήθει Ῥωμανῷ μαγίστρῳ καὶ δοὺξ Ἀντιοχείας τῷ Σκληρῷ.</p>
-            <p xml:lang="en" part="N">St. George. Lord help Romain Skleros, magistros and doux of Antioch.</p>
-            <p xml:lang="fr" part="N">Saint Georges. Seigneur aide Romain Sklèros, magistre et duc d’Antioche.</p>
+         <div type="translation"   >
+            <p >Ὁ ἅγιος Γεώργιος. / + Κύριε βοήθει Ῥωμανῷ μαγίστρῳ καὶ δοὺξ Ἀντιοχείας τῷ Σκληρῷ.</p>
+            <p xml:lang="en" >St. George. Lord help Romain Skleros, magistros and doux of Antioch.</p>
+            <p xml:lang="fr" >Saint Georges. Seigneur aide Romain Sklèros, magistre et duc d’Antioche.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Romain Skléros a probablement exercé à plusieurs reprises le
+            <p ><!--Romain Skléros a probablement exercé à plusieurs reprises le
                       commandement à Antioche. Le plomb date de l’époque où il n’était encore que magistre,
                       c’est-à-dire du règne de Monomaque et est donc antérieur à janvier 1055 [1]. Le sceau sur lequel Romain Skléros est
                       mentionné comme proèdre et duc d’Antioche [2] offre une
@@ -324,23 +324,23 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                           <!--[1]. Cf. SEIBT, <hi rend="italic">Skleroi</hi>,
                           p. 76-85 où l’on trouvera le détail de sa carrière.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                           <!--[2]. DO 58.106.5699; coll. Zacos.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>158</citedRange>
@@ -349,14 +349,14 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                      <!--<bibl><ptr target=""/>, <citedRange>94</citedRange></bibl> Laurent, Vatican-->
                      
                  </p>
-            <p part="N">
+            <p >
                       Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="DOsealsOnline"/>, <citedRange>
@@ -366,14 +366,14 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="Seibt1976"/>, <citedRange unit="page">p. 79, pl. 2, n° 7.</citedRange>
                </bibl>;</p>
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBE1"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/514/">Romanos 104</ref>

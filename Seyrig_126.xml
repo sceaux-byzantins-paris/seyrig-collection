@@ -105,7 +105,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p part="N">Fortement rogné aux orifices du canal ; pressé et oblitéré sur les deux faces.</p>
+                           <p >Fortement rogné aux orifices du canal ; pressé et oblitéré sur les deux faces.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1hPmaX-r</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter"/>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-1hPmaX-v</rs>
-                              <p xml:lang="en" part="N">Legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 4 lignes</p>
+                              <p xml:lang="en" >Legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,10 +265,10 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
-                   <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
+                   <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                                   <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><abbr>Θ</abbr><ex >εοτό</ex><abbr>κε</abbr></expan> <expan ><abbr>β</abbr><ex >ο</ex>
                                
                                   <lb n="2" break="no"/><abbr>ήθ</abbr><ex >ει</ex></expan> τῷ σῷ
@@ -279,8 +279,8 @@
 
                       </ab>
                          </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="5"/><rs type="dignity" ref="dignities.xml#πατρίκιος"><expan ><abbr><supplied reason="omitted" >π</supplied>ατρι
                           <lb n="6" break="no"/><supplied reason="omitted" >κ</supplied></abbr><supplied reason="omitted" ><ex >ίῳ</ex></supplied></expan></rs> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> <expan ><abbr>δρου
                           <lb n="7" break="no"/><supplied reason="lost" >γ</supplied>γαρ</abbr><ex >ίῳ</ex></expan> <expan ><abbr>τῶ</abbr><ex >ν</ex></expan>
@@ -289,17 +289,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -307,17 +307,17 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+ Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἀνδρονίκῳ / πατρικίῳ καὶ δρουγγαρίῳ τῶν πλοήμων.</p>
-            <p xml:lang="en" part="N">Theotokos help your servant Andronikos, patrikios and droungarios of the ploimoi.</p>
-            <p xml:lang="fr" part="N">Théotokos aide ton serviteur Andronic, patrice et drongaire des <hi rend="italic">plôïmoi</hi>.</p>
+         <div type="translation"   >
+            <p >+ Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἀνδρονίκῳ / πατρικίῳ καὶ δρουγγαρίῳ τῶν πλοήμων.</p>
+            <p xml:lang="en" >Theotokos help your servant Andronikos, patrikios and droungarios of the ploimoi.</p>
+            <p xml:lang="fr" >Théotokos aide ton serviteur Andronic, patrice et drongaire des <hi rend="italic">plôïmoi</hi>.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               >
-            <p part="N"><!--Un sceau très proche du même personnage, mais avec une
+            <p ><!--Un sceau très proche du même personnage, mais avec une
                       disposition différente de la même légende est publié dans ZACOS II, 953.
                       Andronic, amiral de la flotte constantinopolitaine, est inconnu des sources littéraires et
                       R. Guilland [1] l’ignore. Selon un autre sceau,
@@ -329,22 +329,22 @@
          </div>
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               >
-            <p xml:id="footnote-1" part="N">
+            <p xml:id="footnote-1" >
                        <!--   [1]. <hi rend="italic">Institutions</hi> I, Le drongaire de la flotte, p. 535-540.-->
                       </p>
-            <p xml:id="footnote-2" part="N">
+            <p xml:id="footnote-2" >
                          <!-- [2]. <hi rend="italic">Corpus</hi>, II, 965.-->
                       </p>
          </div>
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange>126</citedRange>
@@ -353,10 +353,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                       Münzkabinett des Kunsthistorischen Museums, Vienne,
                       <bibl  >
                   <ptr target="LaurentCorpus2"/>, <citedRange>964</citedRange>
@@ -364,10 +364,10 @@
          </div>
          <div type="bibliography"
               subtype="discussionParallels"
-              part="N"
+              
               
               >
-            <p part="N">
+            <p >
                <bibl  >
                   <ptr target="PBW"/>, <citedRange>
                      <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/502/">Andronikos 20107</ref>

@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition>
-                           <p xml:lang="en" part="N">Slight indentation at the upper opening of the canal; edges raised.</p>
-                           <p xml:lang="fr" part="N">Échancrure légère à l’orifice supérieur du canal; bords relevés.</p>
+                           <p xml:lang="en" >Slight indentation at the upper opening of the canal; edges raised.</p>
+                           <p xml:lang="fr" >Échancrure légère à l’orifice supérieur du canal; bords relevés.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">13</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VXczuD-r</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 3 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 3 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -209,8 +209,8 @@
                                  <dim type="diameter">13</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-VXczuD-v</rs>
-                              <p xml:lang="en" part="N">Metrical egend of 3 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 3 lignes</p>
+                              <p xml:lang="en" >Metrical egend of 3 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 3 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,7 +238,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -268,33 +268,33 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="face" n="obv" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="face" n="obv" rend="linear"    xml:lang="">
+                      <ab >
                         <lb n="1"/>+Ἐγὼ 
                         <lb n="2"/>τὸ κῦ
                         <lb n="3" break="no"/>ρος
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="4"/>τῶν 
                           <lb n="5"/>γραφῶν 
                           <lb n="6"/><expan ><abbr>Ἰω</abbr><ex >άννου</ex></expan>
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -302,27 +302,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">+Ἐγὼ τὸ κῦρος / τῶν γραφῶν Ἰωάννου.</p>
-            <p xml:lang="en" part="N">I affirm the writings of John.</p>
-            <p xml:lang="fr" part="N">J'affirme les écrits de Jean.</p>
+         <div type="translation"   >
+            <p >+Ἐγὼ τὸ κῦρος / τῶν γραφῶν Ἰωάννου.</p>
+            <p xml:lang="en" >I affirm the writings of John.</p>
+            <p xml:lang="fr" >J'affirme les écrits de Jean.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 339</citedRange>
                </bibl>.
@@ -330,10 +330,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C.,
+            <p > Dumbarton Oaks, Washington D.C.,
                       <bibl  >
                   <ptr target="Laurent1932"/>,<citedRange unit="part"> 619</citedRange>,</bibl>
                       Coll. Shaw 1482 (cat. Laurent 1717); 

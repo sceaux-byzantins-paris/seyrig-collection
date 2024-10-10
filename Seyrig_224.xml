@@ -104,7 +104,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="obliterated">
-                           <p part="N">Fissuré sur toute la longueur du canal; oblitéré sur tout le tiers droit; revers orienté à 6 h. (au lieu de 12
+                           <p >Fissuré sur toute la longueur du canal; oblitéré sur tout le tiers droit; revers orienté à 6 h. (au lieu de 12
                                         habituellement).</p>
                         </condition>
                      </supportDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-UW4ueh-r</rs>
-                              <p xml:lang="en" part="N">Iconography</p>
-                              <p xml:lang="fr" part="N">Iconographie</p>
+                              <p xml:lang="en" >Iconography</p>
+                              <p xml:lang="fr" >Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">19</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-UW4ueh-v</rs>
-                              <p xml:lang="en" part="N">Legend of 5 lines</p>
-                              <p xml:lang="fr" part="N">Légende sur 5 lignes</p>
+                              <p xml:lang="en" >Legend of 5 lines</p>
+                              <p xml:lang="fr" >Légende sur 5 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -239,7 +239,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -265,18 +265,18 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  >
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
                  
-                  <div type="textpart" subtype="face" n="obv" rend="circular" part="N"   xml:lang="">
+                  <div type="textpart" subtype="face" n="obv" rend="circular"    xml:lang="">
                       
-                      <ab part="N">
+                      <ab >
                     
                            <lb n="1"/><abbr/>
 
                       </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                            <lb n="1"/>Θεογν<supplied reason="lost" >ό</supplied>
                           <lb n="2" break="no"/>στο <rs type="dignity" ref="dignities.xml#σπαθαροκανδιδᾶτος_β">βασ<supplied reason="lost" >ιλ
                           <lb n="3" break="no"/>ι</supplied>κο <expan ><abbr>σπαθ<supplied reason="lost" >αρ</supplied></abbr><supplied reason="lost" ><ex >ο</ex></supplied>    <!--Omicron avec iota souscrit et/ou accent circonflexe-->
@@ -288,17 +288,17 @@
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -306,21 +306,21 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">
+         <div type="translation"   >
+            <p >
                <abbr/> / Θεογνόστο βασιλικο σπαθαροκανδιδάτῳ καὶ τουρμάρχῃ.</p>
             <!--omicron avec iota souscrit et accent circonflexe-->
-            <p xml:lang="en" part="N">Theognostos, imperial spatharokandidatos and tourmarches.</p>
-            <p xml:lang="fr" part="N">Théognoste, spatharocandidat impérial et tourmarque.</p>
+            <p xml:lang="en" >Theognostos, imperial spatharokandidatos and tourmarches.</p>
+            <p xml:lang="fr" >Théognoste, spatharocandidat impérial et tourmarque.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
       </body>

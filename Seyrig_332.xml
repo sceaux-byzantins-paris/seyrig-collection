@@ -104,8 +104,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition><!-- @rend à ajouter -->
-                           <p xml:lang="en" part="N">Deeply indented at the top of the channel, notched on the reverse on the left.</p>
-                           <p xml:lang="fr" part="N">Profondément échancré au sommet du canal, entaillé au revers à gauche.</p>
+                           <p xml:lang="en" >Deeply indented at the top of the channel, notched on the reverse on the left.</p>
+                           <p xml:lang="fr" >Profondément échancré au sommet du canal, entaillé au revers à gauche.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -149,8 +149,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" part="N">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" part="N">Don d'Henri Seyrig</p>
+                     <p xml:lang="en" >Donation by Henri Seyrig</p>
+                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -169,8 +169,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-YXbfN3-r</rs>
-                              <p xml:lang="en" part="N">Iconography with legend in columns</p>
-                              <p xml:lang="fr" part="N">Iconographie avec légende en colonnes</p>
+                              <p xml:lang="en" >Iconography with legend in columns</p>
+                              <p xml:lang="fr" >Iconographie avec légende en colonnes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -210,8 +210,8 @@
                                  <dim type="diameter">15</dim>
                               </dimensions>
                               <rs type="matrix" subtype="not-surviving">m-YXbfN3-v</rs>
-                              <p xml:lang="en" part="N">Metrical legend of 4 lines</p>
-                              <p xml:lang="fr" part="N">Légende métrique sur 4 lignes</p>
+                              <p xml:lang="en" >Metrical legend of 4 lines</p>
+                              <p xml:lang="fr" >Légende métrique sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -240,7 +240,7 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl >
-            <p part="N"/>
+            <p />
          </editorialDecl>
       </encodingDesc>
       <revisionDesc >
@@ -270,15 +270,15 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc" part="N"  > 
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   > 
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                         <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><abbr>ρ</abbr></expan>
                         <cb n="b"/><supplied reason="lost" ><expan ><abbr>Θ</abbr><ex >εοῦ</ex></expan></supplied>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                           <lb n="1"/>Πράξεις 
                            <lb n="2"/><expan ><supplied reason="lost" >σ</supplied>φραγί
                            <lb n="3" break="no"/><supplied reason="lost" >ζ</supplied>ω</expan> <expan ><abbr><am ><g type="kai1"/></am></abbr><ex >καὶ</ex></expan> γρα
@@ -286,17 +286,17 @@
                           </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc" part="N"  >
-                  <div type="textpart" subtype="label" n="obv" rend="columns" part="N"   xml:lang="">
-                      <ab part="N">
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
+                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" part="N"   xml:lang="">
-                      <ab part="N">
+                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
+                      <ab >
                       </ab>
                   </div>
               </div>
-         <div type="apparatus" part="N"  >
+         <div type="apparatus"   >
             <listApp >
                <app>
                   <note xml:lang="en" >None.</note>
@@ -304,27 +304,27 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" part="N"  >
-            <p part="N">Μήτηρ Θεοῦ. / Πράξεις σφραγίζω καὶ γραφὰς Κωνσταντίνου.</p>
-            <p xml:lang="en" part="N">Mother of God. / I seal the acts and writings of Constantine.</p>
-            <p xml:lang="fr" part="N">Mère de Dieu. / Je scelle les actes et les écrits de Constantin.</p>
+         <div type="translation"   >
+            <p >Μήτηρ Θεοῦ. / Πράξεις σφραγίζω καὶ γραφὰς Κωνσταντίνου.</p>
+            <p xml:lang="en" >Mother of God. / I seal the acts and writings of Constantine.</p>
+            <p xml:lang="fr" >Mère de Dieu. / Je scelle les actes et les écrits de Constantin.</p>
          </div>
          <div type="commentary"
               subtype="text"
-              part="N"
+              
               
               />
          <div type="commentary"
               subtype="footnotes"
-              part="N"
+              
               
               />
          <div type="bibliography"
               subtype="edition"
-              part="N"
+              
               
               >
-            <p part="N"> Bibliothèque Nationale de France, Paris,
+            <p > Bibliothèque Nationale de France, Paris,
                       <bibl  >
                   <ptr target="Seyrig"/>, <citedRange unit="part"> 332</citedRange>
                </bibl>.
@@ -332,10 +332,10 @@
          </div>
          <div type="bibliography"
               subtype="parallels"
-              part="N"
+              
               
               >
-            <p part="N"> Dumbarton Oaks, Washington D.C. (coll. Zacos (quatre ex.),
+            <p > Dumbarton Oaks, Washington D.C. (coll. Zacos (quatre ex.),
                       <bibl  >
                   <ptr target="Zacos2"/>,<citedRange unit="part"> 405</citedRange>,</bibl>
                <bibl  >
