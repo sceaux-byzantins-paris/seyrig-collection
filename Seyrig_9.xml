@@ -9,7 +9,7 @@
                <seg xml:lang="en">Maria Komnene, porphyrogenetos</seg>
                <seg xml:lang="fr">Marie Comnène, porphyrogénète</seg>
             </title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
+            <editor role="seal-editor" xml:id="JCC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile
                         Morrisson</editor>
@@ -19,6 +19,7 @@
          <editionStmt>
             <edition>
                <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
@@ -35,14 +36,14 @@
          </publicationStmt>
          <sourceDesc >
             <listPerson type="issuer" >
-               <person role="layAristocracy" gender="" >
+               <person role="layAristocracy" gender="F" >
                   <persName xml:lang="grc"  >
                      <forename >Μαρία</forename>
                      <surname >Κομνηνή</surname>
                   </persName>
                   <persName xml:lang="en"  >
                      <forename >Maria</forename>
-                     <surname >Komnenos</surname>
+                     <surname >Komnene</surname>
                   </persName>
                   <persName xml:lang="fr"  >
                      <forename >Marie</forename>
@@ -60,9 +61,9 @@
                      <seg xml:lang="en">Paris</seg>
                      <seg xml:lang="fr">Paris</seg>
                   </settlement>
-                  <institution xml:lang="fr">Bibliothèque Nationale de France</institution>
-                  <repository xml:lang="fr">Département des Monnaies, médailles et antiques</repository>
-                  <collection type="private">
+                  <institution>Bibliothèque Nationale de France</institution>
+                  <repository>Département des Monnaies, médailles et antiques</repository>
+                  <collection type="public">
                      <rs xml:lang="en">Henri Seyrig Collection</rs>
                      <rs xml:lang="fr">Collection Henri Seyrig</rs>
                   </collection>
@@ -74,8 +75,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires</seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                   <textLang n="" mainLang="grc">
                      <seg xml:lang="en">Byzantine greek</seg>
