@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
@@ -14,7 +11,9 @@
             <editor role="seal-editor" xml:id="CM">Cécile
                         Morrisson</editor>
             <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
+                        Seibt</editor><founder><orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
+        </founder><principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -24,30 +23,30 @@
                         Buchs</editor>
          </editionStmt>
          <publicationStmt>
-            <authority/>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_68</idno>
             <idno type="SigiDocID">s-MdaCdH</idno>
             <idno type="sequence"/>
-            <date />
-            <availability >
+            <date/>
+            <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License.</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc >
-            <listPerson type="issuer" >
-               <person role="civil" gender="" >
-                  <persName xml:lang="grc"  >
-                     <forename >Θεόδοτος</forename>
+         <sourceDesc>
+            <listPerson type="issuer">
+               <person role="civil" gender="">
+                  <persName xml:lang="grc">
+                     <forename>Θεόδοτος</forename>
                   </persName>
-                  <persName xml:lang="en"  >
-                     <forename >Theodotos</forename>
+                  <persName xml:lang="en">
+                     <forename>Theodotos</forename>
                   </persName>
-                  <persName xml:lang="fr"  >
-                     <forename >Théodote</forename>
+                  <persName xml:lang="fr">
+                     <forename>Théodote</forename>
                   </persName>
-               </person>
+               </person><idno/>
             </listPerson>
-            <msDesc >
+            <msDesc>
                <msIdentifier>
                   <country>
                      <seg xml:lang="en">France</seg>
@@ -60,8 +59,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
                   </collection>
                   <idno type="inv-nr-current">392</idno>
                   <altIdentifier xml:lang="en">
@@ -75,10 +74,7 @@
                      <seg xml:lang="fr">Sceaux de dignitaires
                             </seg>
                   </summary>
-                  <textLang n="" mainLang="grc">
-                     <seg xml:lang="en">Byzantine greek</seg>
-                     <seg xml:lang="fr">Grec byzantin</seg>
-                  </textLang>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -105,7 +101,7 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition rend="wornEdge">
-                           <p >Rogné fortement au sommet et sur tout le pourtour droit; fissuré le long de la partie supérieure du canal et
+                           <p>Rogné fortement au sommet et sur tout le pourtour droit; fissuré le long de la partie supérieure du canal et
                                         échancré à l’orifice inferieur; fortement oxydé.</p>
                         </condition>
                      </supportDesc>
@@ -118,40 +114,30 @@
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="fr">Ronde</seg>
-                           </rs>
+                           </rs><rs type="matrix" subtype="not-surviving"><idno type="SigiDoc">m-ycr5TN</idno></rs>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>
-                        <figure>
-                                </figure>
-                     </decoNote>
-                  </decoDesc>
+                  
                </physDesc>
                <history>
-                  <origin >
-                     <origPlace >
+                  <origin>
+                     <origPlace>
                         <seg xml:lang="en">
-                           <placeName  >Byzantine Empire</placeName>
+                           <placeName>Byzantine Empire</placeName>
                         </seg>
                         <seg xml:lang="fr">
-                           <placeName  >Empire byzantin</placeName>
+                           <placeName>Empire byzantin</placeName>
                         </seg>
                      </origPlace>
-                     <origDate type="analysis"
-                               notBefore="0801"
-                               notAfter="0850"
-                               evidence="lettering titulature"
-                               cert="high"
-                               >
+                     <origDate type="analysis" notBefore="0801" notAfter="0850" evidence="epigraphy titulature" cert="high">
                         <seg xml:lang="en">9th C., first half</seg>
                         <seg xml:lang="fr">IXe s., première moitié</seg>
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" >Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
+                     <p xml:lang="en">Donation by Henri Seyrig</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -160,7 +146,7 @@
                   <msContents>
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
-                     </summary>
+                     </summary><textLang n="r" mainLang="grc"><seg xml:lang="en">greek</seg><seg xml:lang="fr">grec</seg></textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -169,9 +155,9 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <rs type="matrix" subtype="not-surviving">m-ycr5TN-r</rs>
-                              <p xml:lang="en" >Cruciform Marian monogram of the Laurent V type, framed by the usual tetrasyllable</p>
-                              <p xml:lang="fr" >Monogramme marial cruciforme de type Laurent V cantonné par le 
+                              
+                              <p xml:lang="en">Cruciform Marian monogram of the Laurent V type, framed by the usual tetrasyllable</p>
+                              <p xml:lang="fr">Monogramme marial cruciforme de type Laurent V cantonné par le 
                                             tétrasyllabe habituel.</p>
                            </layout>
                         </layoutDesc>
@@ -184,15 +170,15 @@
                         <decoNote>
                            <figure>
                               <figDesc ana="" n="r"/>
-                              <figDesc ana="" n="decoR">Bordure indistincte</figDesc>
+                              <figDesc n="decoR">Bordure indistincte</figDesc>
                               <!-- à revoir -->
                            </figure>
                         </decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin >
-                        <date />
+                     <origin>
+                        <date/>
                      </origin>
                   </history>
                </msPart>
@@ -202,7 +188,9 @@
                   <msContents>
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
-                     </summary>
+                     </summary><textLang n="v" mainLang="grc"><seg xml:lang="en">greek
+            </seg><seg xml:lang="fr">grec
+            </seg></textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -211,9 +199,9 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <rs type="matrix" subtype="not-surviving">m-ycr5TN-v</rs>
-                              <p xml:lang="en" >Legend of 4 lines</p>
-                              <p xml:lang="fr" >Légende sur 4 lignes</p>
+                              
+                              <p xml:lang="en">Legend of 4 lines</p>
+                              <p xml:lang="fr">Légende sur 4 lignes</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -225,15 +213,15 @@
                         <decoNote>
                            <figure>
                               <figDesc ana="" n="v"/>
-                              <figDesc ana="" n="decoV">Bordure indistincte; petit décor après la légende, sur une même ligne.</figDesc>
+                              <figDesc n="decoV">Bordure indistincte; petit décor après la légende, sur une même ligne.</figDesc>
                               <!-- à préciser -->
                            </figure>
                         </decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin >
-                        <date />
+                     <origin>
+                        <date/>
                      </origin>
                   </history>
                </msPart>
@@ -241,26 +229,26 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl >
-            <p />
+         <editorialDecl>
+            <p/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc >
-         <change when="2022-07-29" who="#AS" >First revision of the XML record</change>
-         <change when="2022-07-13" who="#NB" >Creation of the XML record</change>
+      <revisionDesc>
+         <change when="2022-07-29" who="#AS">First revision of the XML record</change>
+         <change when="2022-07-13" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
-         <graphic url="">
+         <graphic type="" url="">
             <desc xml:lang="en"/>
             <desc xml:lang="fr"/>
          </graphic>
       </surface>
       <surface n="r">
          <desc>Reverse</desc>
-         <graphic url="">
+         <graphic type="" url="">
             <desc xml:lang="en">/desc&gt;
                       <desc xml:lang="fr"/>
             </desc>
@@ -269,81 +257,69 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
-                  <div type="textpart" subtype="face" n="obv" rend="monogram"    xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram" xml:lang="">
                       
-                      <ab >
+                      <ab>
                     
-                          <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan ><ex >Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
+                          <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε2"><expan><ex>Θεοτόκε βοήθει</ex></expan> τῷ σῷ δούλῳ
 
                     </rs>
                       </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
-                      <ab >
-                                  <lb n="2"/><supplied reason="omitted" >+</supplied> Θεο
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                      <ab>
+                                  <lb n="2"/><supplied reason="omitted">+</supplied> Θεο
                           
-                                  <lb n="3" break="no"/><supplied reason="omitted" >δ</supplied>ότου <expan ><abbr>β</abbr><ex >ασιλικοῦ</ex></expan>
+                                  <lb n="3" break="no"/><supplied reason="omitted">δ</supplied>ότου <expan><abbr>β</abbr><ex>ασιλικοῦ</ex></expan>
   
-                                  <lb n="4"/><supplied reason="omitted" >σ</supplied>παθαρ
+                                  <lb n="4"/><supplied reason="omitted">σ</supplied>παθαρ
                           
-                                   <lb n="5" break="no"/><supplied reason="omitted" >ί</supplied>ου
+                                   <lb n="5" break="no"/><supplied reason="omitted">ί</supplied>ου
 
                                </ab>
                   </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
-                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
-                      <ab >
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+                      <ab>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
-                      <ab >
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                      <ab>
                       </ab>
                   </div>
               </div>
-         <div type="apparatus"   >
-            <listApp >
+         <div type="apparatus">
+            <listApp>
                <app>
-                  <note xml:lang="en" >None.</note>
-                  <note xml:lang="fr" >Aucun.</note>
+                  <note xml:lang="en">None.</note>
+                  <note xml:lang="fr">Aucun.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation"   >
-            <p >Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Θεοδότου βασιλικοῦ σπαθαρίου.</p>
-            <p xml:lang="en" >Mother of God help your servant Theodotos, imperial spatharios.</p>
-            <p xml:lang="fr" >Mère de Dieu aide ton serviteur  Théodote, spathaire impérial.</p>
+         <div type="translation">
+            <p>Θεοτόκε βοήθει τῷ σῷ δούλῳ / + Θεοδότου βασιλικοῦ σπαθαρίου.</p>
+            <p xml:lang="en">Mother of God help your servant Theodotos, imperial spatharios.</p>
+            <p xml:lang="fr">Mère de Dieu aide ton serviteur  Théodote, spathaire impérial.</p>
          </div>
-         <div type="commentary"
-              subtype="text"
-              
-              
-              >
-            <p ><!--D’après sa paléographie, ce sceau appartient pleinement au
+         <div type="commentary" subtype="text">
+            <p><!--D’après sa paléographie, ce sceau appartient pleinement au
                       IXe siècle. À cette époque l’emploi du génitif était déjà une mode du passé, ici particulièrement
                       mal venu après la formule d’invocation suivie d’un datif au droit. Un type très proche, avec
                       emploi correct du datif, est attesté par deux exemplaires de Dumbarton Oaks[1].--></p>
          </div>
-         <div type="commentary"
-              subtype="footnotes"
-              
-              
-              >
-            <p xml:id="footnote-1" >
+         <div type="commentary" subtype="footnotes">
+            <p xml:id="footnote-1">
                    <!--   [1]. 58.106.3141
                       et 61.59.26-954.-->
                   </p>
          </div>
-         <div type="bibliography"
-              subtype="edition"
-              
-              
-              >
-            <p >
+         <div type="bibliography" subtype="edition">
+            <p>
                       Bibliothèque Nationale de France, Paris,
-                      <bibl  >
+                      <bibl>
                   <ptr target="Seyrig"/>, <citedRange>68</citedRange>
                </bibl>.
                   </p>

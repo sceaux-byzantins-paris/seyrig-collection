@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
@@ -14,7 +11,9 @@
             <editor role="seal-editor" xml:id="CM">Cécile
                         Morrisson</editor>
             <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
+                        Seibt</editor><founder><orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
+        </founder><principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -24,30 +23,30 @@
                         Meziridou</editor>
          </editionStmt>
          <publicationStmt>
-            <authority/>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_303</idno>
             <idno type="SigiDocID">s-COHCGP</idno>
             <idno type="sequence"/>
-            <date />
-            <availability >
+            <date/>
+            <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License.</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc >
-            <listPerson type="issuer" >
-               <person role="private" gender="" >
-                  <persName xml:lang="grc"  >
-                     <forename >Καματηρός</forename>
+         <sourceDesc>
+            <listPerson type="issuer">
+               <person role="private" gender="">
+                  <persName xml:lang="grc">
+                     <forename>Καματηρός</forename>
                   </persName>
-                  <persName xml:lang="en"  >
-                     <forename >Kamateros</forename>
+                  <persName xml:lang="en">
+                     <forename>Kamateros</forename>
                   </persName>
-                  <persName xml:lang="fr"  >
-                     <forename >Kamatèros</forename>
+                  <persName xml:lang="fr">
+                     <forename>Kamatèros</forename>
                   </persName>
-               </person>
+               </person><idno/>
             </listPerson>
-            <msDesc >
+            <msDesc>
                <msIdentifier>
                   <country>
                      <seg xml:lang="en">France</seg>
@@ -60,8 +59,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
                   </collection>
                   <idno type="inv-nr-current">514</idno>
                   <altIdentifier xml:lang="en">
@@ -74,10 +73,7 @@
                      <seg xml:lang="en">Private patronymic seals</seg>
                      <seg xml:lang="fr">Sceaux patronymiques privé</seg>
                   </summary>
-                  <textLang n="" mainLang="grc">
-                     <seg xml:lang="en">Byzantine greek</seg>
-                     <seg xml:lang="fr">Grec byzantin</seg>
-                  </textLang>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -104,8 +100,8 @@
                            <measure type="channelOrient" unit="clock"/>
                         </support>
                         <condition> <!-- add WellCentered as a tag-->
-                           <p xml:lang="en" >Well centered on a broad flan, the obverse is worn.</p>
-                           <p xml:lang="fr" >Bien centré sur un large flan, l’avers est usé.</p>
+                           <p xml:lang="en">Well centered on a broad flan, the obverse is worn.</p>
+                           <p xml:lang="fr">Bien centré sur un large flan, l’avers est usé.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -117,40 +113,30 @@
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="fr">Ronde</seg>
-                           </rs>
+                           </rs><rs type="matrix" subtype="not-surviving"><idno type="SigiDoc">m-JXJo4F</idno></rs>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
-                  <decoDesc>
-                     <decoNote>
-                        <figure>
-                                </figure>
-                     </decoNote>
-                  </decoDesc>
+                  
                </physDesc>
                <history>
-                  <origin >
-                     <origPlace >
+                  <origin>
+                     <origPlace>
                         <seg xml:lang="en">
-                           <placeName  >Byzantine Empire</placeName>
+                           <placeName>Byzantine Empire</placeName>
                         </seg>
                         <seg xml:lang="fr">
-                           <placeName  >Empire byzantin</placeName>
+                           <placeName>Empire byzantin</placeName>
                         </seg>
                      </origPlace>
-                     <origDate type="analysis"
-                               notBefore="1181"
-                               notAfter="1220"
-                               evidence="prosopography lettering"
-                               cert="high"
-                               >
+                     <origDate type="analysis" notBefore="1181" notAfter="1220" evidence="prosopography epigraphy" cert="high">
                         <seg xml:lang="en">12th C., end-13th C., beginning</seg>
                         <seg xml:lang="fr">XIIe s., fin-XIIIe début</seg>
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en" >Donation by Henri Seyrig</p>
-                     <p xml:lang="fr" >Don d'Henri Seyrig</p>
+                     <p xml:lang="en">Donation by Henri Seyrig</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -159,7 +145,7 @@
                   <msContents>
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
-                     </summary>
+                     </summary><textLang n="r" mainLang="grc"><seg xml:lang="en">greek</seg><seg xml:lang="fr">grec</seg></textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -168,9 +154,9 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">21</dim>
                               </dimensions>
-                              <rs type="matrix" subtype="not-surviving">m-JXJo4F-r</rs>
-                              <p xml:lang="en" >Iconography with legend in columns</p>
-                              <p xml:lang="fr" >Iconographie avec légende en colonne</p>
+                              
+                              <p xml:lang="en">Iconography with legend in columns</p>
+                              <p xml:lang="fr">Iconographie avec légende en colonne</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -183,14 +169,14 @@
                            <figure>
                               <figDesc ana="" n="r">Vierge de face, à mi-corps, sans le médaillon, orante, losange de perles sur
                                             les épaules du maphorion; de part et d'autre de l'effigie, sigle.</figDesc>
-                              <figDesc ana="" n="decoR">Bordure de grènetis.</figDesc>
+                              <figDesc n="decoR">Bordure de grènetis.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin >
-                        <date />
+                     <origin>
+                        <date/>
                      </origin>
                   </history>
                </msPart>
@@ -200,7 +186,9 @@
                   <msContents>
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
-                     </summary>
+                     </summary><textLang n="v" mainLang="grc"><seg xml:lang="en">greek
+            </seg><seg xml:lang="fr">grec
+            </seg></textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -209,9 +197,9 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">21</dim>
                               </dimensions>
-                              <rs type="matrix" subtype="not-surviving">m-JXJo4F-v</rs>
-                              <p xml:lang="en" >Monogram</p>
-                              <p xml:lang="fr" >Monogramme complexe</p>
+                              
+                              <p xml:lang="en">Monogram</p>
+                              <p xml:lang="fr">Monogramme complexe</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -223,7 +211,7 @@
                         <decoNote>
                            <figure>
                               <figDesc ana="" n="v"/>
-                              <figDesc ana="" n="decoV"/>
+                              <figDesc n="decoV"/>
                               <!-- not for the description of the monograms; decoration only; it is not necessary to
                                         mention the solution of the monogram, because the solution will be part f the edition below-->
                               <!-- the photo of the reverse is lacking: border?????? -->
@@ -232,8 +220,8 @@
                      </decoDesc>
                   </physDesc>
                   <history>
-                     <origin >
-                        <date />
+                     <origin>
+                        <date/>
                      </origin>
                   </history>
                </msPart>
@@ -241,27 +229,27 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <editorialDecl >
-            <p />
+         <editorialDecl>
+            <p/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc >
-         <change when="2022-12-07" who="#SM" >Comment out commentary and footnotes</change>
-         <change when="2022-09-23" who="AS" >First revision of the XML record.</change>
-         <change when="2022-08-04" who="#SM" >Creation of the XML record; metadata and leidanisation</change>
+      <revisionDesc>
+         <change when="2022-12-07" who="#SM">Comment out commentary and footnotes</change>
+         <change when="2022-09-23" who="AS">First revision of the XML record.</change>
+         <change when="2022-08-04" who="#SM">Creation of the XML record; metadata and leidanisation</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
-         <graphic url="">
+         <graphic type="" url="">
             <desc xml:lang="en"/>
             <desc xml:lang="fr"/>
          </graphic>
       </surface>
       <surface n="r">
          <desc>Reverse</desc>
-         <graphic url="">
+         <graphic type="" url="">
             <desc xml:lang="en">/desc&gt;
                       <desc xml:lang="fr"/>
             </desc>
@@ -270,58 +258,50 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"   >
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns"    xml:lang="">
-                      <ab ><!-- some text needed to be restored -->
-                       <cb n="a"/><expan ><abbr>Μή</abbr><ex >τη</ex><supplied reason="lost" ><abbr>ρ</abbr></supplied></expan>
-                        <cb n="b"/><expan ><abbr>Θ</abbr><ex >εο</ex><abbr>ῦ</abbr></expan>
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="">
+                      <ab><!-- some text needed to be restored -->
+                       <cb n="a"/><expan><abbr>Μή</abbr><ex>τη</ex><supplied reason="lost"><abbr>ρ</abbr></supplied></expan>
+                        <cb n="b"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram"    xml:lang="">
-                      <ab >
-                          <lb n="1"/><expan ><ex >Καματηρός</ex></expan>
+                  <div type="textpart" subtype="face" n="rev" rend="monogram" xml:lang="">
+                      <ab>
+                          <lb n="1"/><expan><ex>Καματηρός</ex></expan>
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"   >
-                  <div type="textpart" subtype="label" n="obv" rend="columns"    xml:lang="">
-                      <ab >
+         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+                      <ab>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear"    xml:lang="">
-                      <ab >
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                      <ab>
                       </ab>
                   </div>
               </div>
-         <div type="apparatus"   >
-            <listApp >
+         <div type="apparatus">
+            <listApp>
                <app>
-                  <note xml:lang="en" >None.</note>
-                  <note xml:lang="fr" >Aucun.</note>
+                  <note xml:lang="en">None.</note>
+                  <note xml:lang="fr">Aucun.</note>
                </app>
             </listApp>
          </div>
-         <div type="translation"   >
-            <p >Μήτηρ Θεοῦ. / Καματηρός.</p>
-            <p xml:lang="en" > Mother of God. / Kamateros.</p>
-            <p xml:lang="fr" >Mère de Dieu. / Kamatèros.</p>
+         <div type="translation">
+            <p>Μήτηρ Θεοῦ. / Καματηρός.</p>
+            <p xml:lang="en"> Mother of God. / Kamateros.</p>
+            <p xml:lang="fr">Mère de Dieu. / Kamatèros.</p>
          </div>
-         <div type="commentary"
-              subtype="text"
-              
-              
-              >
-            <p ><!--Les Kamatèroi sont bien attestés depuis la première
+         <div type="commentary" subtype="text">
+            <p><!--Les Kamatèroi sont bien attestés depuis la première
                       moitié du XIe siècle comme hauts fonctionnaires civils et obtinrent de s’allier à la famille des
                       Comnènes. Ils sont largement représentés en sigillographie. Sur les Kamatèroi de la fin du
                       XIIe siècle [1].--></p>
          </div>
-         <div type="commentary"
-              subtype="footnotes"
-              
-              
-              >
-            <p ><!--> xml:id="footnote-1">
+         <div type="commentary" subtype="footnotes">
+            <p><!--> xml:id="footnote-1">
                       [1]. Voir notamment SEIBT, <hi rend="italic">Bleisiegel</hi>, I, n° 156.-->
                   </p>
          </div>
