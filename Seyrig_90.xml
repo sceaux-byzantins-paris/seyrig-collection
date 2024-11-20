@@ -36,19 +36,19 @@
             <listPerson type="issuer">
                <person role="civil" gender="">
                   <persName xml:lang="grc">
-                     <forename>Μαρίνος/</forename>
+                     <forename>Μαρίνος</forename>
                   </persName>
                   <persName xml:lang="grc">
                      <forename>Μαριανός</forename>
                   </persName>
                   <persName xml:lang="en">
-                     <forename>Marinos/</forename>
+                     <forename>Marinos</forename>
                   </persName>
                   <persName xml:lang="en">
                      <forename>Marianos</forename>
                   </persName>
                   <persName xml:lang="fr">
-                     <forename>Marinos/</forename>
+                     <forename>Marinos</forename>
                   </persName>
                   <persName xml:lang="fr">
                      <forename>Marianos</forename>
