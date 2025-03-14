@@ -2,7 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Seal of an undetermined emperor</title>
+            <title xml:lang="en">hooktest</title>
             <title xml:lang="fr">Sceau d'un empereur non identifié</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
