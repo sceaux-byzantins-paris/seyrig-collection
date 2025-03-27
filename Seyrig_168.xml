@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Nikolaos Myrelaites (?), imperial protospatharios (?) and strategos of Archesh</seg>
-               <seg xml:lang="fr">Sceau de Nicolas Myrélaïtès ( ?), protospathaire impérial ( ?) et stratège d’Arčeš</seg>
-            </title>
+            <title xml:lang="en">Seal of Nikolaos Myrelaites (?), imperial protospatharios (?) and strategos of Archesh</title><title xml:lang="fr">Sceau de Nicolas Myrélaïtès ( ?), protospathaire impérial ( ?) et stratège d’Arčeš</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

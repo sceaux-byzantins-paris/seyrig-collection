@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John, spatharokandidatos and ek prosopou of the Hellas (?)</seg>
-               <seg xml:lang="fr">Sceau de Jean, spatharocandidat et<hi rend="italic">ek prosôpou</hi> de l’Hellade (?)</seg>
-            </title>
+            <title xml:lang="en">Seal of John, spatharokandidatos and ek prosopou of the Hellas (?)</title><title xml:lang="fr">Sceau de Jean, spatharocandidat et<hi rend="italic">ek prosôpou</hi> de l’Hellade (?)</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

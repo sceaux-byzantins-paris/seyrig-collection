@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of N., imperial spatharokandidatos and epi ton oikeiakon.</seg>
-               <seg xml:lang="fr">Sceau de N., spatharocandidat impérial et <hi rend="italic">épi ton oikeiakôn</hi>.</seg>
-            </title>
+            <title xml:lang="en">Seal of N., imperial spatharokandidatos and epi ton oikeiakon.</title><title xml:lang="fr">Sceau de N., spatharocandidat impérial et <hi rend="italic">épi ton oikeiakôn</hi>.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

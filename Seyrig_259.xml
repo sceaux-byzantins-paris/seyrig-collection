@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en"> Seal of Leo, bishop of Mylasa</seg>
-               <seg xml:lang="fr">Sceau de Léon, évêque de Mylasa</seg>
-            </title>
+            <title xml:lang="en"> Seal of Leo, bishop of Mylasa</title><title xml:lang="fr">Sceau de Léon, évêque de Mylasa</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,15 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Raymond III of Tripoli</seg>
-               <!-- Un exemplaire conservé à Malte; un autre est connu par ailleurs (d’après la Sigillographie de l’Orient latin,
-p. 60-61, n- 139-142).
-Éd. : J. DELAVILLE LE ROULX, Les sceaux des archives de l’ordre de Saint Jean de Jérusalem à Malte, Mémoires
-de la Société des Antiquaires de France, 1886, p. 230-231 ; J. YVON, Monnaies et sceaux de l’Orient latin, RN,
-1966, p. 107 et pl. III, 17 (notre ex.). -->
-               <seg xml:lang="fr">Sceau de Raymond III de Tripoli</seg>
-            </title>
+            <title xml:lang="en">Seal of Raymond III of Tripoli</title><title xml:lang="fr">Sceau de Raymond III de Tripoli</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

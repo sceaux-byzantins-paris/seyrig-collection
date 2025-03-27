@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodotos, protospatharios and strategos of Melitene</seg>
-               <seg xml:lang="fr">Sceau de Théodote, protospathaire et stratège de Mélitène</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodotos, protospatharios and strategos of Melitene</title><title xml:lang="fr">Sceau de Théodote, protospathaire et stratège de Mélitène</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

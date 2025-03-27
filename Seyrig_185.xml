@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John, spatharokandidatos, imperial notarios of the eidikon and ek prosopou of Mesembria</seg>
-               <seg xml:lang="fr">Sceau de Jean, spatharocandidat, notaire impérial de l'<hi rend="italic">eidikon</hi> et <hi rend="italic">ek prosôpou</hi> de Mésembria</seg>
-            </title>
+            <title xml:lang="en">Seal of John, spatharokandidatos, imperial notarios of the eidikon and ek prosopou of Mesembria</title><title xml:lang="fr">Sceau de Jean, spatharocandidat, notaire impérial de l'<hi rend="italic">eidikon</hi> et <hi rend="italic">ek prosôpou</hi> de Mésembria</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

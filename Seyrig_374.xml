@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en" cert="low">Seal of Timotheos (?) or Theotimos (?)</seg>
-               <seg xml:lang="fr" cert="low">Sceau de Timothée (?) ou Théotimos (?)</seg>
-            </title>
+            <title xml:lang="en" cert="low">Seal of Timotheos (?) or Theotimos (?)</title><title xml:lang="fr" cert="low">Sceau de Timothée (?) ou Théotimos (?)</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

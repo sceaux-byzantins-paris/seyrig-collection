@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Michael, anthypatos, patrikios and strategos (?) of Chaldia.</seg>
-               <seg xml:lang="fr">Sceau de Michel, <hi rend="italic">anthypatos</hi>, patrice et stratège (?) de Chaldée.</seg>
-            </title>
+            <title xml:lang="en">Seal of Michael, anthypatos, patrikios and strategos (?) of Chaldia.</title><title xml:lang="fr">Sceau de Michel, <hi rend="italic">anthypatos</hi>, patrice et stratège (?) de Chaldée.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

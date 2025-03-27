@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Basil Theodorokanos, protopsatharios and strategos</seg>
-               <seg xml:lang="fr">Sceau de Basile Théodôrokanos, protospathaire et stratège</seg>
-            </title>
+            <title xml:lang="en">Seal of Basil Theodorokanos, protopsatharios and strategos</title><title xml:lang="fr">Sceau de Basile Théodôrokanos, protospathaire et stratège</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

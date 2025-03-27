@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Andronikos, patrikios and droungarios of the ploimoi</seg>
-               <seg xml:lang="fr">Sceau d'Andronic, patrice et drongaire des <hi rend="italic">plôïmoi</hi>
-               </seg>
-            </title>
+            <title xml:lang="en">Seal of Andronikos, patrikios and droungarios of the ploimoi</title><title xml:lang="fr">Sceau d'Andronic, patrice et drongaire des <hi rend="italic">plôïmoi</hi>
+               </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Romanos Kenchres</seg>
-               <!--parallel in Fogg 1582, Shaw 1196. Inédit (inventorié dans le cat. dactyl. de la coll. Shaw par V. Laurent, n. 1327).-->
-               <seg xml:lang="fr">Sceau de Romain Kenchrès</seg>
-            </title>
+            <title xml:lang="en">Seal of Romanos Kenchres</title><title xml:lang="fr">Sceau de Romain Kenchrès</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

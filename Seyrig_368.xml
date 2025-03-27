@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Solem, son of Anastasios</seg>
-               <seg xml:lang="fr">Sceau de Solem, fils d’Anastase</seg>
-            </title>
+            <title xml:lang="en">Seal of Solem, son of Anastasios</title><title xml:lang="fr">Sceau de Solem, fils d’Anastase</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

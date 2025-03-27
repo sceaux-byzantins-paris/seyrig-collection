@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Photios Syros</seg>
-               <!-- parallel in DO.58.106.2558. -->
-               <seg xml:lang="fr">Sceau de Phôtios Syros</seg>
-            </title>
+            <title xml:lang="en">Seal of Photios Syros</title><title xml:lang="fr">Sceau de Phôtios Syros</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

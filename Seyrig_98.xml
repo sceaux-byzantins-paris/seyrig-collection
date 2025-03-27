@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Niketas, ek prosopou</seg>
-               <seg xml:lang="fr">Sceau de Nicétas, <hi rend="italic">ek prosôpou</hi>
-               </seg>
-            </title>
+            <title xml:lang="en">Seal of Niketas, ek prosopou</title><title xml:lang="fr">Sceau de Nicétas, <hi rend="italic">ek prosôpou</hi>
+               </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

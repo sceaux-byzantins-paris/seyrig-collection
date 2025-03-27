@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Maria Komnene, porphyrogenetos</seg>
-               <seg xml:lang="fr">Marie Comnène, porphyrogénète</seg>
-            </title>
+            <title xml:lang="en">Maria Komnene, porphyrogenetos</title><title xml:lang="fr">Marie Comnène, porphyrogénète</title>
             <editor role="seal-editor" xml:id="JCC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

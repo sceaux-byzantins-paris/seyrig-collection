@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of N., vestarches, judge of the Hippodromos and of the Charsianon.</seg>
-               <seg xml:lang="fr">Sceau de N., vestarque, juge de l’Hippodrome et du Charsianon.</seg>
-            </title>
+            <title xml:lang="en">Seal of N., vestarches, judge of the Hippodromos and of the Charsianon.</title><title xml:lang="fr">Sceau de N., vestarque, juge de l’Hippodrome et du Charsianon.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

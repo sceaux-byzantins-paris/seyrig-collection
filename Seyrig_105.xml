@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Sympatios, anthypatos, patrikios, imperial protospatharios impérial, logothete of the Dromos</seg>
-               <seg xml:lang="fr">Sceau de Sympatios, <hi rend="italic">anthypatos</hi>, patrice, protospathaire impérial, logothète du drome</seg>
-            </title>
+            <title xml:lang="en">Seal of Sympatios, anthypatos, patrikios, imperial protospatharios impérial, logothete of the Dromos</title><title xml:lang="fr">Sceau de Sympatios, <hi rend="italic">anthypatos</hi>, patrice, protospathaire impérial, logothète du drome</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

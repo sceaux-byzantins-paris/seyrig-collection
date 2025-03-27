@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Plotinos, kandidatos and imperial spatharios</seg>
-               <seg xml:lang="fr">Sceau de Plotin, candidat et spathaire impérial</seg>
-            </title>
+            <title xml:lang="en">Seal of Plotinos, kandidatos and imperial spatharios</title><title xml:lang="fr">Sceau de Plotin, candidat et spathaire impérial</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Leontios, bishop of Kition</seg>
-               <seg xml:lang="fr">Sceau de Léonce, évêque de Kition</seg>
-            </title>
+            <title xml:lang="en">Seal of Leontios, bishop of Kition</title><title xml:lang="fr">Sceau de Léonce, évêque de Kition</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

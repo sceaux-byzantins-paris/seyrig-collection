@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Anthimos</seg>
-               <seg xml:lang="fr">Sceau d'Anthime</seg>
-            </title>
+            <title xml:lang="en">Seal of Anthimos</title><title xml:lang="fr">Sceau d'Anthime</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

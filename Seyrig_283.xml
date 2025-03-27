@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of the convent of the Latins in Andrinople</seg>
-               <seg xml:lang="fr">Sceau du couvent des Latins à Andrinople</seg>
-            </title>
+            <title xml:lang="en">Seal of the convent of the Latins in Andrinople</title><title xml:lang="fr">Sceau du couvent des Latins à Andrinople</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

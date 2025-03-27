@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of the "Province of Thebes" (?) Thebaid.</seg>
-               <seg xml:lang="fr">Sceau de la "Province de Thèbes” (?) Thébaïde.</seg>
-            </title>
+            <title xml:lang="en">Seal of the "Province of Thebes" (?) Thebaid.</title><title xml:lang="fr">Sceau de la "Province de Thèbes” (?) Thébaïde.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Eudokimos</seg>
-               <!-- Parallel in DO 58.106.369. -->
-               <seg xml:lang="fr">Sceau d'Eudokimos</seg>
-            </title>
+            <title xml:lang="en">Seal of Eudokimos</title><title xml:lang="fr">Sceau d'Eudokimos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

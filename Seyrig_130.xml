@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John (?), spatharokandidatos and epiteretes (?) of the stratiotikon logothesion.</seg>
-               <seg xml:lang="fr">Sceau de Jean (?), spatharocandidat et <hi rend="italic">épitèrètès</hi> (?) du <hi rend="italic">stratiôtikon logothèsion</hi>.</seg>
-            </title>
+            <title xml:lang="en">Seal of John (?), spatharokandidatos and epiteretes (?) of the stratiotikon logothesion.</title><title xml:lang="fr">Sceau de Jean (?), spatharocandidat et <hi rend="italic">épitèrètès</hi> (?) du <hi rend="italic">stratiôtikon logothèsion</hi>.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Georges Manganes, <hi rend="italic">doulos</hi> of the sebastos</seg>
-               <seg xml:lang="fr">Sceau de Georges Manganès, <hi rend="italic">doulos</hi> du sébaste</seg>
-            </title>
+            <title xml:lang="en">Seal of Georges Manganes, <hi rend="italic">doulos</hi> of the sebastos</title><title xml:lang="fr">Sceau de Georges Manganès, <hi rend="italic">doulos</hi> du sébaste</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

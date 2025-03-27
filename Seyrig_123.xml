@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Symbatios, imperial kandidatos and akolouthos</seg>
-               <seg xml:lang="fr">Sceau de Symbatios, candidat impérial et <hi rend="italic">akolouthos</hi>
-               </seg>
-            </title>
+            <title xml:lang="en">Seal of Symbatios, imperial kandidatos and akolouthos</title><title xml:lang="fr">Sceau de Symbatios, candidat impérial et <hi rend="italic">akolouthos</hi>
+               </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

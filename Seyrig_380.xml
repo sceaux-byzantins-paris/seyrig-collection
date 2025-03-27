@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Bohemond of Boutron</seg>
-               <!-- Copie, selon Seyrig, qui avait vu l’original chez Roger Péreire. -->
-               <seg xml:lang="fr">Sceau de Bohémond du Boutron</seg>
-            </title>
+            <title xml:lang="en">Seal of Bohemond of Boutron</title><title xml:lang="fr">Sceau de Bohémond du Boutron</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

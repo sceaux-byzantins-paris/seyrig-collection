@@ -2,12 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John Madytenos</seg>
-               <!-- // parallel in Musée d’Istanbul n. 659; DO 55.1.3147; DO.58.106.2909.
-Éd. : ÉBERSOLT, 187 (non illustré, non décrit). -->
-               <seg xml:lang="fr">Sceau de Jean Madytènos</seg>
-            </title>
+            <title xml:lang="en">Seal of John Madytenos</title><title xml:lang="fr">Sceau de Jean Madytènos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

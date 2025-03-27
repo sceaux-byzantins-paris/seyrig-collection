@@ -2,12 +2,9 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Niketas, protospatharios, thesmographos, judge of the Hippodromos, of the Boleron, of the
-                        Strymon et of Thessaloniki</seg>
-               <seg xml:lang="fr">Sceau de Nicétas, protospathaire, thesmographe, juge de l’Hippodrome, du Boléron, du
-                        Strymon et de Thessalonique</seg>
-            </title>
+            <title xml:lang="en">Seal of Niketas, protospatharios, thesmographos, judge of the Hippodromos, of the Boleron, of the
+                        Strymon et of Thessaloniki</title><title xml:lang="fr">Sceau de Nicétas, protospathaire, thesmographe, juge de l’Hippodrome, du Boléron, du
+                        Strymon et de Thessalonique</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Basil, monk and exarch</seg>
-               <seg xml:lang="fr">Sceau de Basile, moine et exarque</seg>
-            </title>
+            <title xml:lang="en">Seal of Basil, monk and exarch</title><title xml:lang="fr">Sceau de Basile, moine et exarque</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

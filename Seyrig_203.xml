@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of N., protospatharios, chartoularios and anagrapheus</seg>
-               <seg xml:lang="fr">Sceau de N., protospathaire, chartulaire et <hi rend="italic">anagrapheus</hi>
-               </seg>
-            </title>
+            <title xml:lang="en">Seal of N., protospatharios, chartoularios and anagrapheus</title><title xml:lang="fr">Sceau de N., protospathaire, chartulaire et <hi rend="italic">anagrapheus</hi>
+               </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

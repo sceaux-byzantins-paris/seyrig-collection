@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Romanos N., protovestarches and anthypatos</seg>
-               <seg xml:lang="fr">Sceau de Romain N., protovestarque et anthypatos</seg>
-            </title>
+            <title xml:lang="en">Seal of Romanos N., protovestarches and anthypatos</title><title xml:lang="fr">Sceau de Romain N., protovestarque et anthypatos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

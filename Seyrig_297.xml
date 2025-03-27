@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodore Chomatenos</seg>
-               <!-- Parallel in Istanbul, coll. privée (d’après une note de V. Laurent).-->
-               <seg xml:lang="fr">Sceau de Théodore Chômatènos</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodore Chomatenos</title><title xml:lang="fr">Sceau de Théodore Chômatènos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

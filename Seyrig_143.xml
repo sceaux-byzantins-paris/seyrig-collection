@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Stephen, most glorious apo magistron, general logothetes and kommerkiarios of Tyre.</seg>
-               <seg xml:lang="fr">Sceau d'Étienne, très glorieux<hi rend="italic"> apo magistrôn</hi>, logothète général et commerciaire de Tyr.</seg>
-            </title>
+            <title xml:lang="en">Seal of Stephen, most glorious apo magistron, general logothetes and kommerkiarios of Tyre.</title><title xml:lang="fr">Sceau d'Étienne, très glorieux<hi rend="italic"> apo magistrôn</hi>, logothète général et commerciaire de Tyr.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Eustratios (?), symponos and nosokomos</seg>
-               <seg xml:lang="fr">Sceau d'Eustratios (?), <hi rend="italic">symponos</hi> et <hi rend="italic">nosokomos</hi>
-               </seg>
-            </title>
+            <title xml:lang="en">Seal of Eustratios (?), symponos and nosokomos</title><title xml:lang="fr">Sceau d'Eustratios (?), <hi rend="italic">symponos</hi> et <hi rend="italic">nosokomos</hi>
+               </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,12 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Naçr ibn Mousharraf</seg>
-               <!-- parallel in Éd. : L. KALUS Catalogue des cachets, bulles et talismans islamiques, Paris 1981, p. 64 ; nous corrigeons la lecture
-proposée. -->
-               <seg xml:lang="fr">Sceau de Naçr ibn Mousharraf</seg>
-            </title>
+            <title xml:lang="en">Seal of Naçr ibn Mousharraf</title><title xml:lang="fr">Sceau de Naçr ibn Mousharraf</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

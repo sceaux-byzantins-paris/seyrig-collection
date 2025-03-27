@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Basile, spatharokandidatos, asekretis and judge.</seg>
-               <seg xml:lang="fr">Sceau de Basile, spatharocandidat, <hi rend="italic">asèkrètis</hi> et juge.</seg>
-            </title>
+            <title xml:lang="en">Seal of Basile, spatharokandidatos, asekretis and judge.</title><title xml:lang="fr">Sceau de Basile, spatharocandidat, <hi rend="italic">asèkrètis</hi> et juge.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

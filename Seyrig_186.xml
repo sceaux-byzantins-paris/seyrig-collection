@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodoros N., protospatharios epi tou Chrysotriklinou and kourator of Mesopotamia</seg>
-               <seg xml:lang="fr">Sceau de Théodore N., protospathaire <hi rend="italic">épi tou Chrysotriclinou</hi> et curateur de Mésopotamie</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodoros N., protospatharios epi tou Chrysotriklinou and kourator of Mesopotamia</title><title xml:lang="fr">Sceau de Théodore N., protospathaire <hi rend="italic">épi tou Chrysotriclinou</hi> et curateur de Mésopotamie</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

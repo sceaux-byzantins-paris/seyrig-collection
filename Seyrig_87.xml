@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Basil, protospatharios, epi tou Chrysotriklinou, grand chartoularios of the genikon and protonotarios</seg>
-               <seg xml:lang="fr">Sceau de Basile, protospathaire, <hi rend="italic">épi tou Chrysotriklinou</hi>, grand chartulaire du <hi rend="italic">génikon</hi> et protonotaire</seg>
-            </title>
+            <title xml:lang="en">Seal of Basil, protospatharios, epi tou Chrysotriklinou, grand chartoularios of the genikon and protonotarios</title><title xml:lang="fr">Sceau de Basile, protospathaire, <hi rend="italic">épi tou Chrysotriklinou</hi>, grand chartulaire du <hi rend="italic">génikon</hi> et protonotaire</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

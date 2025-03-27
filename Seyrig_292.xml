@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodosios Agrites</seg>
-               <!-- Parallel in Zacos-->
-               <seg xml:lang="fr">Sceau de Théodose Agritès</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodosios Agrites</title><title xml:lang="fr">Sceau de Théodose Agritès</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

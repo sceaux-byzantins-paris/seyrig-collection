@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of 
-                        the clerks of the Holy Sepulchre</seg>
-               <seg xml:lang="fr">Sceau des clercs du Saint-Sépulcre</seg>
-            </title>
+            <title xml:lang="en">Seal of 
+                        the clerks of the Holy Sepulchre</title><title xml:lang="fr">Sceau des clercs du Saint-Sépulcre</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

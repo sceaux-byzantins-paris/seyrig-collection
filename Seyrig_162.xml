@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Isaakios Komnenos, protoproedros and doux of Antioch</seg>
-               <seg xml:lang="fr">Sceau d'Isaac Comnène, protoproèdre et duc d’Antioche</seg>
-            </title>
+            <title xml:lang="en">Seal of Isaakios Komnenos, protoproedros and doux of Antioch</title><title xml:lang="fr">Sceau d'Isaac Comnène, protoproèdre et duc d’Antioche</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

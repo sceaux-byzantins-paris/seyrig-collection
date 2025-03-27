@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John Chrysanthos</seg>
-               <seg xml:lang="fr">Sceau de Jean Chrysanthos</seg>
-            </title>
+            <title xml:lang="en">Seal of John Chrysanthos</title><title xml:lang="fr">Sceau de Jean Chrysanthos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

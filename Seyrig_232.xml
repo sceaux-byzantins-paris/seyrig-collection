@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodoros, proedros and metropolitan of Amaseia.</seg>
-               <seg xml:lang="fr">Sceau de Théodore, proèdre et métropolite d’Amasée.</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodoros, proedros and metropolitan of Amaseia.</title><title xml:lang="fr">Sceau de Théodore, proèdre et métropolite d’Amasée.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Dionysios, bishop of Seleucia Pieria.</seg>
-               <seg xml:lang="fr">Sceau de Denis, évêque de Séleucie de Piérie.</seg>
-            </title>
+            <title xml:lang="en">Seal of Dionysios, bishop of Seleucia Pieria.</title><title xml:lang="fr">Sceau de Denis, évêque de Séleucie de Piérie.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

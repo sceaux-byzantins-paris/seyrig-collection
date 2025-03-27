@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Kalos Tourmarchopoulos</seg>
-               <seg xml:lang="fr">Sceau de Kalos Tourmarchopoulos</seg>
-               <!-- normalisé par rapport au sceau et au titre dans l'éd. -->
-            </title>
+            <title xml:lang="en">Seal of Kalos Tourmarchopoulos</title><title xml:lang="fr">Sceau de Kalos Tourmarchopoulos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

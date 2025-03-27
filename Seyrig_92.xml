@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Olympios, kourator</seg>
-               <seg xml:lang="fr">Sceau d'Olympios, curateur</seg>
-            </title>
+            <title xml:lang="en">Seal of Olympios, kourator</title><title xml:lang="fr">Sceau d'Olympios, curateur</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

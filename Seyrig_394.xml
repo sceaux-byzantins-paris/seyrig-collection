@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of the fishers of men</seg>
-               <seg xml:lang="fr">Sceau des pêcheurs d’hommes</seg>
-            </title>
+            <title xml:lang="en">Seal of the fishers of men</title><title xml:lang="fr">Sceau des pêcheurs d’hommes</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

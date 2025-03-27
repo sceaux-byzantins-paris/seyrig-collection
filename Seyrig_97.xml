@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theocharistos, patrikios and oikonomos.</seg>
-               <seg xml:lang="fr">Sceau de Théochariste, patrice et économe.</seg>
-            </title>
+            <title xml:lang="en">Seal of Theocharistos, patrikios and oikonomos.</title><title xml:lang="fr">Sceau de Théochariste, patrice et économe.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

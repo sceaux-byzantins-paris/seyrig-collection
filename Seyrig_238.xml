@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John, metropolitan of Chalcedon</seg>
-               <seg xml:lang="fr">Sceau de Jean, métropolite de Chalcédoine</seg>
-            </title>
+            <title xml:lang="en">Seal of John, metropolitan of Chalcedon</title><title xml:lang="fr">Sceau de Jean, métropolite de Chalcédoine</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

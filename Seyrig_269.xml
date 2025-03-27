@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John, bishop of Stratonicea</seg>
-               <seg xml:lang="fr">Sceau de Jean, évêque de Stratonicée</seg>
-            </title>
+            <title xml:lang="en">Seal of John, bishop of Stratonicea</title><title xml:lang="fr">Sceau de Jean, évêque de Stratonicée</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

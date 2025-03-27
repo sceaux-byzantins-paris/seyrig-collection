@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title><!-- toute la titulature, peut importe que dans l'édition elle ne soit pas présente -->
-               <seg xml:lang="en">Seal of Nikephoros Antiochos (?), magistros and vestes</seg>
-               <seg xml:lang="fr">Sceau de Nicéphore Antiochos (?), magistre et vestès</seg>
-            </title>
+            <title xml:lang="en">Seal of Nikephoros Antiochos (?), magistros and vestes</title><title xml:lang="fr">Sceau de Nicéphore Antiochos (?), magistre et vestès</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Marinos, patrikios, imperial protospatharios and strategos of Thessaloniki</seg>
-               <seg xml:lang="fr">Sceau de Marinos, patrice, protospathaire impérial et stratège de Thessalonique</seg>
-            </title>
+            <title xml:lang="en">Seal of Marinos, patrikios, imperial protospatharios and strategos of Thessaloniki</title><title xml:lang="fr">Sceau de Marinos, patrice, protospathaire impérial et stratège de Thessalonique</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

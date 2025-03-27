@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Peter, archbishop of Caesarea</seg>
-               <!-- parallel in Éd. : Sigillographie de l'Orient Latin, p. 94-95, n° 59. -->
-               <seg xml:lang="fr">Sceau de Pierre, archevêque de Césarée</seg>
-            </title>
+            <title xml:lang="en">Seal of Peter, archbishop of Caesarea</title><title xml:lang="fr">Sceau de Pierre, archevêque de Césarée</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

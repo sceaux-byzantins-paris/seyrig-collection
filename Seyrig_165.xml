@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of N., imperial spatharios and chartoularios of the dromos of the Armeniakon</seg>
-               <seg xml:lang="fr">Sceau de N., spathaire impérial et chartulaire du drome des Arméniaques</seg>
-            </title>
+            <title xml:lang="en">Seal of N., imperial spatharios and chartoularios of the dromos of the Armeniakon</title><title xml:lang="fr">Sceau de N., spathaire impérial et chartulaire du drome des Arméniaques</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

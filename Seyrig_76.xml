@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Basil, hypatos, archon of the blattion and genikos kommerkiarios</seg>
-               <seg xml:lang="fr">Sceau de Basile, hypatos, archonte du blattion et génikos kommerkiarios</seg>
-            </title>
+            <title xml:lang="en">Seal of Basil, hypatos, archon of the blattion and genikos kommerkiarios</title><title xml:lang="fr">Sceau de Basile, hypatos, archonte du blattion et génikos kommerkiarios</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

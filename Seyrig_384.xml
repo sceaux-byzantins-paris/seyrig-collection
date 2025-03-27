@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Raoul, patriarch of Antioch</seg>
-               <!-- copie? -->
-               <seg xml:lang="fr">Sceau de Raoul, patriarche d’Antioche</seg>
-            </title>
+            <title xml:lang="en">Seal of Raoul, patriarch of Antioch</title><title xml:lang="fr">Sceau de Raoul, patriarche d’Antioche</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

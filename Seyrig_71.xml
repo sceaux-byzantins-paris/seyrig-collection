@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Michael Galaton, spatharokandidatos</seg>
-               <seg xml:lang="fr">Sceau de Michel Galatôn, spatharocandidat</seg>
-            </title>
+            <title xml:lang="en">Seal of Michael Galaton, spatharokandidatos</title><title xml:lang="fr">Sceau de Michel Galatôn, spatharocandidat</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

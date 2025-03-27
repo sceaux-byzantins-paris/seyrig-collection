@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodoros, koubikoularios and imperial chartoularios</seg>
-               <seg xml:lang="fr">Sceau de Théodore, cubiculaire et chartulaire impérial</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodoros, koubikoularios and imperial chartoularios</title><title xml:lang="fr">Sceau de Théodore, cubiculaire et chartulaire impérial</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

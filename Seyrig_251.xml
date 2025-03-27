@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of 
-                        Euthymios, patriarch of Jerusalem</seg>
-               <seg xml:lang="fr">Sceau d'Euthyme, patriarche de Jérusalem</seg>
-            </title>
+            <title xml:lang="en">Seal of 
+                        Euthymios, patriarch of Jerusalem</title><title xml:lang="fr">Sceau d'Euthyme, patriarche de Jérusalem</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Marinos, epi tou koitonos and pinkernes of the emperor Romanos</seg>
-               <seg xml:lang="fr">Sceau de Marinos, épi tou koitônos et pincerne de l’empereur Romain</seg>
-            </title>
+            <title xml:lang="en">Seal of Marinos, epi tou koitonos and pinkernes of the emperor Romanos</title><title xml:lang="fr">Sceau de Marinos, épi tou koitônos et pincerne de l’empereur Romain</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

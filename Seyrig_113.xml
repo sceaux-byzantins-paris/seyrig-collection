@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of N., patrikios, anthypatis and imperial notarios of the eidikon.</seg>
-               <seg xml:lang="fr">Sceau de N., patrice, anthypatos et notaire impérial de l'eidikon.</seg>
-            </title>
+            <title xml:lang="en">Seal of N., patrikios, anthypatis and imperial notarios of the eidikon.</title><title xml:lang="fr">Sceau de N., patrice, anthypatos et notaire impérial de l'eidikon.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

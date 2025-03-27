@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Tiberius</seg>
-               <seg xml:lang="fr">Sceau de Tibère</seg>
-            </title>
+            <title xml:lang="en">Seal of Tiberius</title><title xml:lang="fr">Sceau de Tibère</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

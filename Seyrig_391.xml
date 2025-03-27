@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Convent of Mount of Olives Ascension Monastery</seg>
-               <seg xml:lang="fr">Sceau de Couvent de l’Ascension au Mont des Oliviers</seg>
-            </title>
+            <title xml:lang="en">Seal of Convent of Mount of Olives Ascension Monastery</title><title xml:lang="fr">Sceau de Couvent de l’Ascension au Mont des Oliviers</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

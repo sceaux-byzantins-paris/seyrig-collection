@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodoros, imperial spatharios and protonotarios of the Boukellarioi</seg>
-               <seg xml:lang="fr">Sceau de Théodore, spathaire impérial et protonotaire des Bucellaires</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodoros, imperial spatharios and protonotarios of the Boukellarioi</title><title xml:lang="fr">Sceau de Théodore, spathaire impérial et protonotaire des Bucellaires</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

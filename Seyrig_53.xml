@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Alexios Komnenos, protoproedros</seg>
-               <seg xml:lang="fr">Sceau d'Alexis Comnène, protoproèdre</seg>
-            </title>
+            <title xml:lang="en">Seal of Alexios Komnenos, protoproedros</title><title xml:lang="fr">Sceau d'Alexis Comnène, protoproèdre</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

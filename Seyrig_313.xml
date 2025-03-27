@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Nikephoros Myron</seg>
-               <!-- parallel Fogg 1066; coll. Zacos; DO 58.106.2535. -->
-               <seg xml:lang="fr">Sceau de Nicéphore Myrôn</seg>
-            </title>
+            <title xml:lang="en">Seal of Nikephoros Myron</title><title xml:lang="fr">Sceau de Nicéphore Myrôn</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

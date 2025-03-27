@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Constantinos Iasites</seg>
-               <!-- parallel in ANS Mabbott 65; Musée d’Istanbul, fonds Diogène n. 37 (914).-->
-               <seg xml:lang="fr">Sceau de Constantin Iasitès</seg>
-            </title>
+            <title xml:lang="en">Seal of Constantinos Iasites</title><title xml:lang="fr">Sceau de Constantin Iasitès</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

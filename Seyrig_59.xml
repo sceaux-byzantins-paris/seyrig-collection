@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Nikephoros, protospatharios, son of the patrikios N.</seg>
-               <seg xml:lang="fr">Sceau de Nicéphore, protospathaire, fils du patrice N.</seg>
-            </title>
+            <title xml:lang="en">Seal of Nikephoros, protospatharios, son of the patrikios N.</title><title xml:lang="fr">Sceau de Nicéphore, protospathaire, fils du patrice N.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

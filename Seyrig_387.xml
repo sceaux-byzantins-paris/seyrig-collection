@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Renaud, bishop of Hebron</seg>
-               <seg xml:lang="fr">Sceau de Renaud, évêque d’Hébron</seg>
-            </title>
+            <title xml:lang="en">Seal of Renaud, bishop of Hebron</title><title xml:lang="fr">Sceau de Renaud, évêque d’Hébron</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

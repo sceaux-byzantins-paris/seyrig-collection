@@ -2,12 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Canons of the Holy Sepulchre</seg>
-               <!-- parallel Un ex. conservé à Malte, un autre à Munich, un troisième à Brunswick.
-Éd. : Sigillographie de l’Orient latin, p. 134-135, pl. V, 6 et 9. -->
-               <seg xml:lang="fr">Sceau de les chanoines du Saint-Sépulcre</seg>
-            </title>
+            <title xml:lang="en">Seal of Canons of the Holy Sepulchre</title><title xml:lang="fr">Sceau de les chanoines du Saint-Sépulcre</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

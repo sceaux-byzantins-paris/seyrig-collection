@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Constantine, illoustrios and chartoularios</seg>
-               <seg xml:lang="fr">Sceau de Constantin, illoustrios et chartulaire</seg>
-            </title>
+            <title xml:lang="en">Seal of Constantine, illoustrios and chartoularios</title><title xml:lang="fr">Sceau de Constantin, illoustrios et chartulaire</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

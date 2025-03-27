@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theudates, imperial spatharios and epi tes megales hetaireias</seg>
-               <seg xml:lang="fr">Sceau de Theudatès, spathaire impérial et <hi rend="italic">épi tès mégalès hétaireias</hi>
-               </seg>
-            </title>
+            <title xml:lang="en">Seal of Theudates, imperial spatharios and epi tes megales hetaireias</title><title xml:lang="fr">Sceau de Theudatès, spathaire impérial et <hi rend="italic">épi tès mégalès hétaireias</hi>
+               </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

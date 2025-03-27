@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Basil, bishop of Kibyrra</seg>
-               <seg xml:lang="fr">Sceau de Basile, évêque de Kibyrra</seg>
-            </title>
+            <title xml:lang="en">Seal of Basil, bishop of Kibyrra</title><title xml:lang="fr">Sceau de Basile, évêque de Kibyrra</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

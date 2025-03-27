@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Symbatios, protospatharios, grand chartoularios, imperial raptes and kommerkiarios of Chaldia</seg>
-               <seg xml:lang="fr">Sceau de Symbatios, protospathaire, grand chartulaire, <hi rend="italic">raptès</hi> impérial et commerciaire de
-                        Chaldée</seg>
-            </title>
+            <title xml:lang="en">Seal of Symbatios, protospatharios, grand chartoularios, imperial raptes and kommerkiarios of Chaldia</title><title xml:lang="fr">Sceau de Symbatios, protospathaire, grand chartulaire, <hi rend="italic">raptès</hi> impérial et commerciaire de
+                        Chaldée</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

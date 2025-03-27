@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodosios</seg>
-               <seg xml:lang="fr">Sceau de Théodose</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodosios</title><title xml:lang="fr">Sceau de Théodose</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

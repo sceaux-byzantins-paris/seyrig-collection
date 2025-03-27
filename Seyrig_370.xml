@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Theodore and Elpidios</seg>
-               <seg xml:lang="fr">Sceau de Théodore et Elpidios</seg>
-            </title>
+            <title xml:lang="en">Seal of Theodore and Elpidios</title><title xml:lang="fr">Sceau de Théodore et Elpidios</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

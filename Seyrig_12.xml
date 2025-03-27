@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John (?), epi tes trapezes</seg>
-               <seg xml:lang="fr">Sceau de Jean (?), épi tès trapézès</seg>
-            </title>
+            <title xml:lang="en">Seal of John (?), epi tes trapezes</title><title xml:lang="fr">Sceau de Jean (?), épi tès trapézès</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

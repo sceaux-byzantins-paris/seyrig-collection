@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of John Katotikos, patrikios, anthypatos, vestes, judge of the velum and praitor of Antioch</seg>
-               <seg xml:lang="fr">Sceau de Jean Katôtikos, patrice, <hi rend="italic">anthypatos</hi>, vestès, juge du Vélum et préteur d’Antioche</seg>
-            </title>
+            <title xml:lang="en">Seal of John Katotikos, patrikios, anthypatos, vestes, judge of the velum and praitor of Antioch</title><title xml:lang="fr">Sceau de Jean Katôtikos, patrice, <hi rend="italic">anthypatos</hi>, vestès, juge du Vélum et préteur d’Antioche</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

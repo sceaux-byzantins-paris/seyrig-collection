@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Basil Mesopotamites</seg>
-               <seg xml:lang="fr">Sceau de Basile Mésopotamitès</seg>
-            </title>
+            <title xml:lang="en">Seal of Basil Mesopotamites</title><title xml:lang="fr">Sceau de Basile Mésopotamitès</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

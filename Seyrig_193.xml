@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Christophoros Mitylenaios, protospatharios, epi tou Chrysotriklinou, judge of the Velum and of Paphlagonia</seg>
-               <seg xml:lang="fr">Sceau de Christophore Mitylènaios, protospathaire <hi rend="italic">épi tou Chrysotriklinou</hi>, juge du Vélum et
-                        de Paphlagonie</seg>
-            </title>
+            <title xml:lang="en">Seal of Christophoros Mitylenaios, protospatharios, epi tou Chrysotriklinou, judge of the Velum and of Paphlagonia</title><title xml:lang="fr">Sceau de Christophore Mitylènaios, protospathaire <hi rend="italic">épi tou Chrysotriklinou</hi>, juge du Vélum et
+                        de Paphlagonie</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of 
-                        Theodoros Tzanzes, synkellos and metropolitan of Herakleia</seg>
-               <seg xml:lang="fr">Sceau de Théodore Tzanzès, syncelle et métropolite d’Héraclée</seg>
-            </title>
+            <title xml:lang="en">Seal of 
+                        Theodoros Tzanzes, synkellos and metropolitan of Herakleia</title><title xml:lang="fr">Sceau de Théodore Tzanzès, syncelle et métropolite d’Héraclée</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

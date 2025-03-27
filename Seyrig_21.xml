@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of George, apo hypaton</seg>
-               <seg xml:lang="fr">Sceau de Georges, apo hypatôn</seg>
-            </title>
+            <title xml:lang="en">Seal of George, apo hypaton</title><title xml:lang="fr">Sceau de Georges, apo hypatôn</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

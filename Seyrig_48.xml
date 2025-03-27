@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt><!-- ici il y a une surfrappe: pour l'instant on laisse comme ceci -->
-            <title>
-               <seg xml:lang="en">Seal of John Kourkouas, anthypatos and patrikios</seg>
-               <seg xml:lang="fr">Sceau de Jean Kourkouas, anthypatos et patrice</seg>
-               <!-- pourquoi Radomir? -->
-            </title>
+            <title xml:lang="en">Seal of John Kourkouas, anthypatos and patrikios</title><title xml:lang="fr">Sceau de Jean Kourkouas, anthypatos et patrice</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

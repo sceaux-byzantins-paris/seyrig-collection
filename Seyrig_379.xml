@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Thierry of Barneville, duke of Antioche</seg>
-               <!-- Éd. : J .-Cl. CHEYNET, Le sceau de Thierry de Barneville, duc d’Antioche, RN 26, 1984, p. 223-228. -->
-               <seg xml:lang="fr">Sceau de Thierry de Barneville, duc d’Antioche</seg>
-            </title>
+            <title xml:lang="en">Seal of Thierry of Barneville, duke of Antioche</title><title xml:lang="fr">Sceau de Thierry de Barneville, duc d’Antioche</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

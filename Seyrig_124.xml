@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Adrianos, protospatharios and domestikos of the ....</seg>
-               <seg xml:lang="fr">Sceau d'Adrien, protospathaire et domestique des ....</seg>
-            </title>
+            <title xml:lang="en">Seal of Adrianos, protospatharios and domestikos of the ....</title><title xml:lang="fr">Sceau d'Adrien, protospathaire et domestique des ....</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

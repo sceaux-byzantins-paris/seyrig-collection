@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Kale Brachamina, protospatharissa and strategissa</seg>
-               <!-- previous edition in CHEYNET - VANNIER, Études, p. 61 (cet ex. ill. ; pl. III, n° 19).-->
-               <seg xml:lang="fr">Sceau de Kalè Brachamina, prôtospatharissa et stratègissa</seg>
-            </title>
+            <title xml:lang="en">Seal of Kale Brachamina, protospatharissa and strategissa</title><title xml:lang="fr">Sceau de Kalè Brachamina, prôtospatharissa et stratègissa</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

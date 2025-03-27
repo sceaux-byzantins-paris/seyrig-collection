@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Basile, bishop of Phyteia</seg>
-               <seg xml:lang="fr">Sceau de Basile, évêque de Phyteia</seg>
-            </title>
+            <title xml:lang="en">Seal of Basile, bishop of Phyteia</title><title xml:lang="fr">Sceau de Basile, évêque de Phyteia</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

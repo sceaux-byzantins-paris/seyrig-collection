@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Michael, ostiarios</seg>
-               <seg xml:lang="fr">Sceau de Michel, ostiaire</seg>
-            </title>
+            <title xml:lang="en">Seal of Michael, ostiarios</title><title xml:lang="fr">Sceau de Michel, ostiaire</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

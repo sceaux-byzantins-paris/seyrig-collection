@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Baanes, imperial protospatharios and strategos of Thrace (?)</seg>
-               <seg xml:lang="fr">Sceau de Baanès, protospathaire impérial et stratège de Thrace (?)</seg>
-            </title>
+            <title xml:lang="en">Seal of Baanes, imperial protospatharios and strategos of Thrace (?)</title><title xml:lang="fr">Sceau de Baanès, protospathaire impérial et stratège de Thrace (?)</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

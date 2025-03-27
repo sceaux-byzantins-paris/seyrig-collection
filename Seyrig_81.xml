@@ -2,13 +2,9 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of N. Argyros (?), protospatharios, grand chartoularios, judge of the Hippodrome, kensor and 
-                    oikonomos of the West (?)</seg>
-               <!-- peut-e^tre laisser megas à la place de grand: de toute façon, nous allons devoir faire tous ensemble un controlled vocabulary -->
-               <seg xml:lang="fr">Sceau de N. Argyros (?), protospathaire, grand chartulaire, juge de l’Hippodrome, censeur et
-                        économe de l’Occident ( ?)</seg>
-            </title>
+            <title xml:lang="en">Seal of N. Argyros (?), protospatharios, grand chartoularios, judge of the Hippodrome, kensor and 
+                    oikonomos of the West (?)</title><title xml:lang="fr">Sceau de N. Argyros (?), protospathaire, grand chartulaire, juge de l’Hippodrome, censeur et
+                        économe de l’Occident ( ?)</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

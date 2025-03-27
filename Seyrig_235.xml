@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Nikephoros, patriarch of Antioch and the whole Orient</seg>
-               <seg xml:lang="fr">Sceau de Nicéphore, patriarche d’Antioche et de tout l’Orient</seg>
-            </title>
+            <title xml:lang="en">Seal of Nikephoros, patriarch of Antioch and the whole Orient</title><title xml:lang="fr">Sceau de Nicéphore, patriarche d’Antioche et de tout l’Orient</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

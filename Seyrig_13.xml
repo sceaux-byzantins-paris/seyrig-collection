@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Niketas, protospatharios and epi tou koitonos</seg>
-               <seg xml:lang="fr">Sceau de Nicétas, protospathaire et épi tou koitônos</seg>
-            </title>
+            <title xml:lang="en">Seal of Niketas, protospatharios and epi tou koitonos</title><title xml:lang="fr">Sceau de Nicétas, protospathaire et épi tou koitônos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

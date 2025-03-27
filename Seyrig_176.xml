@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Michael, chrysoteles of Koloneia.</seg>
-               <seg xml:lang="fr">Sceau de Michel, <hi rend="italic">chrysotélès</hi> de Colonée.</seg>
-            </title>
+            <title xml:lang="en">Seal of Michael, chrysoteles of Koloneia.</title><title xml:lang="fr">Sceau de Michel, <hi rend="italic">chrysotélès</hi> de Colonée.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

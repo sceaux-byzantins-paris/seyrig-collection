@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of N., protospatharios, epi tou Chrysotriklinou and axiarches of Iconium</seg>
-               <seg xml:lang="fr">Sceau de N., protospathaire, <hi rend="italic">épi tou Chrysotriclinou</hi> et axiarque d’Iconium</seg>
-            </title>
+            <title xml:lang="en">Seal of N., protospatharios, epi tou Chrysotriklinou and axiarches of Iconium</title><title xml:lang="fr">Sceau de N., protospathaire, <hi rend="italic">épi tou Chrysotriclinou</hi> et axiarque d’Iconium</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

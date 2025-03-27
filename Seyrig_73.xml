@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of George, exotikos basilikos strator</seg>
-               <!-- j'ai supprimé les ? car el séditeurs sont su^rs de la lectures; c'est l'interprétation qui pose problème, mais le ? doit concerner la lecture du sceau, l'interprétation est discutée dans le commentaire -->
-               <seg xml:lang="fr">Sceau de Georges, exôtikos basilikos stratôr</seg>
-            </title>
+            <title xml:lang="en">Seal of George, exotikos basilikos strator</title><title xml:lang="fr">Sceau de Georges, exôtikos basilikos stratôr</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

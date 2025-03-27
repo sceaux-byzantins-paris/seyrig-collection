@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of the Boulloterion of the oikos of the Mangana.</seg>
-               <seg xml:lang="fr">Sceau du <hi rend="italic">Boullôtèrion</hi> de l'<hi rend="italic">oikos</hi> des Manganes.</seg>
-            </title>
+            <title xml:lang="en">Seal of the Boulloterion of the oikos of the Mangana.</title><title xml:lang="fr">Sceau du <hi rend="italic">Boullôtèrion</hi> de l'<hi rend="italic">oikos</hi> des Manganes.</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

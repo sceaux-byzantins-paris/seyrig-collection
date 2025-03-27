@@ -2,11 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Leo, imperial strator and ek prosopou</seg>
-               <seg xml:lang="fr">Sceau de Léon, <hi rend="italic">stratôr</hi> impérial et <hi rend="italic">ek prosopou</hi>
-               </seg>
-            </title>
+            <title xml:lang="en">Seal of Leo, imperial strator and ek prosopou</title><title xml:lang="fr">Sceau de Léon, <hi rend="italic">stratôr</hi> impérial et <hi rend="italic">ek prosopou</hi>
+               </title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

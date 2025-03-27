@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Kostantina Pekoulina,protospatharissa and topoteretissa of the Kibyrrhaiotai theme</seg>
-               <seg xml:lang="fr">Sceau de Kostantina Pékoulina, prôtospatharissa et topotèrètissa du thème des Cibyrrhéotes</seg>
-            </title>
+            <title xml:lang="en">Seal of Kostantina Pekoulina,protospatharissa and topoteretissa of the Kibyrrhaiotai theme</title><title xml:lang="fr">Sceau de Kostantina Pékoulina, prôtospatharissa et topotèrètissa du thème des Cibyrrhéotes</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

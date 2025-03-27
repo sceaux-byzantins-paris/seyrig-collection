@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of George Makrembolites, hypatos, judge of the Hippodrome, of the Velum and of the Anatolikon</seg>
-               <seg xml:lang="fr">Sceau de Georges Makrembolitès, <hi rend="italic">hypatos</hi>, juge de l’Hippodrome, du Vélum et des Anatoliques</seg>
-            </title>
+            <title xml:lang="en">Seal of George Makrembolites, hypatos, judge of the Hippodrome, of the Velum and of the Anatolikon</title><title xml:lang="fr">Sceau de Georges Makrembolitès, <hi rend="italic">hypatos</hi>, juge de l’Hippodrome, du Vélum et des Anatoliques</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

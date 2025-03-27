@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Constantine, patrikios, imperial protospatharios and eparch of the City</seg>
-               <seg xml:lang="fr">Sceau de Constantin, patrice, protospathaire impérial et éparque de la Ville</seg>
-            </title>
+            <title xml:lang="en">Seal of Constantine, patrikios, imperial protospatharios and eparch of the City</title><title xml:lang="fr">Sceau de Constantin, patrice, protospathaire impérial et éparque de la Ville</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

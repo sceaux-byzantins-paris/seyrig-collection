@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of the monastery of Saint Luke Steiriotes</seg>
-               <seg xml:lang="fr">Sceau du monastère de Saint Luc Steiriôtès</seg>
-            </title>
+            <title xml:lang="en">Seal of the monastery of Saint Luke Steiriotes</title><title xml:lang="fr">Sceau du monastère de Saint Luc Steiriôtès</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

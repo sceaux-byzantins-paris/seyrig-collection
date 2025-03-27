@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Peter, vicar (?)</seg>
-               <seg xml:lang="fr">Sceau de Pierre, vicaire (?)</seg>
-            </title>
+            <title xml:lang="en">Seal of Peter, vicar (?)</title><title xml:lang="fr">Sceau de Pierre, vicaire (?)</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

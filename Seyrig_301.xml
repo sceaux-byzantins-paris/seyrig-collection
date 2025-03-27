@@ -2,11 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Christodoulos Hikanatos</seg>
-               <!-- parallel in Vatican 179, Varsovie, 82; DO 55.1.4229; Ermitage; ANS Bellinger 30. Copy? Éd. : LAURENT, Vatican, 179; SZEMIOTH - WASILEWSKI 82.-->
-               <seg xml:lang="fr">Sceau de Christodule Hikanatos</seg>
-            </title>
+            <title xml:lang="en">Seal of Christodoulos Hikanatos</title><title xml:lang="fr">Sceau de Christodule Hikanatos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

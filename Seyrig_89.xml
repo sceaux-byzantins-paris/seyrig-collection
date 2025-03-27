@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Stephen, protospatharios and grand chartoularios of the genikon</seg>
-               <seg xml:lang="fr">Sceau d'Étienne, protospathaire et grand chartulaire du génikon</seg>
-            </title>
+            <title xml:lang="en">Seal of Stephen, protospatharios and grand chartoularios of the genikon</title><title xml:lang="fr">Sceau d'Étienne, protospathaire et grand chartulaire du génikon</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile

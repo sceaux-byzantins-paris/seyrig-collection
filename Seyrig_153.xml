@@ -2,10 +2,7 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title>
-               <seg xml:lang="en">Seal of Paul, chartoularios and horeiarios of Amisos</seg>
-               <seg xml:lang="fr">Sceau de Paul, chartulaire et <hi rend="italic">hôreiarios</hi> d’Amisos</seg>
-            </title>
+            <title xml:lang="en">Seal of Paul, chartoularios and horeiarios of Amisos</title><title xml:lang="fr">Sceau de Paul, chartulaire et <hi rend="italic">hôreiarios</hi> d’Amisos</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile
