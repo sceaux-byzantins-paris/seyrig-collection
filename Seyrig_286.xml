@@ -1,16 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Seal of the monastery of the Prodromos</title><title xml:lang="fr">Sceau du monastère du Prodrome</title>
+            <title xml:lang="en">Seal of the monastery of the Prodromos</title>
+            <title xml:lang="fr">Sceau du monastère du Prodrome</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile
                         Morrisson</editor>
             <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor><founder><orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+                        Seibt</editor>
+            <founder>
+               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder><principal>Alessio Sopracasa</principal>
+        </founder>
+            <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -41,7 +48,8 @@
                   <persName xml:lang="fr">
                      <forename/>
                   </persName>
-               </person><idno/>
+               </person>
+               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -70,7 +78,6 @@
                      <seg xml:lang="en">Ecclesiastical seals</seg>
                      <seg xml:lang="fr">Sceaux ecclésiastiques</seg>
                   </summary>
-                  
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -110,11 +117,13 @@
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="fr">Ronde</seg>
-                           </rs><rs type="matrix" subtype="not-surviving"><idno type="SigiDoc">m-tEafVk</idno></rs>
+                           </rs>
+                           <rs type="matrix" subtype="not-surviving">
+                              <idno type="SigiDoc">m-tEafVk</idno>
+                           </rs>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
-                  
                </physDesc>
                <history>
                   <origin>
@@ -126,7 +135,11 @@
                            <placeName>Empire byzantin</placeName>
                         </seg>
                      </origPlace>
-                     <origDate type="analysis" notBefore="0981" notAfter="1050" evidence="epigraphy titulature" cert="high">
+                     <origDate type="analysis"
+                               notBefore="0981"
+                               notAfter="1050"
+                               evidence="epigraphy titulature"
+                               cert="high">
                         <seg xml:lang="en">10th C., end-11th C., first half</seg>
                         <seg xml:lang="fr">Xe s., fin- XIe s., première moitié</seg>
                      </origDate>
@@ -142,7 +155,11 @@
                   <msContents>
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
-                     </summary><textLang n="r" mainLang="grc"><seg xml:lang="en">greek</seg><seg xml:lang="fr">grec</seg></textLang>
+                     </summary>
+                     <textLang n="r" mainLang="grc">
+                        <seg xml:lang="en">greek</seg>
+                        <seg xml:lang="fr">grec</seg>
+                     </textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -151,7 +168,6 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">18</dim>
                               </dimensions>
-                              
                               <p xml:lang="en">Iconography with legend in columns</p>
                               <p xml:lang="fr">Iconographie avec légende en colonne.</p>
                            </layout>
@@ -184,9 +200,13 @@
                   <msContents>
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
-                     </summary><textLang n="v" mainLang="grc"><seg xml:lang="en">greek
-            </seg><seg xml:lang="fr">grec
-            </seg></textLang>
+                     </summary>
+                     <textLang n="v" mainLang="grc">
+                        <seg xml:lang="en">greek
+            </seg>
+                        <seg xml:lang="fr">grec
+            </seg>
+                     </textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -195,7 +215,6 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">18</dim>
                               </dimensions>
-                              
                               <p xml:lang="en">Legend of 5 lines</p>
                               <p xml:lang="fr">Légende sur 5 lignes</p>
                            </layout>

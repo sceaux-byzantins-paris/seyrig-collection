@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of N. Argyros (?), protospatharios, grand chartoularios, judge of the Hippodrome, kensor and 
-                    oikonomos of the West (?)</title><title xml:lang="fr">Sceau de N. Argyros (?), protospathaire, grand chartulaire, juge de l’Hippodrome, censeur et
+                    oikonomos of the West (?)</title>
+            <title xml:lang="fr">Sceau de N. Argyros (?), protospathaire, grand chartulaire, juge de l’Hippodrome, censeur et
                         économe de l’Occident ( ?)</title>
             <editor role="seal-editor" xml:id="JC">Jean-Claude
                         Cheynet</editor>
             <editor role="seal-editor" xml:id="CM">Cécile
                         Morrisson</editor>
             <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor><founder><orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+                        Seibt</editor>
+            <founder>
+               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder><principal>Alessio Sopracasa</principal>
+        </founder>
+            <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -46,7 +53,8 @@
                      <forename>N.</forename>
                      <surname>Argyros</surname>
                   </persName>
-               </person><idno/>
+               </person>
+               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -75,7 +83,6 @@
                      <seg xml:lang="en">Central administration</seg>
                      <seg xml:lang="fr">Administration centrale</seg>
                   </summary>
-                  
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -114,11 +121,13 @@
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="fr">Ronde</seg>
-                           </rs><rs type="matrix" subtype="not-surviving"><idno type="SigiDoc">m-i0TsqP</idno></rs>
+                           </rs>
+                           <rs type="matrix" subtype="not-surviving">
+                              <idno type="SigiDoc">m-i0TsqP</idno>
+                           </rs>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
-                  
                </physDesc>
                <history>
                   <origin>
@@ -130,7 +139,11 @@
                            <placeName>Empire byzantin</placeName>
                         </seg>
                      </origPlace>
-                     <origDate type="analysis" notBefore="1030" notAfter="1070" evidence="prosopography epigraphy titulature" cert="high">
+                     <origDate type="analysis"
+                               notBefore="1030"
+                               notAfter="1070"
+                               evidence="prosopography epigraphy titulature"
+                               cert="high">
                         <seg xml:lang="en">11th C., second third</seg>
                         <seg xml:lang="fr">XIe s., deuxième tiers</seg>
                      </origDate>
@@ -146,7 +159,11 @@
                   <msContents>
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
-                     </summary><textLang n="r" mainLang="grc"><seg xml:lang="en">greek</seg><seg xml:lang="fr">grec</seg></textLang>
+                     </summary>
+                     <textLang n="r" mainLang="grc">
+                        <seg xml:lang="en">greek</seg>
+                        <seg xml:lang="fr">grec</seg>
+                     </textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -155,7 +172,6 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="fr">Iconographie</p>
                            </layout>
@@ -187,9 +203,13 @@
                   <msContents>
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
-                     </summary><textLang n="v" mainLang="grc"><seg xml:lang="en">greek
-            </seg><seg xml:lang="fr">grec
-            </seg></textLang>
+                     </summary>
+                     <textLang n="v" mainLang="grc">
+                        <seg xml:lang="en">greek
+            </seg>
+                        <seg xml:lang="fr">grec
+            </seg>
+                     </textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -198,7 +218,6 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              
                               <p xml:lang="en">Legend of 7 lines</p>
                               <p xml:lang="fr">Légende sur 7 lignes</p>
                            </layout>
