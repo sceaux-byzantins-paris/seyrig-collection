@@ -7,16 +7,16 @@
          <titleStmt>
             <title xml:lang="en">Seal of an undetermined emperor</title>
             <title xml:lang="fr">Sceau d'un empereur non identifié</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude
                         Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile
                         Morrisson</editor>
             <editor role="seal-editor" xml:id="WS">Werner
                         Seibt</editor>
-            <founder>
+            <funder>
                <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
@@ -26,11 +26,12 @@
             </edition>
             <editor role="digital-editor" xml:id="NB">Numa
                         Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt><!--<idno type="SigiDocID">39</idno>--><!--<idno type="sequence">0014</idno>-->
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_1</idno>
-            <!--<idno type="SigiDocID">39</idno>-->
+            <idno type="SigiDocID">s-2pJdfn</idno>
             <!--<idno type="sequence">0014</idno>-->
             <date when="2022-06-07"/>
             <availability>
@@ -38,22 +39,24 @@
                         Commons Attributions-NonCommercial-ShareAlike 4.0 International
                         License.</licence>
             </availability>
-            <idno type="SigiDocID">s-2pJdfn</idno>
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="imperial" gender="">
+               <person role="imperial" gender="M">
                   <persName xml:lang="grc">
-                     <forename/>
+                     <forename>N.</forename>
+                     <surname>N.</surname>
                   </persName>
                   <persName xml:lang="en">
-                     <forename/>
+                     <forename>N.</forename>
+                     <surname>N.</surname>
                   </persName>
                   <persName xml:lang="fr">
-                     <forename/>
+                     <forename>N.</forename>
+                     <surname>N.</surname>
                   </persName>
                </person>
-               <idno/>
+               <!--<idno/>-->
             </listPerson>
             <msDesc status="draft">
                <msIdentifier>
@@ -68,8 +71,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">808</idno>
                   <altIdentifier xml:lang="en">
@@ -79,8 +82,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Imperial seals</seg>
-                     <seg xml:lang="fr">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial</seg>
+                     <seg xml:lang="fr">Impériale</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -88,10 +91,17 @@
                      <supportDesc>
                         <support>
                            <objectType>
-                              <term/>
-                              <interp type="workType">Original impression</interp>
+                              <term>
+                                 <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="fr">Sceau</seg>
+                              </term>
+                              <interp type="workType" xml:lang="en">Original impression</interp>
+                              <interp type="workType" xml:lang="fr">Empreinte originale</interp>
                            </objectType>
-                           <material/>
+                           <material>
+                              <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="fr">Plomb</seg>
+                           </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22-16</dim>
                            </dimensions>
@@ -100,13 +110,18 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="clipped"><!-- clipped????? -->
+                        <condition rend="chipped deformed-blank obliterated">
                            <p xml:lang="en">Uniface. Cloth impression on reverse; indented at top and bottom at channel openings.</p>
                            <p xml:lang="fr">Uniface. Empreinte de tissu au revers; échancré en haut et en bas aux orifices du canal.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
+                           <rs type="execution"><seg xml:lang="en">Struck</seg><seg xml:lang="fr">Frappé</seg></rs>
+                           <rs type="shape"><seg xml:lang="en">Round</seg><seg xml:lang="fr">Ronde</seg></rs>
+                           <rs type="matrix" subtype="not-surviving">
+                              <idno type="SigiDoc"><!--WICHTIG--></idno>
+                           </rs>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
@@ -119,8 +134,8 @@
                                notAfter="0540"
                                evidence=" iconography"
                                cert="medium">
-                        <seg xml:lang="en">From 470 to 540</seg>
-                        <seg xml:lang="fr">De 470 à 540</seg>
+                        <seg xml:lang="en">470-540</seg>
+                        <seg xml:lang="fr">470-540</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered">
@@ -141,17 +156,12 @@
                                 xml:lang="ara">صور (Ṣūr)</placeName>
                      <!-- vérifier graphie -->
                   </provenance>
-                  <provenance type="found" subtype="discovered" xml:lang="en">
-                     <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678437">Tyre</placeName>
-                     <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html">Ṣūr</placeName>
-                     <!-- vérifier graphie -->
-                  </provenance>
                   <acquisition>
                      <p xml:lang="en">donation by Henri Seyrig</p>
                      <p xml:lang="fr">don d'Henri Seyrig</p>
                   </acquisition>
                </history>
-               <msPart n="r"> <!--here begins the observe-->
+               <msPart n="r"> <!--here begins the obverse-->
                   <msIdentifier>
                         </msIdentifier>
                   <msContents>
@@ -159,8 +169,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -170,8 +180,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="fr"/>
+                              <p xml:lang="en">Iconography</p>
+                              <p xml:lang="fr">Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -182,9 +192,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r" xml:lang="en">The emperor, wearing a cuirass, a short tunic and the paludamentum, holding in his right hand a haste (perhaps the labarum?) 
+                              <figDesc ana="male person emperor standing cruciger-globe labarum" n="r" xml:lang="en">The emperor, wearing a cuirass, a short tunic and the paludamentum, holding in his right hand a haste (perhaps the labarum?) 
                                             and in his left hand a cruciger globe, standing face.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="fr">L’empereur, portant la cuirasse, une courte tunique et le paludamentum, tenant en main
+                              <figDesc ana="male person emperor standing cruciger-globe labarum" n="r" xml:lang="fr">L’empereur, portant la cuirasse, une courte tunique et le paludamentum, tenant en main
                                             droite une haste (peut-être le labarum ?) et en main gauche un globe crucigère, debout de
                                             face.</figDesc>
                               <figDesc n="decoR" xml:lang="en"/>
@@ -207,9 +217,9 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
+                        <seg xml:lang="en">Greek
             </seg>
-                        <seg xml:lang="fr">grec
+                        <seg xml:lang="fr">Grec
             </seg>
                      </textLang>
                   </msContents>
@@ -220,8 +230,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="fr"/>
+                              <p xml:lang="en">Undetermined / Empty.</p>
+                              <p xml:lang="fr">Indéterminé / Vide.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,9 +242,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
+                              <!--<figDesc ana="" n="v"/>
                               <figDesc n="decoV" xml:lang="en"/>
-                              <figDesc n="decoV" xml:lang="fr"/>
+                              <figDesc n="decoV" xml:lang="fr"/>-->
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -254,29 +264,37 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc status="draft">
+         <change when="2026-07-01" who="#PE">Review and Update of the record according to the newest SigiDoc standards.</change>
          <change when="2022-06-13" who="#AS">First revision of the XML record.</change>
          <change when="2022-06-07" who="#NB">Creation of the XML record. </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="XXX" scale="1.5">
-            <desc xml:lang="en"/>
-            <desc xml:lang="de"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="XXX" scale="1.5">
-            <desc xml:lang="en"/>
-            <desc xml:lang="de"/>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig1_1.jpg" scale="1.5"><!--scale???-->
+               <desc xml:lang="en">Seyrig 1 (Inv. 808), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 1 (Inv. 808), avers.</desc>
+            </graphic>
+         </surface>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig1_2.jpg" scale="1.5">
+               <desc xml:lang="en">Seyrig 1 (Inv. 808), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 1 (Inv. 808), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition"/>
+         <!--<div type="edition" subtype="editorial" xml:space="preserve">
+         <div type="textpart" subtype="label" rend="columns" n="obv" xml:lang="grc"/>
+         <div type="textpart" subtype="label" rend="columns" n="rev" xml:lang="grc"/></div>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+         <div type="textpart" subtype="label" rend="columns" n="obv" xml:lang="grc"/>
+         <div type="textpart" subtype="label" rend="columns" n="rev" xml:lang="grc"/></div>-->
          <div type="apparatus">
             <listApp>
                <app>
@@ -301,7 +319,7 @@
                         impériale et ont la même provenance (rivage de Tyr).</p>
             <!--vous avez eu raison de mettre le commentaire aussi: on peut continuer de cette manière; il faut penser à créer une liste bibliographique avec les références données dans les commentaires; après, je penserai à les ajouter à la liste bibliographique de EFES-->
          </div>
-         <div type="bibliography" subtype="edition"/>
+         <div type="bibliography" subtype="edition"><p><bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">21</citedRange>, no. <citedRange unit="entry">1</citedRange></bibl>.</p></div>
          <div type="bibliography" subtype="parallels"/>
       </body>
    </text>
