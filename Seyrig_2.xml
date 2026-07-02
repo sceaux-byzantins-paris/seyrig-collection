@@ -7,16 +7,16 @@
          <titleStmt>
             <title xml:lang="en">Seal of the emperor Justinian I</title>
             <title xml:lang="fr">Sceau de l'empereur Justinien Ier </title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude
                         Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile
                         Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner
                         Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
-            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
@@ -24,14 +24,15 @@
                <seg xml:lang="en">Digital enhancement</seg>
                <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa
                         Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
-         <publicationStmt><!--<idno type="SigiDocID">39</idno>-->
+         <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_2</idno>
-            <!--<idno type="SigiDocID">39</idno>-->
-            <idno type="sequence"/>
+            <idno type="SigiDocID">s-A6t1Z4</idno>
+            <!--<idno type="sequence"></idno>-->
             <date when="2022-06-07"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
@@ -42,7 +43,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="imperial" gender="">
+               <person role="imperial" gender="M">
                   <persName xml:lang="la">
                      <forename>Iustinianus</forename>
                   </persName>
@@ -55,7 +56,7 @@
                      <surname>Ier</surname>
                   </persName>
                </person>
-               <idno/>
+               <!--<idno/>-->
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -70,8 +71,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">949</idno>
                   <altIdentifier xml:lang="en">
@@ -81,8 +82,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Imperial seals</seg>
-                     <seg xml:lang="fr">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial</seg>
+                     <seg xml:lang="fr">Impériale</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -95,8 +96,7 @@
                                  <seg xml:lang="fr">Sceau</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original impression</interp>
-                              <interp type="workType" xml:lang="fr">Empreinte
-                                            originale</interp>
+                              <interp type="workType" xml:lang="fr">Empreinte originale</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
@@ -108,9 +108,9 @@
                            <measure type="weight" unit="g"/>
                            <measure type="axis" unit="clock"/>
                            <measure type="overstrikeOrient" unit="clock"/>
-                           <measure type="channelOrient" unit="clock"/>12-6<!-- à vérifier -->
+                           <measure type="channelOrient" unit="clock">12-6</measure>
                                 </support>
-                        <condition rend="wornEdge">
+                        <condition rend="chipped torn-channel well-preserved">
                            <p xml:lang="en">Trimmed; heavily indented on the right and at the channel openings; notched on the reverse side over most of the channel.</p>
                            <p xml:lang="fr">Rogné; fortement échancré à droite et aux orifices du canal; entaillé au revers sur la plus grande partie du
                                         canal.</p>
@@ -122,7 +122,10 @@
                               <seg xml:lang="en">Struck</seg>
                               <seg xml:lang="fr">Frappé</seg>
                            </rs>
-                           <rs type="shape"/>
+                           <rs type="shape">
+                              <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="fr">Ronde</seg>
+                           </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-qOLyGh</idno>
                            </rs>
@@ -133,21 +136,14 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0527"
                                notAfter="0565"
-                               evidence=" reign titulature iconography prosopography parallel"
+                               evidence="reign titulature iconography prosopography parallel"
                                cert="high">
                         <seg xml:lang="en">527-565</seg>
-                        <!-- il suffit de l'écrire une seule fois, car ici on a que des chiffres, mais il faut alors dupprimer le xml:lang -->
+                        <seg xml:lang="fr">527-565</seg>
                      </origDate>
                   </origin>
                   <acquisition>
@@ -162,9 +158,9 @@
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
-                     <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                     <textLang n="r" mainLang="la">
+                        <seg xml:lang="en">Latin</seg>
+                        <seg xml:lang="fr">Latin</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -186,8 +182,8 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r" xml:lang="en">Bust of the emperor, beardless, nimbed and diademed, wearing the chlamys.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="fr">Buste de l’empereur, imberbe, nimbé et diadémé, vêtu de la chlamyde.</figDesc>
+                              <figDesc ana="male person emperor Justinian-I bust" n="r" xml:lang="en">Bust of the emperor, beardless, nimbed and diademed, wearing the chlamys.</figDesc>
+                              <figDesc ana="male person emperor Justinian-I bust" n="r" xml:lang="fr">Buste de l’empereur, imberbe, nimbé et diadémé, vêtu de la chlamyde.</figDesc>
                               <figDesc n="decoR" xml:lang="en"/>
                               <figDesc n="decoR" xml:lang="fr"/>
                            </figure>
@@ -207,11 +203,9 @@
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
-                     <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                     <textLang n="v" mainLang="la">
+                        <seg xml:lang="en">Latin</seg>
+                        <seg xml:lang="fr">Latin</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -221,10 +215,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <!-- à ne pas utiliser avec l'iconographie -->
-                              <p xml:lang="fr"/>
-                              <!-- à ne pas utiliser avec l'iconographie -->
+                              <p xml:lang="en">Iconography</p>
+                              <p xml:lang="fr">Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -235,10 +227,10 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v" xml:lang="en">Winged victory advancing from the front holding a crown in each hand. In
-                                            the field, on either side, a cross</figDesc>
-                              <figDesc ana="" n="v" xml:lang="fr">Victoire ailée avançant de face tenant en chaque main une couronne. Dans
-                                            le champ, de part et d’autre, une croix</figDesc>
+                              <figDesc ana="female person standing crosslet" n="v" xml:lang="en">Winged victory advancing from the front holding a crown in each hand. In
+                                            the field, on either side, a cross.</figDesc>
+                              <figDesc ana="female person standing crosslet" n="v" xml:lang="fr">Victoire ailée avançant de face tenant en chaque main une couronne. Dans
+                                            le champ, de part et d’autre, une croix.</figDesc><!--Add victory in iconographic tags?-->
                               <figDesc n="decoV" xml:lang="en"/>
                               <figDesc n="decoV" xml:lang="fr"/>
                            </figure>
@@ -260,6 +252,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-02" who="#PE">Review and update of record</change>
          <change when="2022-10-18" who="#NB">Bibliography added</change>
          <change when="2022-06-13" who="#AS">First revision of the XML record</change>
          <change when="2022-06-07" who="#NB">Creation of the XML record</change>
@@ -268,22 +261,23 @@
    <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang=""/>
+         <graphic type="photo" url="Seyrig2_1.jpg" scale="1.5"><!--scale???-->
+            <desc xml:lang="en">Seyrig 2 (Inv. 949), obverse.</desc>
+            <desc xml:lang="fr">Seyrig 2 (Inv. 949), avers.</desc>
          </graphic>
       </surface>
-      <surface n="r">
+      <surface n="v">
          <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
+         <graphic type="photo" url="Seyrig2_2.jpg" scale="1.5">
+            <desc xml:lang="en">Seyrig 2 (Inv. 949), reverse.</desc>
+            <desc xml:lang="fr">Seyrig 2 (Inv. 949), revers.</desc>
          </graphic>
       </surface>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la">
-                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="circular" xml:lang="la"><!--How to tag the "office" dominus?-->
                       <ab>  
                           <lb n="1"/><expan><abbr>D</abbr><ex>ominus</ex></expan> <expan><abbr>n</abbr><ex>oster</ex></expan> Iustinianus <expan><abbr>p</abbr><ex>er</ex><abbr>p</abbr><ex>etuus</ex></expan> <expan><abbr>Aug</abbr><ex>ustus</ex></expan>.
                       </ab>
@@ -292,14 +286,12 @@
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la">
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="">
                       <ab>
-                          <!-- édition à ajouter ! -->
+                          <lb n="1"/><cb n="a"/>Dnivstini<cb n="b" break="no"/>anvṣ.....
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
-                          
-                      </ab>
-                  </div>
+                  <!--<div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                      <ab/>
+                  </div>-->
               </div>
          <div type="apparatus">
             <listApp>
@@ -316,31 +308,17 @@
          <div type="translation">
             <p>Dominus noster Iustinianus perpetuus Augustus.</p>
             <p xml:lang="en">Our lord Justinian, eternal Augustus.</p>
-            <p xml:lang="fr">Notre Seigneur Justinien, Auguste perpétuel</p>
+            <p xml:lang="fr">Notre Seigneur Justinien, Auguste perpétuel.</p>
          </div>
          <div type="commentary" subtype="text">
             <p/>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                Biliothèque Nationale de France, Paris,
-                <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>2</citedRange>
-               </bibl>.
-            </p>
+            <p><bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">21</citedRange>, no. <citedRange unit="entry">2</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-           Dumbarton Oaks, Washington D.C.,
-                    <bibl>
-                  <ptr target="Zacos1"/>, <citedRange>3a et b</citedRange>
-               </bibl>;
-                </p>
-            <p>
-                Münzkabinett des Kunsthistorischen Museums, Vienne,
-                <bibl>
-                  <ptr target="BBÖ1"/>, <citedRange>6</citedRange>
-               </bibl>.
+            <p><bibl><ptr target="Zacos1"/>, p. <citedRange unit="page">7-8</citedRange>, no. <citedRange unit="entry">3a et b</citedRange></bibl>; Kunsthistorisches Museum Wien MK1 –
+               <bibl><ptr target="BBÖ1"/>, p. <citedRange unit="page">58-59</citedRange>, no. <citedRange unit="entry">6</citedRange></bibl>.
             </p>
          </div>
       </body>

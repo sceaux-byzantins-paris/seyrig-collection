@@ -11,11 +11,11 @@
                         Cheynet</editor>
             <editor role="seal-editor" when="2019" xml:id="CM">Cécile
                         Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner
                         Seibt</editor>
             <funder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
-            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.
         </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
@@ -24,11 +24,11 @@
                <seg xml:lang="en">Digital enhancement</seg>
                <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa
                         Buchs</editor>
             <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
-         <publicationStmt><!--<idno type="SigiDocID">39</idno>--><!--<idno type="sequence">0014</idno>-->
+         <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_1</idno>
             <idno type="SigiDocID">s-2pJdfn</idno>
@@ -58,7 +58,7 @@
                </person>
                <!--<idno/>-->
             </listPerson>
-            <msDesc status="draft">
+            <msDesc>
                <msIdentifier>
                   <country>
                      <seg xml:lang="en">France</seg>
@@ -120,7 +120,7 @@
                            <rs type="execution"><seg xml:lang="en">Struck</seg><seg xml:lang="fr">Frappé</seg></rs>
                            <rs type="shape"><seg xml:lang="en">Round</seg><seg xml:lang="fr">Ronde</seg></rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc"><!--WICHTIG--></idno>
+                              <idno type="SigiDoc">m-bsRJcy</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -263,7 +263,7 @@
             <p/>
          </editorialDecl>
       </encodingDesc>
-      <revisionDesc status="draft">
+      <revisionDesc>
          <change when="2026-07-01" who="#PE">Review and Update of the record according to the newest SigiDoc standards.</change>
          <change when="2022-06-13" who="#AS">First revision of the XML record.</change>
          <change when="2022-06-07" who="#NB">Creation of the XML record. </change>
