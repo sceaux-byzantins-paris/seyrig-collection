@@ -7,16 +7,16 @@
          <titleStmt>
             <title xml:lang="en">Seal of the emperor Maurice</title>
             <title xml:lang="fr">Sceau de l'empereur Maurice</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude
+               Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile
+               Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner
+               Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
@@ -24,25 +24,25 @@
                <seg xml:lang="en">Digital enhancement</seg>
                <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa
+               Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
-         <publicationStmt><!--<idno type="SigiDocID">39</idno>-->
+         <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_3</idno>
-            <!--<idno type="SigiDocID">39</idno>-->
-            <idno type="sequence"/>
+            <idno type="SigiDocID">s-CPAy7A</idno>
+            <!--<idno type="sequence"/>-->
             <date when="2022-06-07"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
                         Commons Attributions-NonCommercial-ShareAlike 4.0 International
                         License.</licence>
             </availability>
-            <idno type="SigiDocID">s-QBYgob</idno>
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="imperial" gender="">
+               <person role="imperial" gender="M">
                   <persName xml:lang="la">
                      <forename>Tiberius</forename>
                      <surname>Mauricius</surname>
@@ -54,7 +54,7 @@
                      <forename>Maurice</forename>
                   </persName>
                </person>
-               <idno/>
+               <!--<idno/>-->
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -69,8 +69,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">950</idno>
                   <altIdentifier xml:lang="en">
@@ -80,8 +80,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Imperial seals</seg>
-                     <seg xml:lang="fr">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial</seg>
+                     <seg xml:lang="fr">Impériale</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -108,9 +108,9 @@
                            <measure type="weight" unit="g"/>
                            <measure type="axis" unit="clock"/>
                            <measure type="overstrikeOrient" unit="clock"/>
-                           <measure type="channelOrient" unit="clock"/>
+                           <measure type="channelOrient" unit="clock">6-12</measure>
                         </support>
-                        <condition rend="wornEdge">
+                        <condition rend="chipped">
                            <p xml:lang="en">Trimmed, worn; strongly indented at the lower orifice of the canal.</p>
                            <p xml:lang="fr">Rogné, usé; fortement échancré à l’orifice inferieur du canal.</p>
                         </condition>
@@ -138,16 +138,14 @@
                                evidence=" iconography epigraphy prosopography parallel"
                                cert="high">
                         <seg xml:lang="en">582-583</seg>
+                        <seg xml:lang="fr">582-583</seg>
                      </origDate>
                   </origin>
-                  <provenance type="found" subtype="discovered" xml:lang="fr">
-                     <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678437">Tyre</placeName>
-                     <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html">Ṣūr</placeName>
-                     <!-- vérifier graphie -->
-                  </provenance>
-                  <provenance type="found" subtype="discovered" xml:lang="en">
-                     <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678437">Tyre</placeName>
-                     <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html">Ṣūr</placeName>
+                  <provenance type="found" subtype="discovered">
+                     <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678437" xml:lang="fr">Tyr</placeName>
+                     <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678437" xml:lang="en">Tyre</placeName>
+                     <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html" xml:lang="fr">Ṣūr</placeName>
+                     <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html" xml:lang="en">Ṣūr</placeName>
                      <!-- vérifier graphie -->
                   </provenance>
                   <acquisition>
@@ -162,9 +160,9 @@
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
-                     <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                     <textLang n="r" mainLang="la">
+                        <seg xml:lang="en">Latin</seg>
+                        <seg xml:lang="fr">Latin</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -174,8 +172,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="fr"/>
+                              <p xml:lang="en">Iconography</p>
+                              <p xml:lang="fr">Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -186,9 +184,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r" xml:lang="en">The Virgin, standing, holding the Child whose head is surrounded by a vast nimbus.
+                              <figDesc ana="female person Virgin standing child crosslet" n="r" xml:lang="en">The Virgin, standing, holding the Child whose head is surrounded by a vast nimbus.
                                             In the field, on either side, a cross.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="fr">La Vierge, debout, tenant l’Enfant dont la tête est entourée d’un vaste nimbe.
+                              <figDesc ana="female person Virgin standing child crosslet" n="r" xml:lang="fr">La Vierge, debout, tenant l’Enfant dont la tête est entourée d’un vaste nimbe.
                                             Dans le champ, de part et d’autre, une croix.</figDesc>
                               <figDesc n="decoR" xml:lang="en"/>
                               <figDesc n="decoR" xml:lang="fr"/>
@@ -209,11 +207,9 @@
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
-                     <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                     <textLang n="v" mainLang="la">
+                        <seg xml:lang="en">Latin</seg>
+                        <seg xml:lang="fr">Latin</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -223,8 +219,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="fr">Buste de face de l’empereur diadémé, vêtu de la chlamyde.</p>
+                              <p xml:lang="en">Iconography with circular legend.</p>
+                              <p xml:lang="fr">Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -235,8 +231,8 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v" xml:lang="en">Frontal bust of the diademed emperor, wearing the chlamys</figDesc>
-                              <figDesc ana="" n="v" xml:lang="fr">Buste de face de l’empereur diadémé, vêtu de la chlamyde.</figDesc>
+                              <figDesc ana="male person emperor Maurice bust" n="v" xml:lang="en">Frontal bust of the diademed emperor, wearing the chlamys</figDesc>
+                              <figDesc ana="male person emperor Maurice bust" n="v" xml:lang="fr">Buste de face de l’empereur diadémé, vêtu de la chlamyde.</figDesc>
                               <figDesc n="decoV" xml:lang="en"/>
                               <figDesc n="decoV" xml:lang="fr"/>
                            </figure>
@@ -258,6 +254,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-02" who="#PE">Review and update of the record</change>
          <change when="2022-10-18" who="#NB">Bibliography added</change>
          <change when="2022-06-13" who="#AS">First revision of the XML record.</change>
          <change when="2022-06-07" who="#NB">Creation of the XML record</change>
@@ -266,33 +263,32 @@
    <facsimile>
       <surface n="v">
          <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang=""/>
+         <graphic type="photo" url="Seyrig3_1.jpg" scale="1.5"><!--scale???-->
+            <desc xml:lang="en">Seyrig 3 (Inv. 950), obverse.</desc>
+            <desc xml:lang="fr">Seyrig 3 (Inv. 950), avers.</desc>
          </graphic>
       </surface>
-      <surface n="r">
+      <surface n="v">
          <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
+         <graphic type="photo" url="Seyrig3_2.jpg" scale="1.5">
+            <desc xml:lang="en">Seyrig 3 (Inv. 950), reverse.</desc>
+            <desc xml:lang="fr">Seyrig 3 (Inv. 950), revers.</desc>
          </graphic>
       </surface>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la">
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="rev" rend="circular" xml:lang="la">
                       <ab>  
-                          <lb n="1"/> <expan><abbr>D</abbr><ex>ominus</ex></expan> <expan><abbr>n</abbr><ex>oster</ex></expan> <expan><abbr>Tiber</abbr><ex>ius</ex></expan> <expan><abbr>M<supplied reason="lost">aur</supplied></abbr><supplied reason="lost"><ex>icius</ex></supplied></expan> <supplied reason="lost"><expan><abbr>p</abbr><ex>er</ex><abbr>p</abbr><ex>etuus</ex></expan></supplied> <supplied reason="lost"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied>
-                      </ab><!-- attention à éliminer les symboles d'édition, comme les crochets, une fois écrit le code xml qui les concerne  -->
+                          <lb n="1"/><expan><abbr>D</abbr><ex>ominus</ex></expan> <expan><abbr>n</abbr><ex>oster</ex></expan> <expan><abbr>Tiber</abbr><ex>ius</ex></expan> <expan><abbr>M<supplied reason="lost">aur</supplied></abbr><supplied reason="lost"><ex>icius</ex></supplied></expan> <supplied reason="lost"><expan><abbr>p</abbr><ex>er</ex><abbr>p</abbr><ex>etuus</ex></expan></supplied> <supplied reason="lost"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied>
+                      </ab>
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la">
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="">
-                      <ab/>
-                  </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab/>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="rev" rend="circular" xml:lang="la">
+                      <ab><lb n="1"/>DNTIER........
+                      </ab>
                   </div>
               </div>
          <div type="apparatus">
@@ -310,47 +306,34 @@
          <div type="translation">
             <p>Dominus noster Tiberius Mauricius, perpetuus Augustus.</p>
             <p xml:lang="en">Our lord Tiberius Maurice, eternal Augustus.</p>
-            <p xml:lang="fr">Notre Seigneur Tibère Maurice, Auguste perpétuel</p>
+            <p xml:lang="fr">Notre Seigneur Tibère Maurice, Auguste perpétuel.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p><!--C’est du règne de Maurice que date le remplacement de la victoire par la Vierge
+            <p>C’est du règne de Maurice que date le remplacement de la victoire par la Vierge
 sur les sceaux impériaux. La légende du revers avec le nom de Tibère placé en premier date
 ce sceau, par analogie avec les émissions de bronze de la première année du règne [1]. Il ne semble pas en revanche qu’il faille reconnaître la distinction
 paléographique proposée par cet auteur entre le M de ce type et le  des types suivants
 du régne. Notre exemplaire, de même à notre avis que celui publié par W. Seibt, présente
-en effet déjà le  oncial des autres sceaux du règne.--></p>
+en effet déjà le  oncial des autres sceaux du règne.</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">
                     [1]. <bibl>
-                  <ptr target="BBÖ1"/>, <citedRange unit="page">p. 62-63</citedRange>
+                  <ptr target="BBÖ1"/>, p. <citedRange unit="page">62-63</citedRange>
                </bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                    Biliothèque Nationale de France, Paris,
-                    <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>3</citedRange>
-               </bibl>.
+            <p><bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">22</citedRange>, no. <citedRange unit="entry">3</citedRange></bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-                    Dumbarton Oaks, Washington D.C.,
-                    <bibl>
-                  <ptr target="Zacos1"/>, <citedRange>7a et b</citedRange>
-               </bibl>; 
-                </p>
-            <p>
-                    Münzkabinett des Kunsthistorischen Museums, Vienne,
-                    <bibl>
-                  <ptr target="BBÖ1"/>, <citedRange>9a</citedRange>
+            <p><bibl><ptr target="Zacos1"/>, p. <citedRange unit="page">10</citedRange>, no. <citedRange unit="entry">7a et b</citedRange></bibl>; 
+               Kunsthistorisches Museum Wien MK3 et MK4 – <bibl><ptr target="BBÖ1"/>, p. <citedRange unit="page">63-65</citedRange>, no. <citedRange unit="entry">9a</citedRange>
                </bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="discussion">
-               
             </div>
       </body>
    </text>
