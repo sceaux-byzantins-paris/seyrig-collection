@@ -258,6 +258,7 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
+      <surfaceGrp>
       <surface n="v">
          <desc>Obverse</desc>
          <graphic type="photo" url="Seyrig2_1.jpg" scale="1.5"><!--scale???-->
@@ -265,6 +266,8 @@
             <desc xml:lang="fr">Seyrig 2 (Inv. 949), avers.</desc>
          </graphic>
       </surface>
+      </surfaceGrp>
+      <surfaceGrp>
       <surface n="v">
          <desc>Reverse</desc>
          <graphic type="photo" url="Seyrig2_2.jpg" scale="1.5">
@@ -272,6 +275,7 @@
             <desc xml:lang="fr">Seyrig 2 (Inv. 949), revers.</desc>
          </graphic>
       </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
