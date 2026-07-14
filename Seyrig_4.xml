@@ -7,16 +7,13 @@
          <titleStmt>
             <title xml:lang="en">Seal of the emperors Constantine V and Leo IV</title>
             <title xml:lang="fr">Sceau des empereurs Constantin V et Léon IV</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
@@ -24,13 +21,13 @@
                <seg xml:lang="en">Digital enhancement</seg>
                <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
-         <publicationStmt><!--<idno type="SigiDocID">39</idno>-->
+         <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_4</idno>
-            <!--<idno type="SigiDocID">39</idno>-->
+            <idno type="SigiDocID">s-1Q8sUi</idno>
             <idno type="sequence"/>
             <date when="2022-06-07"/>
             <availability>
@@ -38,11 +35,10 @@
                         Commons Attributions-NonCommercial-ShareAlike 4.0 International
                         License.</licence>
             </availability>
-            <idno type="SigiDocID">s-1Q8sUi</idno>
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="imperial" gender="">
+               <person role="imperial" gender="M">
                   <persName xml:lang="grc">
                      <forename>Κωνσταντῖνος</forename>
                      <surname>Εʹ,</surname>
@@ -55,6 +51,9 @@
                      <forename>Constantin</forename>
                      <surname>V,</surname>
                   </persName>
+               </person>
+               <!--<idno/>-->
+               <person role="imperial" gender="M"><!--Do we repeat this element here for the second person like this?-->
                   <persName xml:lang="grc">
                      <forename>Λέων</forename>
                      <surname>Δ΄</surname>
@@ -68,7 +67,7 @@
                      <surname>IV</surname>
                   </persName>
                </person>
-               <idno/>
+               <!--<idno/>-->
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -83,8 +82,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">816b</idno>
                   <altIdentifier xml:lang="en">
@@ -94,8 +93,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Imperial seals</seg>
-                     <seg xml:lang="fr">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial</seg>
+                     <seg xml:lang="fr">Impériale</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -124,7 +123,7 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="wornEdge">
+                        <condition rend="wornEdge chipped">
                            <p xml:lang="en">Heavily trimmed; deep indentations at canal openings; partially obliterated.</p>
                            <p xml:lang="fr">Fortement rogné ; profondes échancrures aux orifices du canal ; partiellement oblitéré.</p>
                         </condition>
@@ -156,9 +155,10 @@
                      <origDate type="analysis"
                                notBefore="0751"
                                notAfter="0775"
-                               evidence=" prosopography reign titulature epigraphy parallel"
+                               evidence="prosopography reign titulature epigraphy parallel"
                                cert="high">
                         <seg xml:lang="en">751-775</seg>
+                        <seg xml:lang="fr">751-775</seg>
                      </origDate>
                   </origin>
                   <acquisition>
@@ -173,9 +173,9 @@
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
-                     <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                     <textLang n="r" mainLang="grc-Latn">
+                        <seg xml:lang="en">Greek in Latin characters.</seg>
+                        <seg xml:lang="fr">Grec en caractères latins.</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -185,8 +185,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="fr"/>
+                              <p xml:lang="en">Iconography with circular legend.</p>
+                              <p xml:lang="fr">Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -197,8 +197,8 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r" xml:lang="en">Potent cross above three steps. Around it, a Trinitarian legend, here illegible.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="fr">Croix potencée au-dessus de trois degrés. Autour, légende trinitaire, ici illisible.</figDesc>
+                              <figDesc ana="cross potent on-steps" n="r" xml:lang="en">Potent cross above three steps. Around it, a Trinitarian legend, here illegible.</figDesc>
+                              <figDesc ana="cross potent on-steps" n="r" xml:lang="fr">Croix potencée au-dessus de trois degrés. Autour, légende trinitaire, ici illisible.</figDesc>
                               <figDesc n="decoR" xml:lang="en"/>
                               <figDesc n="decoR" xml:lang="fr"/>
                            </figure>
@@ -218,11 +218,9 @@
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
-                     <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                     <textLang n="v" mainLang="grc-Latn">
+                        <seg xml:lang="en">Greek in Latin characters.</seg>
+                        <seg xml:lang="fr">Grec en caractères latins.</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -232,8 +230,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Legend of six lines.</p>
-                              <p xml:lang="fr">Légende sur six lignes.</p>
+                              <p xml:lang="en">Linear legend of six lines.</p>
+                              <p xml:lang="fr">Légende linéaire sur six lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,7 +242,7 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
+                              <!--<figDesc ana="" n="v"/>-->
                               <figDesc n="decoV" xml:lang="en"/>
                               <figDesc n="decoV" xml:lang="fr"/>
                            </figure>
@@ -266,43 +264,68 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-14" who="#PE">Review and update of record</change>
          <change when="2022-10-18" who="#NB">Bibliography added</change>
          <change when="2022-06-13" who="#AS">First revision of the XML record.</change>
          <change when="2022-06-07" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang=""/>
-         </graphic>
-      </surface>
+      <surfaceGrp>
       <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
+         <desc>Obverse</desc>
+         <graphic type="photo" url="Seyrig4_1.jpg">
+            <desc xml:lang="en">Seyrig 4 (Inv. 816b), obverse.</desc>
+            <desc xml:lang="fr">Seyrig 4 (Inv. 816b), avers.</desc>
          </graphic>
       </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig4_2.jpg">
+               <desc xml:lang="en">Seyrig 4 (Inv. 816b), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 4 (Inv. 816b), revers.</desc>
+            </graphic>
+      </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"><!-- xml:lang grc en raison de la stylesheet, mais il faudra changer vers grc-Latn? -->
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang=""><!-- attention à bien indiquer n=obv ou n=rev selon les cas -->
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc-Latn">
+                     <ab><gap reason="illegible" extent="unknown" unit="line"/></ab>
+                  </div>
+            </div>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+            <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc-Latn">
+                      <ab><gap reason="illegible" extent="unknown" unit="line"/></ab>
+              </div>
+         </div>
+         <div type="edition" subtype="editorial" xml:space="preserve"><!-- xml:lang grc en raison de la stylesheet, mais il faudra changer vers grc-Latn? -->
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc-Latn"><!-- attention à bien indiquer n=obv ou n=rev selon les cas -->
                       <ab>  
                           <lb n="1"/>Con<supplied reason="lost">s</supplied>
                              <lb n="2" break="no"/>tantin
                           <lb n="3" break="no"/>os <expan><ex>καὶ</ex></expan> Leon p
                          <lb n="4" break="no"/>istoi basi
-                        <lb n="5" break="no"/>  lis Rom
+                        <lb n="5" break="no"/>lis Rom
                         <lb n="6" break="no"/>aion
                       </ab>
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="">
-                      <ab/>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+            <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc-Latn">
+                      <ab>
+                         <lb n="1"/>C̣O.
+                         <lb n="2"/>AI
+                         <lb n="3"/>OSSLEOP
+                         <lb n="4"/>ISOISI
+                         <lb n="5"/>LISRO
+                         <lb n="6"/>ẠIO
+                      </ab>
               </div>
+         </div>
          <div type="apparatus">
             <listApp>
                <app>
@@ -317,42 +340,29 @@
          </div>
          <div type="translation">
             <p>Constantinos καὶ Leon pistoi basilis Romaion.</p>
-            <p xml:lang="en">Constantine and Leo, faithful emperors of the Romans</p>
-            <p xml:lang="fr">Constantin et Léon, pieux empereurs des Romains</p>
+            <p xml:lang="en">Constantine and Leo, faithful emperors of the Romans.</p>
+            <p xml:lang="fr">Constantin et Léon, pieux empereurs des Romains.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p><!--Léon a été associé à l’Empire par son père Constantin le 6 juin 751. Ce dernier
+            <p>Léon a été associé à l’Empire par son père Constantin le 6 juin 751. Ce dernier
                           mourut le 14 septembre 775. W. Seibt [1]  a édité une pièce proche de la nôtre,
 mais au droit l'invocation trinitaire et au revers le nom de l’empereur sont gravés de manière
-fautive. L’editeur en conclut que le sceau est une copie, peut-être ancienne.--></p>
+fautive. L’editeur en conclut que le sceau est une copie, peut-être ancienne.</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">
-                    [1]. <bibl>
-                  <ptr target="BBÖ1"/>, <citedRange>16</citedRange>
-               </bibl>.
+                    [1]. <bibl><ptr target="BBÖ1"/>, p. <citedRange unit="page">82-83</citedRange>, no. <citedRange unit="entry">16</citedRange></bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                    Biliothèque Nationale de France, Paris,
-                    <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>4</citedRange>
-               </bibl>.
+            <p><bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">22</citedRange>, no. <citedRange>4</citedRange></bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-                    Musée de Sofia, Sofia,
-                    <bibl>
-                  <ptr target="Mušmov1934"/>, <citedRange unit="page">p. 334, 4</citedRange>
-               </bibl>; 
-                </p>
-            <p>
-                   Dumbarton Oaks, Washington D.C.,
-                   <bibl>
-                  <ptr target="Zacos1"/>, <citedRange>36a</citedRange>
-               </bibl>.
+            <p>Musée de Sofia, Sofia, <bibl><ptr target="Mušmov1934"/>, p. <citedRange unit="page">334</citedRange>, no. <citedRange unit="entry">4</citedRange></bibl>; 
+               Dumbarton Oaks <bibl><ptr target="DOsealsOnline"/>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.4271/view">BZS.1955.1.4271</ref></citedRange></bibl> – 
+               <bibl><ptr target="DOseals6"/>, p. <citedRange unit="page">63</citedRange>, no. <citedRange unit="entry">33.2</citedRange></bibl>; 
+               <bibl><ptr target="Zacos1"/>, p. <citedRange unit="page">35</citedRange>, no. <citedRange>36a</citedRange></bibl>.
                </p>
          </div>
       </body>
