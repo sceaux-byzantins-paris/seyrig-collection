@@ -146,8 +146,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en">donation by Henri Seyrig</p>
-                     <p xml:lang="fr">don d'Henri Seyrig</p>
+                     <p xml:lang="en">donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->

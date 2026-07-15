@@ -136,7 +136,7 @@
                      <origDate type="analysis"
                                notBefore="0582"
                                notAfter="0583"
-                               evidence=" iconography epigraphy prosopography parallel"
+                               evidence="iconography epigraphy prosopography parallel"
                                cert="high">
                         <seg xml:lang="en">582-583</seg>
                         <seg xml:lang="fr">582-583</seg>
@@ -150,8 +150,8 @@
                      <!-- vérifier graphie -->
                   </provenance>
                   <acquisition>
-                     <p xml:lang="en">donation by Henri Seyrig</p>
-                     <p xml:lang="fr">don d'Henri Seyrig</p>
+                     <p xml:lang="en">donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -334,7 +334,7 @@ en effet déjà le  oncial des autres sceaux du règne.</p>
          </div>
          <div type="bibliography" subtype="parallels">
             <p><bibl><ptr target="Zacos1"/>, p. <citedRange unit="page">10</citedRange>, no. <citedRange unit="entry">7a et b</citedRange></bibl>; 
-               Kunsthistorisches Museum Wien MK3 et MK4 – <bibl><ptr target="BBÖ1"/>, p. <citedRange unit="page">63-65</citedRange>, no. <citedRange unit="entry">9a</citedRange>
+               Münzkabinett des Kunsthistorischen Museums Wien MK3 et MK4 – <bibl><ptr target="BBÖ1"/>, p. <citedRange unit="page">63-65</citedRange>, no. <citedRange unit="entry">9a</citedRange>
                </bibl>.
                 </p>
          </div>

@@ -7,16 +7,13 @@
          <titleStmt>
             <title xml:lang="en">Seal of the emperor Constantine VI</title>
             <title xml:lang="fr">Sceau de l'empereur Constantin VI</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
                <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
@@ -24,13 +21,13 @@
                <seg xml:lang="en">Digital enhancement</seg>
                <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
-         <publicationStmt><!--<idno type="SigiDocID">39</idno>-->
+         <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_5</idno>
-            <!--<idno type="SigiDocID">39</idno>-->
+            <idno type="SigiDocID">s-EuKKl0</idno>
             <idno type="sequence"/>
             <date when="2022-06-07"/>
             <availability>
@@ -38,11 +35,10 @@
                         Commons Attributions-NonCommercial-ShareAlike 4.0 International
                         License.</licence>
             </availability>
-            <idno type="SigiDocID">s-EuKKl0</idno>
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="imperial" gender="">
+               <person role="imperial" gender="M">
                   <persName xml:lang="grc">
                      <forename>Κωνσταντίνος</forename>
                      <surname>ΣΤ΄,</surname>
@@ -56,7 +52,7 @@
                      <surname>VI,</surname>
                   </persName>
                </person>
-               <idno/>
+               <!--<idno/>-->
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -71,8 +67,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">907</idno>
                   <altIdentifier xml:lang="en">
@@ -82,8 +78,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Imperial seals</seg>
-                     <seg xml:lang="fr">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial</seg>
+                     <seg xml:lang="fr">Impériale</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -112,7 +108,7 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="broken">
+                        <condition rend="chipped well-struck obliterated">
                            <p xml:lang="en">Uniface. Swelling around the rim; broken on the right; indented at the channel openings; very fine strike.</p>
                            <p xml:lang="fr">Uniface. Renflé au pourtour; brisé à droite; échancré aux orifices du canal; très belle frappe.</p>
                         </condition>
@@ -133,25 +129,19 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0790"
                                notAfter="0792"
-                               evidence=" reign titulature prosopography epigraphy parallel"
+                               evidence="reign titulature prosopography epigraphy parallel"
                                cert="high">
                         <seg xml:lang="en">790-792</seg>
+                        <seg xml:lang="fr">790-792</seg>
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en">donation by Henri Seyrig</p>
-                     <p xml:lang="fr">don d'Henri Seyrig</p>
+                     <p xml:lang="en">donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -161,9 +151,9 @@
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
-                     <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                     <textLang n="r" mainLang="grc-Latn">
+                        <seg xml:lang="en">Greek in Latin characters.</seg>
+                        <seg xml:lang="fr">Grec en caractères latins.</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -173,8 +163,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Iconography with circular legend</p>
-                              <p xml:lang="fr">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en">Iconography with circular legend.</p>
+                              <p xml:lang="fr">Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -185,14 +175,14 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r" xml:lang="en">Bust of the emperor, facing, wearing the stemma,
+                              <figDesc ana="male person emperor Constantine-VI bust akakia cruciger-globe" n="r" xml:lang="en">Bust of the emperor, facing, wearing the stemma,
                                             dressed with the chlamys, holding in his right hand the cruciger globe and in his left hand, the akakia.</figDesc>
                               <!-- il faut faire attention aux traductions automatiques, qu'il faut toujours revoir: ici, entre autres choses, la chlamyde était devenue la chlamydia ! -->
-                              <figDesc ana="" n="r" xml:lang="fr">Buste de l’empereur, de face, portant le stemma,
+                              <figDesc ana="male person emperor Constantine-VI bust akakia cruciger-globe" n="r" xml:lang="fr">Buste de l’empereur, de face, portant le stemma,
                                             vêtu de la chlamyde, tenant en main droite le globe crucigère et en main gauche, l'akakia.
                                         </figDesc>
                               <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc n="decoR" xml:lang="fr">Cercle de grénetis</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Cercle de grénetis.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -210,11 +200,9 @@
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
-                     <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                     <textLang n="v" mainLang="">
+                        <seg xml:lang="en"/>
+                        <seg xml:lang="fr"/>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -224,8 +212,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="fr"/>
+                              <p xml:lang="en">Undetermined</p>
+                              <p xml:lang="fr">Indéterminé</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -236,7 +224,7 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
+                              <!--<figDesc ana="" n="v"/>-->
                               <figDesc n="decoV" xml:lang="en"/>
                               <figDesc n="decoV" xml:lang="fr"/>
                            </figure>
@@ -258,38 +246,48 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-15" who="#PE">Review and update of record</change>
          <change when="2022-10-18" who="#NB">Bibliography added</change>
          <change when="2022-06-13" who="#AS">First revision of the XML record.</change>
          <change when="2022-06-07" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang=""/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig5_1.jpg">
+               <desc xml:lang="en">Seyrig 5 (Inv. 907), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 5 (Inv. 907), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig5_2.jpg">
+               <desc xml:lang="en">Seyrig 5 (Inv. 907), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 5 (Inv. 907), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc-Latn">
                       <ab>  
                           <lb n="1"/>Constantinos <expan><abbr>bas</abbr><ex>ileus</ex></expan> θ<!-- attention aux espaces blancs car ils seront conservés dans l'édition sur la page web; pas de point à la fin de la légende ici -->
                       </ab>
                   </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la">
-                      <ab/>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+            <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc-Latn">
+                      <ab>
+                         <lb n="1"/>COSIOSS
+                      </ab>
                   </div>
+         </div>
          <div type="apparatus">
             <listApp>
                <app>
@@ -307,34 +305,24 @@
             <p xml:lang="en">Constantine, emperor.</p>
             <p xml:lang="fr">Constantin, empereur.</p>
          </div>
-         <div type="commentary" subtype="text">
-            <p><!--Comme l’ont fait remarquer G. Zacos et A. Veglery, la présence du Θ<!-\- à mettre en Athena Ruby -\-> à la
-                          fin de la légende s’explique par une copie du sceau sur le modèle du solidus. Le Θ<!-\- à mettre en Athena Ruby -\-> est la
-marque d’une des deux officines responsables de la frappe d’or à cette époque,sur ces marques
-de contrôle[1].--></p>
+         <div type="commentary" subtype="text"><!--The Athena Ruby Theta is not displayed right here-->
+            <p>Comme l’ont fait remarquer G. Zacos et A. Veglery, la présence du  à la fin de la légende s’explique par une copie du sceau sur le modèle du solidus. Le  est la
+marque d’une des deux officines responsables de la frappe d’or à cette époque, sur ces marques
+de contrôle[1].</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">
                     [1]. <bibl>
-                  <ptr target="Grierson1993b"/>, <citedRange unit="page">1, p. 78-80</citedRange>
+                  <ptr target="Grierson1993b"/>, 1, p. <citedRange unit="page">78-80</citedRange>
                </bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                    Biliothèque Nationale de France, Paris,
-                    <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>5</citedRange>
-               </bibl>.
+            <p><bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">23</citedRange>, no. <citedRange>5</citedRange></bibl>; <bibl><ptr target="Zacos1"/>, p. <citedRange unit="page">37</citedRange>, no. <citedRange>38</citedRange></bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-                    Dumbarton Oaks, Washington D.C.,
-                    <bibl>
-                  <ptr target="Zacos1"/>, <citedRange>38</citedRange>
-               </bibl>.
-                </p>
+            <p/>
          </div>
       </body>
    </text>

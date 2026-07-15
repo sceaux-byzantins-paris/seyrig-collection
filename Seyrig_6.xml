@@ -7,16 +7,13 @@
          <titleStmt>
             <title xml:lang="en">Seal of the emperors Basil II and Constantine VIII</title>
             <title xml:lang="fr">Sceaux des empereurs Basile II et Constantin VIII</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
                <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
@@ -24,13 +21,13 @@
                <seg xml:lang="en">Digital enhancement</seg>
                <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
-         <publicationStmt><!--<idno type="SigiDocID">39</idno>-->
+         <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Seyrig_6</idno>
-            <!--<idno type="SigiDocID">39</idno>-->
+            <idno type="SigiDocID">s-UByyJc</idno>
             <idno type="sequence"/>
             <date when="2022-06-07"/>
             <availability>
@@ -38,11 +35,10 @@
                         Commons Attributions-NonCommercial-ShareAlike 4.0 International
                         License.</licence>
             </availability>
-            <idno type="SigiDocID">s-UByyJc</idno>
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="imperial" gender="">
+               <person role="imperial" gender="M">
                   <persName xml:lang="grc">
                      <forename>Βασίλειος</forename>
                      <surname>Β΄,</surname>
@@ -55,6 +51,9 @@
                      <forename>Basile</forename>
                      <surname>II,</surname>
                   </persName>
+               </person>
+               <!--<idno/>-->
+               <person role="imperial" gender="M">
                   <persName xml:lang="grc">
                      <forename>Κωνσταντίνος</forename>
                      <surname>Η΄</surname>
@@ -68,7 +67,7 @@
                      <surname>VIII</surname>
                   </persName>
                </person>
-               <idno/>
+               <!--<idno/>-->
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -83,8 +82,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">980</idno>
                   <altIdentifier xml:lang="en">
@@ -94,8 +93,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Imperial seals</seg>
-                     <seg xml:lang="fr">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial</seg>
+                     <seg xml:lang="fr">Impériale</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -124,7 +123,7 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="pierced">
+                        <condition rend="not-centered">
                            <p xml:lang="en">Offset to the left; pierced at the top; slightly indented at the channel holes. Obliterated on the reverse at the top
                                         left.</p>
                            <p xml:lang="fr">Décentré vers la gauche; percé en haut; légèrement échancré aux orifices du canal. Oblitéré au revers en haut
@@ -147,26 +146,19 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0976"
                                notAfter="1025"
-                               evidence=" reign prosopography iconography titulature parallel"
+                               evidence="reign prosopography iconography titulature parallel"
                                cert="high">
                         <seg xml:lang="en">976-1025</seg>
                         <seg xml:lang="fr">976-1025</seg>
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en">donation by Henri Seyrig</p>
-                     <p xml:lang="fr">don d'Henri Seyrig</p>
+                     <p xml:lang="en">donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
@@ -177,8 +169,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -189,8 +181,8 @@
                                  <dim type="diameter">23</dim>
                                  <!-- cette information est souvent données dans l'édition, mais pas toujours: elle correspond au diamètre du champ -->
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="fr"/>
+                              <p xml:lang="en">Iconography with circular legend.</p>
+                              <p xml:lang="fr">Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -201,11 +193,11 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r" xml:lang="en">Bust of Christ with beard and long hair,
+                              <figDesc ana="male person Christ bust gospel" n="r" xml:lang="en">Bust of Christ with beard and long hair,
                                             spreading his tunic with his right hand, holding the Gospels in his left hand. The arms of the
                                             nimbus are flared at the ends and decorated with five dots arranged as a quincunx.</figDesc>
                               <!-- pas terrible la formulation, mais le terme quincunx est le bon -->
-                              <figDesc ana="" n="r" xml:lang="fr">Buste du Christ avec la barbe et les cheveux longs,
+                              <figDesc ana="male person Christ bust gospel" n="r" xml:lang="fr">Buste du Christ avec la barbe et les cheveux longs,
                                             écartant de la main droite sa tunique, tenant les Évangiles de la main gauche. Les bras du
                                             nimbe sont évasés aux extrémités et ornés de cinq points en quinconce.</figDesc>
                               <!-- ici il faut mentionner aussi les inscriptions de part et d'autres des images, ici Jesus Christ; reste la question de comment considérer ici "Emmanuel", on en reparlera -->
@@ -228,11 +220,9 @@
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
-                     <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                     <textLang n="v" mainLang="grc-Latn">
+                        <seg xml:lang="en">Greek in Latin characters.</seg>
+                        <seg xml:lang="fr">Grec en caractères latins.</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -242,8 +232,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">23</dim>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="fr"/>
+                              <p xml:lang="en">Iconography with circular legend.</p>
+                              <p xml:lang="fr">Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -254,12 +244,12 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v" xml:lang="en">Busts, facing, of Basil II on the left and Constantine VIII on the right, holding a patriarchal cross between them with their inner hand. 
-                                            Basil II is wearing the loros, Constantine, the chlamyd with the tablion</figDesc>
+                              <figDesc ana="2-persons emperor Basil-II Constantine-VIII bust cross-staff" n="v" xml:lang="en">Busts, facing, of Basil II on the left and Constantine VIII on the right, holding a patriarchal cross between them with their inner hand. 
+                                            Basil II is wearing the loros, Constantine, the chlamys with the tablion.</figDesc>
                               <!-- ajouter traduction anglaise, qui doit porter le me^me texte que la version française -->
-                              <figDesc ana="" n="v" xml:lang="fr">Bustes, de face, de Basile II à gauche et Constantin
+                              <figDesc ana="2-persons emperor Basil-II Constantine-VIII bust cross-staff" n="v" xml:lang="fr">Bustes, de face, de Basile II à gauche et Constantin
                                             VIII à droite tenant entre eux de leur main intérieure une croix patriarcale. Basile II est vêtu
-                                            du lôros, Constantin, de la chlamyde avec le tablion</figDesc>
+                                            du lôros, Constantin, de la chlamyde avec le tablion.</figDesc>
                               <figDesc n="decoR" xml:lang="en">Border of dots</figDesc>
                               <figDesc n="decoR" xml:lang="fr">Cercle de grénetis</figDesc>
                            </figure>
@@ -281,6 +271,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-15" who="#PE">Review and update of record</change>
          <change when="2022-10-18" who="#NB">Bibliography added</change>
          <change when="2022-06-24" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-06-13" who="#AS">First revision of the XML record.</change>
@@ -288,43 +279,64 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang=""/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig6_1.jpg">
+               <desc xml:lang="en">Seyrig 6 (Inv. 980), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 6 (Inv. 980), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig6_2.jpg">
+               <desc xml:lang="en">Seyrig 6 (Inv. 980), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 6 (Inv. 980), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                <div type="textpart" subtype="sigla" n="obv" rend="linear" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
                       <ab>  
-                          <lb n="1"/><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan> <expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan>
+                          <cb n="a"/><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan>
+                         <cb n="b"/><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan>
                       </ab>
                   </div>
-                <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="">
+                <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
                       <ab>  
-                         <lb n="1"/>Ἐμμανουήλ
+                         <lb n="1"/><supplied reason="lost">Ἐμμα</supplied>νο<supplied reason="lost">υ</supplied>ήλ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+            <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc-Latn">
                       <ab>  
-                          <lb n="1"/> <supplied reason="lost">+</supplied> <expan><supplied reason="lost"><abbr>Basil</abbr><ex>eios</ex></supplied></expan> <expan><supplied reason="lost"><ex>kai</ex></supplied></expan> 
+                          <lb n="2"/><supplied reason="lost"><expan><abbr>Basil</abbr><ex>eios</ex></expan> <expan><ex>kai</ex></expan></supplied> 
                           <expan><supplied reason="lost"><abbr>Cons</abbr></supplied><abbr>tanti</abbr><ex>nos</ex></expan> 
-                         <expan><abbr>b</abbr><ex>asileis</ex></expan> <expan><supplied reason="lost"><abbr>R</abbr><ex>omaion</ex></supplied></expan>
+                         <expan><abbr>b</abbr><ex>asileis</ex></expan> <supplied reason="lost"><expan><abbr>R</abbr><ex>omaion</ex></expan></supplied>
                       </ab>
                   </div>
-            </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="la">
-                  <ab/>
+         </div>
+             <div type="edition" subtype="diplomatic" xml:space="preserve">
+                <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
+                   <ab>
+                      <cb n="a"/>Ι̅Σ
+                      <cb n="b"/>Χ̅Σ
+                   </ab>
+                </div>
+                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
+                   <ab>
+                      <lb n="1"/>.....ΝΟ.ΗΛ
+                   </ab>
+                   </div>
+                <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc-Latn">
+                   <ab>
+                      <lb n="2"/>........O..ATI.
+                   </ab>
+             </div>
               </div>
          <div type="apparatus">
             <listApp>
@@ -344,45 +356,34 @@
             <p xml:lang="fr">Basile et Constantin, basileis des Romains.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p><!--Sur la sigillographie de Basile II et la coexistence de sceaux de l’empereur seul
+            <p>Sur la sigillographie de Basile II et la coexistence de sceaux de l’empereur seul
 ou avec son frère Constantin, voir SEIBT, <hi rend="italic">Bleisiegel</hi>, p. 87. Le type du sceau impérial avec
 les deux souverains ne semble guère avoir varié au cours de ce long règne; à la différence
 des monnaies où costumes respectifs et croix déterminent six classes d'<hi rend="italic">histaména</hi>. Le type du
 sceau, avec le <hi rend="italic">lôros</hi> ”droit” (modified loros) de Basile II rappelle celui de la première classe
                           d'<hi rend="italic">histaména</hi> [2] daté par Ph. Grierson de 977. Le dessin ainsi adopté pour les sceaux
-et la monnaie d’or au début du règne, ne fut plus changé.--></p>
+et la monnaie d’or au début du règne, ne fut plus changé.</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">
                     [1]. <bibl>
-                  <ptr target="BBÖ1"/>, <citedRange unit="page">p. 87</citedRange>
+                  <ptr target="BBÖ1"/>, p. <citedRange unit="page">87</citedRange>
                </bibl>.
                 </p>
             <p xml:id="footnote-2">
                     [2]. <bibl>
-                  <ptr target="Grierson1993b"/>, <citedRange>1</citedRange>
+                  <ptr target="Grierson1993b"/>, <citedRange unit="entry">1</citedRange>
                </bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                    Biliothèque Nationale de France, Paris,
-                    <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>6</citedRange>
-               </bibl>.
+            <p><bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">23</citedRange>, no. <citedRange>6</citedRange></bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-                    Dumbarton Oaks, Washington D.C.,
-                    <bibl>
-                  <ptr target="Zacos1"/>, <citedRange>76</citedRange>
-               </bibl>; </p>
-            <p> Münzkabinett des Kunsthistorischen Museums, Vienne,
-                    <bibl>
-                  <ptr target="BBÖ1"/>, <citedRange>18</citedRange>
-               </bibl>.
-                </p>
+            <p>De nombreux, par exemple: <bibl><ptr target="Zacos1"/>, p. <citedRange unit="page">69</citedRange>, no. <citedRange>76</citedRange></bibl>;
+               Münzkabinett des Kunsthistorischen Museums Wien MK12 – <bibl><ptr target="BBÖ1"/>, p. <citedRange unit="page">85-88</citedRange>, no. <citedRange unit="entry">18</citedRange>
+               </bibl>.</p>
          </div>
          <div type="bibliography" subtype="discussion">
             <p>

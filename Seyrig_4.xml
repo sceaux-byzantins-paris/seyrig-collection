@@ -144,14 +144,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0751"
                                notAfter="0775"
@@ -162,8 +155,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en">donation by Henri Seyrig</p>
-                     <p xml:lang="fr">don d'Henri Seyrig</p>
+                     <p xml:lang="en">donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r"> <!--here begins the observe-->
