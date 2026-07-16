@@ -7,24 +7,21 @@
          <titleStmt>
             <title xml:lang="en">Seal of the emperor Romanos IV Diogenes</title>
             <title xml:lang="fr">Sceau de l'mpereur Romain IV Diogène</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
                <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
                <seg xml:lang="en">Digital conversion</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -40,21 +37,21 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="imperial" gender="">
+               <person role="imperial" gender="M">
                   <persName xml:lang="grc">
-                     <forename>Ρωμανός</forename>
-                     <surname>Δ΄</surname>
+                     <forename>Ρωμανός Δ΄</forename>
+                     <surname>Διογένης</surname>
                   </persName>
                   <persName xml:lang="en">
-                     <forename>Romanos</forename>
-                     <surname>IV</surname>
+                     <forename>Romanos IV</forename>
+                     <surname>Diogenes</surname>
                   </persName>
                   <persName xml:lang="fr">
-                     <forename>Romain</forename>
-                     <surname>IV</surname>
+                     <forename>Romain IV</forename>
+                     <surname>Diogène</surname>
                   </persName>
+                  <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/person/Romanos/4/">Romanos 4</idno>
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -69,10 +66,10 @@
                   <institution xml:lang="fr">Bibliothèque Nationale de France</institution>
                   <repository xml:lang="fr">Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
-                  <idno type="inv-nr-current">961-962</idno>
+                  <idno type="inv-nr-current">961</idno>
                   <altIdentifier xml:lang="en">
                      <repository/>
                      <idno type="inv-nr-former"/>
@@ -80,8 +77,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Imperial seals</seg>
-                     <seg xml:lang="fr">Sceaux impériaux</seg>
+                     <seg xml:lang="en">Imperial</seg>
+                     <seg xml:lang="fr">Impériale</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -111,8 +108,9 @@
                            <measure type="channelOrient" unit="clock"/>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="notCentered">
-                           <p>Renflés au pourtour et légèrement décentrés vers la gauche.</p>
+                        <condition rend="notCentered corroded">
+                           <p xml:lang="fr">Renflés au pourtour et légèrement décentrés vers la gauche.</p>
+                           <p xml:lang="en">Bulging around the edges and slightly off-center to the left.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -127,6 +125,7 @@
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-HyTspN</idno>
+                              <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/boulloterion/435/">boulloterion 435</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -134,24 +133,19 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="1068"
                                notAfter="1071"
                                evidence="prosopography titulature epigraphy parallel reign"
                                cert="high">
                         <seg xml:lang="en">1068-1071</seg>
+                        <seg xml:lang="fr">1068-1071</seg>
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p/>
+                     <p xml:lang="en">donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -162,8 +156,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -173,8 +167,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">26</dim>
                               </dimensions>
-                              <p xml:lang="en">Iconography with circular legend</p>
-                              <p xml:lang="fr">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en">Iconography with circular legend.</p>
+                              <p xml:lang="fr">Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -185,9 +179,12 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r">Le Christ, debout, de face, couronnant de ses mains étendues Romain IV, à gauche et Eudocie, à droite, qui sont debout, en vêtements
+                              <figDesc ana="3-persons female male Christ emperor imperial-family Romanus-IV standing cruciger-globe" n="r" xml:lang="fr">Le Christ, debout, de face, couronnant de ses mains étendues Romain IV, à gauche et Eudocie, à droite, qui sont debout, en vêtements
                                             impériaux, tenant chacun en leur main intérieure un globe crucigère.</figDesc>
-                              <figDesc n="decoR">Cercle de grènetis</figDesc>
+                              <figDesc ana="3-persons female male Christ emperor imperial-family Romanus-IV standing cruciger-globe" n="r" xml:lang="en">Christ, standing and facing, crowning with his outstretched hands Romanos IV
+                                 on the left and Eudokia on the right, who are dressed in imperial robes, each holding a cruciger globe in their inner hand.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Cercle de grènetis</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -206,9 +203,9 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
+                        <seg xml:lang="en">Greek
             </seg>
-                        <seg xml:lang="fr">grec
+                        <seg xml:lang="fr">Grec
             </seg>
                      </textLang>
                   </msContents>
@@ -219,8 +216,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">26</dim>
                               </dimensions>
-                              <p xml:lang="en">Iconography with circular legend</p>
-                              <p xml:lang="fr">Iconographie avec légende circulaire</p>
+                              <p xml:lang="en">Iconography with circular legend.</p>
+                              <p xml:lang="fr">Iconographie avec légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,15 +228,16 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v" xml:lang="en">The three sons of Eudocia, standing, facing each other
-                                            on a circular souppedion ; in the centre Michael VII holding the sceptre-labarum hand
+                              <figDesc ana="3-persons male emperor imperial-family Michael-VII standing globe labarum" n="v" xml:lang="en">The three sons of Eudocia, standing, facing each other
+                                            on a circular souppedion; in the centre Michael VII holding the sceptre-labarum hand
                                             left; on the left, Constantine; on the right, Andronic, each holding in their outer hand a
                                             globe.</figDesc>
-                              <figDesc ana="" n="v" xml:lang="fr">Les trois fils d’Eudocie, debout, de face, chacun
+                              <figDesc ana="3-persons male emperor imperial-family Michael-VII standing globe labarum" n="v" xml:lang="fr">Les trois fils d’Eudocie, debout, de face, chacun
                                             sur un souppédion de forme circulaire ; au centre Michel VII tenant le sceptre-labarum en main
                                             gauche; à gauche, Constantin; à droite, Andronic tenant chacun en leur main extérieure un
                                             globe crucigère.</figDesc>
-                              <figDesc n="decoV">Cercle de grènetis</figDesc>
+                              <figDesc n="decoV" xml:lang="fr">Cercle de grènetis</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -259,6 +257,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-16" who="#PE">Review and update of record</change>
          <change when="2022-06-25" who="#AS">Second revision of the XML record</change>
          <change when="2022-06-24" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-06-24" who="#AS">First revision of the XML record</change>
@@ -266,103 +265,95 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig7_1.jpg">
+               <desc xml:lang="en">Seyrig 7 (Inv. 961), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 7 (Inv. 961), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig7_2.jpg">
+               <desc xml:lang="en">Seyrig 7 (Inv. 961), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 7 (Inv. 961), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="">
-                <ab><!-- ici on n'indique pas le numéro de ligne avec lb, mais il faut utiliser cb: voir Guidelines -->
-                    <lb n="1"/><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan> <expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan>
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
+                <ab>
+                    <cb n="a"/><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan>
+                   <cb n="b"/><supplied reason="lost"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></supplied>
                 </ab>
             </div>
-                <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="">
+                <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
                       <ab>
-                                  <lb n="1"/> <expan><abbr>ʹΡωμαν</abbr><ex>ὸς</ex></expan> <w lemma="καί" lemmaRef="http://www.perseus.tufts.edu/hopper/morph?l=kai&amp;la=greek">
-                                      <expan><abbr><am><g type="kai1"/></am></abbr><ex>καὶ</ex></expan>
-                                  </w>  Εὐδοκία
+                          <lb n="1"/><supplied reason="lost"><expan><abbr>ʹΡωμαν</abbr><ex>ὸς</ex></expan> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> Εὐδοκία</supplied>
                       </ab>
                 </div>
-                <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="">
+                <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc">
                       <ab>
-                          <lb n="2"/><expan><abbr>Κων</abbr><ex>σταντῖνος</ex></expan>, <expan><abbr>Μ</abbr><ex>ι</ex><abbr>χ</abbr><ex>αήλ</ex></expan>, <expan><abbr>Ἀνδ</abbr><ex>ρόνικος</ex></expan>
+                          <lb n="2"/><supplied reason="lost"><expan><abbr>Κων</abbr><ex>σταντῖνος</ex></expan></supplied> <expan><abbr>Μ</abbr><ex>ι</ex><abbr>χ</abbr><ex>αήλ</ex></expan> <expan><abbr>Ἀνδ</abbr><ex>ρόνικος</ex></expan>
                       </ab>
                 </div>
             </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
                       <ab>
-                       
+                       <cb n="a"/>Ι̅Σ
+                       <cb n="b"/>..
                       </ab>
                   </div>
+            <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
+               <ab><lb n="1"/>.............</ab>
               </div>
-         <div type="apparatus">
-            <p/>
+            <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc">
+               <ab><lb n="2"/>... ΜΧ ΑΝΔ</ab>
+            </div>
          </div>
+         <div type="apparatus">
+         <listApp>
+            <app>
+            <note xml:lang="fr">
+               <bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">24</citedRange>, no. <citedRange>7a</citedRange></bibl> ne propose pas d'édition diplomatique spécifique, mais répertorie les caractères que l'on peut trouver dans d'autres spécimens parallèles.
+            </note>
+            <note xml:lang="en"><bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">24</citedRange>, no. <citedRange>7a</citedRange></bibl> does not provide a specific critical edition, but lists the characters that can be found in other parallel specimens.</note>
+         </app></listApp></div>
          <div type="translation">
             <p>+ Ρωμανὸς καὶ Εὐδοκία. / Κωνστάντῖνος, Μιχαήλ, Ἀνδρόνικος.</p>
             <p xml:lang="en">Romanos and Eudokia. / Constantine, Michael, Andronikos.</p>
             <p xml:lang="fr">Romain et Eudocie. / Constantin, Michel, Andronic.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p><!--Le type est celui de la première des deux variétés de <hi rend="italic">nomismata histaména</hi>
+            <p>Le type est celui de la première des deux variétés de <hi rend="italic">nomismata histaména</hi>
                     du règne [1]. Mais la sigillographie ne connaît pas, semble-t-il, d’exemplaire semblable à celui
                     de la seconde variété. Ceci confirme que la distinction introduite sur la monnaie d’or était
                     simplement une marque - plus ou moins secrète - de la chute du titre entre les deux émissions
                     (de 18 à 16 carats) et n’avait, par conséquent, pas de raison d’être suivie sur les sceaux
-                    impériaux.--></p>
+                    impériaux.</p>
          </div>
          <div type="commentary" subtype="footnotes">
-            <p xml:id="footnote-1">
-                  <!--  [1]. C. MORRISSON, La dévaluation de la monnaie byzantine au XIe siècle, <hi rend="italic">TM</hi> 6, 1976,
-                    p. 7, n. 19).-->
-                </p>
+            <p xml:id="footnote-1"><bibl><ptr target="Morrisson1976"/>, p. <citedRange unit="page">7</citedRange>, n. <citedRange unit="entry">19</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                    Biliothèque Nationale de France, Paris,
-                    <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>7a</citedRange>
-               </bibl>.
-                </p>
+            <p><bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">24</citedRange>, no. <citedRange>7a</citedRange></bibl>.</p>
          </div>
-         <div type="bibliography" subtype="parallels">
-            <p>
-                    Dumbarton Oaks, Washington D.C.,
-                    <bibl>
-                  <ptr target="Zacos1"/>, <citedRange>93</citedRange>
-               </bibl>.
-                    
-                    
-                    Münzkabinett des Kunsthistorischen Museums, Vienne,
-                    <bibl>
-                  <ptr target="BBÖ1"/>, <citedRange>24</citedRange>
-               </bibl>.
+         <div type="bibliography" subtype="parallels"><!-- il faut indiquer que 7a et 7b sont des parallèles et ajoouter le lien -->
+            <p>nombreux, par exemple: Bibliothèque Nationale de France 962 = <bibl><ptr target="Seyrig"/>, p. <citedRange unit="page">24</citedRange>, no. <citedRange>7b</citedRange></bibl>;
+               <bibl><ptr target="Zacos1"/>, p. <citedRange unit="page">83-84</citedRange>, no. <citedRange unit="entry">93a-d</citedRange></bibl>;
+               Münzkabinett des Kunsthistorischen Museums, Vienne, MK 29 = <bibl><ptr target="BBÖ1"/>, p. <citedRange unit="page">97-98</citedRange>, no. <citedRange unit="entry">24</citedRange></bibl>.
                 </p>
          </div>
          <div type="bibliography" subtype="discussion">
-            <p>
-               <bibl>
-                  <ptr target="PBW"/>, <citedRange unit="entry">
-                     <ref target="https://db.pbw.kcl.ac.uk/jsp/boulloterion.jsp?bKey=435">Romanos 4</ref>
-                  </citedRange>
-               </bibl>. 
-                </p>
+            <p/>
          </div>
-         <!-- il faut indiquer que 7a et 7b sont des parallèles et ajoouter le lien -->
       </body>
    </text>
 </TEI>
