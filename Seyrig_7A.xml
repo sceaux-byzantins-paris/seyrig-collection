@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of the emperor Romanos IV Diogenes</title>
-            <title xml:lang="fr">Sceau de l'mpereur Romain IV Diogène</title>
+            <title xml:lang="fr">Sceau de l'empereur Romain IV Diogène</title>
             <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
             <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
             <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
@@ -18,7 +18,8 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
             <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
             <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
@@ -63,8 +64,8 @@
                      <seg xml:lang="en">Paris</seg>
                      <seg xml:lang="fr">Paris</seg>
                   </settlement>
-                  <institution xml:lang="fr">Bibliothèque Nationale de France</institution>
-                  <repository xml:lang="fr">Département des Monnaies, médailles et antiques</repository>
+                  <institution>Bibliothèque Nationale de France</institution>
+                  <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
                      <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
                      <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
@@ -228,8 +229,7 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="3-persons male emperor imperial-family Michael-VII standing globe labarum" n="v" xml:lang="en">The three sons of Eudocia, standing, facing each other
-                                            on a circular souppedion; in the centre Michael VII holding the sceptre-labarum hand
+                              <figDesc ana="3-persons male emperor imperial-family Michael-VII standing globe labarum" n="v" xml:lang="en">The three sons of Eudocia, standing, facing, each on a circular souppedion; in the centre Michael VII holding the sceptre-labarum hand
                                             left; on the left, Constantine; on the right, Andronic, each holding in their outer hand a
                                             globe.</figDesc>
                               <figDesc ana="3-persons male emperor imperial-family Michael-VII standing globe labarum" n="v" xml:lang="fr">Les trois fils d’Eudocie, debout, de face, chacun
@@ -268,18 +268,18 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic type="photo" url="Seyrig7_1.jpg">
-               <desc xml:lang="en">Seyrig 7 (Inv. 961), obverse.</desc>
-               <desc xml:lang="fr">Seyrig 7 (Inv. 961), avers.</desc>
+            <graphic type="photo" url="Seyrig7a_1.jpg">
+               <desc xml:lang="en">Seyrig 7a (Inv. 961), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 7a (Inv. 961), avers.</desc>
             </graphic>
          </surface>
       </surfaceGrp>
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic type="photo" url="Seyrig7_2.jpg">
-               <desc xml:lang="en">Seyrig 7 (Inv. 961), reverse.</desc>
-               <desc xml:lang="fr">Seyrig 7 (Inv. 961), revers.</desc>
+            <graphic type="photo" url="Seyrig7a_2.jpg">
+               <desc xml:lang="en">Seyrig 7a (Inv. 961), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 7a (Inv. 961), revers.</desc>
             </graphic>
          </surface>
       </surfaceGrp>
