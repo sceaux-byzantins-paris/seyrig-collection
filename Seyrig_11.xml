@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of David Komnenos</title>
             <title xml:lang="fr">Sceau de David Comnène</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
                <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="aristocracy" gender="">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Δαυίδ</forename>
                      <surname>Κομνηνός</surname>
@@ -51,8 +49,8 @@
                      <forename>David</forename>
                      <surname>Comnène</surname>
                   </persName>
+                  <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/person/David/20103/">David 20103</idno>
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -67,8 +65,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">573</idno>
                   <altIdentifier xml:lang="en">
@@ -78,8 +76,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires</seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -107,15 +105,15 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="notCentered">
-                           <p>Légèrement décentré sur la gauche au droit.</p>
+                        <condition rend="notCentered well-preserved well-struck">
+                           <p xml:lang="fr">Légèrement décentré sur la gauche au droit.</p>
+                           <p xml:lang="en">Slightly struck off-center to the left on the obverse.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en">Moulded</seg>
-                              <!-- à vérifier -->
+                              <seg xml:lang="en">Moulded</seg> <!-- à vérifier -->
                               <seg xml:lang="fr">Moulé</seg>
                            </rs>
                            <rs type="shape">
@@ -124,6 +122,7 @@
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-mbuEdS</idno>
+                              <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/boulloterion/442/">boulloterion 442</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -131,27 +130,19 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="1201"
-                               notAfter="1300"
+                               notAfter="1220"
                                evidence="prosopography parallel reign"
                                cert="high">
-                        <seg xml:lang="en">13th C.</seg>
-                        <!-- il s'agit du début du XIIIe s.; à discute tous ensemble ce qu'on doit comprendre en terme de chiffres -->
-                        <seg xml:lang="fr">XIIIe s.</seg>
-                        <!-- adapter ces critères à ceux dans @evidence -->
+                        <seg xml:lang="en">Beginning of 13th C.</seg>
+                        <seg xml:lang="fr">Debut du XIIIe s.</seg>
                      </origDate>
                   </origin>
-                  <acquisition><!-- à compléter -->
-                     <p/>
+                  <acquisition>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -162,8 +153,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -173,10 +164,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Iconography with legend in columns.
-                                        </p>
-                              <p xml:lang="fr">Iconographie avec légende en colonnes.
-                                        </p>
+                              <p xml:lang="en">Iconography with legend in columns.</p>
+                              <p xml:lang="fr">Iconographie avec légende en colonnes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -187,10 +176,11 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r">Saint Éleuthère, debout, dans le costume des évêques, bénissant
+                              <figDesc ana="male person saint St-Eleutherios bishop standing gospel" n="r" xml:lang="fr">Saint Éleuthère, debout, dans le costume des évêques, bénissant
                                             et tenant les Évangiles.</figDesc>
-                              <figDesc n="decoR">Bordure de filet</figDesc>
-                              <!-- linéaire, à vérifier expression -->
+                              <figDesc ana="male person saint St-Eleutherios bishop standing gospel" n="r" xml:lang="en">Saint Eleutherios, standing, wearing a bishop's robe, blessing and holding the gospels.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Bordure linéaire.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Linear border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -209,10 +199,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -222,8 +210,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Legend of 8 lines</p>
-                              <p xml:lang="fr">Légende sur 8 lignes</p>
+                              <p xml:lang="en">Legend of 8 lines.</p>
+                              <p xml:lang="fr">Légende sur 8 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -234,9 +222,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Bordure de filet; une croisette précède le début de la légende sur une même ligne; après la légende, sur une ligne séparée, perle accostée de deux tirets</figDesc>
-                              <!-- linéaire, à vérifier expression -->
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Bordure linéaire; une croisette précède le début de la légende sur une même ligne; après la légende, sur une ligne séparée, perle accostée de deux tirets</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Linear border; cross in the beginning of the legend; dot between two decorative lines below the legend on a separate line.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -256,72 +244,85 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-21" who="#PE">Review and update of record</change>
          <change when="2022-06-27" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-06-24" who="#AS">First revision of the XML record</change>
          <change when="2022-06-08" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig11_1.jpg">
+               <desc xml:lang="en">Seyrig 11 (Inv. 573), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 11 (Inv. 573), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig11_2.jpg">
+               <desc xml:lang="en">Seyrig 11 (Inv. 573), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 11 (Inv. 573), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
-                        
-                    <ab>  <cb n="a"/>Ὁ ἅγιος 
-                              <cb n="b"/>Ἐλευθέριος
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
+                    <ab>
+                       <cb n="a"/>Ὁ ἅγιος 
+                       <cb n="b"/>Ἐλευθέριος
                     </ab>
                   </div>
-                   <div type="textpart" subtype="label" n="obv" rend="linear" xml:lang="">
-                     <lg type="metrical" ana="unidentified"><!-- il faut ajouter l'encodage pour une légende métrique: http://sigidoc.huma-num.fr/Guidelines_XML/xml-html/SigiDoc_indexing-metrical.html -->
-                         <!--j'ai préparé l'encodage pour la légende métrique mais j'ai un doute si je l'ai bien réalisée, Oxygen l'a accepté et EFES ne semble pas m'indiquer de problèmes / il faudra aussi ajouter l'élément lié à la liste d'autorité-->
-                        <l>
-                                  <lb n="1"/>+ <expan><abbr>Δα</abbr><ex>βὶ</ex><abbr>δ</abbr></expan>  
+                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                     <lg type="metrical" met="dodecasyllable" subtype="true">
+                        <l n="1">
+                                  <lb n="1"/><expan><abbr>Δα</abbr><ex>βὶ</ex><abbr>δ</abbr></expan>  
                                   <lb n="2"/>Κομνηνοῦ
                                   <lb n="3"/>Πορφυρο
                                   <lb n="4" break="no"/><expan><abbr>βλά</abbr><ex>σ</ex><abbr>του</abbr></expan> λό
-                                  <lb n="5" break="no"/>γους Ἐλευ
-                                  <lb n="6" break="no"/>θέριος
-                                  <lb n="7"/> προσκυροῖ,
-                                  <lb n="8"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan> θύτης
-                      </l>
+                                  <lb n="5" break="no"/>γους</l> <l n="2">Ἐλευ
+                                  <lb n="6" break="no"/>θέριος 
+                                  <lb n="7"/>προσκυροῖ
+                                  <lb n="8"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan> θύτης</l>
                   </lg>
                   </div>
               </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
                       <ab>
+                         <cb n="a"/>οαγιος
+                         <cb n="b"/>ελευθεριοσ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab>
+                         <lb n="1"/>̅
+                         <lb n="2"/>ΚΟνου
+                         <lb n="3"/>πορυρο
+                         <lb n="4"/>λτουλο
+                         <lb n="5"/>Γουσελευ
+                         <lb n="6"/>ΕΡΙΟΣ
+                         <lb n="7"/>προσκυροι
+                         <lb n="8"/>θυθυτησ
+                          <lb n="0"/>  
                       </ab>
                   </div>
               </div>
          <div type="apparatus">
-                      
               </div>
          <div type="translation">
-            <p>Δαβὶδ Κομνηνοῦ πορφυροβλάστου λόγους Ἐλευθέριος προσκυροῖ, Θεοῦ θύτης.</p>
-            <p xml:lang="en">May Eleutherios, the priest of God, confirm the words of David Komnenos, born in the purple.</p>
-            <p xml:lang="fr">Puisse Eleuthérios, le prêtre de Dieu, confirmer les paroles de David Comnène, né dans la pourpre.</p>
+            <p>Ὁ ἅγιος Ἐλευθέριος. / Δαβὶδ Κομνηνοῦ πορφυροβλάστου λόγους Ἐλευθέριος προσκυροῖ, Θεοῦ θύτης.</p>
+            <p xml:lang="en">Saint Eleutherios. May Eleutherios, the priest of God, confirm the words of David Komnenos, born in the purple.</p>
+            <p xml:lang="fr">Saint Éleuthère. Puisse Eleuthérios, le prêtre de Dieu, confirmer les paroles de David Comnène, né dans la pourpre.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p><!--David Comnène a été identifié par V. Laurent avec le personnage
+            <p>David Comnène a été identifié par V. Laurent avec le personnage
                       qui disputa en Asie Mineure à Théodore Lascaris le contrôle des territoires restés byzantins
                       après la Quatrième Croisade. David Comnène, petit-fils du basileus Andronic Ier, par son père
                       Manuel, mit à profit les difficultés croissantes d’Alexis Ange aux prises avec les croisés à partir
@@ -329,57 +330,25 @@
                       Thamar, reine de Géorgie. Après 1204, il poursuivit sa marche vers l’Ouest, conquérant Sinope
                       et envisageant même de reprendre Constantinople, avant d’être arrêté par Théodore Lascaris,
                       animé de la même ambition. David Comnène se maintint dans le Pont et mourut à Sinope,
-                      menacée par les Turcs seldjoucides en décembre 1213.[1]--></p>
+                      menacée par les Turcs seldjoucides en décembre 1213.[1]</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">
-                    <!--  [1]. Pour une biographie plus détaillée, voir LAURENT, Vatican, 178. Pour un type de sceau différent du même personnage, voir ZACOS-VEGLERY 2754.-->
-                  </p>
-            <p>
-               <bibl/>.
-                  </p>
+               [1]. Pour une biographie plus détaillée, voir <bibl><ptr target="Vatican"/>, <citedRange unit="entry">178</citedRange></bibl>. 
+               Pour un type de sceau différent du même personnage, voir <bibl><ptr target="Zacos1"/>, <citedRange unit="entry">2754</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Biliothèque Nationale de France, Paris
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>11</citedRange>
-               </bibl>.
-                  </p>
+            <p>Biliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">11</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-                      Médailler Pontifical, Vatican, Rome,
-                      <bibl>
-                  <ptr target=""/>, <citedRange>13</citedRange>
-               </bibl>; </p>
-            <!--ajouter référence Laurent Vatican-->
-            <p>
-                  Musée de l'Ermitage, Saint-Péterbourg,
-                      <bibl>
-                  <ptr target=""/>, <citedRange>1042</citedRange>
-               </bibl>; </p>
-            <!--ajouter référence Sandrovskaja Sfragistika-->
-            <p>
-                      Dumbarton Oaks, Washington D.C.,
-                      <bibl>
-                  <ptr target="DOsealsOnline"/>, <citedRange>
-                     <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.3">BZS.1951.31.5.3 "Fogg 3"</ref>
-                  </citedRange>
-               </bibl>;</p>
+            <p>Médailler Pontifical, Vatican, Rome: <bibl><ptr target="Vatican"/>, <citedRange unit="entry">178</citedRange></bibl>.</p>
+           <p>Musée de l'Ermitage, Saint-Péterbourg, M-7935: <bibl><ptr target=""/>, <citedRange unit="entry">1042</citedRange></bibl>.</p>
+            <!--ajouter référence Sandrovskaja Sfragistika Sandrov V-->
+            <p>Dumbarton Oaks, Washington D.C., <bibl><ptr target="DOsealsOnline"/>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.3">BZS.1951.31.5.3 "Fogg 3"</ref></citedRange>
+               </bibl>.</p>
          </div>
          <div type="bibliography" subtype="discussion">
-            <p>
-               <bibl>
-                  <ptr target="PBW"/>, <citedRange unit="entry">
-                     <ref target="https://db.pbw.kcl.ac.uk/jsp/boulloterion.jsp?bKey=442">David 20103</ref>
-                  </citedRange>
-               </bibl>;</p>
-            <p>
-               <bibl>
-                  <ptr target=""/>
-                  <citedRange unit="page"> p. 151-160</citedRange>
-               </bibl>.<!--ajouter référence Laurent David Comnène-->
+            <p><bibl><ptr target=""/>, p. <citedRange unit="page">151-160</citedRange></bibl>.<!--ajouter référence Laurent David Comnène-->
                   </p>
          </div>
       </body>

@@ -110,7 +110,8 @@
                            <measure type="countermark" unit="clock"/>
                         </support>
                         <condition rend="wornEdge well-struck">
-                           <p>Fortement rogné sur le côté droit.</p>
+                           <p xml:lang="fr">Fortement rogné sur le côté droit.</p>
+                           <p xml:lang="en">Heavily trimmed on the right side.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
