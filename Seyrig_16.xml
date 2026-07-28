@@ -7,24 +7,20 @@
          <titleStmt>
             <title xml:lang="en">Seal of Marinos, epi tou koitonos and pinkernes of the emperor Romanos</title>
             <title xml:lang="fr">Sceau de Marinos, épi tou koitônos et pincerne de l’empereur Romain</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
                <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,7 +34,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="">
+               <person role="civil" gender="M">
                   <persName xml:lang="grc">
                      <forename>Μαρίνος</forename>
                   </persName>
@@ -48,8 +44,8 @@
                   <persName xml:lang="fr">
                      <forename>Marinos</forename>
                   </persName>
+                  <idno type="PmbZ" ana="https://www.degruyter.com/database/PMBZ/entry/PMBZ27134/html">Marinos 27134</idno>
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -64,8 +60,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">465</idno>
                   <altIdentifier xml:lang="en">
@@ -103,8 +99,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="wornEdge">
-                           <p>Rogné sur le pourtour; échancré aux orifices du canal, pressé et oblitéré en son centre; en voie d’oxydation.</p>
+                        <condition rend="wornEdge chipped corroded">
+                           <p xml:lang="fr">Rogné sur le pourtour; échancré aux orifices du canal, pressé et oblitéré en son centre; en voie d’oxydation.</p>
+                           <p xml:lang="en">Trimmed around the edges; notched at the openings of the channel; pressed and obliterated in the center; showing signs of oxidation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -126,26 +123,19 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0901"
                                notAfter="1000"
-                               evidence="epigraphy reign titulature historical_context"
-                               cert="high"><!-- historical_context con le tiret bas, autrement l'ordinateur les prend pour deux critères séparés -->
+                               evidence="epigraphy reign titulature historical-context"
+                               cert="high">
                         <seg xml:lang="en">10th C.</seg>
                         <seg xml:lang="fr">Xe s.</seg>
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -156,8 +146,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -167,12 +157,11 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">20</dim>
                               </dimensions>
-                              <p xml:lang="en">Cruciform monogram bearing an A or X at the centre of the cross, 
-                                            Ρ at the top, at the base, Μ at the left, and Ι-Ν ligatured at the right of the horizontal arm; circular invocative legend</p>
-                              <!-- regarder explication de la template! -->
-                              <p xml:lang="fr">Monogramme cruciforme portant un A ou X au
-                                            centre de la croix,  Ρ au sommet, à la base, Μ à gauche, et Ι-Ν ligaturés à droite du bras
-                                            horizontal; légende invocative circulaire</p>
+                              <p xml:lang="en">Cruciform monogram bearing an α or χ at the centre of the cross, 
+                                 ρ at the top, ω at the base, Μ at the left, and  ligatured at the right of the horizontal arm; circular invocative legend.</p>
+                              <p xml:lang="fr">Monogramme cruciforme portant un α ou χ au
+                                 centre de la croix, ρ au sommet, ω à la base, Μ à gauche, et  ligaturés à droite du bras
+                                            horizontal; légende invocative circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -183,9 +172,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r"/>
-                              <!--La partie descriptive pose problème car je n'arrive pas à établir la transcription via Athena Ruby-->
-                              <figDesc n="decoR">Cercle de grènetis; décor de fleurons dans les cantons</figDesc>
+                              <!--<figDesc ana="" n="r"/>-->
+                              <figDesc n="decoR" xml:lang="fr">Cercle de grènetis; décor de fleurons dans les cantons.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots; decoration of fleurons in the corners of the cruciform monogram.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -204,10 +193,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -217,20 +204,23 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">20</dim>
                               </dimensions>
-                              <p xml:lang="en">Legend of 6 lines and circular legend</p>
-                              <p xml:lang="fr">Légende sur 6 lignes et légende circulaire</p>
+                              <p xml:lang="en">Legend of 6 lines and circular legend.</p>
+                              <p xml:lang="fr">Légende sur 6 lignes et légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
                      <handDesc>
                         <handNote n="v">
+                           <seg xml:lang="fr">Noter l’abréviation exceptionnelle après le θ de θεωφυλάκτου.</seg>
+                           <seg xml:lang="en">Note the exceptional abbreviation marker after the θ in θεωφυλάκτου.</seg>
                                 </handNote>
                      </handDesc>
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Une croisette précède la légende sur la même ligne; cercle de grènetis.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Une croisette précède la légende sur la même ligne; cercle de grènetis.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend; border of dots.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -250,66 +240,85 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-28" who="#PE">Review and update of record</change>
          <change when="2022-06-27" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-06-25" who="#AS">First revision of the XML record</change>
          <change when="2022-06-13" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig16_1.jpg">
+               <desc xml:lang="en">Seyrig 16 (Inv. 465), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 16 (Inv. 465), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig16_2.jpg">
+               <desc xml:lang="en">Seyrig 16 (Inv. 465), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 16 (Inv. 465), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
                       <ab>
                           <lb n="1"/><expan><ex>Μαρίνος</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="">
-                       <lb n="1"/>Κύριε βοήθει
+                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
+                    <ab ana="dat">
+                       <lb n="2"/><rs type="invocation" ref="#inv004">Κ<supplied reason="lost">ύ</supplied>ριε βο<supplied reason="lost">ήθει</supplied> <gap reason="lost" extent="unknown" unit="character"/></rs>
+                    </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
-                                  <lb n="1"/>+ ἐπὶ τοῦ 
-                                  
-                                  <lb n="2"/><expan><abbr>θ</abbr><ex>ε</ex><abbr>ωφυλάκ</abbr><ex>του</ex></expan>
-                                 
-                                  <lb n="3"/><expan><abbr>κοιτ</abbr><ex>ῶνος</ex></expan> <expan><abbr><am><g type="kai1"/></am></abbr><ex>καὶ</ex></expan> ἐπην
-                                      
-                                  <lb n="4" break="no"/>κέρνῃ Ῥομα
-                                      
-                                      <lb n="5" break="no"/>νοῦ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>φιλο
-                          
-                                     <lb n="6" break="no"/>χ</abbr><ex>ρίστο</ex><abbr>υ</abbr></expan> <expan><abbr>δεσπ</abbr><ex>ότου</ex></expan>
-              
-                               </ab>
-<div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="">
-                        <lb n="1"/><expan><abbr><am><g type="kai1"/></am></abbr><ex>καὶ</ex></expan> <expan>πριμικ<supplied reason="lost">ηρίῳ</supplied></expan> <supplied reason="lost">τοῦ</supplied> <expan><supplied reason="lost"><abbr>β</abbr><ex>ασιλικοῦ</ex></supplied></expan> <expan><supplied reason="lost">β</supplied>εστρη<supplied reason="lost">αρίου</supplied></expan> ou <expan><supplied reason="lost">ὀ</supplied>στη<supplied reason="lost">αρίῳ</supplied></expan>
-                    </div>
-                  </div>
-                       </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
-                      <ab>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab ana="dat">
+                          <lb n="3"/>+ <rs type="office" subtype="civil" ref="#of0068">ἐπὶ τοῦ
+                          <lb n="4"/><expan><abbr>θ</abbr><ex>ε</ex><abbr>ωφυλάκ</abbr><ex>του</ex></expan>               
+                          <lb n="5"/><expan><abbr>κοιτ</abbr><ex>ῶνος</ex></expan></rs> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0065">ἐπην
+                          <lb n="6" break="no"/>κέρνι</rs> Ῥομα                    
+                          <lb n="7" break="no"/>νοῦ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>φιλο 
+                          <lb n="8" break="no"/>χ</abbr><ex>ρίστο</ex><abbr>υ</abbr></expan> <expan><abbr>δεσπ</abbr><ex>ότου</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+<div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc"><!--ADD ostiarion in institutions.xml-->
+   <ab>
+                        <lb n="9"/><supplied reason="lost">+ <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#of0163">πριμικ<supplied reason="lost">ηρίῳ</supplied></rs> <supplied reason="lost">τοῦ <expan><abbr>β</abbr><ex>ασιλικοῦ</ex></expan></supplied> <app type="alternative"><lem><rs type="institution" ref="#org0009"><supplied reason="lost">β</supplied>εστη<supplied reason="lost">αρίου</supplied></rs></lem> <rdg><supplied reason="lost">ὀ</supplied>στη<supplied reason="lost">αρίῳ</supplied></rdg></app>
+   </ab>
+                  </div>
+                       </div>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
                       <ab>
+                         <lb n="1"/>μ-α-ρ--ω
+                      </ab>
+                  </div>
+                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
+                      <ab>
+                         <lb n="2"/>κ̣.ρ̣ιε̣ο̣....
+                      </ab>
+                  </div>
+            <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab>
+                         <lb n="3"/>επιτ 
+                         <lb n="4"/>θ·υλκ, 
+                         <lb n="5"/>κοιτ,κ·επην 
+                         <lb n="6"/>κερνιρομα
+                         <lb n="7"/>νο̣υτ,φιλο 
+                         <lb n="8"/>χυεσπ·
+                      </ab>
+                  </div>
+            <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc">
+                      <ab>
+                         <lb n="9"/>..πριμΙ̣κ̣ ... σ̣τ̣η̣
                       </ab>
                   </div>
               </div>
@@ -317,47 +326,29 @@
             <p/>
             <!-- dans l'apparat, avec référence à l'édition du monogramme qui est à faire: "Solution : Marinos ; Marianos semble moins vraisemblable en raison de la ligature Ι-Ν ." -->
             <listApp>
-               <app loc="2"><!-- numéro de ligne à changer après avoir complété l'édition de la légende -->
-                  <note>Noter l’abréviation exceptionnelle après le θ de θεωφυλάκτου.</note>
+               <app loc="1"><note>Solution : Marinos ; Marianos semble moins vraisemblable en raison de la ligature </note></app>
+               <app loc="5"><lem>κ·</lem> <note>Interprétation alternative de l'abréviation καί en comparaison avec la lecture antérieure de S par <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">16</citedRange></bibl></note>
                </app>
             </listApp>
          </div>
-         <div type="translation"><!-- à compléter --><!-- j'ai ajouté les éléments de l'avers mais la légende autour de la légende du revers, je ne suis pas sûr de comment les ajouter à la traduction-->
-            <p>Κύριε βοήθει Μαρίνος /+ ἐπὶ τοῦ θεωφυλάκτου κοιτῶνος καὶ ἐπηνκέρνῃ Ῥομανοῦ τοῦ φιλοχρίστου δεσπότου.</p>
-            <p xml:lang="en">Lord help Marinos, keeper of the God-guarded bedchamber and pinkernes of the Christ-loving despot Romanos.</p>
-            <p xml:lang="fr">Seigneur aide Marinos, <hi rend="italic">épi tou koitônos</hi> gardé par Dieu et pincerne du despote Romain qui aime Dieu.</p>
+         <div type="translation">
+            <p>Κύριε βοήθει ... Μαρίνῳ / + ἐπὶ τοῦ θεωφυλάκτου κοιτῶνος καὶ ἐπηνκέρνῃ Ῥομανοῦ τοῦ φιλοχρίστου δεσπότου καὶ πριμικηρίῳ τοῦ βασιλικοῦ βεστηαρίου/ὀστηαρίῳ.</p>
+            <p xml:lang="en">Lord help ... Marinos, keeper of the God-guarded bedchamber and pinkernes of the Christ-loving despot Romanos and primikerios of the imperial vestiarion/ostiarion.</p>
+            <p xml:lang="fr">Seigneur aide ... Marinos, <hi rend="italic">épi tou koitônos</hi> gardé par Dieu et pincerne du despote Romain qui aime Dieu et primicier du vestiarion/ostiarion impérial.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p><!--Laurent a voulu
-identifier Romain avec Lécapéne, mais l’empereur cité peut être aussi bien Romain II
-Porphyrogénète que Romain Ier Lécapéne. Le style du droit paraît néanmoins dater plutôt
-de la seconde moitié du Xe siècle; il s’agirait donc de Romain II.--></p>
+            <p>Laurent a voulu identifier Romain avec Lécapéne, mais l’empereur cité peut être aussi bien Romain II Porphyrogénète que Romain Ier Lécapéne. Le style du droit paraît néanmoins dater plutôt de la seconde moitié du Xe siècle; il s’agirait donc de Romain II.</p>
          </div>
          <div type="commentary" subtype="footnotes">
               </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                          Biliothèque Nationale de France, Paris,
-                          <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>16</citedRange>
-               </bibl>.
-                      </p>
+            <p>Biliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">16</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-                          Dumbarton Oaks, Washington D.C.,
-                          <bibl>
-                  <ptr target="LaurentCorpus2"/>, <citedRange>716 (Fogg 318 et 319)</citedRange>
-               </bibl>. </p>
+            <p>Dumbarton Oaks, Washington D.C., BZS.1951.31.5.318, BZS.1951.31.5.319 = <bibl><ptr target="LaurentCorpus2"/>, <citedRange unit="entry">716 (Fogg 318 et 319)</citedRange></bibl>, <bibl><ptr target="DOsealsOnline"/>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.318">BZS.1951.31.5.318</ref></citedRange> et <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.319">BZS.1951.31.5.319</ref></citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="discussion">
-            <p>
-               <bibl>
-                  <ptr target="PmbZOnline"/>, <citedRange unit="entry">
-                     <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ27134/html">Marinos</ref>
-                  </citedRange>
-               </bibl>.
-                  </p>
+            <p/>
          </div>
       </body>
    </text>

@@ -5,26 +5,24 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Seal of Leo Pamphilos, spatharocandidatos , epi tou Pantheou</title>
+            <title xml:lang="en">Seal of Leo Pamphilos, spatharocandidatos, epi tou Pantheou</title>
             <title xml:lang="fr">Sceau de Léon Pamphilos, spatharocandidat, épi tou Panthéou</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
                <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,10 +36,10 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="">
+               <person role="civil" gender="M">
                   <persName xml:lang="grc">
                      <forename>Λέων</forename>
-                     <surname/>
+                     <surname>Πάμφιλος</surname>
                   </persName>
                   <persName xml:lang="en">
                      <forename>Leo</forename>
@@ -51,8 +49,8 @@
                      <forename>Léon</forename>
                      <surname>Pamphilos</surname>
                   </persName>
+                  <!--<idno/>-->
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -67,8 +65,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">496</idno>
                   <altIdentifier xml:lang="en">
@@ -106,8 +104,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="obliterated">
-                           <p>Profondément entaillé au droit ; pressé et oblitéré, à droite et à gauche, sur les deux faces ; sinon belle gravure; à l'avers, l'inscription en colonne de part et d'autre de l'effigie est perdue.</p>
+                        <condition rend="obliterated well-struck crushed">
+                           <p xml:lang="fr">Profondément entaillé au droit ; pressé et oblitéré, à droite et à gauche, sur les deux faces ; sinon belle gravure; à l'avers, l'inscription en colonne de part et d'autre de l'effigie est perdue.</p>
+                           <p xml:lang="en">Heavily dented on the obverse; obliterated on the outer parts on both obverse and reverse; otherwise a fine engraving; on the obverse, the columnar inscription on either side of the depiction is missing.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -138,12 +137,11 @@
                                cert="high"><!-- comment l'écrire -->
                         <seg xml:lang="en">11th C., central third</seg>
                         <seg xml:lang="fr">XIe s., deuxième tiers</seg>
-                        <!-- il faut surveiller la cohérence des critères: il y avait "parallèle", mais aucun parallèle n'est mentionné -->
                      </origDate>
                   </origin>
-                  <acquisition><!-- à compléter -->
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                  <acquisition>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -154,8 +152,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -177,9 +175,11 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r">Buste de saint évêque à barbe pointue (Nicolas? ou Luc l’Êvangéliste?), le
+                              <figDesc ana="male person saint St-Luke St-Nicholas bishop blessing bust gospel" n="r" xml:lang="fr">Buste de saint évêque à barbe pointue (Nicolas? ou Luc l’Êvangéliste?), le
                                             phélonion décoré sur les épaules d’un losange de perles, bénissant et tenant le livre des Évangiles.</figDesc>
-                              <figDesc n="decoR">Bordure de grènetis</figDesc>
+                              <figDesc ana="male person saint St-Luke St-Nicholas bishop blessing bust gospel" n="r" xml:lang="en">Bust of a bishop saint with a pointed beard (Nicholas? Or Luke the Evangelist?), blessing and holding the gospel; the felonion is adorned with a diamond-shaped pattern of pearls on the shoulders.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Bordure de grènetis.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -198,10 +198,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -211,8 +209,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">20</dim>
                               </dimensions>
-                              <p xml:lang="en">Legend of 6 lines</p>
-                              <p xml:lang="fr">Légende sur 6 lignes</p>
+                              <p xml:lang="en">Legend of 6 lines.</p>
+                              <p xml:lang="fr">Légende sur 6 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -223,8 +221,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Avant la légende, sur une ligne séparée, une perle accostée de deux tirets; légende précédée d’une croisette, ici disparue; la dernière ligne est accostée de deux tirets</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Avant la légende, sur une ligne séparée, une perle accostée de deux tirets; légende précédée d’une croisette, ici disparue; la dernière ligne est accostée de deux tirets.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Above the legend, on a separate line, a dot between two decorative lines; cross at the beginning of the legend, here not preserved; the last line is between two decorative lines.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -244,58 +243,68 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-28" who="#PE">Review and update of record</change>
          <change when="2022-06-27" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-06-25" who="#NB">First revision of the XML record</change>
          <change when="2022-06-09" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig14_1.jpg">
+               <desc xml:lang="en">Seyrig 14 (Inv. 496), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 14 (Inv. 496), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig14_2.jpg">
+               <desc xml:lang="en">Seyrig 14 (Inv. 496), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 14 (Inv. 496), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang=""><!-- l'absence de texte sur le sceau et dans l'édition n'implique pas absence de tags -->
-                      <cb n="a"/><gap reason="lost" extent="unknown" unit="character"/><!-- mal visualisé après transformation! -->
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"><!-- l'absence de texte sur le sceau et dans l'édition n'implique pas absence de tags -->
+                     <ab>
+                     <cb n="a"/><gap reason="lost" extent="unknown" unit="character"/>
                       <cb n="b"/><gap reason="lost" extent="unknown" unit="character"/>
+                     </ab> 
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
-                                  <lb n="1"/><supplied reason="lost">+</supplied> <expan><abbr>Λέ</abbr><ex>ω</ex><abbr>ν</abbr></expan><!-- attention aux espaces blancs! -->
-                               
-                                  <lb n="2"/><expan><supplied reason="lost">σ</supplied><abbr>παθα</abbr><supplied reason="lost">ρ<ex>ο</ex></supplied>
-                                 
-                                  <lb n="3" break="no"/><abbr>κανδ</abbr><ex>ι</ex><abbr>δ</abbr><ex>ᾶτος</ex></expan><!-- le résultat change à peine (le trait est à l'intérieur des crichets, ce qui est correct), l'idée est que l'expan prenne tout le mot avec une ou plusieurs expanstion d'abbreviations, me^me quand le mot est sur deux lignes: il faut toukours faire référence aux Guidelines -->  
-                          <supplied reason="lost"><expan><abbr><am><g type="kai1"/></am></abbr><ex>καὶ</ex></expan></supplied> <supplied reason="lost">ἐ</supplied><!-- pas d'expan -->
-                                      
-                                  <lb n="4" break="no"/> πὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>Παν</abbr><supplied reason="lost"><abbr>θ</abbr></supplied><supplied reason="lost"><ex>έου</ex></supplied></expan>
-                                      
-                                  <lb n="5"/>ὁ <expan><abbr>Πάμ</abbr><supplied reason="lost">φι</supplied>
-                                     <lb n="6" break="no"/><abbr>λ</abbr><ex>ος</ex></expan>
-                               </ab>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab ana="nom">
+                      <lb n="1"/><supplied reason="lost">+</supplied> Λέον
+                      <lb n="2"/><rs type="dignity" ref="#d0080"><expan><abbr><supplied reason="lost">σ</supplied>παθα</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>ο</ex></supplied>   
+                      <lb n="3" break="no"/><abbr>κανδ</abbr><ex>ι</ex><abbr>δ</abbr><ex>ᾶτος</ex></expan></rs> <supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#of0258"><supplied reason="lost">ἐ</supplied>
+                      <lb n="4" break="no"/>πὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>Παν</abbr><supplied reason="lost"><abbr>θ</abbr><ex>έου</ex></supplied></expan></rs>
+                      <lb n="5"/>ὁ <expan><abbr>Πάμ<supplied reason="lost">φι</supplied>
+                      <lb n="6" break="no"/>λ</abbr><ex>ος</ex></expan>
+                      </ab>
  </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
                       <ab>
+                         <cb n="a"/>...
+                         <cb n="b"/>...
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab>
+                         <lb n="0"/>  
+                         <lb n="1"/>.λεον̣ 
+                         <lb n="2"/>.παθα. 
+                         <lb n="3"/>κ̣αν,..
+                         <lb n="4"/>Π̣ιτ,παν̣. 
+                         <lb n="5"/>Οπαμ̣..
+                         <lb n="6"/>Λ,
                       </ab>
                   </div>
               </div>
@@ -313,7 +322,7 @@
             <p xml:lang="fr">Léon Pamphilos, spatharocandidat et <hi rend="italic">épi tou Panthéou</hi>.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p><!--Les Pamphiloi sont bien représentés en sigillographie à partir
+            <p>Les Pamphiloi sont bien représentés en sigillographie à partir
 du XIe siècle avec Michel  [1], Léon  [2] et Dèmètrios, protospathaire et juge de l’Hippodrome [3]. Léon, titulaire de notre sceau, doit être distingué de son homonyme cité
 précédemment. Il est le plus ancien représentant actuellement connu de la lignée, car l’autre
 Léon vécut au XIIIe siècle.
@@ -326,34 +335,26 @@ notable demande que son gendre soit privé par le basileus de la dignité (<hi r
 dans l’une des acceptions que nous venons d’évoquer et non le chef du corps, comme on
 a parfois tendance à considérer tout personnage ainsi qualifié. En effet, les sources appellent
 le chef, archonte du Panthéon, titre que portait Michel le Paphlagonien, en 1034, avant son
-accession au trône [6].--></p>
+accession au trône [6].</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">
-                   <!--   [1]. SZEMIOTH - WASILEWSKI, n° 91.-->
-                  </p>
+               [1]. <bibl><ptr target="Warsaw1969"/>, n° <citedRange unit="entry">91</citedRange></bibl>.</p>
             <p xml:id="footnote-2">
-                      <!--[2]. LAURENT, <hi rend="italic">Bulles métriques</hi> STAVRAKOS, 201.-->
-                  </p>
+<!--                      [2]. LAURENT, <hi rend="italic">Bulles métriques</hi> STAVRAKOS, 201.
+-->                  </p>
             <p xml:id="footnote-3">
-                      <!--[3]. LAURENT, <hi rend="italic">Corpus</hi>, II, 869.-->
-                  </p>
+               [3]. <bibl><ptr target="LaurentCorpus2"/>, <citedRange unit="entry">869</citedRange></bibl>.</p>
             <p xml:id="footnote-4">
-                     <!-- [4]. AHRWEILER, <hi rend="italic">Administration</hi>, p. 28 et note 9.-->
-                  </p>
+               [4]. <bibl><ptr target="Glykatzi-Ahrweiler1960"/>, p. <citedRange unit="page">28</citedRange> et <citedRange unit="line">note 9</citedRange></bibl>.</p>
             <p xml:id="footnote-5">
                      <!-- [5]. XVII, § 19.-->
                   </p>
             <p xml:id="footnote-6">
-                      <!--[6]. SKYLITZÈS, p. 390.-->
-                  </p>
+               [6]. <bibl><ptr target="ScylitzaeSynopsis1973"/>, p. <citedRange unit="page">390</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>   
-                      Biliothèque Nationale de France, Paris,
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>14</citedRange>
-               </bibl>.
+            <p>Biliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">14</citedRange></bibl>.
                   </p>
          </div>
       </body>
