@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of Nikolaos, apo eparchon</title>
             <title xml:lang="fr">Sceau de Nicolas, apo éparchôn</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
                <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="">
+               <person role="civil" gender="M">
                   <persName xml:lang="grc">
                      <forename>Νικόλαος</forename>
                   </persName>
@@ -48,9 +46,9 @@
                   <persName xml:lang="fr">
                      <forename>Nicolas</forename>
                   </persName>
+                  <idno type="PmbZ" ana="https://www.degruyter.com/database/PMBZ/entry/PMBZ16727/html">Nikolaos 5543</idno>
                </person>
-               <idno/>
-            </listPerson>
+               </listPerson>
             <msDesc>
                <msIdentifier>
                   <country>
@@ -64,8 +62,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">300</idno>
                   <altIdentifier xml:lang="en">
@@ -75,9 +73,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires
-                            </seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -104,9 +101,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="notCentered">
-                           <p>Décentré ; bord inférieur très relevé ; tiers rogné dans toute la partie supérieure ; lettres empâtées.
-                                        </p>
+                        <condition rend="notCentered worn-edge obliterated">
+                           <p xml:lang="fr">Décentré ; bord inférieur très relevé ; tiers rogné dans toute la partie supérieure ; lettres empâtées.</p>
+                           <p xml:lang="en">Struck off-center; lower edge sharply raised; one-third trimmed along the entire upper part; letters smudged.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -128,14 +125,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0681"
                                notAfter="0700"
@@ -145,9 +135,9 @@
                         <seg xml:lang="fr">VIIe s., fin</seg>
                      </origDate>
                   </origin>
-                  <acquisition><!-- ici et dans tous les fichiers: à compléter -->
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                  <acquisition>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -158,8 +148,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -169,9 +159,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">19</dim>
                               </dimensions>
-                              <p xml:lang="en">Cruciform Marian monogram of type Laurent I</p>
-                              <!-- à compléter -->
-                              <p xml:lang="fr">Monogramme marial cruciforme du type Laurent I.</p>
+                              <p xml:lang="en">Cruciform invocative marian monogram of type Laurent I above iconography.</p>
+                              <p xml:lang="fr">Monogramme marial cruciforme du type Laurent I au-dessus de l'iconographie.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -182,9 +171,11 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r">Aigle de face, regardant vers la droite, ailes
+                              <figDesc ana="animal bird eagle" n="r" xml:lang="fr">Aigle de face, regardant vers la droite, ailes
                                             déployées; entre les ailes, monogramme.</figDesc>
-                              <figDesc n="decoR">Couronne de feuillage.</figDesc>
+                              <figDesc ana="animal bird eagle" n="r" xml:lang="en">Eagle, facing, looking to the right with outstretched wings; between the wings, a cruciform monogram.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Couronne de feuillage.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -203,10 +194,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -216,8 +205,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">19</dim>
                               </dimensions>
-                              <p xml:lang="en">Legend of 4 lines</p>
-                              <p xml:lang="fr">Légende sur 4 lignes</p>
+                              <p xml:lang="en">Legend of 4 lines.</p>
+                              <p xml:lang="fr">Légende sur 4 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -228,8 +217,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Couronne de feuillage; une croisette précède le début de la légende sur une même ligne.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Couronne de feuillage; une croisette précède le début de la légende sur une même ligne.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Wreath border; cross at the beginning of the legend on the same line.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -249,62 +239,61 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-07-29" who="#PE">Review and update of record</change>
          <change when="2022-06-27" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-06-26" who="#AS">First revision of the XML record</change>
          <change when="2022-06-16" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig20_1.jpg">
+               <desc xml:lang="en">Seyrig 20 (Inv. 300), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 20 (Inv. 300), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig20_2.jpg">
+               <desc xml:lang="en">Seyrig 20 (Inv. 300), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 20 (Inv. 300), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" xml:lang="">
-                      
-                      <ab>
-                    <rs type="invocation" ref="invocation.xml#Θεοτόκε1">
-                          <lb n="1"/> <expan><ex>Θεοτόκε βοήθει</ex></expan><!-- à tagger comme monogramme -->
-
-                    </rs>
-                      </ab>
-                      
-                  </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
-                                  <lb n="2"/>+ Νικ
-                               
-                                  <lb n="3" break="no"/><supplied reason="omitted">ο</supplied>λάῳ ἀ
-                                 
-                                  <lb n="4" break="no"/>πὸ ἐπάρ
-                                      
-                                  <lb n="5" break="no"/>χων
-                        
-
-                               </ab>
-                  </div>
-                  </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
-                      <ab>
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
+                 <ab>
+                    <lb n="1"/><rs type="invocation" ref="#inv001"><expan><ex>Θεοτόκε βοήθει</ex></expan></rs>
+                 </ab>
+       </div>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab ana="dat">
+                            <lb n="2"/><supplied reason="lost">+</supplied> Νικ
+                            <lb n="3" break="no"/><supplied reason="lost">ολ</supplied>άῳ <rs type="dignity" ref="#d0007">ἀ
+                            <lb n="4" break="no"/>πὸ ἐπάρ
+                            <lb n="5" break="no"/>χων</rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  </div>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
                       <ab>
+                         <lb n="1"/>Η-ΤΟ-Κ-Β-Θ
+                      </ab>
+                  </div>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab>
+                         <lb n="2"/>.ν̣ικ 
+                         <lb n="3"/>..αωα 
+                         <lb n="4"/>π̣οεπαρ 
+                         <lb n="5"/>χων
                       </ab>
                   </div>
               </div>
@@ -330,47 +319,15 @@ collection Shaw 563.--></p>
                   </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Biliothèque Nationale de France, Paris
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>20</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">20</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-                      Bibliothèque de l’Académie Roumaine, Bucarest,
-                      <bibl>
-                  <ptr target="Orghidan"/>, <citedRange>296</citedRange>
-               </bibl>; </p>
-            <p>
-                      Dumbarton Oaks, Washington D.C.,
-                      <bibl>
-                  <ptr target="Zacos1"/>, <citedRange>664</citedRange>
-               </bibl>; </p>
-            <p>
-                      Dumbarton Oaks, Washington D.C.,
-                      <bibl>
-                  <ptr target="DOsealsOnline"/>, <citedRange>
-                     <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.5407/view"/>
-                  </citedRange>
-               </bibl>;</p>
-            <p>
-                      Dumbarton Oaks, Washington D.C.,
-                      <bibl>
-                  <ptr target="DOsealsOnline"/>, <citedRange>
-                     <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.718/view">BZS.1958.106.718 (DO 60.123.9-318)</ref>
-                  </citedRange>
-               </bibl>.</p>
+            <p>Bibliothèque de l’Académie Roumaine, Bucarest, <bibl><ptr target="Orghidan"/>, <citedRange unit="entry">296</citedRange></bibl>;</p>
+            <p><bibl><ptr target="Zacos1"/>, <citedRange unit="entry">664a</citedRange></bibl>;</p>
+            <p>Dumbarton Oaks, Washington D.C., BZS.1958.106.5407, BZS.1958.106.723, BZS.1958.106.709 et BZS.1958.106.718 = <bibl><ptr target="DOsealsOnline"/>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.5407/view">BZS.1958.106.5407</ref></citedRange>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.723">BZS.1958.106.723</ref></citedRange>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.709">BZS.1958.106.709</ref></citedRange> et <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.718/view">BZS.1958.106.718</ref></citedRange></bibl> (= <bibl><ptr target="Zacos1"/>, <citedRange unit="entry">664b</citedRange></bibl>).</p>
          </div>
          <div type="bibliography" subtype="discussion">
-            <p>
-               <bibl>
-                  <ptr target="PmbZOnline"/>, <citedRange unit="entry">
-                     <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16727/html">Nikolaos 5543</ref>
-                  </citedRange>
-               </bibl>.
-                  </p>
+            <p/>
          </div>
       </body>
    </text>
