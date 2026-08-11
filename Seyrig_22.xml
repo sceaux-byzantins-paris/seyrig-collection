@@ -11,7 +11,7 @@
             <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
             <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
             <funder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
         </funder>
             <principal>Alessio Sopracasa</principal>
@@ -36,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="M">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Σιλουανός</forename>
                   </persName>
@@ -285,8 +285,8 @@
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc">
                       <ab>
                          <lb n="1"/>σ̣ι̣ 
-                         <lb n="2"/>λουα 
-                         <lb n="3"/>ν̣ο̣υ 
+                         <lb n="2"/>λοα 
+                         <lb n="3"/>ν̣ο̣ 
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
@@ -306,13 +306,13 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>+ Σιλουάνου / κανδιδἁτου.</p>
+            <p>+ Σιλουάνου / κανδιδάτου.</p>
             <p xml:lang="en">(Seal of) Silvanos, kandidatos.</p>
             <p xml:lang="fr">(Sceau de) Silvanos, candidat.</p>
          </div>
          <div type="commentary" subtype="text">
             <p><!--La présence de croix encadrant
-l’inscription et la forme des lettres <!-\-(Y pour V par ex.)-\-> <!-\-Athena Ruby-\-> sont caractéristiques de l’époque [1].--></p>
+l’inscription et la forme des lettres ( pour Υ par ex.) sont caractéristiques de l’époque [1].--></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">

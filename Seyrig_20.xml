@@ -11,7 +11,7 @@
             <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
             <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
             <funder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
         </funder>
             <principal>Alessio Sopracasa</principal>
@@ -36,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="M">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Νικόλαος</forename>
                   </persName>
