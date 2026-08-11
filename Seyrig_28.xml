@@ -5,8 +5,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Seal of Plotinos, kandidatos and imperial spatharios</title>
-            <title xml:lang="fr">Sceau de Plotin, candidat et spathaire impérial</title>
+            <title xml:lang="en">Seal of Floros, hypatos</title>
+            <title xml:lang="fr">Sceau de Flôros, hypatos</title>
             <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
             <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
             <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
@@ -21,13 +21,12 @@
                <seg xml:lang="en">Digital enhancement</seg>
                <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
             <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
-            <idno type="filename">Seyrig_23</idno>
-            <idno type="SigiDocID">s-B2eHwR</idno>
+            <idno type="filename">Seyrig_28</idno>
+            <idno type="SigiDocID">s-IZbIjc</idno>
             <idno type="sequence"/>
             <date/>
             <availability>
@@ -38,17 +37,17 @@
             <listPerson type="issuer">
                <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
-                     <forename>Πλωτίνος</forename>
+                     <forename>Φλόρος</forename>
                   </persName>
                   <persName xml:lang="en">
-                     <forename>Plotinos</forename>
+                     <forename>Floros</forename>
                   </persName>
                   <persName xml:lang="fr">
-                     <forename>Plotin</forename>
+                     <forename>Flôros</forename>
                   </persName>
                   <!--<idno/>-->
                </person>
-            </listPerson>
+               </listPerson>
             <msDesc>
                <msIdentifier>
                   <country>
@@ -65,7 +64,7 @@
                      <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
                      <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
-                  <idno type="inv-nr-current">352</idno>
+                  <idno type="inv-nr-current">353</idno>
                   <altIdentifier xml:lang="en">
                      <repository/>
                      <idno type="inv-nr-former"/>
@@ -94,16 +93,16 @@
                               <seg xml:lang="fr">Plomb</seg>
                            </material>
                            <dimensions type="support" unit="mm">
-                              <dim type="diameter">24</dim>
+                              <dim type="diameter">29</dim>
                            </dimensions>
                            <measure type="weight" unit="g"/>
                            <measure type="axis" unit="clock"/>
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="chipped well-struck">
-                           <p xml:lang="fr">Échancrure aux orifices du canal; bien centré; lettres bien frappées.</p>
-                           <p xml:lang="en">Chipped at the channel openings; well centered; letters well struck.</p>
+                        <condition rend="not-centered obliterated">
+                           <p xml:lang="fr">Décentré vers la gauche et rogné sur la droite ; profonde entaille sur la gauche du revers.</p>
+                           <p xml:lang="en">Struck off-center to the left and effaced on the right; deep notch on the left side on the reverse.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -117,7 +116,7 @@
                               <seg xml:lang="fr">Ronde</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc">m-Vi8oht</idno>
+                              <idno type="SigiDoc">m-TcLLtb</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -127,12 +126,12 @@
                   <origin>
                      <origPlace/>
                      <origDate type="analysis"
-                               notBefore="0601"
+                               notBefore="0681"
                                notAfter="0700"
-                               evidence="prosopography titulature parallel"
+                               evidence="iconography titulature epigraphy"
                                cert="high">
-                        <seg xml:lang="en">7th C.</seg>
-                        <seg xml:lang="fr">VIIe s.</seg>
+                        <seg xml:lang="en">7th C., end</seg>
+                        <seg xml:lang="fr">VIIe s., fin</seg>
                      </origDate>
                   </origin>
                   <acquisition>
@@ -157,10 +156,10 @@
                         <layoutDesc>
                            <layout n="r">
                               <dimensions type="written" unit="mm">
-                                 <dim type="diameter">19</dim>
+                                 <dim type="diameter">24</dim>
                               </dimensions>
-                              <p xml:lang="en">Legend of 4 lines.</p>
-                              <p xml:lang="fr">Légende sur 4 lignes.</p>
+                              <p xml:lang="en">Cruciform invocative marian monogram of type Laurent V above iconography.</p>
+                              <p xml:lang="fr">Monogramme marial cruciforme du type Laurent V au-dessus de l'iconographie.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -171,9 +170,11 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <!--<figDesc ana="" n="r"/>-->
-                              <figDesc n="decoR" xml:lang="fr">Couronne de feuillage; avant la légende, sur une ligne séparée, une croisette.</figDesc>
-                              <figDesc n="decoR" xml:lang="en">Wreath border; above the legend, on a separate line, a cross.</figDesc>
+                              <figDesc ana="animal bird eagle" n="r" xml:lang="fr">Aigle de face, regardant vers la droite, ailes
+                                            déployées; entre les ailes, monogramme.</figDesc>
+                              <figDesc ana="animal bird eagle" n="r" xml:lang="en">Eagle, facing, looking to the right with outstretched wings; between the wings, a cruciform monogram.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Couronne de feuillage.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -201,10 +202,10 @@
                         <layoutDesc>
                            <layout n="v">
                               <dimensions type="written" unit="mm">
-                                 <dim type="diameter">19</dim>
+                                 <dim type="diameter">24</dim>
                               </dimensions>
-                              <p xml:lang="en">Legend of 4 lines.</p>
-                              <p xml:lang="fr">Légende sur 4 lignes.</p>
+                              <p xml:lang="en">Legend of 3 lines.</p>
+                              <p xml:lang="fr">Légende sur 3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -216,8 +217,8 @@
                         <decoNote>
                            <figure>
                               <!--<figDesc ana="" n="v"/>-->
-                              <figDesc n="decoV" xml:lang="fr">Couronne de feuillage; avant la légende, sur une ligne séparée, une croisette.</figDesc>
-                              <figDesc n="decoV" xml:lang="en">Wreath border; above the legend, on a separate line, a cross.</figDesc>
+                              <figDesc n="decoV" xml:lang="fr">Couronne de feuillage; avant et après la légende, sur deux lignes séparées, une croisette ; la seconde étant accostée de deux fleurons.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Wreath border; above and below the legend, on separate lines, a cross; the second one between two fleurons.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -237,28 +238,25 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <change when="2026-08-11" who="#PE">Review and update of record</change>
-         <change when="2022-06-28" who="#NB">First revision of the XML record</change>
-         <change when="2022-06-27" who="#AS">First revision of the XML record</change>
-         <change when="2022-06-16" who="#NB">Creation of the XML record</change>
+         <change when="2026-08-11" who="#PE">Creation of XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic type="photo" url="Seyrig23_1.jpg">
-               <desc xml:lang="en">Seyrig 23 (Inv. 352), obverse.</desc>
-               <desc xml:lang="fr">Seyrig 23 (Inv. 352), avers.</desc>
+            <graphic type="photo" url="Seyrig28_1.jpg">
+               <desc xml:lang="en">Seyrig 28 (Inv. 353), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 28 (Inv. 353), avers.</desc>
             </graphic>
          </surface>
       </surfaceGrp>
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic type="photo" url="Seyrig23_2.jpg">
-               <desc xml:lang="en">Seyrig 23 (Inv. 352), reverse.</desc>
-               <desc xml:lang="fr">Seyrig 23 (Inv. 352), revers.</desc>
+            <graphic type="photo" url="Seyrig28_2.jpg">
+               <desc xml:lang="en">Seyrig 28 (Inv. 353), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 28 (Inv. 353), revers.</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -266,69 +264,59 @@
    <text>
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve">
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc">
-              <ab ana="gen">
-               <lb n="1"/>Πλου
-               <lb n="2" break="no"/>τίνου 
-               <lb n="3"/><rs type="dignity" ref="#d0030"><expan><abbr>κανδι
-               <lb n="4" break="no"/>δάτ</abbr><ex>ου</ex></expan></rs>
-             </ab>
-                  </div>
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
+                 <ab>
+                    <lb n="1"/><rs type="invocation" ref="#inv001"><expan><ex>Θεοτόκε βοήθει</ex></expan></rs>
+                 </ab>
+       </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab ana="gen">
-                 <lb n="5"/>καὶ <rs type="dignity" ref="#d0079">βα
-                 <lb n="6" break="no"/>σιλικοῦ
-                 <lb n="7"/>σπαθα
-                 <lb n="8" break="no"/>ρίο<supplied reason="lost">υ</supplied></rs>
-                    </ab>
- </div>
+                            <lb n="2"/>Φλόρ
+                            <lb n="3" break="no"/>ου <rs type="dignity" ref="#d0089">ὑπ
+                            <lb n="4" break="no"/>άτου</rs>
+                      </ab>
+                  </div>
                   </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve">
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
                       <ab>
-                         <lb n="0"/> 
-                         <lb n="1"/>πλου
-                         <lb n="2"/>τινου
-                         <lb n="3"/>κανδι
-                         <lb n="4"/>δ̣ατ,
+                         <lb n="1"/>Κ-ΤΟ-Η-Β-Θ
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab>
-                         <lb n="5"/>Καιβα
-                         <lb n="6"/>σιλικ
-                         <lb n="7"/>σπαθα̣
-                         <lb n="8"/>ριο̣.
+                         <lb n="0"/>
+                         <lb n="2"/>λορ̣
+                         <lb n="3"/>ουυπ
+                         <lb n="4"/>ατου
+                         <lb n="0"/>  
                       </ab>
                   </div>
               </div>
          <div type="apparatus">
-            <listApp>
-               <app>
-                  <note xml:lang="en">None.</note>
-                  <note xml:lang="fr">Aucun.</note>
-               </app>
-            </listApp>
+            <p/>
          </div>
          <div type="translation">
-            <p>+ Πλουτίνου, κανδιδάτου καὶ βασιλικοῦ σπαθαρίου.</p>
-            <p xml:lang="en">(Seal of) Plotinos, candidatos and imperial spatharios.</p>
-            <p xml:lang="fr">(Sceau de) Plotin, candidat et spathaire impérial .</p>
+            <p>Θεοτόκε βοήθει / Φλόρου ὑπάτου.</p>
+            <p xml:lang="en">Mother of God help Floros, hypatos.</p>
+            <p xml:lang="fr">Mère de Dieu aide Flôros, <hi rend="italic">hypatos</hi>.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p><!--Sur ce prénom, relativement rare, mais qui jouit d’une certaine faveur aux
-VIIe et VIIIe siècles, voir le commentaire de W. Seibt [1].--></p>
+            <p><!--On peut rapprocher ce plomb de deux autres sceaux qui appartiendraient au même personnage. Le premier, conservé au Barber Institute de l'Université de Birmingham, provient de Trébizonde : le droit est très proche ; et au revers on lit : -λω-ρ υπ-ατ [1]. Le second (DO 54.19.12-482) porte au droit un monogramme du type Laurent V et au revers : -λω-ρου υπ-ατου-  .--></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">
-                    <!--  [1]. <hi rend="italic">Bleisiegel</hi>, 204.-->
+                   <!--   [1]. DUNN, Seals, 2-->
                   </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">23</citedRange></bibl>.</p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">28</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>Dumbarton Oaks, Washington D.C., BZS.1947.2.888 (Shaw 888) = <bibl><ptr target="Zacos1"/>, <citedRange unit="entry">975</citedRange></bibl>; <bibl><ptr target="DOsealsOnline"/>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.888/view">BZS.1947.2.888 (Shaw 888)</ref></citedRange></bibl>.</p>
+            <p/>
+         </div>
+         <div type="bibliography" subtype="discussion">
+            <p/>
          </div>
       </body>
    </text>

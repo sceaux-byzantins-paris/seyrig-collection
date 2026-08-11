@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of Eustathios, hypatos</title>
             <title xml:lang="fr">Sceau d'Eustathe, hypatos</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Ευστάθιος</forename>
                   </persName>
@@ -48,9 +46,9 @@
                   <persName xml:lang="fr">
                      <forename>Eustathe</forename>
                   </persName>
+                  <!--<idno/>-->
                </person>
-               <idno/>
-            </listPerson>
+               </listPerson>
             <msDesc>
                <msIdentifier>
                   <country>
@@ -64,8 +62,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">527</idno>
                   <altIdentifier xml:lang="en">
@@ -75,9 +73,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires
-                            </seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -104,8 +101,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="wornEdge">
-                           <p>Rogné sur tout le pourtour, entaillé et en voie d’oxydation complète.</p>
+                        <condition rend="wornEdge obliterated corroded">
+                           <p xml:lang="fr">Rogné sur tout le pourtour, entaillé et en voie d’oxydation complète.</p>
+                           <p xml:lang="en">Worn around the edges; effaced and in the process of complete oxidation.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -127,14 +125,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0701"
                                notAfter="0725"
@@ -145,8 +136,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -157,8 +148,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Ggreek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -168,25 +159,20 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Monogram cruciform with <!--a T topped by an ÏS at the top, an A at the base, a 0 in the centre and C and €-->
-                                            at the ends; around it, a circular legend that is not very legible.</p>
-                              <!-- à compléter -->
-                              <p xml:lang="fr">Monogramme cruciforme comportant <!--un T surmonté d un ÏS au sommet, un
-                                            A à la base, un 0 au centre et C et € -->aux extrémités; autour, légende circulaire peu lisible.</p>
+                              <p xml:lang="en">Monogram cruciform with a τ topped by an  at the top, an  at the base, a  in the centre and σ and  at the ends; certain solution: Εὐσταθίου; around it, a circular legend that is not very legible.</p>
+                              <p xml:lang="fr">Monogramme cruciforme comportant un τ surmonté d'un  au sommet, un  à la base, un  au centre et σ et  aux extrémités ; solution certaine : Εὐσταθίου; autour, légende circulaire peu lisible.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
                      <handDesc>
-                        <handNote n="r">
-                                </handNote>
+                        <handNote n="r">                                </handNote>
                      </handDesc>
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r"/>
-                              <figDesc n="decoR">Deux cercles de feuillage entourant la légende circulaire; le canton supérieur gauche du monogramme, une croix.</figDesc>
-                              <!-- à compléter en anglais -->
-                              <figDesc n="decoR" xml:lang="en">Two circles of foliage surrounding the circular legend; the upper left corner of the monogram, a cross.</figDesc>
+                              <!--<figDesc ana="" n="r"/>-->
+                              <figDesc n="decoR" xml:lang="fr">Deux cercles de feuillage entourant la légende circulaire ; dans le canton supérieur gauche du monogramme, une croix.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Two wreath borders surrounding the circular legend; a cross in the upper left corner of the monogram.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -205,10 +191,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -218,10 +202,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Cruciform monogram with <!--a T topped by an S at the top
-                                            S at the top, A at the base, V and n at the ends-->; around it, circular legend.</p>
-                              <p xml:lang="fr">Monogramme cruciforme comportant un<!-- T surmonté d’un
-                                            S au sommet, A à la base, V et n aux extrémités-->; autour, légende circulaire.</p>
+                              <p xml:lang="en">Monogram cruciform with a τ topped by an  at the top, an  at the base, and υ and π at the ends; certain solution: ὑπάτου; around it, a circular legend.</p>
+                              <p xml:lang="fr">Monogramme cruciforme comportant un τ surmonté d'un  au sommet,  à la base, υ et π aux extrémités ; solution certaine : ὑπάτου ; autour, légende circulaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,8 +214,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Deux cercles de feuillage entourant la légende circulaire.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Deux cercles de feuillage entourant la légende circulaire.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Two wreath borders surrounding the circular legend.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -253,62 +236,79 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-08-11" who="#PE">Review and update of record</change>
          <change when="2022-06-28" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-06-27" who="#AS">First revision of the XML record</change>
          <change when="2022-06-17" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig30_1.jpg">
+               <desc xml:lang="en">Seyrig 30 (Inv. 527), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 30 (Inv. 527), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig30_2.jpg">
+               <desc xml:lang="en">Seyrig 30 (Inv. 527), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 30 (Inv. 527), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body><!-- cas très intéressant et pas évident à organiser: je vais y réfléchir... --><!--il m'a donné du fil à retordre-->
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" xml:lang="">
-                      
-                      <ab>
-                
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
+                      <ab ana="gen">
                           <lb n="1"/><expan><ex>Εὐσταθίου</ex></expan>
-
-                          <lb n="2"/>Ἐξελοῦ με, κύριε, ἐξ ἀνθρώπου πονηροῦ
-                          
-                      </ab>
-                      
-                  </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" xml:lang="">
-                      <ab>
-                                  <lb n="1"/>  <rs type="dignity" ref="dignities.xml#ὕπατος"><expan><ex>ὑπάτου</ex></expan>
-                                  
-                                  </rs>
-
-                                  <lb n="2"/>Ἀπὸ ἀνδρὸς ἀδίκου καὶ δολίου ῥῦσαί με
-                          
-                               </ab>
-                  </div>
-                 </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
-                      <ab>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
+                     <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
+                        <lg type="metrical" met="dodecasyllable" subtype="false">
+                           <l n="1">
+                          <lb n="2"/>Ἐξελοῦ με, κύριε, ἐξ ἀνθρώπου πονηροῦ</l>
+                        </lg>
+                     </div>
+                  <div type="textpart" subtype="face" n="rev" rend="monogram-cross" xml:lang="grc">
+                      <ab ana="gen">
+                          <lb n="3"/><rs type="dignity" ref="#d0089"><expan><ex>ὑπάτου</ex></expan></rs>
                       </ab>
                   </div>
+         <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc">
+            <lg type="metrical" met="dodecasyllable" subtype="false">
+               <l n="2">
+                  <lb n="4"/>Ἀπὸ ἀνδρὸς ἀδίκου καὶ δολίου ῥῦσαί με</l>
+            </lg>
+         </div>
+              </div>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
+                      <ab>
+                         <lb n="1"/>Σ-Τ---
+                      </ab>
+                  </div>
+            <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
+               <ab>
+                  <lb n="2"/>ΕΕ̣Λ̣Μ̣ΕΚΕ.ΑΝΘ̣....
+               </ab>
+            </div>
+                  <div type="textpart" subtype="face" n="rev" rend="monogram-cross" xml:lang="grc">
+                      <ab>
+                         <lb n="3"/>υ-τ-π-
+                      </ab>
+                  </div>
+            <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc">
+               <ab>
+                  <lb n="4"/>αποανδροσαδικ.δολι....
+               </ab>
+            </div>
               </div>
          <div type="apparatus">
             <listApp>
@@ -319,7 +319,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Εὐσταθίου ὑπάτου / Ἐξελοῦ με, κύριε, ἐξ ἀνθρώπου πονηροῦ. Ἀπὸ ἀνδρὸς ἀδίκου καὶ δολίου ῥῦσαι με.</p>
+            <p>Εὐσταθίου. Ἐξελοῦ με, κύριε, ἐξ ἀνθρώπου πονηροῦ. / ὑπάτου. Ἀπὸ ἀνδρὸς ἀδίκου καὶ δολίου ῥῦσαι με.</p>
             <p xml:lang="en">Eustathios hypatos. Deliver me, Lord, from an evil person, from an unjust and deceitful man, save me.</p>
             <p xml:lang="fr">Eustathe <hi rend="italic">hypatos</hi>. Délivre-moi, Seigneur, de l'homme malveillant. Préserve-moi de l'homme injuste et trompeur.</p>
          </div>
@@ -340,12 +340,7 @@
                   </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Biliothèque Nationale de France, Paris,
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>30</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">30</citedRange></bibl>.</p>
          </div>
       </body>
    </text>
