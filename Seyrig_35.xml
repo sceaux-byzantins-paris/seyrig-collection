@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of George, illoustrios</title>
             <title xml:lang="fr">Sceau de Georges, illoustrios</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Γεώργιος</forename>
                   </persName>
@@ -48,8 +46,8 @@
                   <persName xml:lang="fr">
                      <forename>Georges</forename>
                   </persName>
+                  <!--<idno/>-->
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -64,8 +62,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">509</idno>
                   <altIdentifier xml:lang="en">
@@ -75,9 +73,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires
-                            </seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -104,9 +101,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="notCentered">
-                           <p>Légèrement échancré à l’orifice inferieur du canal; décentré vers la base au droit; des points d’oxydation sur
-                                        les deux faces.</p>
+                        <condition rend="notCentered corroded">
+                           <p xml:lang="fr">Légèrement échancré à l’orifice inferieur du canal ; décentré vers la base au droit ; des points d’oxydation sur les deux faces.</p>
+                           <p xml:lang="en">Slightly chipped at the lower channel opening; struck off-center towards the base on the obverse; oxidation spots on both sides.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -128,26 +125,19 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0551"
                                notAfter="0650"
                                evidence="epigraphy titulature"
                                cert="high">
-                        <seg xml:lang="en">6th C., second half-7th C., first half</seg>
-                        <seg xml:lang="fr">VIe s., deuxième moitié-VIIe s., première moitié</seg>
+                        <seg xml:lang="en">6th C., second half - 7th C., first half</seg>
+                        <seg xml:lang="fr">VIe s., deuxième moitié - VIIe s., première moitié</seg>
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -158,8 +148,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -169,8 +159,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Cruciform monogram composed of <!--Athena Ruby--> at the ends of the horizontal bar; type Zacos 79.</p>
-                              <p xml:lang="fr">Monogramme cruciforme composé d’un <!--Athena Ruby -->aux extrémités de la barre horizontale; type Zacos 79.</p>
+                              <p xml:lang="en">Cruciform monogram composed of a γ with a  above it at the top, an ω at the bottom, a ρ and an  at the ends of the horizontal bar; certain solution: Γεωργίου (type Zacos 79).</p>
+                              <p xml:lang="fr">Monogramme cruciforme composé d’un γ surmonté d'un  au sommet, d'un ω à la base, d'un ρ et un  aux extrémités de la barre horizontale ; solution certaine : Γεωργίου (type Zacos 79).</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -181,9 +171,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r"/>
+                              <!--<figDesc ana="" n="r"/>-->
                               <figDesc n="decoR" xml:lang="fr">Cercle de perles,</figDesc>
-                              <figDesc n="decoR" xml:lang="en">Circle of pearls.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -202,10 +192,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -215,8 +203,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Cruciform monogram <!--Athena Ruby -->at the ends of the horizontal bar; type Zacos 221</p>
-                              <p xml:lang="fr">Monogramme cruciforme <!--Athena Ruby -->aux extrémités de la barre horizontale;  type Zacos 221.</p>
+                              <p xml:lang="en">Cruciform monogram composed of a τ with a  above it at the top, an λ at the bottom, a ρ and an  at the ends of the horizontal bar; certain solution: ἰλλουστρίου (type Zacos 221).</p>
+                              <p xml:lang="fr">Monogramme cruciforme composé d'un τ surmonté d'un , λ à la base, d'un ρ et d'un  aux extrémités de la barre horizontale ; solution certaine : ἰλλουστρίου (type Zacos 221).</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -227,8 +215,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Filet.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Filet.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Linear border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -248,55 +237,54 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-08-11" who="#PE">Review and update of record</change>
          <change when="2022-07-05" who="#AS">First revision of the XML record</change>
          <change when="2022-06-29" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig35_1.jpg">
+               <desc xml:lang="en">Seyrig 35 (Inv. 509), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 35 (Inv. 509), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig35_2.jpg">
+               <desc xml:lang="en">Seyrig 35 (Inv. 509), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 35 (Inv. 509), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" xml:lang="">
-                      
-                      <ab>
-                
-                          <lb n="1"/><expan><ex>Γεωργίου</ex></expan>
-                          
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
+                      <ab ana="gen">
+                      <lb n="1"/><expan><ex>Γεωργίου</ex></expan>
                       </ab>
-                      
-                  </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" xml:lang="">
-                      <ab>
-                                  <lb n="2"/>  <rs type="dignity" ref="dignities.xml#ἰλλούστριος"><expan><ex>ἰλλουστρίου</ex></expan>
-                                  
-                                  </rs>
-                          
-                               </ab>
+                 </div>
+                  <div type="textpart" subtype="face" n="rev" rend="monogram-cross" xml:lang="grc">
+                      <ab ana="gen">
+                       <lb n="2"/><rs type="dignity" ref="#d0028"><expan><ex>ἰλλουστρίου</ex></expan></rs>
+                      </ab>
                   </div>
                  </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
                       <ab>
+                         <lb n="1"/>ρ-γ--ω
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram-cross" xml:lang="grc">
                       <ab>
+                         <lb n="2"/>ρ-τ--λ
                       </ab>
                   </div>
               </div>
@@ -305,8 +293,8 @@
             <!-- ceci va dans la description de l'avers et du revers; en outre, l'apparat ne s'écrit pas de cette manière en SigiDoc; si vous aviez regardé le fichier avec EFES vous auriez remarqué que la phrase qui était ici n'était pas visualisée; j'insiste sur l'importance de travailler sur des fihciers à l'intérieur d'EFES -->
          </div>
          <div type="translation">
-            <p>Γεωργίου ἰλλουστρίου.</p>
-            <p xml:lang="en">(Seal of) George, illoustrios</p>
+            <p>Γεωργίου / ἰλλουστρίου.</p>
+            <p xml:lang="en">(Seal of) George, illoustrios.</p>
             <p xml:lang="fr">(Sceau de) Georges, <hi rend="italic">illoustrios</hi>.</p>
          </div>
          <div type="commentary" subtype="text">
@@ -317,12 +305,7 @@
                   </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Biliothèque Nationale de France, Paris,
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>35</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">35</citedRange></bibl>.</p>
          </div>
       </body>
    </text>

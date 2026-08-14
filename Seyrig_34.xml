@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of Gregory, illustris</title>
             <title xml:lang="fr">Sceau de Grégoire, illustris</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
             <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,9 +36,9 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="">
-                  <persName xml:lang="grc">
-                     <forename>Γρηγόριος</forename>
+               <person role="aristocracy" gender="M">
+                  <persName xml:lang="la">
+                     <forename>Grigorius</forename>
                   </persName>
                   <persName xml:lang="en">
                      <forename>Gregory</forename>
@@ -48,9 +46,9 @@
                   <persName xml:lang="fr">
                      <forename>Grégoire</forename>
                   </persName>
+                  <!--<idno/>-->
                </person>
-               <idno/>
-            </listPerson>
+               </listPerson>
             <msDesc>
                <msIdentifier>
                   <country>
@@ -64,8 +62,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">900</idno>
                   <altIdentifier xml:lang="en">
@@ -75,8 +73,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires</seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -103,8 +101,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="notCentered">
-                           <p>Décentré vers la droite; échancrure à l’orifice inférieur du canal au revers.</p>
+                        <condition rend="notCentered chipped torn-channel">
+                        <p xml:lang="fr">Décentré vers la droite ; échancrure à l’orifice inférieur du canal sur l'avers.</p><!--I CHANGED revers into obverse, as the notch is there.-->
+                           <p xml:lang="en">Struck off-center to the right; notched at the channel openings on the obverse.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -126,14 +125,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0551"
                                notAfter="0650"
@@ -151,9 +143,9 @@
                      <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678437">Tyre</placeName>
                      <placeName type="modernFindspot" ref="https://www.geonames.org/267008/tyre.html">Ṣūr</placeName>
                   </provenance>
-                  <acquisition><!-- non, ceci est destiné à indiquer comment le sceau est entré dans la collection/institution où il se trouve au moment de l'édition XML; vous l'aviez utilisé correctement sur les premiers sceaux, et puis je l'ai toujours trouvé vide, maintenant je comprends pourquoi-->
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                  <acquisition>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -163,9 +155,9 @@
                      <summary n="r">
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
-                     <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                     <textLang n="r" mainLang="grc-Latn">
+                        <seg xml:lang="en">Greek in Latin characters.</seg>
+                        <seg xml:lang="fr">Le grec écrit en caractères latins.</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -187,9 +179,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r"/>
-                              <figDesc n="decoR">Couronne de lauriers.</figDesc>
-                              <!-- 1 ou 2 couronnes? on verra -->
+                              <!--<figDesc ana="" n="r"/>-->
+                              <figDesc n="decoR" xml:lang="fr">Couronne de lauriers.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -207,11 +199,9 @@
                      <summary n="v">
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
-                     <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                     <textLang n="v" mainLang="grc-Latn">
+                        <seg xml:lang="en">Greek in Latin characters.</seg>
+                        <seg xml:lang="fr">Le grec écrit en caractères latins.</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -221,8 +211,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">18</dim>
                               </dimensions>
-                              <p xml:lang="en">Legend of 3 lines</p>
-                              <p xml:lang="fr">Légende sur 3 lignes</p>
+                              <p xml:lang="en">Legend of 3 lines.</p>
+                              <p xml:lang="fr">Légende sur 3 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -233,9 +223,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Couronne de lauriers.</figDesc>
-                              <!-- 1 ou 2 couronnes? on verra; dans ce cas, la mention de la léGende et de la couronne doit e^tre dissociée et les lignes de la légende indiquée seulement plus haut -->
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Couronne de lauriers.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Wreath border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -255,59 +245,63 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-08-11" who="#PE">Review and update of record</change>
          <change when="2022-07-11" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-07-05" who="#AS">First revision of the XML record</change>
          <change when="2022-06-29" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig34_1.jpg">
+               <desc xml:lang="en">Seyrig 34 (Inv. 900), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 34 (Inv. 900), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig34_2.jpg">
+               <desc xml:lang="en">Seyrig 34 (Inv. 900), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 34 (Inv. 900), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="la">
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang=""><!-- attention, le problème quand on réutilise des fichiers est qu'il faut faire TRES attention à changer et adapter leurs différentes parties -->
-                      <ab>
-                          <lb n="1"/>Grig
-                               
-                                  <lb n="2" break="no"/>or
-                                 
-                                  <lb n="3" break="no"/>iu
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc-Latn">
+                      <ab ana="gen">
+                          <lb n="1"/><expan><abbr>Gr</abbr><ex>i</ex><abbr>g
+                          <lb n="2" break="no"/>or
+                          <lb n="3" break="no"/>iu</abbr></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
-                                  
-                                  <lb n="4"/><rs type="dignity" ref="dignities.xml#ἰλλούστριος">ill
-
-                                  <lb n="5" break="no"/>ustr
-                                      
-                                  <lb n="6" break="no"/>iu</rs>
-
-                               </ab>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc-Latn">
+                      <ab ana="gen">
+                          <lb n="4"/><rs type="dignity" ref="#d0003">ill
+                          <lb n="5" break="no"/>ustr
+                          <lb n="6" break="no"/>iu</rs>
+                     </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="monogram" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc-Latn">
                       <ab>
+                         <lb n="1"/>R
+                         <lb n="2"/>OR
+                         <lb n="3"/>I,
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc-Latn">
                       <ab>
+                         <lb n="4"/>I
+                         <lb n="5"/>R
+                         <lb n="6"/>I,
                       </ab>
                   </div>
               </div>
@@ -320,7 +314,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Grigoriu illustriu.</p>
+            <p>Grigoriu / illustriu.</p>
             <p xml:lang="en">(Seal of) Gregory, illustris.</p>
             <p xml:lang="fr">(Sceau de) Grégoire, <hi rend="italic">illustris</hi>.</p>
          </div>
@@ -331,12 +325,7 @@
             <p/>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Biliothèque Nationale de France, Paris,
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>34</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">34</citedRange></bibl>.</p>
          </div>
       </body>
    </text>
