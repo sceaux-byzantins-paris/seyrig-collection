@@ -136,8 +136,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -237,7 +237,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <change when="2026-08-11" who="#PE">Review and update of record</change>
+         <change when="2026-08-14" who="#PE">Review and update of record</change>
          <change when="2022-07-11" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-07-07" who="#AS">First revision of the XML record</change>
          <change when="2022-06-29" who="#NB">Creation of the XML record</change>
