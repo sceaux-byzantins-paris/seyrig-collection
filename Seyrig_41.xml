@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of Niketas Moschianos (?), magistros</title>
             <title xml:lang="fr">Sceau de Nicétas Moschianos (?), magistre</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
-            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+            <editor role="seal-editor" when="2019" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="2019" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="2019" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,21 +36,21 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="aristocracy" gender="">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Νικήτας</forename>
-                     <surname>Μοσχιανός</surname>
+                     <surname cert="low">Μοσχιανός</surname>
                   </persName>
                   <persName xml:lang="en">
                      <forename>Niketas</forename>
-                     <surname>Moschianos</surname>
+                     <surname cert="low">Moschianos</surname>
                   </persName>
                   <persName xml:lang="fr">
                      <forename>Nicétas</forename>
-                     <surname>Moschianos</surname>
+                     <surname cert="low">Moschianos</surname>
                   </persName>
+                  <!--<idno type=""></idno>-->
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -67,8 +65,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">480</idno>
                   <altIdentifier xml:lang="en">
@@ -78,8 +76,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires</seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -106,8 +104,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="wornEdge">
-                           <p>Rogné ; oblitéré à droite, boursouflé au revers sur le tracé du canal ; échancré aux orifices du canal.</p>
+                        <condition rend="wornEdge torn-channel chipped obliterated">
+                           <p xml:lang="fr">Rogné ; oblitéré à droite, boursouflé au revers sur le tracé du canal ; échancré aux orifices du canal.</p>
+                           <p xml:lang="en">Worn; obliterated on the left on the revers; torn along the channel on the reverse; chipped at the channel openings.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -129,14 +128,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="1081"
                                notAfter="1100"
@@ -144,12 +136,11 @@
                                cert="high">
                         <seg xml:lang="en">11th C., end</seg>
                         <seg xml:lang="fr">XIe s., fin</seg>
-                        <!-- il n'y a pas de parallèle signalé, donc cela ne peut pas e^tre une critère; les virgules manquent -->
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -160,8 +151,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -171,8 +162,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Iconography with legend in columns</p>
-                              <p xml:lang="fr">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en">Iconography</p>
+                              <p xml:lang="fr">Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -183,10 +174,10 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r">Buste de la Vierge, orante, avec le médaillon du
-                                            Christ. Sigle.</figDesc>
-                              <!-- ici c'est l'endroit pour mentionner aussi le sigle -->
-                              <figDesc n="decoR">Cercle de grènetis.</figDesc>
+                              <figDesc ana="female person Virgin bust praying medallion" n="r" xml:lang="fr">Buste de la Vierge, orante, avec le médaillon du Christ. Sigle.</figDesc>
+                              <figDesc ana="female person Virgin bust praying medallion" n="r" xml:lang="en">Bust of the Virgin orans, with the medallion of Christ. Sigla.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Cercle de grènetis.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -205,10 +196,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -218,8 +207,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Legend of 5 lines</p>
-                              <p xml:lang="fr">Légende sur 5 lignes</p>
+                              <p xml:lang="en">Legend of 5 lines.</p>
+                              <p xml:lang="fr">Légende sur 5 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,9 +219,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Cercle de grènetis; avant la légende, sur une même ligne, une croisette
-                                            et au-dessus un ornement indistinct.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Cercle de grènetis; avant la légende, sur une même ligne, une croisette et au-dessus un ornement indistinct.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots; cross at the beginning of the legend on the same line and below the legend, an indistinct decoration.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -252,57 +241,66 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-08-16" who="#PE">Review and update of record</change>
          <change when="2022-07-11" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-07-08" who="#AS">First revision of the XML record</change>
          <change when="2022-06-30" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig41_1.jpg">
+               <desc xml:lang="en">Seyrig 41 (Inv. 480), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 41 (Inv. 480), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig41_2.jpg">
+               <desc xml:lang="en">Seyrig 41 (Inv. 480), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 41 (Inv. 480), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="">
-                      <ab><!-- il faut regarder l'édition diplomatique pour savoir combien de lettres sont visibles, et donc dans abbr!!! Et c'est sigla, pas label -->
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
+                      <ab>
                          <cb n="a"/><expan><abbr>Μ</abbr><ex>ήτηρ</ex></expan>
                         <cb n="b"/><expan><abbr>Θ</abbr><ex>εοῦ</ex></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
-                           <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εοτό</ex><abbr>κε</abbr></supplied></expan> <expan><supplied reason="lost"><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></supplied></expan></rs> 
-                          <lb n="2"/><supplied reason="lost">Νι</supplied>κήτᾳ
-                          <lb n="3"/><rs type="dignity" ref="dignities.xml#μάγιστρος">μα<supplied reason="lost">γ</supplied>ίστρῳ
-                </rs>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab ana="dat">
+                           <lb n="1"/><rs type="invocation" ref="#inv001"><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εοτό</ex><abbr>κε</abbr></supplied></expan> <expan><supplied reason="lost"><abbr>β</abbr></supplied><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs> 
+                          <lb n="2"/><supplied reason="lost">Νικ</supplied>ήτᾳ
+                          <lb n="3"/><rs type="dignity" ref="#d0038"><expan><abbr><supplied reason="lost">μαγ</supplied>ίστρ</abbr><ex>ῳ</ex></expan></rs>
                           <lb n="4"/>τῷ <expan><abbr>Μο<supplied reason="lost" cert="low">σ</supplied>
-                          <lb n="5" break="no"/>χιαν</abbr><ex>ῷ</ex></expan>
-                                     
-              
+                          <lb n="5" break="no"/>χιαν</abbr><ex>ῷ</ex></expan>       
                                </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
                       <ab>
+                         <cb n="a"/>Μ̅
+                         <cb n="b"/>Θ̅
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab>
+                         <lb n="1"/>θ̣...θ̣
+                         <lb n="2"/>...η̣τα
+                         <lb n="3"/>...ιστρ̣
+                         <lb n="4"/>τμο.
+                         <lb n="5"/>χ̣ιαν,
+                         <lb n="0"/>...
                       </ab>
                   </div>
               </div>
@@ -318,8 +316,8 @@
          </div>
          <div type="translation">
             <p>Μήτηρ Θεοῦ / + Θεοτόκε βοήθει Νικήτᾳ μαγίστρῳ τῷ Μοσχιανῷ (?).</p>
-            <p xml:lang="en">Mother of God / + Mother of God help Niketas Moschianos (?), magistros.</p>
-            <p xml:lang="fr">Mère de Dieu / + Mère de Dieu aide Nicétas Moschianos (?), magistre.</p>
+            <p xml:lang="en">Mother of God. + Mother of God help Niketas Moschianos (?), magistros.</p>
+            <p xml:lang="fr">Mère de Dieu. + Mère de Dieu aide Nicétas Moschianos (?), magistre.</p>
          </div>
          <div type="commentary" subtype="text">
             <p><!--On peut hésiter sur la lecture du patronyme. Si la dernière lettre lisible
@@ -336,12 +334,7 @@
                   </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Bibliothèque Nationale de France, Paris
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>41</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">41</citedRange></bibl>.</p>
          </div>
       </body>
    </text>
