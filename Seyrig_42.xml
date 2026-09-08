@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of Sergios, vikarios and magistrianos</title>
             <title xml:lang="fr">Sceau de Serge, vicaire et magistrianos</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
-            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+            <editor role="seal-editor" when="1991" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="1991" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="1991" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Σέργιος</forename>
                   </persName>
@@ -48,8 +46,8 @@
                   <persName xml:lang="fr">
                      <forename>Serge</forename>
                   </persName>
+                  <!--<idno/>-->
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -64,8 +62,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">506</idno>
                   <altIdentifier xml:lang="en">
@@ -75,9 +73,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires
-                            </seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -104,8 +101,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="wornEdge">
-                           <p>Légèrement rogné au pourtour; échancré et fissuré le long de la ligne du canal au revers.</p>
+                        <condition rend="wornEdge torn-channel well-preserved well-struck">
+                           <p xml:lang="fr">Légèrement rogné au pourtour; échancré et fissuré le long de la ligne du canal sur l'avers.</p><!--I changed reverse to obverse-->
+                           <p xml:lang="en">Slightly trimmed around the edges; notched and cracked along the channel on the obverse.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -127,14 +125,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="0681"
                                notAfter="0700"
@@ -145,8 +136,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -157,8 +148,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -168,10 +159,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Cruciform invocative monogram, probably of the Laurent V type, framed by the 
-                                            name of the owner.<!--pas de solution du monogramme ici--></p>
-                              <p xml:lang="fr">Monogramme invocatif cruciforme, probablement de type Laurent V cantonné par le 
-                                            nom du propriétaire.<!--pas de solution du monogramme ici--></p>
+                              <p xml:lang="en">Cruciform invocative monogram, probably of the Laurent V type, framed by the name of the owner.</p>
+                              <p xml:lang="fr">Monogramme invocatif cruciforme, probablement de type Laurent V cantonné par le nom du propriétaire.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -182,8 +171,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r"/>
-                              <figDesc n="decoR">Couronne de feuillage.</figDesc>
+                              <!--<figDesc ana="" n="r"/>-->
+                              <figDesc n="decoR" xml:lang="fr">Couronne de feuillage.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -202,10 +192,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -215,12 +203,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Cruciform monogram bearing at the top
-                                           <!-- S, at the base A, on the left B and on the right K--> (identical to that of the seal ZACOS - VEGLERY
-                                            467), with the title in the quarters.</p>
-                              <p xml:lang="fr">Monogramme cruciforme portant au sommet
-                                            <!--S, à la base A, à gauche B et à droite K--> (identique à celui du sceau ZACOS - VEGLERY
-                                            467), cantonné par la mention du titre.</p>
+                              <p xml:lang="en">Cruciform monogram bearing at the top , at the base , on the left Β and on the right Κ (identical to that of the seal <bibl><ptr target="Zacos1"/>, no. <citedRange unit="entry">467</citedRange></bibl>), with the title in the quarters.</p>
+                              <p xml:lang="fr">Monogramme cruciforme portant au sommet , à la base , à gauche Β et à droite Κ (identique à celui du sceau <bibl><ptr target="Zacos1"/>, no. <citedRange unit="entry">467</citedRange></bibl>), cantonné par la mention du titre.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,8 +215,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Couronne de feuillage.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Couronne de feuillage.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Wreath border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -252,63 +237,56 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-09-08" who="#PE">Review and update of record</change>
          <change when="2022-07-11" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-07-09" who="#AS">First revision of the XML record</change>
          <change when="2022-07-01" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig42_1.jpg">
+               <desc xml:lang="en">Seyrig 42 (Inv. 506), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 42 (Inv. 506), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig42_2.jpg">
+               <desc xml:lang="en">Seyrig 42 (Inv. 506), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 42 (Inv. 506), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="face" n="obv" rend="monogram" xml:lang="">
-                      
-                      <ab>
-                    
-                          <lb n="1"/><rs type="invocation" ref="invocation.xml#Θεοτόκε1"><expan><ex>Θεοτόκε βοήθει</ex></expan> </rs>
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">                      
+                      <ab ana="gen">                    
+                          <lb n="1"/><rs type="invocation" ref="#inv001"><expan><ex>Θεοτόκε βοήθει</ex></expan></rs> Σεργίου
                           </ab>
 </div>
-                    <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="">
-                        <ab>
-                          <lb n="2"/>Σεργίου
-                      </ab>
-                      
-                  </div>
-                  <div type="textpart" subtype="face" n="rev" rend="monogram" xml:lang="">
-                      <ab>
-                                  <lb n="3"/><expan><ex>βικαρίου</ex></expan>
+                    
+                  <div type="textpart" subtype="face" n="rev" rend="monogram-cross" xml:lang="grc">
+                      <ab ana="gen">
+                                  <lb n="2"/><rs type="office" subtype="civil" ref="#of0040"><expan><ex>βικαρίου</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0120">μαγιστριάνου</rs>
                           </ab>
                       </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                                   <ab>
-                      <lb n="4"/>μαγιστριάνου
-                          </ab>
-                  </div>
-                               
-                  </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+                       </div>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="face" n="obv" rend="monogram-cross" xml:lang="grc">
                       <ab>
+                         <lb n="1"/>Κ-το-̣η-β-θ σε-ργ-ιο-υ
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="monogram-cross" xml:lang="grc">
                       <ab>
+                         <lb n="2"/>β--κ- μα-̣γισ-τρι-αν
                       </ab>
                   </div>
               </div>
@@ -321,9 +299,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Θεοτόκε βοήθει Σεργίου /  βικαρίου μαγιστριάνου.</p>
+            <p>Θεοτόκε βοήθει Σεργίου / βικαρίου μαγιστριάνου.</p>
             <p xml:lang="en">Mother of God help Sergios vikarios and magistrianos.</p>
-            <p xml:lang="fr">Mère de Dieu aide Serge vicaire et <hi rend="italic">magistrianos</hi>.</p>
+            <p xml:lang="fr">Mère de Dieu aide Serge vicaire et magistrianos.</p>
          </div>
          <div type="commentary" subtype="text">
             <p><!--La disposition de ce sceau, avec le nom et le titre dans les cantons du
@@ -336,12 +314,7 @@
                   </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Bibliothèque Nationale de France, Paris
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>42</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">42</citedRange></bibl>.</p>
          </div>
       </body>
    </text>
