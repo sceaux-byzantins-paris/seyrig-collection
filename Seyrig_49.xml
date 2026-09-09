@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of Alexios Perenos, patrikios</title>
             <title xml:lang="fr">Sceau d'Alexis Pérènos, patrice</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
-            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+            <editor role="seal-editor" when="1991" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="1991" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="1991" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="aristocracy" gender="">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Αλέξιος</forename>
                      <surname>Περηνός</surname>
@@ -51,8 +49,8 @@
                      <forename>Alexis</forename>
                      <surname>Pérènos</surname>
                   </persName>
+                 <!--<idno/>-->
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -67,8 +65,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">382</idno>
                   <altIdentifier xml:lang="en">
@@ -78,8 +76,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires</seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -106,9 +104,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="wornEdge">
-                           <p>Fortement rogné sur tout le pourtour; les lettres sont empâtées.</p>
-                           <!-- la remarque sur les lettres peut aller dans lettering -->
+                        <condition rend="wornEdge obliterated">
+                           <p xml:lang="fr">Fortement rogné sur tout le pourtour; les lettres sont empâtées.</p>
+                           <p xml:lang="en">Heavily worn along the edge; the letters are smudged.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -130,14 +128,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="1071"
                                notAfter="1100"
@@ -148,8 +139,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en"/>
-                     <p xml:lang="fr"/>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -160,8 +151,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -171,8 +162,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Iconography with legend in columns</p>
-                              <p xml:lang="fr">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en">Iconography</p>
+                              <p xml:lang="fr">Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -183,9 +174,10 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r">Buste de saint Michel, tenant en main droite le sceptre trifolié; le saint a une
-                                            belle chevelure particulièrement bouclée.</figDesc>
-                              <figDesc n="decoR">Cercle de grènetis</figDesc>
+                              <figDesc ana="male person saint Michael bust scepter" n="r" xml:lang="fr">Buste de saint Michel, tenant en main droite le sceptre trifolié; le saint a une belle chevelure particulièrement bouclée.</figDesc>
+                              <figDesc ana="male person saint Michael bust scepter" n="r" xml:lang="en">Bust of St Michael, holding a three-leafed scepter in his right hand; he has very distinctive curly hair.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Cercle de grènetis.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -204,10 +196,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -217,8 +207,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Legend of 5 lines</p>
-                              <p xml:lang="fr">Légende sur 5 lignes</p>
+                              <p xml:lang="en">Legend of 5 lines.</p>
+                              <p xml:lang="fr">Légende sur 5 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,8 +219,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Cercle de grènetis; avant la légende, une croisette.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Cercle de grènetis; avant la légende, une croisette ; la dernière ligne est probablement accostée de tirets.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots; at the beginning of the legend, a cross; the last line is probably between two decorative lines.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -250,62 +241,65 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-09-09" who="#PE">Review and update of record</change>
          <change when="2022-07-11" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-07-06" who="#AS">First revision of the XML record</change>
          <change when="2022-07-04" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig49_1.jpg">
+               <desc xml:lang="en">Seyrig 49 (Inv. 382), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 49 (Inv. 382), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig49_2.jpg">
+               <desc xml:lang="en">Seyrig 49 (Inv. 382), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 49 (Inv. 382), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
                       <ab>
                          <cb n="a"/>Μι
-                        <cb n="b"/><supplied reason="lost">χαήλ</supplied><!-- non! cette partie doit e^tre encodée avec les tags pour les inscriptions en colonne et donc avec cb: voir Guidelines -->
+                        <cb n="b" break="no"/><supplied reason="lost">χαήλ</supplied>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab>
-                            <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε1"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
-                                           
-                                       </rs>
-                                      
-                          <lb n="2"/><supplied reason="omitted">Ἀ</supplied>λεξίῳ
-                          <lb n="3"/><rs type="dignity" ref="dignities.xml#πατρίκιος">
-                              <expan><abbr><supplied reason="omitted">π</supplied>ατρικί</abbr><ex>ῳ</ex></expan><!-- ici on est dans un cas intéressant où la transformation avec EFES donne un bon résultat,
-                                  mais l' "orthographe" de l'encodage estlégèrement à revoir: le supplied doit e^tre placé à l'intérieur de abbr car le pi, me^me perdu, compose la partie du mot qui n'est pas abrégée -->
-                </rs>
-                          <lb n="4"/><supplied reason="omitted">τ</supplied>ῷ Περι <!--le problème du omicron avec accent circonflexe et iota souscrit; en effet; et ici pas besoin d'expan, il n'y a aps d'abréviation-->
-                          <lb n="5" break="no"/>ν<supplied reason="lost">ῷ</supplied><!-- pas beosin d'expan non plus -->
-                                     
-              
-                               </ab>
+                       <lb n="1"/><rs type="invocation" ref="#inv003"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
+                       <lb n="2"/><supplied reason="lost">Ἀ</supplied>λεξίῳ
+                       <lb n="3"/><rs type="dignity" ref="#d0047"><expan><abbr><supplied reason="lost">π</supplied>ατρικί</abbr><ex>ῳ</ex></expan></rs>
+                       <lb n="4"/><supplied reason="lost">τ</supplied>ο͂ͅ Περι 
+                       <lb n="5" break="no"/><supplied reason="lost">ν</supplied>ῷ
+                    </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
                       <ab>
+                         <cb n="a"/>Μ̣ι
+                         <cb n="b"/>....
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab>
+                         <lb n="1"/>Κ̅Ε̅,θ,
+                         <lb n="2"/>.λει
+                         <lb n="3"/>.ατρικι,
+                         <lb n="4"/>.οπερι
+                         <lb n="5"/>..
                       </ab>
                   </div>
               </div>
@@ -318,9 +312,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Μιχαήλ. / + Κύριε βοήθει Ἀλεξίῳ πατρικίῳ το Περινῷ.</p>
-            <p xml:lang="en">Michael. / Lord help Alexios Perenos, patrikios.</p>
-            <p xml:lang="fr">Michel. / Seigneur aide Alexis Pérènos, patrice.</p>
+            <p>Μιχαήλ. / + Κύριε βοήθει Ἀλεξίῳ πατρικίῳ το͂ͅ Περινῷ.</p>
+            <p xml:lang="en">Michael. Lord help Alexios Perenos, patrikios.</p>
+            <p xml:lang="fr">Michel. Seigneur aide Alexis Pérènos, patrice.</p>
          </div>
          <div type="commentary" subtype="text"><!-- les notes figuraient dans le commentaire  parce que le div du commentaire n'était pas correctement refermé avec un /div après le p et donc il englobait toute la suite (et juste avant body il a avait donc un /div mal placé);
                   il s'agit d'un problème que j'ai déjà fait remarquer sur des fichiers plus anciens, toujours lié au fait de réemployer des fichiers préexistants; l'alignement des différents éléments xml de me^me niveau hiérarchique peut aider à voir ce genre de problème mais il faut un fichier xml très ordonné -->
@@ -343,12 +337,7 @@
                       </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Biliothèque Nationale de France, Paris,
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>49</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">49</citedRange></bibl>.</p>
          </div>
       </body>
    </text>

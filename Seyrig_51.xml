@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of Mouselios Pakourianos, proedros</title>
             <title xml:lang="fr">Sceau de Mousèlios Pakourianos, proèdre</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
-            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+            <editor role="seal-editor" when="1991" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="1991" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="1991" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,7 +36,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="aristocracy" gender="">
+               <person role="aristocracy" gender="M">
                   <persName xml:lang="grc">
                      <forename>Μουσήλιος</forename>
                      <surname>Πακουριανός</surname>
@@ -51,8 +49,8 @@
                      <forename>Mousèlios</forename>
                      <surname>Pakourianos</surname>
                   </persName>
+                  <!--<idno/>-->
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -67,8 +65,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">305</idno>
                   <altIdentifier xml:lang="en">
@@ -78,8 +76,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires</seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -106,9 +104,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="wornEdge">
-                           <p>Échancré aux orifices du canal, et très profondément entaillé au revers ; rogné au sommet ; décentré vers la
-                                        gauche.</p>
+                        <condition rend="chipped not-centered pierced worn-edge">
+                           <p xml:lang="fr">Échancré aux orifices du canal, et très profondément entaillé au revers ; rogné au sommet ; décentré vers la gauche.</p>
+                           <p xml:lang="en">Chipped at the channel openings; pierced on the obverse and a very deep notch on the reverse; struck off-center to the left.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -130,14 +128,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="1071"
                                notAfter="1100"
@@ -148,8 +139,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr">Don d'Henri Seyrig</p>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -160,8 +151,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -171,8 +162,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">25</dim>
                               </dimensions>
-                              <p xml:lang="en">Iconography with legend in columns</p>
-                              <p xml:lang="fr">Iconographie avec légende en colonne</p>
+                              <p xml:lang="en">Iconography</p>
+                              <p xml:lang="fr">Iconographie</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -183,10 +174,10 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r">Vierge, assise sur un trône au dossier orné de perles, tenant devant elle
-                                            le médaillon du Christ, enfant; de part et d'autre de l'effigie, sigle. Pour un exemple mieux conservé de la Vierge tenant l'<hi rend="italic">imago clipeata</hi>
-                      du Christ, voir les sceaux de Basilakios, parent des Pakourianoi [1].</figDesc>
-                              <figDesc n="decoR"/>
+                              <figDesc ana="female person Virgin seated medallion" n="r" xml:lang="fr">Vierge, assise sur un trône au dossier orné de perles, tenant devant elle le médaillon du Christ, enfant; de part et d'autre de l'effigie, sigle. Pour un exemple mieux conservé de la Vierge tenant l'<hi rend="italic">imago clipeata</hi> du Christ, voir les sceaux de Basilakios, parent des Pakourianoi [1].</figDesc>
+                              <figDesc ana="female person Virgin seated medallion" n="r" xml:lang="en">The Virgin, seated on a throne with a pearl-adorned backrest, holding before her the medallion of Christ; sigla on either side of the image; For a better preserved example of the Virgin holding the <hi rend="italic">imago clipeata</hi> of Christ, see the seals of Basilakios, a relative of the Pakourianoi [1].</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Bordure indistincte.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Indistinct border.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -205,10 +196,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -218,8 +207,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter">25</dim>
                               </dimensions>
-                              <p xml:lang="en">Legend of 6 lines</p>
-                              <p xml:lang="fr">Légende sur 6 lignes</p>
+                              <p xml:lang="en">Legend of 6 lines.</p>
+                              <p xml:lang="fr">Légende sur 6 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,8 +219,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Cercle de grènetis; avant la légende, une croisette.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Cercle de grènetis; avant la légende, une croisette.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots; at the beginning of the legend, a cross.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -251,56 +241,66 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-09-09" who="#PE">Review and update of record</change>
          <change when="2022-07-18" who="#AS">First revision of the XML record</change>
          <change when="2022-07-06" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig51_1.jpg">
+               <desc xml:lang="en">Seyrig 51 (Inv. 305), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 51 (Inv. 305), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig51_2.jpg">
+               <desc xml:lang="en">Seyrig 51 (Inv. 305), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 51 (Inv. 305), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
                       <ab>
                          <cb n="a"/><supplied reason="lost"><expan><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan></supplied>
                         <cb n="b"/><expan><abbr>Θ</abbr><ex>εο</ex><supplied reason="lost"><abbr>ῦ</abbr></supplied></expan>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
-                           <lb n="1"/>+ <rs type="invocation" ref="invocation.xml#Κύριε2"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <supplied reason="lost"><expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></supplied><!-- attention: ici il y avait un espace blan avant /supplied de fermeture et ceci a produit un espace blanc avant le crochet dans l'édition -->
-                          <lb n="2"/>τῷ σῷ <supplied reason="lost"><expan><abbr>δού</abbr><ex>λῳ</ex></expan></supplied>      </rs>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab ana="dat">
+                           <lb n="1"/><rs type="invocation" ref="#inv002"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <supplied reason="lost"><expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></supplied>
+                           <lb n="2"/>τῷ σῷ <supplied reason="lost"><expan><abbr>δού</abbr><ex>λῳ</ex></expan></supplied></rs>
                           <lb n="3"/>Μουσε<supplied reason="lost">λίῳ</supplied>
-                          <lb n="4"/><rs type="dignity" ref="dignities.xml#πρόεδρος">προέ<supplied reason="lost">δρῳ</supplied></rs>
+                          <lb n="4"/><rs type="dignity" ref="#d0051">προέ<supplied reason="lost">δρῳ</supplied></rs>
                           <lb n="5"/>τῷ Πακου<supplied reason="lost">ρ</supplied>
                            <lb n="6" break="no"/><supplied reason="lost">ι</supplied>ανῷ
-                                     
-              
-                               </ab>
+                       </ab>
                           </div>
                   </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
                       <ab>
+                         <cb n="a"/>..
+                         <cb n="b"/>θ.
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab>
+                         <lb n="1"/>θκε..
+                         <lb n="2"/>τσ̣..
+                         <lb n="3"/>μσε̣...
+                         <lb n="4"/>προ̣ε...
+                         <lb n="5"/>τπακ̣.
+                         <lb n="6"/>.αν̣
                       </ab>
                   </div>
               </div>
@@ -315,7 +315,7 @@
          <div type="translation">
             <p>Μήτηρ Θεοῦ. / + Θεοτόκε βοήθει τῷ σῷ δούλῳ Μουσελίῳ προέδρῳ τῷ Πακουριανῷ.</p>
             <p xml:lang="en">Mother of God. Mother of God aid your servant Mouselios Pakourianos proedros.</p>
-            <p xml:lang="fr">Mère de Dieu. Mother of God aide ton serviteur Mousèlios Pakourianos, proèdre.</p>
+            <p xml:lang="fr">Mère de Dieu. Mère de Dieu aide ton serviteur Mousèlios Pakourianos, proèdre.</p>
          </div>
          <div type="commentary" subtype="text">
             <p><!--Sur la famille arméno-géorgienne
@@ -328,9 +328,7 @@
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">
-                        <!--  [1]. ZACOS - VEGLERY,
-                          2692 et en général, SEIBT, <hi rend="italic">Theotokos</hi>, p. 44 s.-->
-                      </p>
+               [1]. <bibl><ptr target="Zacos1"/>, <citedRange unit="entry">2692</citedRange></bibl> et en général, <bibl><ptr target="Seibt1987"/>, p. <citedRange unit="page">44 s.</citedRange></bibl>.</p>
             <p xml:id="footnote-2">
                          <!-- [2]. LEMERLE, <hi rend="italic">Cinq études</hi>, p. 158-161, KAZDAN, <hi rend="italic">Arméniens</hi>, p. 58-
                           65 et en dernier lieu, <hi rend="italic">Iviron</hi> II, p. 152 (sur Symbatios Pakourianos et ses parents).-->
@@ -341,12 +339,7 @@
                       </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Biliothèque Nationale de France, Paris,
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>51</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">51</citedRange></bibl>.</p>
          </div>
       </body>
    </text>
