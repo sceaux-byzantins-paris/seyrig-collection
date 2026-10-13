@@ -140,7 +140,7 @@
                         <!-- related seal pour après -->
                      </origDate>
                   </origin>
-                  <provenance type="observed" subtype="reported">
+                  <provenance type="transferred" subtype="moved">
                      <p xml:lang="fr">Provenant d'<placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/658381">Antioche</placeName>
                         <!--??????-->
                         <placeName type="modernFindspot" ref="http://www.geonames.org/323779/antakya.html">Antakya</placeName>
