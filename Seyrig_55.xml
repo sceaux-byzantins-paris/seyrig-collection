@@ -141,26 +141,16 @@
                      </origDate>
                   </origin>
                   <provenance type="transferred" subtype="moved">
-                     <p xml:lang="fr">Provenant d'<placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/658381">Antioche</placeName>
-                        <!--??????-->
-                        <placeName type="modernFindspot" ref="http://www.geonames.org/323779/antakya.html">Antakya</placeName>
-                        <!--??????-->
+                     <p xml:lang="fr">Provenant d'<placeName ref="https://pleiades.stoa.org/places/658381">Antioche</placeName>
                      </p>
                      <p xml:lang="en">Originating from
-                        <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/658381">Antioch</placeName>
-                        <!--?????-->
-                        <placeName type="modernFindspot" ref="http://www.geonames.org/323779/antakya.html">Antakya</placeName>
-                        <!--?????-->
+                        <placeName ref="https://pleiades.stoa.org/places/658381">Antioch</placeName>
                      </p><!-- la mention dans l'édition n'est pas très claire, mais je mettrais cette info dans findspot, mais il faudra aussi ajouter des ????? en vert (n'hésitez pas à demander à JCC ce qu'il en est); il faudra aussi ajouter les références aux répertoires géo  -->
                   </provenance>
                   <provenance type="transferred" subtype="sold">
-                     <p xml:lang="fr">Acquis à 
-                     <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678060">Beyrouth</placeName>
-                     <placeName type="modernFindspot" ref="http://www.geonames.org/276781/beirut.html">Beyrouth</placeName>
+                     <p xml:lang="fr">Acquis à <placeName type="modernFindspot" ref="http://www.geonames.org/276781/beirut.html">Beyrouth</placeName>
                      </p>
-                     <p xml:lang="en">Purchased in
-                        <placeName type="ancientFindspot" ref="https://pleiades.stoa.org/places/678060">Berytos</placeName>
-                        <placeName type="modernFindspot" ref="http://www.geonames.org/276781/beirut.html">Beirut</placeName>
+                     <p xml:lang="en">Purchased in <placeName type="modernFindspot" ref="http://www.geonames.org/276781/beirut.html">Beirut</placeName>
                      </p>
                   </provenance>
                   <acquisition>

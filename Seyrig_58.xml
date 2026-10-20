@@ -7,24 +7,22 @@
          <titleStmt>
             <title xml:lang="en">Seal of Photios or Photeinos Tzoulas, protospatharios (?)</title>
             <title xml:lang="fr">Sceau de Phôtios ou Phôtéinos Tzoulas, protospathaire (?)</title>
-            <editor role="seal-editor" xml:id="JC">Jean-Claude
-                        Cheynet</editor>
-            <editor role="seal-editor" xml:id="CM">Cécile
-                        Morrisson</editor>
-            <editor role="seal-editor" xml:id="WS">Werner
-                        Seibt</editor>
-            <founder>
-               <orgName corresp="https://anr.fr/"> Agence Nationale de la Recherche (ANR)</orgName>, France / 
-            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.
-        </founder>
+            <editor role="seal-editor" when="1991" xml:id="JC">Jean-Claude Cheynet</editor>
+            <editor role="seal-editor" when="1991" xml:id="CM">Cécile Morrisson</editor>
+            <editor role="seal-editor" when="1991" xml:id="WS">Werner Seibt</editor>
+            <funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France / 
+            <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.
+        </funder>
             <principal>Alessio Sopracasa</principal>
          </titleStmt>
          <editionStmt>
             <edition>
-               <seg xml:lang="en">Digital conversion</seg>
+               <seg xml:lang="en">Digital enhancement</seg>
+               <seg xml:lang="fr">Amélioration digitale</seg>
             </edition>
-            <editor role="digital-editor" xml:id="NB">Numa
-                        Buchs</editor>
+            <editor role="digital-editor" when="2022" xml:id="NB">Numa Buchs</editor>
+            <editor role="digital-editor" when="2026" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
@@ -38,33 +36,21 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="">
-                  <persName xml:lang="grc">
-                     <forename>Φώτιος</forename>
-                     <surname cert="low"/>
-                  </persName>
-                  <persName xml:lang="grc">
-                     <forename>Φωτεινός</forename>
-                     <surname cert="low"/>
+               <person role="aristocracy" gender="M">
+                  <persName xml:lang="grc"><!--HOW TO ENCODE NAME ALTERNATIVES?-->
+                     <forename cert="low">Φώτιος</forename> or <forename cert="low">Φωτεινός</forename>
+                     <surname>Τζούλας</surname>
                   </persName>
                   <persName xml:lang="en">
-                     <forename>Photios</forename>
-                     <surname cert="low"/>
+                     <forename cert="low">Photios</forename> or <forename cert="low">Photeinos</forename>
+                     <surname>Tzoulas</surname>
                   </persName>
-                  <persName xml:lang="en">
-                     <forename>Photeinos</forename>
-                     <surname cert="low"/>
+                 <persName xml:lang="fr">
+                     <forename cert="low">Phôtios</forename> or <forename cert="low">Phôtéinos</forename>
+                    <surname>Tzoulas</surname>
                   </persName>
-                  <persName xml:lang="fr">
-                     <forename>Phôtios</forename>
-                     <surname cert="low"/>
-                  </persName>
-                  <persName xml:lang="fr">
-                     <forename>Phôtéinos</forename>
-                     <surname cert="low"/>
-                  </persName>
+                  <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/person/Photeinos/20101/">Photeinos 20101</idno>
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -79,8 +65,8 @@
                   <institution>Bibliothèque Nationale de France</institution>
                   <repository>Département des Monnaies, médailles et antiques</repository>
                   <collection type="private">
-                     <rs type="collection-name" xml:lang="en">Henri Seyrig Collection</rs>
-                     <rs type="collection-name" xml:lang="fr">Collection Henri Seyrig</rs>
+                     <rs type="collection-name" xml:lang="en"><persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName> Collection</rs>
+                     <rs type="collection-name" xml:lang="fr">Collection <persName role="collector" ref="http://viaf.org/viaf/381705">Henri Seyrig</persName></rs>
                   </collection>
                   <idno type="inv-nr-current">3</idno>
                   <altIdentifier xml:lang="en">
@@ -90,8 +76,8 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Seals of dignitaries</seg>
-                     <seg xml:lang="fr">Sceaux de dignitaires</seg>
+                     <seg xml:lang="en">Dignitaries</seg>
+                     <seg xml:lang="fr">Dignitaires</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -118,8 +104,9 @@
                            <measure type="overstrikeOrient" unit="clock"/>
                            <measure type="channelOrient" unit="clock"/>
                         </support>
-                        <condition rend="wornEdge">
-                           <p>Rogné fortement au sommet ; pressé et oblitéré sur le revers à droite ; en voie d’oxydation.</p>
+                        <condition rend="wornEdge obliterated corroded">
+                           <p xml:lang="fr">Rogné fortement au sommet ; pressé et oblitéré sur le revers à gauche ; en voie d’oxydation.</p><!--I changed droite to gauche with regard to the photo-->
+                           <p xml:lang="en">Worn at the top; effaced and obliterated on the left on the reverse; signs of corrosion.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -134,6 +121,7 @@
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-K5NB75</idno>
+                              <idno type="PBW" corresp="http://pbw2016.kdl.kcl.ac.uk/boulloterion/464/">boulloterion 464</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -141,18 +129,11 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>
-                        <seg xml:lang="en">
-                           <placeName>Byzantine Empire</placeName>
-                        </seg>
-                        <seg xml:lang="fr">
-                           <placeName>Empire byzantin</placeName>
-                        </seg>
-                     </origPlace>
+                     <origPlace/>
                      <origDate type="analysis"
                                notBefore="1026"
                                notAfter="1075"
-                               evidence="prosopography parallel epigraphy titulature"
+                               evidence="prosopography parallel epigraphy titulature onomastics"
                                cert="high"><!--il est indiqué deuxième "ou" troisième quart du XIe siècle : comment le représenter ? en mettant le début du deuxième et la fin du troisième quart comme limites-->
                         <seg xml:lang="en">11th C., second or third quarter</seg>
                         <seg xml:lang="fr">XIe s., deuxième ou troisième quart</seg>
@@ -161,8 +142,8 @@
                      </origDate>
                   </origin>
                   <acquisition>
-                     <p xml:lang="en">Donation by Henri Seyrig</p>
-                     <p xml:lang="fr">Don d'Henri Seyrig</p>
+                     <p xml:lang="en">Donation by Henri Seyrig.</p>
+                     <p xml:lang="fr">Don d'Henri Seyrig.</p>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -173,8 +154,8 @@
                         <seg xml:lang="en">Obverse</seg>
                      </summary>
                      <textLang n="r" mainLang="grc">
-                        <seg xml:lang="en">greek</seg>
-                        <seg xml:lang="fr">grec</seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -184,8 +165,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Iconography with legend in columns</p>
-                              <p xml:lang="fr">Iconographie avec légende en colonne et races de légende invocative circulaire habituelle.</p>
+                              <p xml:lang="en">Iconography with legend in columns and traces of a circular invocative legend.</p>
+                              <p xml:lang="fr">Iconographie avec légende en colonne et traces de légende invocative circulaire habituelle.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -196,12 +177,10 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r">Buste de saint Eustratios, avec une longue barbe taillée en pointe et des cheveux
-                                            bouclés tombant à la hauteur du menton. La chlamyde est retenue au centre par trois attaches.
-                                            La main droite tient une croix (peut être patriarcale), la main gauche est placée devant la
-                                            poitrine, en signe de bénédiction (sur ce type, voir SEIBT, Bleisiegel, p. 222); de part et d'autre de l'effigie, épigraphe.</figDesc>
-                              <figDesc n="decoR">Cercke de grènetis; une croisette précède la légende circulaire.</figDesc>
-                              <!-- à vérifier -->
+                              <figDesc ana="male person saint St-Eustratios blessing bust cross-in-hand" n="r" xml:lang="fr">Buste de saint Eustratios, avec une longue barbe taillée en pointe et des cheveux bouclés tombant à la hauteur du menton. La chlamyde est retenue au centre par trois attaches. La main droite tient une croix (peut être patriarcale), la main gauche est placée devant la poitrine, en signe de bénédiction (sur ce type, voir <bibl><ptr target="#BBÖ1"/>, p. <citedRange unit="page">222</citedRange></bibl>); de part et d'autre de l'effigie, épigraphe.</figDesc>
+                              <figDesc ana="male person saint St-Eustratios blessing bust cross-in-hand" n="r" xml:lang="en">Bust of Saint Eustratios, with a long pointed beard and curly hair falling to his chin. The chlamys is fastened in the center by three clasps. The right hand holds a cross (possibly a patriarchal cross), while the left hand is placed in front of the chest in a gesture of blessing (for this type, see <bibl><ptr target="#BBÖ1"/>, p. <citedRange unit="page">222</citedRange></bibl>); an inscription appears on either side of the effigy.</figDesc>
+                              <figDesc n="decoR" xml:lang="fr">Cercle de grènetis; une croisette précède la légende circulaire.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots; a cross at the beginning of the circular legend.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -220,10 +199,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">Greek</seg>
+                        <seg xml:lang="fr">Grec</seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -233,8 +210,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Legend of 6 lines</p>
-                              <p xml:lang="fr">Légende sur 6 lignes</p>
+                              <p xml:lang="en">Legend of 6 lines.</p>
+                              <p xml:lang="fr">Légende sur 6 lignes.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -245,8 +222,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v"/>
-                              <figDesc n="decoV">Une croisette perdue précède la légende sur une même ligne.</figDesc>
+                              <!--<figDesc ana="" n="v"/>-->
+                              <figDesc n="decoV" xml:lang="fr">Une croisette perdue précède la légende sur une même ligne.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">A cross at the beginning of the legend on the same line.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -266,72 +244,90 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-10-20" who="#PE">Review and update of record</change>
          <change when="2022-07-19" who="#NB">Corrections following the first revision of the XML record</change>
          <change when="2022-07-18" who="#AS">First revision of the XML record</change>
          <change when="2022-07-07" who="#NB">Creation of the XML record</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface n="v">
-         <desc>Obverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en"/>
-            <desc xml:lang="fr"/>
-         </graphic>
-      </surface>
-      <surface n="r">
-         <desc>Reverse</desc>
-         <graphic type="" url="">
-            <desc xml:lang="en">/desc&gt;
-                      <desc xml:lang="fr"/>
-            </desc>
-         </graphic>
-      </surface>
+      <surfaceGrp>
+         <surface n="r">
+            <desc>Obverse</desc>
+            <graphic type="photo" url="Seyrig58_1.jpg">
+               <desc xml:lang="en">Seyrig 58 (Inv. 3), obverse.</desc>
+               <desc xml:lang="fr">Seyrig 58 (Inv. 3), avers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
+      <surfaceGrp>
+         <surface n="v">
+            <desc>Reverse</desc>
+            <graphic type="photo" url="Seyrig58_2.jpg">
+               <desc xml:lang="en">Seyrig 58 (Inv. 3), reverse.</desc>
+               <desc xml:lang="fr">Seyrig 58 (Inv. 3), revers.</desc>
+            </graphic>
+         </surface>
+      </surfaceGrp>
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
+         <div type="edition" subtype="editorial" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
                       <ab>
-                         <cb n="a"/><expan><ex>Ὁ ἅγιος</ex></expan> <expan><abbr>Εὐ
+                        <cb n="a"/><expan><ex>Ὁ ἅγιος</ex></expan> <expan><abbr>Εὐ
                         <cb n="b" break="no"/>στ</abbr><supplied reason="lost"><abbr>ράτ</abbr><ex>ιος</ex></supplied></expan>
                       </ab>
                   </div>
-                  <!-- ici, dans un autre div, il faudrait ajouter la légende invocative circulaire mentionnée, mais pour l'instant on laisse tomber  -->
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
-                      <ab>
-                           <lb n="1"/><supplied reason="omitted">+</supplied> <rs type="invocation" ref="invocation.xml#Κύριε2"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>βο
-                              
-                          <lb n="2" break="no"/>ήθ</abbr><ex>ει</ex></expan> τῷ σῷ
-                          <lb n="3"/><expan><abbr><supplied reason="lost">δού</supplied>λ</abbr><ex>ῳ</ex></expan></rs> 
-                          <app type="alternative">
-                         <lem><expan><abbr>Φωτί</abbr><ex>ῳ</ex></expan></lem>
-                              <rdg><expan><abbr>Φωτί</abbr><ex>νῷ</ex></expan></rdg>
-                                </app> 
-                          
-                           <!-- j'ai conservé la place de l'autre proposition de rendu pour la transcription, il faut peut-être mieux la mettre dans l'apparat
-                          on doit sans doute mettre dans l'apparat la discussion sur le nom, mais ici il faut encoder différement: vous devriez regarder le sceau TM_16, à la ligne 4 et sa visualisation sur le site du petit corpus-->
-                          <lb n="4"/><rs type="dignity" ref="dignities.xml#πρωτοσπαθάριος"><expan><abbr><am><g type="protos1"/></am></abbr><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan></rs>
-                           <lb n="5"/><supplied reason="lost">τῷ</supplied> <expan><abbr>Τζού
-                          <lb n="6" break="no"/>λ</abbr><ex>ᾳ</ex></expan>
-                                     
-              
-                               </ab>
-                          </div>
-                  </div>
-         <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc">
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="">
-                      <ab>
+            <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
+                      <ab ana="dat">
+                        <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <gap reason="lost"/></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="">
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab ana="dat">
+                          <lb n="2"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>βο                              
+                          <lb n="3" break="no"/>ήθ</abbr><ex>ει</ex></expan> τῷ σῷ
+                          <lb n="4"/><expan><abbr><supplied reason="lost">δού</supplied>λ</abbr><ex>ῳ</ex></expan></rs> <app type="alternative"><lem>Φωτί 
+                          <lb n="5" break="no"/><supplied reason="lost">ῳ</supplied></lem> <rdg><supplied reason="lost">νῷ</supplied></rdg></app> <rs type="dignity" ref="#d0066"><expan><supplied reason="lost"><abbr><am>Α</am></abbr><ex>πρωτο</ex></supplied><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan></rs>
+                           <lb n="6"/><supplied reason="lost">τῷ</supplied> <expan><abbr>Τζού
+                          <lb n="7" break="no"/>λ</abbr><ex>ᾳ</ex></expan>
+                               </ab>
+                          </div>
+              <!-- j'ai conservé la place de l'autre proposition de rendu pour la transcription, il faut peut-être mieux la mettre dans l'apparat on doit sans doute mettre dans l'apparat la discussion sur le nom, mais ici il faut encoder différement: vous devriez regarder le sceau TM_16, à la ligne 4 et sa visualisation sur le site du petit corpus-->
+                  </div>
+         <div type="edition" subtype="diplomatic" xml:space="preserve">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
                       <ab>
+                         <cb n="a"/>-ε̣υ̣
+                         <cb n="b"/>σ-τ-..-.
+                      </ab>
+                  </div>
+            <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
+                      <ab>
+                         <lb n="1"/>κε...
+                      </ab>
+                  </div>
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+                      <ab>
+                         <lb n="2"/>.κεο
+                         <lb n="3"/>η̣Θˋτσ
+                         <lb n="4"/>..λˋφτι
+                         <lb n="5"/>...σπαθˋ
+                         <lb n="6"/>..τζ̣
+                         <lb n="7"/>λ,
                       </ab>
                   </div>
               </div>
          <div type="apparatus">
             <listApp>
-               <app loc="4">
+               <app loc="4-5">
+                  <lem>Φωτίῳ</lem>
+                  <rdg><note>
+                     La fin du prénom manquant, les deux variantes Φωτίῳ ou Φωτινῷ sont possibles. L'espace vide à la ligne 5 correspond à environ trois caractères : une ou deux lettres pour la terminaison du prénom et une ou deux lettres pour le préfixe du σπαθαρίῳ.  
+                  </note></rdg>
+               </app>
+               <app loc="5">
                   <lem>(πρῶτο)σπαθαρίῳ</lem>
                   <!--je n'ai pas ajouté la partie commentaire ici, mais je ne suis pas sûr; c'est bien l'endroit, en effet, mais dans un second temps on peut envisager d'insérer cette lecture alternative directement dans l'édition, comme pour le prénom-->
                   <rdg>
@@ -342,10 +338,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Ὁ ἅγιος Εὐστράτιος. / + Κύριε βοήθει τῷ σῷ δούλῳ Φωτίῳ <hi rend="italic">vel</hi> Φωτεινῷ πρωτοσπαθαρίῳ τῷ Τζούλᾳ.</p>
-            <!-- vel en italique -->
-            <p xml:lang="en">St. Eustratios. Lord aid your servant Photios or Photeinos Tzoulas, protospatharios.</p>
-            <p xml:lang="fr">Saint Eustratios. Seigneur aide ton serviteur Phôtios ou Phôtéinos Tzoulas, protospathaire.</p>
+            <p>Ὁ ἅγιος Εὐστράτιος. + Κύριε... / + Κύριε βοήθει τῷ σῷ δούλῳ Φωτίῳ <hi rend="italic">vel</hi> Φωτεινῷ πρωτοσπαθαρίῳ τῷ Τζούλᾳ.</p>
+            <p xml:lang="en">St. Eustratios. Lord... Lord aid your servant Photios or Photeinos Tzoulas, protospatharios.</p>
+            <p xml:lang="fr">Saint Eustratios. Seigneur... Seigneur aide ton serviteur Phôtios ou Phôtéinos Tzoulas, protospathaire.</p>
          </div>
          <div type="commentary" subtype="text">
             <p><!--Skylitzès [1]
@@ -388,18 +383,10 @@
                       </p>
          </div>
          <div type="bibliography" subtype="edition">
-            <p>
-                      Bibliothèque Nationale de France, Paris,
-                      <bibl>
-                  <ptr target="Seyrig"/>, <citedRange>58</citedRange>
-               </bibl>.
-                  </p>
+            <p>Bibliothèque Nationale de France, Paris, <bibl><ptr target="Seyrig"/>, <citedRange unit="entry">58</citedRange></bibl>.</p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>
-                  Musée Historique de Moscou, Moscou, n°128.
-                    
-                  </p>
+            <p>Musée Historique de Moscou, Moscou, n°128.</p>
          </div>
          <div type="bibliography" subtype="discussion">
             <p>
@@ -407,13 +394,7 @@
                   <ptr target=""/>, <citedRange unit="page"> p. 72 n. 15</citedRange>
                </bibl>; <!--ajouter Sokolova-->
                   </p>
-            <p>
-               <bibl>
-                  <ptr target="PBW"/>, <citedRange>
-                     <ref target="https://pbw2016.kdl.kcl.ac.uk/boulloterion/464/">Photeinos 20101</ref>
-                  </citedRange>
-               </bibl>.</p>
-         </div>
+            </div>
          <!--Musée Historique de Moscou, n° 128.
               Mentionné par I. V. SOKOLOVA, Peèati Georgija Culy i sobytija 1016 g. v Chersonese. Pal. Sbornik 23, 1971,
               p. 72 n. 15.-->
